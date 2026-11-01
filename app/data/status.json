@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-01T18:08:06+01:00",
- "total": 1166,
+ "generated": "2026-11-01T18:17:13+01:00",
+ "total": 1135,
  "sources": [
   {
    "id": "bachtrack",
@@ -233,6 +233,14 @@
    "events": 0,
    "ok": false,
    "error": "Termine gefunden, aber keiner passt (Zeitraum/Ort/Kategorie)"
+  },
+  {
+   "id": "unibw",
+   "name": "Universität der Bundeswehr München",
+   "found": 0,
+   "events": 0,
+   "ok": false,
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.unibw.de', port=443): Max retries exceeded with url: /home/events-search (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
   },
   {
    "id": "wirtschaftsbeirat",
@@ -622,7 +630,7 @@
    "id": "prinzregententheater",
    "name": "Theaterakademie August Everding / Prinzregententheater",
    "found": 825,
-   "events": 60,
+   "events": 37,
    "ok": true,
    "error": null
   },
@@ -630,7 +638,7 @@
    "id": "rausgegangen",
    "name": "Rausgegangen München",
    "found": 515,
-   "events": 76,
+   "events": 75,
    "ok": true,
    "error": null
   },
@@ -679,14 +687,6 @@
    "name": "TU München",
    "found": 15,
    "events": 12,
-   "ok": true,
-   "error": null
-  },
-  {
-   "id": "unibw",
-   "name": "Universität der Bundeswehr München",
-   "found": 7,
-   "events": 7,
    "ok": true,
    "error": null
   },
