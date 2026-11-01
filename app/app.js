@@ -131,7 +131,12 @@ function renderChips() {
 function card(e) {
   const cs = catsOf(e).map(catById);
   const fav = state.favs.includes(e.id);
-  const place = [e.venue?.name, e.venue?.address].filter(Boolean).join(", ");
+  let place = [e.venue?.name, e.venue?.address].filter(Boolean).join(", ");
+  let desc = e.description;
+  // Steht die Adresse nur in der Beschreibung, zeigen wir sie als Ort an.
+  if (!place && desc && /(str\.|straße|strasse|platz|weg|allee|ring|gasse)\s*\d+/i.test(desc) && desc.length < 160) {
+    place = desc; desc = "";
+  }
   const info = [e.cost && e.cost !== "unklar" ? `Kosten: ${e.cost}` : "Kosten: unklar",
     e.access && e.access !== "unklar" ? `Zugang: ${e.access}` : null, e.online ? "auch online" : null].filter(Boolean).join(" · ");
   return el("article", { class: "card", style: `--c:${cs[0]?.color || "var(--line)"}` },
@@ -140,7 +145,7 @@ function card(e) {
       el("div", {}, "🗓 ", when(e)),
       el("div", {}, "📍 ", place || "Ort unklar", e.region && e.region !== "München" ? ` (${e.region})` : ""),
       el("div", {}, info)),
-    e.description ? el("p", { class: "desc" }, e.description) : null,
+    desc ? el("p", { class: "desc" }, desc) : null,
     el("div", { class: "tags" }, cs.map((c) => el("span", { class: "tag", style: `--c:${c.color}` }, c.name))),
     el("div", { class: "actions" },
       el("button", { class: `fav${fav ? " on" : ""}`, onclick: () => toggleFav(e.id), "aria-label": "Favorit" }, fav ? "★ Gemerkt" : "☆ Merken"),
