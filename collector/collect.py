@@ -136,6 +136,40 @@ def add_details(evs, f):
 
 
 # --------------------------------------------------------------------------- Aufbereiten
+def _kw_hits(text, kws):
+    n = 0
+    for kw in kws:
+        if not kw:
+            continue
+        if len(kw) <= 3:
+            ok = re.search(r"(?<![A-Za-zÄÖÜäöüß-])" + re.escape(kw) + r"(?![A-Za-zÄÖÜäöüß-])", text)
+        else:
+            ok = re.search(r"(?<![A-Za-zÄÖÜäöüß])" + re.escape(kw), text, re.I)
+        if ok:
+            n += 1
+    return n
+
+
+def best_category(title, desc, cats, defaults, keywords_only=False, fallback=None):
+    """Genau eine Kategorie: Stichwoerter im Titel zaehlen dreifach, in der Beschreibung einfach.
+    Die Standardkategorie der Quelle gilt, solange keine andere klar (mind. 3 Punkte) vorne liegt."""
+    tscore = {c["id"]: 3 * _kw_hits(title, c.get("keywords", [])) for c in cats}
+    scores = {c["id"]: tscore[c["id"]] + _kw_hits(desc, c.get("keywords", [])) for c in cats}
+    order = [c["id"] for c in cats]
+    best = max(order, key=lambda c: (scores[c], -order.index(c)))
+    if keywords_only:
+        if scores[best] > 0:
+            return best
+        return fallback[0] if fallback else None
+    defaults = [c for c in defaults if c in scores]
+    if not defaults:
+        return best if scores[best] > 0 else None
+    d = max(defaults, key=lambda c: (scores[c], -defaults.index(c)))
+    if best not in defaults and tscore[best] >= 3 and scores[best] >= scores[d] + 3:
+        return best
+    return d
+
+
 def keyword_cats(text, cats):
     hits = []
     for c in cats:
@@ -268,17 +302,13 @@ def finish(ev, src, cats, geocoder, today):
         if scope == "filter" or not dv:
             return None
         v["lat"] = v["lng"] = None  # vermutlich falsch gefunden
-    # Kategorien
-    kc = keyword_cats(title + " " + (ev.get("description") or ""), cats)
-    if f.get("keywordsOnly"):
-        fb = list(f.get("fallbackCats", []))
-        if f.get("fallbackType") and f["fallbackType"] not in (ev.get("_type") or ""):
-            fb = []
-        catlist = kc or fb
-    else:
-        # Feste Kategorien der Quelle; Stichwoerter ergaenzen nur bei gemischten Quellen ("mixed")
-        catlist = list(dict.fromkeys(src.get("categories", []) + (kc if f.get("mixed") else [])))
-    catlist = [c for c in catlist if any(x["id"] == c for x in cats)]
+    # Kategorie: genau eine
+    fb = list(f.get("fallbackCats", []))
+    if f.get("fallbackType") and f["fallbackType"] not in (ev.get("_type") or ""):
+        fb = []
+    one = best_category(title, ev.get("description") or "", cats, src.get("categories", []),
+                        keywords_only=bool(f.get("keywordsOnly")), fallback=fb)
+    catlist = [one] if one else []
     if not catlist:
         return None
     text_all = blob
@@ -395,7 +425,6 @@ def main():
             k = norm_key(e)
             if k in all_events:
                 old = all_events[k]
-                old["categories"] = list(dict.fromkeys(old["categories"] + e["categories"]))
                 if not old["venue"].get("lat") and e["venue"].get("lat"):
                     old["venue"] = e["venue"]
             else:
