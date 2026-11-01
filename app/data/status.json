@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-01T17:05:57+01:00",
- "total": 1156,
+ "generated": "2026-11-01T17:48:04+01:00",
+ "total": 1206,
  "sources": [
   {
    "id": "bachtrack",
@@ -217,14 +217,6 @@
    "events": 0,
    "ok": false,
    "error": "Termine gefunden, aber keiner passt (Zeitraum/Ort/Kategorie)"
-  },
-  {
-   "id": "staatsoper",
-   "name": "Bayerische Staatsoper",
-   "found": 0,
-   "events": 0,
-   "ok": false,
-   "error": "keine Termine erkannt"
   },
   {
    "id": "starnberg",
@@ -501,8 +493,8 @@
   {
    "id": "meetup",
    "name": "Meetup München",
-   "found": 10,
-   "events": 6,
+   "found": 9,
+   "events": 5,
    "ok": true,
    "error": null
   },
@@ -549,8 +541,8 @@
   {
    "id": "muenchen-de",
    "name": "muenchen.de Veranstaltungen",
-   "found": 9,
-   "events": 5,
+   "found": 7,
+   "events": 2,
    "ok": true,
    "error": null
   },
@@ -630,7 +622,7 @@
    "id": "rausgegangen",
    "name": "Rausgegangen München",
    "found": 515,
-   "events": 63,
+   "events": 64,
    "ok": true,
    "error": null
   },
@@ -647,6 +639,14 @@
    "name": "Songkick München",
    "found": 50,
    "events": 49,
+   "ok": true,
+   "error": null
+  },
+  {
+   "id": "staatsoper",
+   "name": "Bayerische Staatsoper",
+   "found": 59,
+   "events": 53,
    "ok": true,
    "error": null
   },

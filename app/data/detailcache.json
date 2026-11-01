@@ -640,6 +640,14 @@
 "ts": 1793548627,
 "venue": "Aspekte Galerie der MVHS im Gasteig HP8"
 },
+"https://rausgegangen.de/events/tune-installation-miriam-adefris-a-hundred-vast-proximities-94/": {
+"address": "Prinzregentenstraße 1, 80538 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793551683,
+"venue": "Haus der Kunst"
+},
 "https://rausgegangen.de/events/was-zu-verschwinden-droht-wird-bild-mensch-natur-kunst-516/": {
 "address": "Kunstareal - Luisenstraße 33, 80333 München",
 "cost": "kostenlos",
@@ -2130,6 +2138,14 @@
 "lat": null,
 "lng": null,
 "ts": 1793548414,
+"venue": "Theatersaal"
+},
+"https://www.deutsches-theater.de/der-geist-der-weihnacht/": {
+"address": null,
+"cost": "ab 29,00 €",
+"lat": null,
+"lng": null,
+"ts": 1793551681,
 "venue": "Theatersaal"
 },
 "https://www.deutsches-theater.de/rock-the-ballet/": {
@@ -6461,6 +6477,60 @@
 "ts": 1793548593,
 "venue": "HochX Theater"
 },
+"https://www.staatsoper.de/stuecke/2-akademiekonzert-2026-27-robin-ticciati/2026-11-30-2000-16152": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/2-kammerkonzert-2026-27-blaeserklaenge/2026-11-22-1100-16143": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/apollon-foyers/2026-11-06-1100-16694": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/apollon-foyers/2026-11-13-1100-16695": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/apollon-foyers/2026-11-20-1100-16696": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/apollon-foyers/2026-11-27-1100-16697": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
 "https://www.staatsoper.de/stuecke/attacca-konzert/2026-11-30-1900-16151": {
 "address": null,
 "cost": null,
@@ -6468,6 +6538,420 @@
 "lat": null,
 "lng": null,
 "ts": 1793548613,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/ballett-extra/2026-11-10-1900-16554": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/ballett-extra/2026-11-29-1800-16685": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/ballett-fuehrung/2026-11-17-1400-16673": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/c-a-r-p-a-t-h-i-a-der-mythos-der-untoten/2026-11-25-1930-16147": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/c-a-r-p-a-t-h-i-a-der-mythos-der-untoten/2026-11-28-1930-16149": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/common-ground/2026-11-08-1930-16132": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/common-ground/2026-11-14-1930-16137": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/die-zauberfloete/2026-11-20-1900-16141": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/die-zauberfloete/2026-11-22-1900-16145": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/die-zauberfloete/2026-11-27-1800-16148": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/die-zauberfloete/2026-11-29-1700-16150": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/einfuehrungsmatinee-1/2026-11-22-1100-16144": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/einfuehrungsworkshop/2026-11-08-1400-16398": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/einfuehrungsworkshop/2026-11-14-1000-16399": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/einfuehrungsworkshop/2026-11-21-1000-16403": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/fuehrung/2026-11-03-1400-16665": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/gastspielkonzert-des-opernstudios/2026-11-02-1930-16529": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/guided-tour-of-the-national-theatre/2026-11-06-1400-16662": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/guided-tour-of-the-national-theatre/2026-11-13-1400-16663": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/guided-tour-of-the-national-theatre/2026-11-22-1400-16664": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/herbst-matinee-der-heinz-bosl-stiftung/2026-11-08-1100-16131": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/herbst-matinee-der-heinz-bosl-stiftung/2026-11-15-1100-16138": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/kindereinfuehrung/2026-11-29-1515-16491": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/kinderfuehrung-durch-das-nationaltheater-abenteuer-oper/2026-11-08-1400-16659": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/kinderfuehrung-durch-das-nationaltheater-abenteuer-oper/2026-11-15-1400-16660": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/kinderfuehrung-durch-das-nationaltheater-abenteuer-oper/2026-11-28-1400-16661": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/kinderkonzert-die-weltraum-oma/2026-11-16-1100-16400": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/kinderkonzert-die-weltraum-oma/2026-11-18-1100-16401": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/kinderkonzert-die-weltraum-oma/2026-11-19-1100-16402": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/kinderkonzert-die-weltraum-oma/2026-11-21-1100-16404": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/kinderkonzert-die-weltraum-oma/2026-11-21-1400-16383": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/koeniginnen/2026-11-18-2000-16461": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/koeniginnen/2026-11-26-2000-16462": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/la-boheme/2026-11-13-1900-16136": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/la-boheme/2026-11-15-1900-16139": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/la-boheme/2026-11-17-1900-16140": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/la-boheme/2026-11-21-1800-16142": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/la-boheme/2026-11-24-1900-16146": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/siegfried/2026-11-01-1600-16126": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/siegfried/2026-11-04-1600-16128": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/siegfried/2026-11-07-1600-16130": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/siegfried/2026-11-10-1600-16134": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/un-ballo-in-maschera/2026-11-03-1900-16127": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/un-ballo-in-maschera/2026-11-06-1900-16129": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/un-ballo-in-maschera/2026-11-09-1900-16133": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
+"venue": null
+},
+"https://www.staatsoper.de/stuecke/un-ballo-in-maschera/2026-11-12-1900-16135": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793551681,
 "venue": null
 },
 "https://www.stmwi.bayern.de/veranstaltungen/57963-bau-2027-weltleitmesse-muenchen/": {

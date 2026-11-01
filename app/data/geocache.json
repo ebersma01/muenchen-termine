@@ -1,4 +1,9 @@
 {
+".11.26, münchen": {
+"address": "München, Bayern, Deutschland",
+"lat": 48.13711,
+"lng": 11.57538
+},
 "089 bar & lounge, münchen": null,
 "089 bar & pacha club, münchen": null,
 "15.00 uhr, münchen": {
@@ -1067,6 +1072,11 @@
 "address": "Prinzregententheater, 12, Prinzregentenplatz, Steinhausen, Haidhausen, Bogenhausen, München, Bayern, 81675, Deutschland",
 "lat": 48.13897,
 "lng": 11.60562
+},
+"prinzregentenstraße 1, 80538 münchen": {
+"address": "P1, 1, Prinzregentenstraße, Lehel, Altstadt-Lehel, München, Bayern, 80538, Deutschland",
+"lat": 48.14444,
+"lng": 11.58528
 },
 "prinzregentenstraße 28, 80538 münchen": {
 "address": "Bayerisches Staatsministerium für Wirtschaft, Landesentwicklung und Energie, 28, Prinzregentenstraße, Lehel, Altstadt-Lehel, München, Bayern, 80538, Deutschland",
