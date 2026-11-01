@@ -15,7 +15,7 @@ const state = {
   customCats: LS.get("customCats", []),
   customSources: LS.get("customSources", []),
   disabledSources: LS.get("disabledSources", []),
-  hiddenCats: LS.get("hiddenCats", []),
+  cat: LS.get("cat", null),
   favs: LS.get("favs", []),
   range: LS.get("range", "week"),
   view: "list",
@@ -69,13 +69,13 @@ function parseDate(s, endOfDay) {
   return new Date(s);
 }
 
-// Kategorien eines Termins: feste Zuordnung + eigene Kategorien über Stichwörter
-function catsOf(e) {
-  const ids = new Set(e.categories);
+// Genau eine Kategorie pro Termin: eine passende eigene Kategorie (über Stichwörter)
+// hat Vorrang, sonst die erste Kategorie aus den Daten.
+function catOf(e) {
   for (const c of state.customCats) {
-    if ((c.keywords || []).some((k) => k && e._hay.includes(k.toLowerCase()))) ids.add(c.id);
+    if ((c.keywords || []).some((k) => k && e._hay.includes(k.toLowerCase()))) return c.id;
   }
-  return [...ids].filter(catById);
+  return (e.categories || []).find(catById) || null;
 }
 
 // ---------- Filtern ----------
@@ -88,8 +88,7 @@ function filtered() {
   return state.events.filter((e) => {
     if (e._end < t0) return false;
     if (state.disabledSources.includes(e.source)) return false;
-    const cs = catsOf(e);
-    if (cs.length && cs.every((c) => state.hiddenCats.includes(c))) return false;
+    if (state.cat && catOf(e) !== state.cat) return false;
     if (q && !q.split(/\s+/).every((w) => e._hay.includes(w))) return false;
     switch (state.range) {
       case "week": return e._start < t7;
@@ -118,18 +117,18 @@ function when(e) {
 
 function renderChips() {
   const box = $("#chips");
-  box.replaceChildren(...allCats().map((c) => el("button", {
-    class: "chip", style: `--c:${c.color}`, "aria-pressed": String(!state.hiddenCats.includes(c.id)),
-    onclick: () => {
-      const h = state.hiddenCats;
-      state.hiddenCats = h.includes(c.id) ? h.filter((x) => x !== c.id) : [...h, c.id];
-      LS.set("hiddenCats", state.hiddenCats); resetAndRender();
-    },
-  }, el("span", { class: "dot" }), c.name)));
+  if (state.cat && !catById(state.cat)) state.cat = null;
+  const pick = (id) => { state.cat = id; LS.set("cat", id); resetAndRender(); };
+  box.replaceChildren(
+    el("button", { class: "chip", "aria-pressed": String(!state.cat), onclick: () => pick(null) }, "Alle"),
+    ...allCats().map((c) => el("button", {
+      class: "chip", style: `--c:${c.color}`, "aria-pressed": String(state.cat === c.id),
+      onclick: () => pick(state.cat === c.id ? null : c.id),
+    }, el("span", { class: "dot" }), c.name)));
 }
 
 function card(e) {
-  const cs = catsOf(e).map(catById);
+  const cs = [catById(catOf(e))].filter(Boolean);
   const fav = state.favs.includes(e.id);
   let place = [e.venue?.name, e.venue?.address].filter(Boolean).join(", ");
   let desc = e.description;
@@ -238,7 +237,7 @@ function renderMap(list) {
   const pts = [];
   for (const e of list) {
     if (!e.venue?.lat) continue;
-    const c = catById(catsOf(e)[0])?.color || "#16324f";
+    const c = catById(catOf(e))?.color || "#16324f";
     const m = L.circleMarker([e.venue.lat, e.venue.lng], { radius: 8, color: "#fff", weight: 2, fillColor: c, fillOpacity: .9 });
     const pop = el("div", {}, el("strong", {}, e.title), el("br"), when(e), el("br"), e.venue.name);
     m.bindPopup(pop); m.addTo(layer); m._eid = e.id; pts.push([e.venue.lat, e.venue.lng]);

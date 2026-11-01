@@ -60,7 +60,8 @@ h1 { font-size: 1.3rem; margin: 0; }
   padding: 4px 10px; font-size: .85rem; cursor: pointer; white-space: nowrap;
 }
 .chip .dot { width: 9px; height: 9px; border-radius: 50%; background: var(--c); }
-.chip[aria-pressed="false"] { opacity: .45; }
+.chip[aria-pressed="true"] { background: var(--accent); color: var(--accent-text); border-color: var(--accent); }
+.chip[aria-pressed="true"] .dot { box-shadow: 0 0 0 2px var(--accent-text); }
 .view-row { display: flex; justify-content: space-between; align-items: center; margin-top: 4px; }
 .seg { display: flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
 .seg-btn { border: 0; background: var(--card); padding: 4px 12px; cursor: pointer; font-size: .9rem; }
