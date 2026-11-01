@@ -210,8 +210,11 @@ def parse_jsonld(html_text, base_url):
         if isinstance(offers, list) and offers:
             offers = offers[0]
         if isinstance(offers, dict) and offers.get("price") not in (None, ""):
-            p = str(offers.get("price"))
-            cost = "kostenlos" if p in ("0", "0.0", "0.00") else f"{p} {offers.get('priceCurrency', '€')}".replace("EUR", "€")
+            p = str(offers.get("price")).strip()
+            if re.fullmatch(r"0+(?:[.,]0+)?", p) or re.search(r"frei|free|kostenlos|gratis", p, re.I):
+                cost = "kostenlos"
+            elif re.search(r"\d", p):
+                cost = f"{p} {offers.get('priceCurrency', '€')}".replace("EUR", "€")
         url = it.get("url")
         if isinstance(url, list):
             url = url[0] if url else None
@@ -499,3 +502,44 @@ def _card_to_event(card, base_url, cfg, year):
         "description": desc, "url": url, "online": bool(_ONLINE.search(text)),
         "_text": text,
     }
+
+
+# --------------------------------------------------------------------------- eingebettete Daten (z. B. Next.js-Seiten)
+def parse_embedded(html_text, base_url, cfg):
+    """Termine, die als JSON-Objekte im Seitenquelltext stehen (z. B. {"slug":..,"title":..,"startDay":..}).
+    cfg: urlTemplate ("https://…/events/{slug}"), Feldnamen optional."""
+    t = html_text.replace('\\"', '"')
+    k_title = cfg.get("titleKey", "title")
+    k_start = cfg.get("startKey", "startDay")
+    out, seen = [], set()
+    dec = json.JSONDecoder()
+    for m in re.finditer(r'\{"slug":"', t):
+        try:
+            obj, _ = dec.raw_decode(t, m.start())
+        except ValueError:
+            continue
+        if not isinstance(obj, dict) or not obj.get(k_title) or not obj.get(k_start):
+            continue
+        key = (obj.get("slug"), obj.get(k_start))
+        if key in seen:
+            continue
+        seen.add(key)
+        sd = str(obj[k_start])[:10]
+        ed = obj.get(cfg.get("endKey", "endDay"))
+        ed = str(ed)[:10] if ed and not str(ed).startswith("$") else None
+        t1, t2 = find_time(str(obj.get("time") or ""))
+        if t1 and not ed:
+            s_, e_, allday = f"{sd}T{t1}", (f"{sd}T{t2}" if t2 else None), False
+        else:
+            s_, e_, allday = sd, (ed if ed and ed != sd else None), True
+        loc = obj.get("location")
+        loc = clean(loc) if isinstance(loc, str) and not loc.startswith("$") else None
+        url = cfg.get("urlTemplate", "").format(**{k: v for k, v in obj.items() if isinstance(v, str)}) or base_url
+        out.append({
+            "title": clean(obj[k_title]), "start": s_, "end": e_, "allDay": allday,
+            "venue": {"name": loc, "address": None, "lat": None, "lng": None},
+            "description": clean(obj.get("description"))[:300], "url": url,
+            "online": bool(loc and re.search(r"online|webinar", loc, re.I)),
+            "_text": " ".join(str(v) for v in obj.values() if isinstance(v, str)),
+        })
+    return out

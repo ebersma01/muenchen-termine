@@ -155,7 +155,9 @@ def needs_detail(e, src_url):
         return False  # Link zeigt nur auf die Uebersichtsseite
     if re.search(r"\.(pdf|ics|jpg|png)$|eventim\.de|ticketmaster|eventbrite", u, re.I):
         return False
-    return e["cost"] in (None, "", "unklar") or not e["venue"].get("name") or not e["venue"].get("address")
+    a = e["venue"].get("address") or ""
+    weak = not re.search(r"\d+\s?[a-z]?\s*(?:[-–+]\s*\d+[a-z]?)?\s*,", a)
+    return e["cost"] in (None, "", "unklar") or not e["venue"].get("name") or weak
 
 
 def enrich(events, sources, cache, geocoder, max_fetch=900, workers=10, budget_s=900):
@@ -209,12 +211,17 @@ def apply(e, d, geocoder, src):
         e["cost"] = d["cost"]
     v = e["venue"]
     changed = False
-    if d.get("venue") and re.match(r"^[\d(]", d["venue"]):
+    if d.get("venue") and (re.match(r"^[\d(]", d["venue"]) or re.match(r"^(online|hybrid|digital|webinar|tba|tbd)\W*$", d["venue"], re.I)):
         d = dict(d, venue=None)
     if not v.get("name") and d.get("venue"):
         v["name"] = d["venue"]
         changed = True
-    if not v.get("address") and d.get("address"):
+    weak = not v.get("address") or not re.search(r"\d+\s?[a-z]?\s*(?:[-–+]\s*\d+[a-z]?)?\s*,", v.get("address") or "")
+    if d.get("address") and weak and re.search(r"\d", d["address"].split(",")[0]):
+        v["address"] = a
+        v["lat"] = v["lng"] = None  # neu suchen, die alte Position war nur ungefaehr
+        changed = True
+    elif not v.get("address") and d.get("address"):
         v["address"] = a
         changed = True
     if d.get("lat") and not v.get("lat"):
@@ -224,5 +231,7 @@ def apply(e, d, geocoder, src):
         g = geocoder.lookup(q)
         if g and km((g["lat"], g["lng"]), MARIENPLATZ) < MAX_KM:
             v["lat"], v["lng"] = g["lat"], g["lng"]
+    if v.get("name"):
+        v["name"] = re.sub(r"(,\s*(München|Munich))+$", "", v["name"]).strip(" ,") or v["name"]
     if v.get("lat"):
         e["region"] = region_of(" ".join(x for x in [v.get("name"), v.get("address")] if x), v["lat"], v["lng"])

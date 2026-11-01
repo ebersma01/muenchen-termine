@@ -25,7 +25,8 @@
   "active": true,
   "builtin": true,
   "fetch": {
-   "mixed": false
+   "type": "embedded",
+   "urlTemplate": "https://www.munich-startup.de/events/{slug}"
   }
  },
  {
@@ -1363,7 +1364,14 @@
    "fallbackCats": [
     "kultur"
    ],
-   "maxEvents": 60
+   "maxEvents": 60,
+   "location": "div.flex-3 span.text-ellipsis",
+   "venue": {
+    "name": "Prinzregententheater / Akademietheater",
+    "address": "Prinzregentenplatz 12, 81675 München",
+    "lat": 48.1395,
+    "lng": 11.604
+   }
   }
  },
  {

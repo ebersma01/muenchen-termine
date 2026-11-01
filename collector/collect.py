@@ -75,6 +75,8 @@ def raw_events(src, allow_render=True):
         text = extract.fetch(url, render=render)
         if kind == "ics":
             out += extract.parse_ics(text)
+        elif kind == "embedded":
+            out += extract.parse_embedded(text, url, f)
         elif kind == "jsonld":
             out += extract.parse_jsonld(text, url)
         elif kind == "auto":
@@ -222,6 +224,27 @@ def finish(ev, src, cats, geocoder, today):
     if not v.get("name") and dv:
         for k in ("name", "address", "lat", "lng"):
             v[k] = v.get(k) or dv.get(k)
+    if dv and v.get("name") and not v.get("address") and dv.get("name") and \
+            (dv["name"].lower() in v["name"].lower() or v["name"].lower() in dv["name"].lower()):
+        for k in ("address", "lat", "lng"):
+            v[k] = v.get(k) or dv.get(k)
+    if not v.get("address"):
+        # Adresse steht oft nur in Beschreibung oder Kartentext ("Rosenstraße 9, 80331 München")
+        import detail
+        for txt in (v.get("name") or "", ev.get("description") or "", ev.get("_text") or ""):
+            m = detail._ADDR_RE.search(txt)
+            if m:
+                v["address"] = f"{m.group(1).strip()}, {m.group(2)} {m.group(3)}"
+                if v.get("name") and m.group(1) in v["name"]:
+                    v["name"] = v["name"].split(m.group(1))[0].strip(" ,|-–") or None
+                if not v.get("name"):
+                    pre = txt[:m.start()].rstrip(" ,|-–:")
+                    cand = re.split(r"[|.:]\s*|\s{2,}", pre)[-1].strip() if pre else ""
+                    if 3 <= len(cand) <= 60 and not find_dates(cand):
+                        v["name"] = cand
+                break
+    if v.get("name"):
+        v["name"] = re.sub(r"(,\s*(München|Munich))+$", "", v["name"]).strip(" ,") or v["name"]
     loc_text = " ".join(x for x in [v.get("name"), v.get("address")] if x)
     scope = f.get("scope", "local")
     online = bool(ev.get("online")) and not loc_text
@@ -232,7 +255,7 @@ def finish(ev, src, cats, geocoder, today):
         out = mentions_outside(loc_text) or (mentions_outside(ev.get("_text", "")) if not loc_text else None)
         if out and not mentions_mvv(loc_text or ev.get("_text", "")):
             return None
-    if not v.get("lat") and v.get("name") and not online:
+    if not v.get("lat") and (v.get("name") or v.get("address")) and not online:
         q = v.get("address") or v["name"]
         if not mentions_mvv(q):
             q += ", München"
@@ -389,6 +412,12 @@ def main():
         if only and args.show:
             for e in list(all_events.values())[: args.show * 3]:
                 print(f"      {e['title'][:45]:<45} | {(e['venue']['name'] or '-')[:30]} | {(e['venue']['address'] or '-')[:35]} | {e['cost']}")
+    for e in all_events.values():
+        v = e["venue"]
+        if v.get("address"):
+            v["address"] = re.sub(r"((?:München|Munich))(?:,\s*(?:München|Munich|Deutschland|Germany|Bayern))+$", r"\1", v["address"])
+        if not v.get("name") and not v.get("address") and e.get("online"):
+            v["name"] = "Online"
     geocoder.save()
     if only:
         return

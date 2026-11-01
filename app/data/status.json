@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-01T15:33:32+01:00",
- "total": 1163,
+ "generated": "2026-11-01T16:57:22+01:00",
+ "total": 1170,
  "sources": [
   {
    "id": "bachtrack",
@@ -88,15 +88,7 @@
    "found": 0,
    "events": 0,
    "ok": false,
-   "error": "keine Termine erkannt"
-  },
-  {
-   "id": "dev-events",
-   "name": "dev.events München",
-   "found": 0,
-   "events": 0,
-   "ok": false,
-   "error": "HTTPError: 403 Client Error: Forbidden for url: https://dev.events/EU/DE/Munich"
+   "error": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
   },
   {
    "id": "dlr",
@@ -120,7 +112,7 @@
    "found": 0,
    "events": 0,
    "ok": false,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.einstein-kultur.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.einstei"
+   "error": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
   },
   {
    "id": "eu-kommission",
@@ -160,7 +152,7 @@
    "found": 0,
    "events": 0,
    "ok": false,
-   "error": "Error: Page.content: Unable to retrieve content because the page is navigating and changing the content."
+   "error": "keine Termine erkannt"
   },
   {
    "id": "hm",
@@ -232,7 +224,7 @@
    "found": 0,
    "events": 0,
    "ok": false,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.wirtschaftsbeirat.de', port=443): Max retries exceeded with url: /veranstaltungen/ (Caused by ConnectTimeoutError(<HTTPSConnection"
+   "error": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
   },
   {
    "id": "wirtschaftsrat",
@@ -323,6 +315,14 @@
    "error": null
   },
   {
+   "id": "dev-events",
+   "name": "dev.events München",
+   "found": 19,
+   "events": 9,
+   "ok": true,
+   "error": null
+  },
+  {
    "id": "erding",
    "name": "Erding",
    "found": 13,
@@ -358,7 +358,7 @@
    "id": "fes",
    "name": "Friedrich-Ebert-Stiftung BayernForum",
    "found": 19,
-   "events": 3,
+   "events": 1,
    "ok": true,
    "error": null
   },
@@ -573,8 +573,8 @@
   {
    "id": "munich-startup",
    "name": "Munich Startup",
-   "found": 82,
-   "events": 62,
+   "found": 81,
+   "events": 61,
    "ok": true,
    "error": null
   },
@@ -685,8 +685,8 @@
   {
    "id": "unibw",
    "name": "Universität der Bundeswehr München",
-   "found": 6,
-   "events": 6,
+   "found": 7,
+   "events": 7,
    "ok": true,
    "error": null
   },

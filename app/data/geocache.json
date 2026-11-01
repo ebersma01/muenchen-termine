@@ -13,6 +13,11 @@
 "lng": 11.6396
 },
 "19.00–21.00 uhr, münchen": null,
+"80333 münchen": {
+"address": "80333, Maxvorstadt, München, Bayern, Deutschland",
+"lat": 48.1452,
+"lng": 11.56873
+},
 "acatech forum am karolinenplatz 4!, münchen": null,
 "agv akademischer gesangverein münchen": null,
 "akademiestr. 2-4, 80799 münchen": {
@@ -66,6 +71,11 @@
 "lat": 48.13783,
 "lng": 11.57458
 },
+"am klopferspitz 19a, 82152 martinsried": {
+"address": "Innovations- und Gründerzentrum Biotechnologie (IZB), 19a, Am Klopferspitz, Martinsried, Planegg, Landkreis München, Bayern, 82152, Deutschland",
+"lat": 48.10759,
+"lng": 11.45867
+},
 "amalienstraße 17, 80333 münchen": {
 "address": "Fakultät für Informatik der LMU, 17, Amalienstraße, Schönfeldvorstadt, Maxvorstadt, München, Bayern, 80333, Deutschland",
 "lat": 48.14702,
@@ -100,6 +110,11 @@
 },
 "aspekte galerie der mvhs im gasteig hp8, münchen": null,
 "atelierstraße 24, 81671 munich": {
+"address": "TonHalle, 24, Atelierstraße, Werksviertel München, Berg am Laim, München, Bayern, 81671, Deutschland",
+"lat": 48.12391,
+"lng": 11.60691
+},
+"atelierstraße 24, 81671 münchen": {
 "address": "TonHalle, 24, Atelierstraße, Werksviertel München, Berg am Laim, München, Bayern, 81671, Deutschland",
 "lat": 48.12391,
 "lng": 11.60691
@@ -162,6 +177,7 @@
 "lat": 48.13037,
 "lng": 11.58399
 },
+"biom biotech cluster development gmbh, martinsried": null,
 "blumenstraße 7, 80331 münchen": {
 "address": "Glockenbachwerkstatt, 7, Blumenstraße, Angerviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
 "lat": 48.13352,
@@ -224,6 +240,11 @@
 "address": "Cup&Cozy, 92, Lindwurmstraße, Untersendling, Sendling, München, Bayern, 80337, Deutschland",
 "lat": 48.12356,
 "lng": 11.54693
+},
+"curt mezger platz 1, 80809 münchen": {
+"address": "Kulturhaus Milbertshofen, 1, Curt-Mezger-Platz, Am Riesenfeld, Milbertshofen-Am Hart, München, Bayern, 80807, Deutschland",
+"lat": 48.18199,
+"lng": 11.56719
 },
 "cuvilliéstheater, münchen": null,
 "daily matcha, münchen": {
@@ -322,12 +343,27 @@
 "lat": 48.11151,
 "lng": 11.55455
 },
+"freddie-mercury straße 5, 80797 münchen": {
+"address": "EIT Urban Mobility Innovation Hub Central, 5, Freddie-Mercury-Straße, Kasernenviertel, Ebenau, Neuhausen-Nymphenburg, München, Bayern, 80797, Deutschland",
+"lat": 48.157,
+"lng": 11.55144
+},
+"freddie-mercury-straße 5, 80797 münchen": {
+"address": "5, Freddie-Mercury-Straße, Kasernenviertel, Ebenau, Neuhausen-Nymphenburg, München, Bayern, 80797, Deutschland",
+"lat": 48.15693,
+"lng": 11.55177
+},
 "freischwimmer bar, münchen": {
 "address": "FreiSchwimmer, Lindwurmstraße, Am Alten Südlichen Friedhof, Klinikviertel, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80337, Deutschland",
 "lat": 48.13085,
 "lng": 11.5617
 },
 "frida - mexikanisches restaurant, münchen": null,
+"gabelsbergerstraße 6, 80333 münchen": {
+"address": "St. Markus, 6, Gabelsbergerstraße, Maxvorstadt, München, Bayern, 80333, Deutschland",
+"lat": 48.1461,
+"lng": 11.57436
+},
 "galerie, münchen": {
 "address": "Sammlung Schack, 9, Prinzregentenstraße, Lehel, Altstadt-Lehel, München, Bayern, 80538, Deutschland",
 "lat": 48.14251,
@@ -355,6 +391,7 @@
 "lat": 48.11207,
 "lng": 11.55386
 },
+"gate – garchinger technologie- und gründerzentrum gmbh, garching bei münchen": null,
 "geheimer ort, münchen": null,
 "gehölz, münchen": {
 "address": "gehölz, 45, Schellingstraße, Kunstareal, Maxvorstadt, München, Bayern, 80799, Deutschland",
@@ -393,6 +430,11 @@
 "lat": 48.11175,
 "lng": 11.55393
 },
+"hans-jensen-weg 3, 80939 münchen": {
+"address": "Cavalluna Park, 3, Hans-Jensen-Weg, Großlappen, Freimann, Schwabing-Freimann, München, Bayern, 80939, Deutschland",
+"lat": 48.20954,
+"lng": 11.61841
+},
 "hans-preißinger-straße 8, 81379 münchen": {
 "address": "Phili - Kreislaufschrank im HP8, 8, Hans-Preißinger-Straße, Sendlinger Feld, Sendling, München, Bayern, 81379, Deutschland",
 "lat": 48.11168,
@@ -404,6 +446,11 @@
 "address": "Fachstelle Pop, 39, Hansastraße, Hansapark, Sendling-Westpark, München, Bayern, 81373, Deutschland",
 "lat": 48.12879,
 "lng": 11.53437
+},
+"hansastr. 39, 81373 münchen": {
+"address": "Kranhalle, 39, Hansastraße, Hansapark, Sendling-Westpark, München, Bayern, 81373, Deutschland",
+"lat": 48.1295,
+"lng": 11.53344
 },
 "haus der bayerischen wirtschaft, münchen": {
 "address": "Haus der Bayerischen Wirtschaft, 5, Max-Joseph-Straße, Kunstareal, Maxvorstadt, München, Bayern, 80333, Deutschland",
@@ -431,6 +478,12 @@
 "lat": 48.13597,
 "lng": 11.5785
 },
+"heßstr. 89, 80797 münchen, münchen": {
+"address": "SCE Strascheg Center for Entrepreneurship, 89, Heßstraße, Maßmannbergl, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80797, Deutschland",
+"lat": 48.15393,
+"lng": 11.55772
+},
+"hochschule münchen, hörsaal 1.046 (roter würfel)": null,
 "hochx theater und live art, münchen": {
 "address": "HochX Theater und Live Art, 37, Entenbachstraße, Nockherberg, Untere Au, Au, Au-Haidhausen, München, Bayern, 81541, Deutschland",
 "lat": 48.12236,
@@ -443,6 +496,11 @@
 "lng": 11.54026
 },
 "holiday inn express münchen city west": null,
+"holiday inn, münchen": {
+"address": "Holiday Inn Munich - City Centre, 3, Hochstraße, Motorama Ladenstadt, Haidhausen-Süd, Au, Au-Haidhausen, München, Bayern, 81669, Deutschland",
+"lat": 48.13066,
+"lng": 11.58999
+},
 "holzkranich, münchen": {
 "address": "Holzkranich, 105, Georgenstraße, Maßmannbergl, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80798, Deutschland",
 "lat": 48.15677,
@@ -453,6 +511,12 @@
 "hullis die dinnershow, münchen": null,
 "ibz internationales begegnungszentrum amalienstraße 38, 80539 münchen": null,
 "icm – international congress center messe münchen": null,
+"ihk für münchen und oberbayern": null,
+"impact hub münchen": {
+"address": "Impact Hub, 8, Gotzinger Straße, Sendlinger Feld, Sendling, München, Bayern, 81371, Deutschland",
+"lat": 48.12118,
+"lng": 11.55016
+},
 "import export münchen": {
 "address": "Import Export, 2h, Schwere-Reiter-Straße, Kasernenviertel, Ebenau, Neuhausen-Nymphenburg, München, Bayern, 80637, Deutschland",
 "lat": 48.15946,
@@ -576,6 +640,7 @@
 "lat": 48.11033,
 "lng": 11.59623
 },
+"kunstareal - luisenstraße 33, 80333 münchen": null,
 "kunsthalle münchen": {
 "address": "KUNSTHALLE MÜNCHEN, 8, Theatinerstraße, Kreuzviertel, Altstadt-Lehel, München, Bayern, 80333, Deutschland",
 "lat": 48.14023,
@@ -632,7 +697,13 @@
 "lat": 48.15588,
 "lng": 11.58302
 },
+"lichtenbergstraße 8, 85748 garching bei münchen": {
+"address": "8, Lichtenbergstraße, Hochschul- und Forschungszentrum, Garching bei München, Landkreis München, Bayern, 85748, Deutschland",
+"lat": 48.26864,
+"lng": 11.66452
+},
 "lieberscholli - space for art, club and culture, münchen": null,
+"lio office, münchen": null,
 "literaturhaus münchen": {
 "address": "Literaturhaus, Salvatorplatz, Kreuzviertel, Altstadt-Lehel, München, Bayern, 80333, Deutschland",
 "lat": 48.14201,
@@ -657,6 +728,11 @@
 "address": "Lost Weekend, 3, Schellingstraße, Schönfeldvorstadt, Maxvorstadt, München, Bayern, 80799, Deutschland",
 "lat": 48.14912,
 "lng": 11.57966
+},
+"lothstr. 64, 80335 münchen, münchen": {
+"address": "Gebäude R, 64, Lothstraße, Maßmannbergl, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80335, Deutschland",
+"lat": 48.15428,
+"lng": 11.5567
 },
 "lothstraße 64, 80335 münchen": {
 "address": "Gebäude R, 64, Lothstraße, Maßmannbergl, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80335, Deutschland",
@@ -684,6 +760,11 @@
 "lat": 48.13779,
 "lng": 11.57536
 },
+"marsstraße 43, 80335 münchen": {
+"address": "Circus Krone, 43, Marsstraße, Marsfeld, Maxvorstadt, München, Bayern, 80335, Deutschland",
+"lat": 48.14509,
+"lng": 11.55007
+},
 "marstall salon, münchen": null,
 "marstall, münchen": {
 "address": "Bayerisches Staatsschauspiel - Marstall, 4, Marstallplatz, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80539, Deutschland",
@@ -710,6 +791,11 @@
 "address": "Handwerkskammer für München und Oberbayern, 4, Max-Joseph-Straße, Kunstareal, Maxvorstadt, München, Bayern, 80333, Deutschland",
 "lat": 48.14337,
 "lng": 11.57073
+},
+"max-joseph-strasse 2, 80333 münchen": {
+"address": "2, Max-Joseph-Straße, Maxvorstadt, München, Bayern, 80333, Deutschland",
+"lat": 48.14255,
+"lng": 11.57097
 },
 "max-joseph-straße 5 80333 münchen": {
 "address": "Haus der Bayerischen Wirtschaft, 5, Max-Joseph-Straße, Kunstareal, Maxvorstadt, München, Bayern, 80333, Deutschland",
@@ -924,6 +1010,12 @@
 "lat": 48.11848,
 "lng": 11.57427
 },
+"opernstudio, münchen": null,
+"orleansstraße 10-12, 81669 münchen": {
+"address": "Orleansstraße, Haidhausen-Süd, Haidhausen, Au-Haidhausen, München, Bayern, 81669, Deutschland",
+"lat": 48.1243,
+"lng": 11.59773
+},
 "otium concept, münchen": null,
 "out of the blox - lego bauraum für erwachsene. und kids., münchen": null,
 "paketposthalle münchen pineapple park": null,
@@ -981,6 +1073,9 @@
 "lat": 48.14239,
 "lng": 11.58998
 },
+"prinzregententheaterführung, münchen": null,
+"prinzregententheatergartensaal, münchen": null,
+"prinzregententheatergroßes haus, münchen": null,
 "residenztheater, münchen": {
 "address": "Residenztheater, 1, Max-Joseph-Platz, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80539, Deutschland",
 "lat": 48.14011,
@@ -1002,10 +1097,20 @@
 "lng": 11.59303
 },
 "rischart - café backhaus erlebnis, münchen": null,
+"ristorante romans - romanstraße 1, 80639 münchen": {
+"address": "Ristorante ROMANS, 1, Romanstraße, Villenkolonie Neuwittelsbach, Gern, Neuhausen-Nymphenburg, München, Bayern, 80639, Deutschland",
+"lat": 48.15727,
+"lng": 11.52905
+},
 "rosengarten, münchen": {
 "address": "Rosengarten, Moosach, München, Bayern, Deutschland",
 "lat": 48.16994,
 "lng": 11.53483
+},
+"rosenstraße 9, 80331 münchen": {
+"address": "9, Rosenstraße, Kreuzviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
+"lat": 48.13685,
+"lng": 11.57381
 },
 "rote sonne, münchen": {
 "address": "Rote Sonne, 5, Maximiliansplatz, Maxvorstadt, München, Bayern, 80333, Deutschland",
@@ -1042,6 +1147,7 @@
 "lat": 48.1682,
 "lng": 11.53253
 },
+"sce creative hall, münchen": null,
 "schloss blutenburg, münchen": {
 "address": "Schloss Blutenburg, 15, Seldweg, Pipping, Obermenzing, Pasing-Obermenzing, München, Bayern, 81247, Deutschland",
 "lat": 48.16309,
@@ -1084,6 +1190,11 @@
 "address": "Center for Advanced Studies LMU, 13, Seestraße, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80802, Deutschland",
 "lat": 48.15879,
 "lng": 11.59037
+},
+"seidlstraße 23, 80335 münchen": {
+"address": "23, Seidlstraße, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80335, Deutschland",
+"lat": 48.14591,
+"lng": 11.55793
 },
 "seitzstraße 8e, 80538 münchen, germany, münchen, by, münchen": null,
 "senatore, münchen": {
@@ -1132,6 +1243,11 @@
 "lng": 11.58499
 },
 "stiftung bayerisches amerikahaus ggmbh, münchen": null,
+"strascheg center for entrepreneurship (sce), münchen": {
+"address": "SCE Strascheg Center for Entrepreneurship, 89, Heßstraße, Maßmannbergl, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80797, Deutschland",
+"lat": 48.15393,
+"lng": 11.55772
+},
 "strom (verlegt vom ampere), münchen": null,
 "strom, münchen": {
 "address": "STROM, 88, Lindwurmstraße, Am Schlachthof, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80337, Deutschland",
@@ -1164,6 +1280,7 @@
 "lat": 48.15046,
 "lng": 11.5347
 },
+"tbd, münchen, münchen": null,
 "technikum (verlegt aus dem strom), münchen": null,
 "technikum, münchen": {
 "address": "Technikum, 26, Speicherstraße, Werksviertel München, Berg am Laim, München, Bayern, 81671, Deutschland",
@@ -1226,6 +1343,11 @@
 "lat": 48.12259,
 "lng": 11.55476
 },
+"translatum, münchen": {
+"address": "TranslaTUM, 25, Einsteinstraße, Haidhausen-Nord, Haidhausen, Au-Haidhausen, München, Bayern, 81675, Deutschland",
+"lat": 48.13614,
+"lng": 11.602
+},
 "treffpunkt social night out münchen – brunnenbuberl": null,
 "trudering-riem, aula gymnasium trudering, friedenspromenade 64, 81827 münchen": null,
 "tölzer str. 1, munich, munich": {
@@ -1248,6 +1370,11 @@
 "lng": 11.40251
 },
 "weisses bräuhaus im tal (tal 7, 80331 münchen) *": null,
+"werksviertel mitte münchen": {
+"address": "Werksviertel-Mitte Kunst, 4, Atelierstraße, Werksviertel München, Berg am Laim, München, Bayern, 81671, Deutschland",
+"lat": 48.12536,
+"lng": 11.60529
+},
 "werksviertel-mitte, münchen": {
 "address": "Werksviertel-Mitte Kunst, 4, Atelierstraße, Werksviertel München, Berg am Laim, München, Bayern, 81671, Deutschland",
 "lat": 48.12536,
