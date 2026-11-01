@@ -1,0 +1,4 @@
+{
+ "note": "Hier können Termine von Hand eingetragen werden (gleiches Format wie events.json). Der Sammler übernimmt sie bei jedem Lauf, solange sie nicht vorbei sind.",
+ "events": []
+}

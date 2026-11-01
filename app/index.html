@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>München Termine</title>
+<meta name="description" content="Veranstaltungskalender für München und das MVV-Gebiet">
+<meta name="theme-color" content="#16324f">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="München Termine">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="top">
+  <div class="title-row">
+    <h1>München Termine</h1>
+    <div class="top-actions">
+      <button id="refreshBtn" class="icon-btn" title="Neu laden" aria-label="Termine neu laden">↻</button>
+      <button id="settingsBtn" class="icon-btn" title="Kategorien und Quellen" aria-label="Kategorien und Quellen verwalten">⚙︎</button>
+    </div>
+  </div>
+  <input id="search" type="search" placeholder="Suchen: Titel, Ort, Beschreibung …" aria-label="Suchen">
+  <nav class="tabs" role="tablist">
+    <button data-range="week" class="tab active" role="tab">Diese Woche</button>
+    <button data-range="upcoming" class="tab" role="tab">Demnächst</button>
+    <button data-range="all" class="tab" role="tab">Alle</button>
+    <button data-range="fav" class="tab" role="tab">★ Favoriten</button>
+  </nav>
+  <div id="chips" class="chips" aria-label="Kategorien"></div>
+  <div class="view-row">
+    <span id="count" class="muted"></span>
+    <div class="seg">
+      <button data-view="list" class="seg-btn active">Liste</button>
+      <button data-view="map" class="seg-btn">Karte</button>
+    </div>
+  </div>
+</header>
+
+<main>
+  <section id="listView"></section>
+  <section id="mapView" hidden><div id="map"></div></section>
+  <p id="stamp" class="muted stamp"></p>
+</main>
+
+<dialog id="settings">
+  <form method="dialog" class="dlg-head">
+    <h2>Kategorien und Quellen</h2>
+    <button class="icon-btn" aria-label="Schließen">✕</button>
+  </form>
+  <div class="dlg-body">
+    <h3>Kategorien</h3>
+    <ul id="catList" class="mlist"></ul>
+    <form id="catForm" class="addform">
+      <input name="name" required placeholder="Neue Kategorie, z. B. Sport">
+      <input name="color" type="color" value="#5b6b7f" aria-label="Farbe">
+      <input name="keywords" placeholder="Stichwörter, mit Komma getrennt (optional)">
+      <button>Hinzufügen</button>
+    </form>
+
+    <h3>Quellen</h3>
+    <p class="muted small">Neue Quellen werden beim nächsten Lauf des Sammlers durchsucht.</p>
+    <ul id="srcList" class="mlist"></ul>
+    <form id="srcForm" class="addform">
+      <input name="name" required placeholder="Name, z. B. Kulturzentrum Freising">
+      <input name="url" type="url" required placeholder="https://…">
+      <select name="category" id="srcCat" aria-label="Kategorie"></select>
+      <button>Hinzufügen</button>
+    </form>
+  </div>
+</dialog>
+
+<script src="vendor/leaflet/leaflet.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

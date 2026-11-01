@@ -1,0 +1,49 @@
+# Holt jeden Morgen neue Termine und speichert sie in app/data/events.json.
+# Zusätzlich kann man den Lauf jederzeit von Hand starten:
+# GitHub > Actions > "Termine sammeln" > "Run workflow".
+name: Termine sammeln
+
+on:
+  schedule:
+    - cron: "15 4 * * *"   # täglich ca. 5:15 / 6:15 Uhr deutscher Zeit
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: collector/requirements.txt
+
+      - name: Programme installieren
+        run: |
+          pip install -r collector/requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Termine sammeln
+        run: python collector/collect.py
+
+      - name: Ergebnis speichern
+        run: |
+          git config user.name "termine-bot"
+          git config user.email "termine-bot@users.noreply.github.com"
+          git add app/data/events.json app/data/status.json app/data/geocache.json
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen."
+          else
+            git commit -m "Termine aktualisiert $(date +'%d.%m.%Y %H:%M')"
+            git push
+          fi

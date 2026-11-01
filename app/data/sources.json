@@ -1,0 +1,1549 @@
+[
+ {
+  "id": "ifo",
+  "name": "ifo Institut",
+  "url": "https://www.ifo.de/veranstaltungen",
+  "categories": [
+   "wirtschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "render": true,
+   "scope": "filter"
+  }
+ },
+ {
+  "id": "munich-startup",
+  "name": "Munich Startup",
+  "url": "https://www.munich-startup.de/events",
+  "categories": [
+   "wirtschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "mixed": false
+  }
+ },
+ {
+  "id": "aktienclub",
+  "name": "Aktienclub München",
+  "url": "https://aktienclubmuenchen.de/termine/",
+  "categories": [
+   "wirtschaft",
+   "gruppen"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "detail": true
+  }
+ },
+ {
+  "id": "muenchner-kreis",
+  "name": "Münchner Kreis",
+  "url": "https://www.muenchner-kreis.de/veranstaltungen/",
+  "categories": [
+   "wirtschaft",
+   "wissenschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "type": "jsonld"
+  }
+ },
+ {
+  "id": "ihk",
+  "name": "IHK für München und Oberbayern",
+  "url": "https://www.ihk-muenchen.de/service-beratung/veranstaltungen/",
+  "categories": [
+   "wirtschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "render": true
+  }
+ },
+ {
+  "id": "hwk",
+  "name": "Handwerkskammer für München und Oberbayern",
+  "url": "https://www.hwk-muenchen.de/termine/liste-74,0,evelist.html?op=link&rf=0&start=today&range=year",
+  "categories": [
+   "wirtschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "detail": true
+  }
+ },
+ {
+  "id": "vbw",
+  "name": "vbw – Vereinigung der Bayerischen Wirtschaft",
+  "url": "https://www.vbw-bayern.de/vbw/Termine/index-3.jsp",
+  "categories": [
+   "wirtschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "scope": "local",
+   "exclude": "Mittelfranken|Oberfranken|Unterfranken|Oberpfalz|Niederbayern|Schwaben\\\\b|Würzburg|Nürnberg|Regensburg|Augsburg|Ingolstadt|Online-Seminar Hamburg",
+   "detail": true
+  }
+ },
+ {
+  "id": "baymevbm",
+  "name": "bayme vbm",
+  "url": "https://www.baymevbm.de/baymevbm/Termine-Veranstaltungen/index.jsp",
+  "categories": [
+   "wirtschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "scope": "local",
+   "exclude": "Mittelfranken|Oberfranken|Unterfranken|Oberpfalz|Niederbayern|Schwaben\\\\b|Würzburg|Nürnberg|Regensburg|Augsburg|Ingolstadt|Online-Seminar Hamburg",
+   "maxEvents": 60
+  }
+ },
+ {
+  "id": "vdma",
+  "name": "VDMA Bayern",
+  "url": "https://www.vdma.eu/kalender",
+  "categories": [
+   "wirtschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "scope": "filter",
+   "render": true
+  }
+ },
+ {
+  "id": "zvei",
+  "name": "ZVEI",
+  "url": "https://www.zvei.org/presse-medien/termine",
+  "categories": [
+   "wirtschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "scope": "filter"
+  }
+ },
+ {
+  "id": "bitkom",
+  "name": "Bitkom",
+  "url": "https://www.bitkom.org/events",
+  "categories": [
+   "wirtschaft",
+   "wissenschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "scope": "filter"
+  }
+ },
+ {
+  "id": "wirtschaftsbeirat",
+  "name": "Wirtschaftsbeirat Bayern",
+  "url": "https://www.wirtschaftsbeirat.de/veranstaltungen/",
+  "categories": [
+   "wirtschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true
+ },
+ {
+  "id": "wirtschaftsrat",
+  "name": "Wirtschaftsrat der CDU, Bayern",
+  "url": "https://wirtschaftsrat.de/veranstaltungen/veranstaltungskalender/",
+  "categories": [
+   "wirtschaft",
+   "politik"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "scope": "filter",
+   "render": true
+  }
+ },
+ {
+  "id": "bayern-international",
+  "name": "Bayern International",
+  "url": "https://www.bayern-international.de/termine-veranstaltungen",
+  "categories": [
+   "wirtschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "scope": "filter",
+   "render": true
+  }
+ },
+ {
+  "id": "bundesbank",
+  "name": "Deutsche Bundesbank (Termine)",
+  "url": "https://www.bundesbank.de/de/service/termine",
+  "categories": [
+   "wirtschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "scope": "filter"
+  }
+ },
+ {
+  "id": "lmu-econ",
+  "name": "LMU Volkswirtschaft",
+  "url": "https://www.econ.lmu.de/de/aktuelles/",
+  "categories": [
+   "wirtschaft",
+   "wissenschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "urlInclude": "/veranstaltung/"
+  }
+ },
+ {
+  "id": "messe-muenchen",
+  "name": "Messe München",
+  "url": "https://messe-muenchen.de/de/veranstaltungen/",
+  "categories": [
+   "wirtschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "venue": {
+    "name": "Messe München",
+    "address": "Messegelände, 81823 München",
+    "lat": 48.1355,
+    "lng": 11.695
+   },
+   "render": true,
+   "scope": "filter"
+  }
+ },
+ {
+  "id": "unternehmertum",
+  "name": "UnternehmerTUM",
+  "url": "https://www.unternehmertum.de/events",
+  "categories": [
+   "wirtschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true
+ },
+ {
+  "id": "boerse-muenchen",
+  "name": "Börse München",
+  "url": "https://www.boerse-muenchen.de/maccess/termine/",
+  "categories": [
+   "wirtschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {}
+ },
+ {
+  "id": "dsw",
+  "name": "DSW (Aktionärsschutz)",
+  "url": "https://www.dsw-info.de/veranstaltungen/anlegerforen/",
+  "categories": [
+   "wirtschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "scope": "filter",
+   "titlePrefix": "DSW-Anlegerforum "
+  }
+ },
+ {
+  "id": "bvmid",
+  "name": "BVMID",
+  "url": "https://bvmid.de/veranstaltungen-alle",
+  "categories": [
+   "wirtschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "scope": "filter",
+   "card": "div#boxfull",
+   "title": "#tabbox600 .titel_bold",
+   "location": "#tabbox600 .standardrot"
+  }
+ },
+ {
+  "id": "wj-muenchen",
+  "name": "Wirtschaftsjunioren München",
+  "url": "https://www.wj-muenchen.de/",
+  "categories": [
+   "wirtschaft",
+   "gruppen"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true
+ },
+ {
+  "id": "stadt-muenchen",
+  "name": "Stadt München, Bürgerversammlungen",
+  "url": "https://stadt.muenchen.de/news/buergerversammlungstermine.html",
+  "categories": [
+   "politik"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "title": "strong",
+   "titleRegex": "(Stadtbezirk \\d+, [^,|]+)",
+   "titlePrefix": "Bürgerversammlung ",
+   "locationRegex": "(?:BT [^|]+\\|\\s*,\\s*|,\\s)([^|]*\\d{5} München)"
+  }
+ },
+ {
+  "id": "deine-stadt-spricht",
+  "name": "Deine Stadt spricht München",
+  "url": "https://deine-stadt-spricht.de/",
+  "categories": [
+   "politik",
+   "gruppen"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true
+ },
+ {
+  "id": "amerikahaus",
+  "name": "Amerikahaus",
+  "url": "https://www.amerikahaus.de/",
+  "categories": [
+   "politik",
+   "kultur"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "venue": {
+    "name": "Amerikahaus",
+    "address": "Barer Str. 19a, 80333 München",
+    "lat": 48.1452,
+    "lng": 11.5677
+   },
+   "mixed": true,
+   "exclude": "Öffnungszeiten|Hinweis zu",
+   "longOk": true
+  }
+ },
+ {
+  "id": "staatsregierung",
+  "name": "Bayerische Staatsregierung",
+  "url": "https://www.bayern.de/",
+  "categories": [
+   "politik"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": false,
+  "note": "bayern.de hat keine öffentlich lesbare Terminliste"
+ },
+ {
+  "id": "stmwi",
+  "name": "Bayerisches Wirtschaftsministerium",
+  "url": "https://www.stmwi.bayern.de/veranstaltungen/",
+  "categories": [
+   "politik",
+   "wirtschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "scope": "filter"
+  }
+ },
+ {
+  "id": "landtag",
+  "name": "Bayerischer Landtag",
+  "url": "https://www.bayern.landtag.de/aktuelles/veranstaltungen/gaeste-und-begegnungen/gub-2026/",
+  "categories": [
+   "politik"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "venue": {
+    "name": "Bayerischer Landtag (Maximilianeum)",
+    "address": "Max-Planck-Str. 1, 81675 München",
+    "lat": 48.1365,
+    "lng": 11.5945
+   }
+  }
+ },
+ {
+  "id": "blz",
+  "name": "Bayerische Landeszentrale für politische Bildung",
+  "url": "https://www.blz.bayern.de/",
+  "categories": [
+   "politik"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "scope": "filter"
+  }
+ },
+ {
+  "id": "apb-tutzing",
+  "name": "Akademie für Politische Bildung Tutzing",
+  "url": "https://www.apb-tutzing.de/programm/",
+  "categories": [
+   "politik"
+  ],
+  "region": "Umland",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "venue": {
+    "name": "Akademie für Politische Bildung",
+    "address": "Buchensee 1, 82327 Tutzing",
+    "lat": 47.915,
+    "lng": 11.269
+   }
+  }
+ },
+ {
+  "id": "ev-akademie-tutzing",
+  "name": "Evangelische Akademie Tutzing",
+  "url": "https://www.eatutzing.de/veranstaltungen/",
+  "categories": [
+   "politik",
+   "kultur"
+  ],
+  "region": "Umland",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "exclude": "Studienreise|\\bReise\\b",
+   "venue": {
+    "name": "Evangelische Akademie Tutzing",
+    "address": "Schloßstr. 2+4, 82327 Tutzing",
+    "lat": 47.9093,
+    "lng": 11.2829
+   },
+   "mixed": true
+  }
+ },
+ {
+  "id": "kath-akademie",
+  "name": "Katholische Akademie in Bayern",
+  "url": "https://kath-akademie-bayern.de/veranstaltungen/",
+  "categories": [
+   "politik",
+   "kultur"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "render": true,
+   "venue": {
+    "name": "Katholische Akademie in Bayern",
+    "address": "Mandlstr. 23, 80802 München",
+    "lat": 48.1609,
+    "lng": 11.5895
+   }
+  }
+ },
+ {
+  "id": "hss",
+  "name": "Hanns-Seidel-Stiftung",
+  "url": "https://www.hss.de/veranstaltungen/",
+  "categories": [
+   "politik"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "scope": "filter"
+  }
+ },
+ {
+  "id": "fes",
+  "name": "Friedrich-Ebert-Stiftung BayernForum",
+  "url": "https://www.fes.de/fes-in-bayern/veranstaltungen",
+  "categories": [
+   "politik"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "scope": "filter",
+   "render": true
+  }
+ },
+ {
+  "id": "kas",
+  "name": "Konrad-Adenauer-Stiftung Bayern",
+  "url": "https://www.kas.de/de/web/bayern/veranstaltungen",
+  "categories": [
+   "politik"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": false,
+  "note": "Seite blockiert automatische Abrufe (Firewall)"
+ },
+ {
+  "id": "petra-kelly",
+  "name": "Petra-Kelly-Stiftung",
+  "url": "https://www.petrakellystiftung.de/de/veranstaltungen",
+  "categories": [
+   "politik"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "scope": "filter"
+  }
+ },
+ {
+  "id": "boell",
+  "name": "Heinrich-Böll-Stiftung",
+  "url": "https://www.boell.de/de/veranstaltungen",
+  "categories": [
+   "politik"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "scope": "filter"
+  }
+ },
+ {
+  "id": "fnst",
+  "name": "Friedrich-Naumann-Stiftung",
+  "url": "https://www.freiheit.org/de/veranstaltungen",
+  "categories": [
+   "politik"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "scope": "filter",
+   "render": true
+  }
+ },
+ {
+  "id": "eu-kommission",
+  "name": "EU-Kommission, Vertretung München",
+  "url": "https://germany.representation.ec.europa.eu/nachrichten-und-veranstaltungen/veranstaltungen_de",
+  "categories": [
+   "politik"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "scope": "filter"
+  }
+ },
+ {
+  "id": "mvhs-einstein28",
+  "name": "MVHS Einstein 28",
+  "url": "https://www.mvhs.de/",
+  "categories": [
+   "politik",
+   "wissenschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true
+ },
+ {
+  "id": "dgap",
+  "name": "DGAP",
+  "url": "https://dgap.org/de/veranstaltungen",
+  "categories": [
+   "politik"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": false,
+  "note": "Seite verlangt eine Mensch-Prüfung (Captcha)"
+ },
+ {
+  "id": "hfp-tum",
+  "name": "Hochschule für Politik (TUM)",
+  "url": "https://www.hfp.tum.de/hfp/aktuelles/veranstaltungen/",
+  "categories": [
+   "politik"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true
+ },
+ {
+  "id": "cap-lmu",
+  "name": "CAP an der LMU",
+  "url": "https://www.cap-lmu.de/",
+  "categories": [
+   "politik"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true
+ },
+ {
+  "id": "presseclub",
+  "name": "PresseClub München",
+  "url": "https://www.presseclub-muenchen.de/",
+  "categories": [
+   "politik",
+   "gruppen"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "venue": {
+    "name": "PresseClub München",
+    "address": "Marienplatz 22, 80331 München",
+    "lat": 48.1369,
+    "lng": 11.5745
+   },
+   "exclude": "^Clubleben"
+  }
+ },
+ {
+  "id": "badw",
+  "name": "Bayerische Akademie der Wissenschaften",
+  "url": "https://badw.de/veranstaltungen",
+  "categories": [
+   "wissenschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "venue": {
+    "name": "Bayerische Akademie der Wissenschaften",
+    "address": "Alfons-Goppel-Str. 11, 80539 München",
+    "lat": 48.1427,
+    "lng": 11.5828
+   }
+  }
+ },
+ {
+  "id": "deutsches-museum",
+  "name": "Deutsches Museum",
+  "url": "https://www.deutsches-museum.de/",
+  "categories": [
+   "wissenschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "venue": {
+    "name": "Deutsches Museum",
+    "address": "Museumsinsel 1, 80538 München",
+    "lat": 48.1299,
+    "lng": 11.5834
+   }
+  }
+ },
+ {
+  "id": "sternwarte",
+  "name": "Volkssternwarte München",
+  "url": "https://sternwarte-muenchen.de/",
+  "categories": [
+   "wissenschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "venue": {
+    "name": "Volkssternwarte München",
+    "address": "Rosenheimer Str. 145h, 81671 München",
+    "lat": 48.1206,
+    "lng": 11.6116
+   }
+  }
+ },
+ {
+  "id": "vdi",
+  "name": "VDI Bezirksverein München",
+  "url": "https://www.vdi-sued.de/veranstaltungen/veranstaltungskalender/",
+  "categories": [
+   "wissenschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true
+ },
+ {
+  "id": "dev-events",
+  "name": "dev.events München",
+  "url": "https://dev.events/EU/DE/Munich",
+  "categories": [
+   "wissenschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "type": "jsonld",
+   "scope": "filter"
+  }
+ },
+ {
+  "id": "experte",
+  "name": "experte.de Events München",
+  "url": "https://www.experte.de/events/muenchen",
+  "categories": [
+   "wissenschaft",
+   "wirtschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "render": true,
+   "scope": "filter"
+  }
+ },
+ {
+  "id": "tum",
+  "name": "TU München",
+  "url": "https://www.tum.de/aktuelles/veranstaltungen",
+  "categories": [
+   "wissenschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true
+ },
+ {
+  "id": "lmu",
+  "name": "LMU München",
+  "url": "https://www.lmu.de/de/newsroom/veranstaltungskalender/",
+  "categories": [
+   "wissenschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "render": true
+  }
+ },
+ {
+  "id": "hm",
+  "name": "Hochschule München",
+  "url": "https://hm.edu/aktuelles/veranstaltungsuebersicht/index.de.html",
+  "categories": [
+   "wissenschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true
+ },
+ {
+  "id": "unibw",
+  "name": "Universität der Bundeswehr München",
+  "url": "https://www.unibw.de/home/events-search",
+  "categories": [
+   "wissenschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "venue": {
+    "name": "Universität der Bundeswehr München",
+    "address": "Werner-Heisenberg-Weg 39, 85579 Neubiberg",
+    "lat": 48.0806,
+    "lng": 11.6386
+   }
+  }
+ },
+ {
+  "id": "mpg",
+  "name": "Max-Planck-Gesellschaft",
+  "url": "https://www.mpg.de/veranstaltungen",
+  "categories": [
+   "wissenschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "type": "ics",
+   "url": "https://www.mpg.de/veranstaltungen.ics",
+   "scope": "filter"
+  }
+ },
+ {
+  "id": "helmholtz",
+  "name": "Helmholtz Munich",
+  "url": "https://www.helmholtz-munich.de/en/newsroom/events",
+  "categories": [
+   "wissenschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "render": true
+  }
+ },
+ {
+  "id": "fraunhofer",
+  "name": "Fraunhofer",
+  "url": "https://www.fraunhofer.de/de/veranstaltungen-messen.html",
+  "categories": [
+   "wissenschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "scope": "filter"
+  }
+ },
+ {
+  "id": "dlr",
+  "name": "DLR Oberpfaffenhofen",
+  "url": "https://www.dlr.de/de/aktuelles/veranstaltungen",
+  "categories": [
+   "wissenschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "scope": "filter"
+  }
+ },
+ {
+  "id": "bayern-innovativ",
+  "name": "Bayern Innovativ",
+  "url": "https://www.bayern-innovativ.de/events-termine/",
+  "categories": [
+   "wissenschaft",
+   "wirtschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "scope": "filter",
+   "maxEvents": 40
+  }
+ },
+ {
+  "id": "muenchen-de",
+  "name": "muenchen.de Veranstaltungen",
+  "url": "https://www.muenchen.de/veranstaltungen",
+  "categories": [
+   "kultur"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "keywordsOnly": true
+  }
+ },
+ {
+  "id": "munich-travel",
+  "name": "munich.travel Ausstellungen",
+  "url": "https://www.munich.travel/en/topics/arts-culture/exhibitions-2026-2027",
+  "categories": [
+   "kultur"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "longOk": true
+  }
+ },
+ {
+  "id": "in-muenchen",
+  "name": "in-muenchen.de",
+  "url": "https://www.in-muenchen.de/",
+  "categories": [
+   "kultur"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "keywordsOnly": true,
+   "exclude": "Tipps der Woche"
+  }
+ },
+ {
+  "id": "pinakotheken",
+  "name": "Pinakotheken",
+  "url": "https://www.pinakothek.de/de/ausstellungen",
+  "categories": [
+   "kultur"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "exclude": "Öffnungszeiten",
+   "longOk": true
+  }
+ },
+ {
+  "id": "lenbachhaus",
+  "name": "Lenbachhaus",
+  "url": "https://www.lenbachhaus.de/",
+  "categories": [
+   "kultur"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "venue": {
+    "name": "Lenbachhaus",
+    "address": "Luisenstr. 33, 80333 München",
+    "lat": 48.1468,
+    "lng": 11.5638
+   },
+   "longOk": true
+  }
+ },
+ {
+  "id": "haus-der-kunst",
+  "name": "Haus der Kunst",
+  "url": "https://www.hausderkunst.de/kalender",
+  "categories": [
+   "kultur"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "venue": {
+    "name": "Haus der Kunst",
+    "address": "Prinzregentenstr. 1, 80538 München",
+    "lat": 48.1442,
+    "lng": 11.5862
+   },
+   "longOk": true
+  }
+ },
+ {
+  "id": "kunsthalle",
+  "name": "Kunsthalle München",
+  "url": "https://www.kunsthalle-muc.de/kalender/",
+  "categories": [
+   "kultur"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "venue": {
+    "name": "Kunsthalle München",
+    "address": "Theatinerstr. 8, 80333 München",
+    "lat": 48.14,
+    "lng": 11.5766
+   },
+   "render": true,
+   "exclude": "Datum wählen|geschlossen|An jedem|^(Öffentliche |Kinder|Familien)?[Ff]ührung",
+   "maxEvents": 40,
+   "longOk": true
+  }
+ },
+ {
+  "id": "staatsoper",
+  "name": "Bayerische Staatsoper",
+  "url": "https://www.staatsoper.de/spielplan",
+  "categories": [
+   "kultur",
+   "musik-klassisch"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "render": true,
+   "venue": {
+    "name": "Nationaltheater",
+    "address": "Max-Joseph-Platz 2, 80539 München",
+    "lat": 48.1394,
+    "lng": 11.579
+   }
+  }
+ },
+ {
+  "id": "residenztheater",
+  "name": "Residenztheater",
+  "url": "https://www.residenztheater.de/spielplan",
+  "categories": [
+   "kultur"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "card": "article.schedule-act",
+   "title": ".schedule-act__title",
+   "location": ".schedule-act__details",
+   "venue": {
+    "name": "Residenztheater",
+    "address": "Max-Joseph-Platz 1, 80539 München",
+    "lat": 48.1404,
+    "lng": 11.5786
+   }
+  }
+ },
+ {
+  "id": "kammerspiele",
+  "name": "Münchner Kammerspiele",
+  "url": "https://www.muenchner-kammerspiele.de/de/programm",
+  "categories": [
+   "kultur"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "venue": {
+    "name": "Münchner Kammerspiele",
+    "address": "Maximilianstr. 26-28, 80539 München",
+    "lat": 48.1388,
+    "lng": 11.5839
+   }
+  }
+ },
+ {
+  "id": "gaertnerplatz",
+  "name": "Staatstheater am Gärtnerplatz",
+  "url": "https://www.gaertnerplatztheater.de/de/start/spielplan/index.html",
+  "categories": [
+   "kultur",
+   "musik-klassisch"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "venue": {
+    "name": "Staatstheater am Gärtnerplatz",
+    "address": "Gärtnerplatz 3, 80469 München",
+    "lat": 48.1316,
+    "lng": 11.5762
+   },
+   "render": true
+  }
+ },
+ {
+  "id": "literaturhaus",
+  "name": "Literaturhaus München",
+  "url": "https://www.literaturhaus-muenchen.de/programm/",
+  "categories": [
+   "kultur"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "venue": {
+    "name": "Literaturhaus München",
+    "address": "Salvatorplatz 1, 80333 München",
+    "lat": 48.1418,
+    "lng": 11.5745
+   },
+   "title": ".item-title",
+   "location": ".zeitraum"
+  }
+ },
+ {
+  "id": "mvhs",
+  "name": "Münchner Volkshochschule",
+  "url": "https://www.mvhs.de/",
+  "categories": [
+   "kultur",
+   "wissenschaft"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "keywordsOnly": true
+  }
+ },
+ {
+  "id": "einstein-kultur",
+  "name": "Einstein Kultur",
+  "url": "https://www.einstein-kultur.de/",
+  "categories": [
+   "kultur"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "venue": {
+    "name": "Einstein Kultur",
+    "address": "Einsteinstr. 42, 81675 München",
+    "lat": 48.1355,
+    "lng": 11.601
+   }
+  }
+ },
+ {
+  "id": "olympiapark",
+  "name": "Olympiapark",
+  "url": "https://www.olympiapark.de/de/veranstaltungen/",
+  "categories": [
+   "musik-modern"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "type": "jsonld",
+   "keywordsOnly": true,
+   "fallbackCats": [
+    "musik-modern"
+   ],
+   "exclude": "Eishockey|Fußball|Basketball|Schwimm|Lauf\\b|Marathon|Wassersport|Eislauf|Turnier|EHC|Handball|Volleyball|Messe|Tennis|Eiskunst|Flohmarkt|Markt|Holiday on Ice|Comedy|Tall\\b|Führung|Sport",
+   "include": "Olympiahalle|Olympiastadion|Theatron|Olympia-Eissport"
+  }
+ },
+ {
+  "id": "backstage",
+  "name": "Backstage",
+  "url": "https://www.backstage.eu/events",
+  "categories": [
+   "musik-modern"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "render": true,
+   "venue": {
+    "name": "Backstage",
+    "address": "Reitknechtstr. 6, 80639 München",
+    "lat": 48.1446,
+    "lng": 11.5208
+   },
+   "exclude": "Champions League|Bundesliga|Spieltag|Fußball|Public Viewing|DFB|Länderspiel"
+  }
+ },
+ {
+  "id": "muffatwerk",
+  "name": "Muffatwerk",
+  "url": "https://www.muffatwerk.de/de/events",
+  "categories": [
+   "musik-modern",
+   "kultur"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "venue": {
+    "name": "Muffatwerk",
+    "address": "Zellstr. 4, 81667 München",
+    "lat": 48.1334,
+    "lng": 11.588
+   },
+   "exclude": "Bargeldlose Zahlung|Gutschein",
+   "mixed": true
+  }
+ },
+ {
+  "id": "unterfahrt",
+  "name": "Jazzclub Unterfahrt",
+  "url": "https://www.unterfahrt.de/",
+  "categories": [
+   "musik-modern"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "render": true,
+   "venue": {
+    "name": "Jazzclub Unterfahrt",
+    "address": "Einsteinstr. 42, 81675 München",
+    "lat": 48.1355,
+    "lng": 11.601
+   }
+  }
+ },
+ {
+  "id": "feierwerk",
+  "name": "Feierwerk",
+  "url": "https://www.feierwerk.de/",
+  "categories": [
+   "musik-modern"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "venue": {
+    "name": "Feierwerk",
+    "address": "Hansastr. 39, 81373 München",
+    "lat": 48.1253,
+    "lng": 11.532
+   },
+   "card": "div.event-slide",
+   "title": "img[alt]",
+   "locationRegex": "\\d\\d\\.\\d\\d\\.\\d\\d \\| ([^|]+)"
+  }
+ },
+ {
+  "id": "songkick",
+  "name": "Songkick München",
+  "url": "https://www.songkick.com/metro-areas/28549-germany-munich",
+  "categories": [
+   "musik-modern"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "type": "jsonld",
+   "keywordsOnly": true,
+   "fallbackCats": [
+    "musik-modern"
+   ],
+   "titleStrip": "\\s@\\s.*$"
+  }
+ },
+ {
+  "id": "gasteig",
+  "name": "Gasteig HP8 / Isarphilharmonie",
+  "url": "https://www.gasteig.de/veranstaltungen/",
+  "categories": [
+   "musik-klassisch"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "keywordsOnly": true,
+   "fallbackCats": [
+    "musik-klassisch"
+   ]
+  }
+ },
+ {
+  "id": "mphil",
+  "name": "Münchner Philharmoniker",
+  "url": "https://www.mphil.de/kalender",
+  "categories": [
+   "musik-klassisch"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "render": false,
+   "venue": {
+    "name": "Isarphilharmonie",
+    "address": "Hans-Preißinger-Str. 8, 81379 München",
+    "lat": 48.1114,
+    "lng": 11.5542
+   }
+  }
+ },
+ {
+  "id": "brso",
+  "name": "BR-Symphonieorchester",
+  "url": "https://www.brso.de/konzertkalender/",
+  "categories": [
+   "musik-klassisch"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "render": true
+  }
+ },
+ {
+  "id": "mko",
+  "name": "Münchener Kammerorchester",
+  "url": "https://www.m-k-o.eu/",
+  "categories": [
+   "musik-klassisch"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "venue": {
+    "name": "Prinzregententheater",
+    "address": "Prinzregentenplatz 12, 81675 München",
+    "lat": 48.1395,
+    "lng": 11.604
+   }
+  }
+ },
+ {
+  "id": "prinzregententheater",
+  "name": "Theaterakademie August Everding / Prinzregententheater",
+  "url": "https://theaterakademie.de/de/theater/programm",
+  "categories": [
+   "kultur",
+   "musik-klassisch"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "keywordsOnly": true,
+   "card": "li.datarecord",
+   "title": "a.font-medium",
+   "fallbackCats": [
+    "kultur"
+   ],
+   "maxEvents": 60
+  }
+ },
+ {
+  "id": "bachtrack",
+  "name": "Bachtrack München",
+  "url": "https://bachtrack.com/de_DE/search-concerts/location=muenchen",
+  "categories": [
+   "musik-klassisch"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "render": true
+  }
+ },
+ {
+  "id": "meetup",
+  "name": "Meetup München",
+  "url": "https://www.meetup.com/find/?location=de--M%C3%BCnchen&source=EVENTS",
+  "categories": [
+   "gruppen"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "type": "jsonld",
+   "scope": "filter"
+  }
+ },
+ {
+  "id": "rausgegangen",
+  "name": "Rausgegangen München",
+  "url": "https://rausgegangen.de/muenchen/",
+  "categories": [
+   "gruppen"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "keywordsOnly": true,
+   "card": "a.event-tile",
+   "title": "[data-testid=event-tile-name]",
+   "location": "p.text-bw-medium"
+  }
+ },
+ {
+  "id": "mucbook",
+  "name": "Mucbook",
+  "url": "https://www.mucbook.de/",
+  "categories": [
+   "gruppen"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "type": "tribe",
+   "keywordsOnly": true
+  }
+ },
+ {
+  "id": "debattierclub",
+  "name": "Debattierclub München",
+  "url": "https://debattierclub-muenchen.de/",
+  "categories": [
+   "gruppen",
+   "politik"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "type": "tribe"
+  }
+ },
+ {
+  "id": "kunstverein",
+  "name": "Kunstverein München",
+  "url": "https://www.kunstverein-muenchen.de/de/programm",
+  "categories": [
+   "kultur",
+   "gruppen"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "venue": {
+    "name": "Kunstverein München",
+    "address": "Galeriestr. 4, 80539 München",
+    "lat": 48.1428,
+    "lng": 11.582
+   },
+   "longOk": true
+  }
+ },
+ {
+  "id": "landkreis-muenchen",
+  "name": "Landkreis München",
+  "url": "https://www.landkreis-muenchen.de/",
+  "categories": [
+   "gruppen"
+  ],
+  "region": "Umland",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "keywordsOnly": true
+  }
+ },
+ {
+  "id": "freising",
+  "name": "Freising",
+  "url": "https://www.freising.de/",
+  "categories": [
+   "gruppen"
+  ],
+  "region": "Umland",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "keywordsOnly": true
+  }
+ },
+ {
+  "id": "starnberg",
+  "name": "Starnberg",
+  "url": "https://www.starnberg.de/",
+  "categories": [
+   "gruppen"
+  ],
+  "region": "Umland",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "keywordsOnly": true
+  }
+ },
+ {
+  "id": "dachau",
+  "name": "Dachau",
+  "url": "https://www.dachau.de/",
+  "categories": [
+   "gruppen"
+  ],
+  "region": "Umland",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "keywordsOnly": true
+  }
+ },
+ {
+  "id": "erding",
+  "name": "Erding",
+  "url": "https://www.erding.de/",
+  "categories": [
+   "gruppen"
+  ],
+  "region": "Umland",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "keywordsOnly": true
+  }
+ },
+ {
+  "id": "fuerstenfeld",
+  "name": "Veranstaltungsforum Fürstenfeld",
+  "url": "https://www.fuerstenfeld.de/",
+  "categories": [
+   "kultur"
+  ],
+  "region": "Umland",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "keywordsOnly": true
+  }
+ }
+]
