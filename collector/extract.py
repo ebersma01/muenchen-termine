@@ -282,9 +282,13 @@ def _text(el):
 _PLACE_ONLY = re.compile(r"^(München|Muenchen|Munich|Online|Hybrid|Garching|Freising|Tutzing|Berlin|vor Ort|Präsenz|Webinar)$", re.I)
 
 
+_STATUS_ONLY = re.compile(r"^(verlegt|ausverkauft|sold out|abgesagt|neuer termin|zusatz(?:show|konzert|termin)|restkarten|"
+                          r"wenige tickets|hochverlegt|upgrade|new date|postponed)\b", re.I)
+
+
 def _is_title(t):
     t = t.strip(" |·-–")
-    return not _PLACE_ONLY.match(t) and len(t) >= 4 and sum(c.isalpha() for c in t) >= 4 and not _STOP_TITLES.match(t) and not _DATEISH.match(t)
+    return not _STATUS_ONLY.match(t) and not _PLACE_ONLY.match(t) and len(t) >= 4 and sum(c.isalpha() for c in t) >= 4 and not _STOP_TITLES.match(t) and not _DATEISH.match(t)
 
 
 def _page_year(soup):

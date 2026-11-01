@@ -10,6 +10,7 @@ schreibt sie nach `app/data/events.json`. Die App zeigt dann genau diese Datei a
 | `app/data/events.json` | alle Termine der nächsten 6 Monate (plus laufende Ausstellungen) |
 | `app/data/status.json` | je Quelle: wie viele Termine gefunden/übernommen, Fehlermeldung |
 | `app/data/geocache.json` | gefundene Koordinaten für die Karte (damit jede Adresse nur einmal gesucht wird) |
+| `app/data/detailcache.json` | was auf den Detailseiten der Termine stand (Ort, Adresse, Preis); wird 14 Tage wiederverwendet |
 | `app/data/manual-events.json` | Termine, die man von Hand einträgt; werden immer übernommen |
 
 ## Wann er läuft
@@ -57,6 +58,11 @@ Jede Quelle ist ein Eintrag in `app/data/sources.json`:
 | `titleRegex`, `titlePrefix`, `locationRegex`, `titleStrip` | Feinkorrekturen für Titel und Ort |
 | `detail` | Detailseiten der Termine öffnen, um Uhrzeit und Ort zu ergänzen |
 | `maxEvents` | höchstens so viele Termine dieser Quelle |
+| `noDetail` | Detailseiten dieser Quelle nicht öffnen |
+
+Nach dem Einsammeln öffnet der Sammler für jeden Termin ohne Ort, Adresse oder Preis automatisch
+die verlinkte Detailseite und übernimmt dort genannte Angaben (`collector/detail.py`).
+Mit `--no-detail` lässt sich dieser Schritt beim Testen abschalten.
 
 `"fetch": false` schaltet das automatische Lesen ab (z. B. wenn eine Seite Roboter aussperrt); die
 Quelle bleibt dann trotzdem in der Liste der App.

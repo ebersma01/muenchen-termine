@@ -1210,7 +1210,8 @@
     "lng": 11.588
    },
    "exclude": "Bargeldlose Zahlung|Gutschein",
-   "mixed": true
+   "mixed": true,
+   "link": "a[href*=\"/events/view/\"]"
   }
  },
  {

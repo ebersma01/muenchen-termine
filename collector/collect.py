@@ -151,12 +151,8 @@ def keyword_cats(text, cats):
 
 
 def guess_cost(text):
-    if _FREE.search(text):
-        return "kostenlos"
-    m = _PRICE.search(text)
-    if m:
-        return f"{(m.group(1) or m.group(2)).replace('.', ',')} €"
-    return "unklar"
+    import detail
+    return detail._cost_from_text(text, loose=True) or "unklar"
 
 
 def guess_access(text):
@@ -305,6 +301,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--only", help="nur diese Quellen (Komma-getrennt), nichts schreiben")
     ap.add_argument("--no-render", action="store_true")
+    ap.add_argument("--no-detail", action="store_true", help="Detailseiten nicht öffnen")
     ap.add_argument("--show", type=int, default=0, help="bei --only: so viele Termine anzeigen")
     args = ap.parse_args()
 
@@ -380,6 +377,18 @@ def main():
                     old["venue"] = e["venue"]
             else:
                 all_events[k] = e
+    if not args.no_detail:
+        import detail
+        cache = detail.DetailCache(os.path.join(DATA, "detailcache.json"))
+        t0 = time.time()
+        n_new, n_cached = detail.enrich(list(all_events.values()), sources, cache, geocoder,
+                                        max_fetch=int(os.environ.get("DETAIL_MAX", "900")))
+        all_events = {k: e for k, e in all_events.items() if not e.pop("_drop", False)}
+        cache.save()
+        print(f"Detailseiten: {n_new} neu geladen, {n_cached} aus dem Zwischenspeicher ({time.time() - t0:.0f} s)", flush=True)
+        if only and args.show:
+            for e in list(all_events.values())[: args.show * 3]:
+                print(f"      {e['title'][:45]:<45} | {(e['venue']['name'] or '-')[:30]} | {(e['venue']['address'] or '-')[:35]} | {e['cost']}")
     geocoder.save()
     if only:
         return

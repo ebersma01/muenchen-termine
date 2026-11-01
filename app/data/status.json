@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-01T14:17:16+01:00",
- "total": 1165,
+ "generated": "2026-11-01T15:21:37+01:00",
+ "total": 1172,
  "sources": [
   {
    "id": "bachtrack",
@@ -91,14 +91,6 @@
    "error": "keine Termine erkannt"
   },
   {
-   "id": "dev-events",
-   "name": "dev.events München",
-   "found": 0,
-   "events": 0,
-   "ok": false,
-   "error": "HTTPError: 403 Client Error: Forbidden for url: https://dev.events/EU/DE/Munich"
-  },
-  {
    "id": "dlr",
    "name": "DLR Oberpfaffenhofen",
    "found": 0,
@@ -120,7 +112,7 @@
    "found": 0,
    "events": 0,
    "ok": false,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.einstein-kultur.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.einstei"
+   "error": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
   },
   {
    "id": "eu-kommission",
@@ -160,7 +152,7 @@
    "found": 0,
    "events": 0,
    "ok": false,
-   "error": "Error: Page.content: Unable to retrieve content because the page is navigating and changing the content."
+   "error": "keine Termine erkannt"
   },
   {
    "id": "hm",
@@ -232,7 +224,7 @@
    "found": 0,
    "events": 0,
    "ok": false,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.wirtschaftsbeirat.de', port=443): Max retries exceeded with url: /veranstaltungen/ (Caused by ConnectTimeoutError(<HTTPSConnection"
+   "error": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
   },
   {
    "id": "wirtschaftsrat",
@@ -319,6 +311,14 @@
    "name": "Deutsches Museum",
    "found": 7,
    "events": 4,
+   "ok": true,
+   "error": null
+  },
+  {
+   "id": "dev-events",
+   "name": "dev.events München",
+   "found": 19,
+   "events": 9,
    "ok": true,
    "error": null
   },
