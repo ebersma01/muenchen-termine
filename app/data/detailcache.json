@@ -384,6 +384,14 @@
 "ts": 1793548621,
 "venue": "lieberscholli - space for art, club and culture"
 },
+"https://rausgegangen.de/events/allacher-kunst-und-performance-1/": {
+"address": "Servetstraße 1, 80999 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793549154,
+"venue": "PODIUM @ Schießstätte Allach"
+},
 "https://rausgegangen.de/events/besichtigung-marstallmuseum-mit-museum-nymphenburger-porzell-830/": {
 "address": "Schloß Nymphenburg 208, 80638 München",
 "cost": "kostenlos",
@@ -416,6 +424,22 @@
 "ts": 1793548616,
 "venue": "Kulturhaus Milbertshofen"
 },
+"https://rausgegangen.de/events/dia-de-los-muertos-community-treffen-0/": {
+"address": "Leopoldstraße 13, 80802 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793549152,
+"venue": "Frida - Mexikanisches Restaurant"
+},
+"https://rausgegangen.de/events/escape-the-city-munchen-die-vermisste-opernsangerin-mit-echt-82/": {
+"address": "Max-Joseph-Platz, 80539 München",
+"cost": "79.90 €",
+"lat": null,
+"lng": null,
+"ts": 1793549157,
+"venue": null
+},
 "https://rausgegangen.de/events/european-django-band-0/": {
 "address": "August-Exter-Straße 1, 81245 München",
 "cost": "kostenlos",
@@ -423,6 +447,14 @@
 "lng": null,
 "ts": 1793548616,
 "venue": "Pasinger Fabrik"
+},
+"https://rausgegangen.de/events/flux-community-yoga-46/": {
+"address": "Barerstr. 40, 80333 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793549154,
+"venue": "Flux"
 },
 "https://rausgegangen.de/events/formula1-ausstellung-munchen-156/": {
 "address": "Arnulfstr. 195, 80335 München",
@@ -440,6 +472,14 @@
 "ts": 1793548623,
 "venue": "Nationaltheater München - Bayerische Staatsoper"
 },
+"https://rausgegangen.de/events/herbst-tanzfest-2026-0/": {
+"address": "Curt Mezger Platz 1, 80809 München",
+"cost": "20.00 €",
+"lat": null,
+"lng": null,
+"ts": 1793549154,
+"venue": "Kulturhaus Milbertshofen"
+},
 "https://rausgegangen.de/events/jazz-kids-munchen-new-orleans-jazz-blues-lebendig-authentisc-5/": {
 "address": "Brudermühlstraße 2, 81371 München",
 "cost": "kostenlos",
@@ -456,6 +496,38 @@
 "ts": 1793548622,
 "venue": "Circus Krone München"
 },
+"https://rausgegangen.de/events/junkies-of-dreaming-mahler-3-currentzis-9/": {
+"address": "Sonnenstraße 12a, 80331 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793549154,
+"venue": "City Kinos"
+},
+"https://rausgegangen.de/events/kinderprogramm-ferienworkshop-tanz-0/": {
+"address": "Moosacher St.-Martins-Platz 2, 80992 München",
+"cost": "200.00 €",
+"lat": null,
+"lng": null,
+"ts": 1793549156,
+"venue": "Kultur- und Bürgerhaus Pelkovenschlössl"
+},
+"https://rausgegangen.de/events/kindertheater-in-munchen-kleines-theater-im-pfortnerhaus-505/": {
+"address": "Oberföhringer Straße 156, 81925 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793549156,
+"venue": "Kleines Theater im Pförtnerhaus"
+},
+"https://rausgegangen.de/events/kinotour-leica-ein-jahrhundert-in-bildern-mit-regisseur-rein-0/": {
+"address": "Theatinerstraße 32, 80333 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793549154,
+"venue": "Theatiner Film"
+},
 "https://rausgegangen.de/events/klangskulptur-und-performance-sensing-sites-dekoloniale-geda-2/": {
 "address": "Kunstareal - Luisenstraße 33, 80333 München",
 "cost": "kostenlos",
@@ -463,6 +535,22 @@
 "lng": null,
 "ts": 1793548623,
 "venue": "Lenbachhaus und Kunstbau"
+},
+"https://rausgegangen.de/events/krimi-trail-munchen-maxvorstadt-spektakularer-kunstraub-216/": {
+"address": "Königsplatz, 80333 München",
+"cost": "7.80 €",
+"lat": null,
+"lng": null,
+"ts": 1793549154,
+"venue": "Krimi-Trail München Maxvorstadt"
+},
+"https://rausgegangen.de/events/lesung-und-mitmachprogramm-mit-michaela-koschak-0/": {
+"address": "Schloss Nymphenburg, 80638 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793549156,
+"venue": "Museum Mensch und Natur"
 },
 "https://rausgegangen.de/events/literatur-fur-alle-odyssee-in-vier-lesungen-1/": {
 "address": "Hans-Preißinger-Straße 8, 81379 München",
@@ -496,6 +584,22 @@
 "ts": 1793548616,
 "venue": "Damarante Keramik"
 },
+"https://rausgegangen.de/events/public-health-filmfestival-vergiftete-wahrheit-thema-trinkwa-0/": {
+"address": "Rosenheimer Straße 46, 81669 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793549154,
+"venue": "Rio Kino"
+},
+"https://rausgegangen.de/events/queeres-literaturfestival-munchen-2026-0/": {
+"address": "Hans-Preißinger-Straße 8, 81379 München",
+"cost": "11.00 €",
+"lat": null,
+"lng": null,
+"ts": 1793549154,
+"venue": "Saal X im Gasteig HP8"
+},
 "https://rausgegangen.de/events/salon-luitpold-ard-der-ki-podcast-live-welche-probleme-kann--0/": {
 "address": "Brienner Str. 11, 80333 München",
 "cost": "kostenlos",
@@ -511,6 +615,14 @@
 "lng": null,
 "ts": 1793548623,
 "venue": "Showpalast"
+},
+"https://rausgegangen.de/events/sternengefluster-tanztheater-fur-kinder-2/": {
+"address": "Karl-Schwarzschild-Straße 2, 85748 Garching bei München",
+"cost": "10.00 €",
+"lat": null,
+"lng": null,
+"ts": 1793549156,
+"venue": "ESO Supernova Planetarium & Besucherzentrum"
 },
 "https://rausgegangen.de/events/sunday-tea-book-club-munich-social-circle-4/": {
 "address": "St.-Anna-Straße 31, 80538 München",
@@ -2140,6 +2252,14 @@
 "ts": 1793548347,
 "venue": "Große Aula LMU-Main Building, Geschwister Scholl-Platz 1 Munich"
 },
+"https://www.erding.de/veranstaltungen-detail/lesung-der-eigenen-berufung-folgen": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793549157,
+"venue": "Stadtbücherei"
+},
 "https://www.feierwerk.de/konzert-kulturprogramm/detail/04-11-2026_sechser": {
 "address": null,
 "cost": "23,90 €",
@@ -2434,6 +2554,46 @@
 "lat": null,
 "lng": null,
 "ts": 1793548414,
+"venue": null
+},
+"https://www.kunstverein-muenchen.de/de/programm/ausstellungen/aktuell/george-tourkovasilis": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793549157,
+"venue": null
+},
+"https://www.kunstverein-muenchen.de/de/programm/ausstellungen/aktuell/kitty-kraus": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793549157,
+"venue": null
+},
+"https://www.kunstverein-muenchen.de/de/programm/ausstellungen/vorschau/jahresgaben-2026": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793549157,
+"venue": null
+},
+"https://www.kunstverein-muenchen.de/de/programm/schaufenster/2026/bianca-stone": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793549157,
+"venue": null
+},
+"https://www.kunstverein-muenchen.de/de/programm/veranstaltungen/2026/sound-and-experiment-vision-sequence": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793549157,
 "venue": null
 },
 "https://www.lenbachhaus.de/besuchen/kalender/termin/fuehrung-durch-die-ausstellung-19089": {

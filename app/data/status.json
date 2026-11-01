@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-01T16:57:22+01:00",
- "total": 1170,
+ "generated": "2026-11-01T17:05:57+01:00",
+ "total": 1156,
  "sources": [
   {
    "id": "bachtrack",
@@ -88,7 +88,15 @@
    "found": 0,
    "events": 0,
    "ok": false,
-   "error": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+   "error": "keine Termine erkannt"
+  },
+  {
+   "id": "dev-events",
+   "name": "dev.events München",
+   "found": 0,
+   "events": 0,
+   "ok": false,
+   "error": "HTTPError: 403 Client Error: Forbidden for url: https://dev.events/EU/DE/Munich"
   },
   {
    "id": "dlr",
@@ -112,7 +120,7 @@
    "found": 0,
    "events": 0,
    "ok": false,
-   "error": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.einstein-kultur.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.einstei"
   },
   {
    "id": "eu-kommission",
@@ -152,11 +160,19 @@
    "found": 0,
    "events": 0,
    "ok": false,
-   "error": "keine Termine erkannt"
+   "error": "Error: Page.content: Unable to retrieve content because the page is navigating and changing the content."
   },
   {
    "id": "hm",
    "name": "Hochschule München",
+   "found": 0,
+   "events": 0,
+   "ok": false,
+   "error": "keine Termine erkannt"
+  },
+  {
+   "id": "ifo",
+   "name": "ifo Institut",
    "found": 0,
    "events": 0,
    "ok": false,
@@ -224,7 +240,7 @@
    "found": 0,
    "events": 0,
    "ok": false,
-   "error": "ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.wirtschaftsbeirat.de', port=443): Max retries exceeded with url: /veranstaltungen/ (Caused by ConnectTimeoutError(<HTTPSConnection"
   },
   {
    "id": "wirtschaftsrat",
@@ -311,14 +327,6 @@
    "name": "Deutsches Museum",
    "found": 7,
    "events": 4,
-   "ok": true,
-   "error": null
-  },
-  {
-   "id": "dev-events",
-   "name": "dev.events München",
-   "found": 19,
-   "events": 9,
    "ok": true,
    "error": null
   },
@@ -415,14 +423,6 @@
    "name": "Handwerkskammer für München und Oberbayern",
    "found": 5,
    "events": 4,
-   "ok": true,
-   "error": null
-  },
-  {
-   "id": "ifo",
-   "name": "ifo Institut",
-   "found": 10,
-   "events": 5,
    "ok": true,
    "error": null
   },
