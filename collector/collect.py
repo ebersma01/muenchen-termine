@@ -143,6 +143,8 @@ def _kw_hits(text, kws):
             continue
         if len(kw) <= 3:
             ok = re.search(r"(?<![A-Za-zÄÖÜäöüß-])" + re.escape(kw) + r"(?![A-Za-zÄÖÜäöüß-])", text)
+        elif len(kw) >= 7:
+            ok = re.search(re.escape(kw), text, re.I)  # auch in Wortzusammensetzungen ("Universitätsgottesdienst")
         else:
             ok = re.search(r"(?<![A-Za-zÄÖÜäöüß])" + re.escape(kw), text, re.I)
         if ok:
@@ -150,7 +152,7 @@ def _kw_hits(text, kws):
     return n
 
 
-def best_category(title, desc, cats, defaults, keywords_only=False, fallback=None):
+def best_category(title, desc, cats, defaults, keywords_only=False, fallback=None, broad=False):
     """Genau eine Kategorie: Stichwoerter im Titel zaehlen dreifach, in der Beschreibung einfach.
     Die Standardkategorie der Quelle gilt, solange keine andere klar (mind. 3 Punkte) vorne liegt."""
     tscore = {c["id"]: 3 * _kw_hits(title, c.get("keywords", [])) for c in cats}
@@ -166,6 +168,11 @@ def best_category(title, desc, cats, defaults, keywords_only=False, fallback=Non
         return best if scores[best] > 0 else None
     d = max(defaults, key=lambda c: (scores[c], -defaults.index(c)))
     if best not in defaults and tscore[best] >= 3 and scores[best] >= scores[d] + 3:
+        return best
+    # breit aufgestellte Haeuser: schon ein Titeltreffer einer anderen Kategorie genuegt
+    tbest = max(order, key=lambda c: (tscore[c], scores[c], -order.index(c)))
+    if broad and tscore[tbest] >= 3 and tscore[tbest] > tscore[d]:
+        return tbest
         return best
     return d
 
@@ -307,7 +314,7 @@ def finish(ev, src, cats, geocoder, today):
     if f.get("fallbackType") and f["fallbackType"] not in (ev.get("_type") or ""):
         fb = []
     one = best_category(title, ev.get("description") or "", cats, src.get("categories", []),
-                        keywords_only=bool(f.get("keywordsOnly")), fallback=fb)
+                        keywords_only=bool(f.get("keywordsOnly")), fallback=fb, broad=bool(f.get("broad")))
     catlist = [one] if one else []
     if not catlist:
         return None

@@ -21,7 +21,19 @@
    "Ökonom",
    "Economic",
    "Finance",
-   "Bank"
+   "Bank",
+   "Career Service",
+   "Karriere",
+   "Berufseinstieg",
+   "Bewerbung",
+   "Digitaler Zwilling",
+   "Digitale Zwilling",
+   "digitalen Zwilling",
+   "Bezahlung",
+   "Payment",
+   "Zahlungs",
+   "Fintech",
+   "Gehalt"
   ],
   "builtin": true
  },
@@ -90,7 +102,13 @@
    "Astronomie",
    "Tech Talk",
    "Engineering",
-   "Data"
+   "Data",
+   "Quanten",
+   "Quantencomputing",
+   "Technologie",
+   "Robotik",
+   "Künstliche Intelligenz",
+   "Digitalisierung"
   ],
   "builtin": true
  },
@@ -123,7 +141,21 @@
    "Fotografie",
    "Skulptur",
    "Bühne",
-   "Komödie"
+   "Komödie",
+   "Kirche",
+   "Gottesdienst",
+   "Kardinal",
+   "Bischof",
+   "Glaube",
+   "Religion",
+   "Theolog",
+   "Spiritualität",
+   "Reise",
+   "Radreise",
+   "Reisevortrag",
+   "Reisebericht",
+   "Multivision",
+   "Länderabend"
   ],
   "builtin": true
  },
