@@ -45,5 +45,6 @@ jobs:
             echo "Keine Änderungen."
           else
             git commit -m "Termine aktualisiert $(date +'%d.%m.%Y %H:%M')"
+            git pull --rebase origin main
             git push
           fi
