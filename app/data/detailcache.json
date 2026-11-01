@@ -4511,6 +4511,126 @@
 "ts": 1793542726,
 "venue": "online"
 },
+"https://www.muffatwerk.de/de/events/view/7587/dreiviertelblut": {
+"address": null,
+"cost": "41 €",
+"lat": null,
+"lng": null,
+"ts": 1793543595,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/7631/dari": {
+"address": null,
+"cost": "28 €",
+"lat": null,
+"lng": null,
+"ts": 1793543572,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/7649/chris-klaefford": {
+"address": null,
+"cost": "35,90 €",
+"lat": null,
+"lng": null,
+"ts": 1793543573,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/7708/bonaparte": {
+"address": null,
+"cost": "40 €",
+"lat": null,
+"lng": null,
+"ts": 1793543569,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/7796/soffie": {
+"address": null,
+"cost": "31,80 €",
+"lat": null,
+"lng": null,
+"ts": 1793543572,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/7802/rowli": {
+"address": null,
+"cost": "30 €",
+"lat": null,
+"lng": null,
+"ts": 1793543595,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/7813/jonny-mahoro": {
+"address": null,
+"cost": "28 €",
+"lat": null,
+"lng": null,
+"ts": 1793543586,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/7817/dartagnan": {
+"address": null,
+"cost": "45 €",
+"lat": null,
+"lng": null,
+"ts": 1793543586,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/7824/duo-stiehler-lucaciu": {
+"address": null,
+"cost": "38,50 €",
+"lat": null,
+"lng": null,
+"ts": 1793543605,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/7839/kytes": {
+"address": null,
+"cost": "39,75 €",
+"lat": null,
+"lng": null,
+"ts": 1793543595,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/7843/queenz-of-piano": {
+"address": null,
+"cost": "50 €",
+"lat": null,
+"lng": null,
+"ts": 1793543609,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/7844/stoppok": {
+"address": null,
+"cost": "45,25 €",
+"lat": null,
+"lng": null,
+"ts": 1793543572,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/7848/ina-regen": {
+"address": null,
+"cost": "36,45 €",
+"lat": null,
+"lng": null,
+"ts": 1793543586,
+"venue": "Saal X"
+},
+"https://www.muffatwerk.de/de/events/view/7849/frytz": {
+"address": null,
+"cost": "37,45 €",
+"lat": null,
+"lng": null,
+"ts": 1793543596,
+"venue": "Technikum"
+},
+"https://www.muffatwerk.de/de/events/view/7850/max-von-milland-die-brennenden-herzen": {
+"address": null,
+"cost": "30 €",
+"lat": null,
+"lng": null,
+"ts": 1793543610,
+"venue": "Ampere"
+},
 "https://www.muffatwerk.de/de/events/view/7853/mighty-oaks": {
 "address": null,
 "cost": "35 €",
@@ -4519,6 +4639,38 @@
 "ts": 1793542848,
 "venue": "Muffathalle"
 },
+"https://www.muffatwerk.de/de/events/view/7859/schandmaul": {
+"address": null,
+"cost": "38 €",
+"lat": null,
+"lng": null,
+"ts": 1793543611,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/7877/bulgarian-cartrader": {
+"address": null,
+"cost": "30 €",
+"lat": null,
+"lng": null,
+"ts": 1793543595,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/7879/mine": {
+"address": null,
+"cost": "46,95 €",
+"lat": null,
+"lng": null,
+"ts": 1793543586,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/7885/paulwetz": {
+"address": null,
+"cost": "48,95 €",
+"lat": null,
+"lng": null,
+"ts": 1793543611,
+"venue": "Tonhalle"
+},
 "https://www.muffatwerk.de/de/events/view/7891/frittenbude": {
 "address": null,
 "cost": "28 €",
@@ -4526,6 +4678,54 @@
 "lng": null,
 "ts": 1793542845,
 "venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/7894/kat-frankie-b-o-d-i-e-s": {
+"address": null,
+"cost": "58,29 €",
+"lat": null,
+"lng": null,
+"ts": 1793543609,
+"venue": "Isarphilharmonie"
+},
+"https://www.muffatwerk.de/de/events/view/7899/lichterkinder": {
+"address": null,
+"cost": "39,90 €",
+"lat": null,
+"lng": null,
+"ts": 1793543595,
+"venue": "Circus Krone"
+},
+"https://www.muffatwerk.de/de/events/view/7908/zuna": {
+"address": null,
+"cost": "38 €",
+"lat": null,
+"lng": null,
+"ts": 1793543605,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/7918/ehrenwort": {
+"address": null,
+"cost": "35 €",
+"lat": null,
+"lng": null,
+"ts": 1793543586,
+"venue": "Muffathalle (verlegt aus dem Werk 7)"
+},
+"https://www.muffatwerk.de/de/events/view/7919/mola": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793543607,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/7932/les-barbeaux": {
+"address": null,
+"cost": "28,30 €",
+"lat": null,
+"lng": null,
+"ts": 1793543596,
+"venue": "Ampere"
 },
 "https://www.muffatwerk.de/de/events/view/7934/the-revival-tour": {
 "address": null,
@@ -4551,6 +4751,14 @@
 "ts": 1793542847,
 "venue": "Tonhalle (verlegt aus dem Backstage Werk)"
 },
+"https://www.muffatwerk.de/de/events/view/7954/zimmer90": {
+"address": null,
+"cost": "38,95 €",
+"lat": null,
+"lng": null,
+"ts": 1793543575,
+"venue": "Muffathalle"
+},
 "https://www.muffatwerk.de/de/events/view/7957/apsilon": {
 "address": null,
 "cost": "48 €",
@@ -4558,6 +4766,22 @@
 "lng": null,
 "ts": 1793542843,
 "venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/7967/son-mieux": {
+"address": null,
+"cost": "26 €",
+"lat": null,
+"lng": null,
+"ts": 1793543595,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/7977/karate-andi": {
+"address": null,
+"cost": "37,99 €",
+"lat": null,
+"lng": null,
+"ts": 1793543609,
+"venue": "Ampere"
 },
 "https://www.muffatwerk.de/de/events/view/7978/jose-gonzalez": {
 "address": null,
@@ -4567,6 +4791,78 @@
 "ts": 1793542846,
 "venue": "Muffathalle"
 },
+"https://www.muffatwerk.de/de/events/view/7982/gringo-mayer-und-die-kegelband": {
+"address": null,
+"cost": "34,70 €",
+"lat": null,
+"lng": null,
+"ts": 1793543609,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/7984/soul-kitchen-band": {
+"address": null,
+"cost": "40 €",
+"lat": null,
+"lng": null,
+"ts": 1793543610,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/7985/midge-ure-band-electronica": {
+"address": null,
+"cost": "57,65 €",
+"lat": null,
+"lng": null,
+"ts": 1793543611,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/7988/levin-liam": {
+"address": null,
+"cost": "36,00 €",
+"lat": null,
+"lng": null,
+"ts": 1793543609,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/7992/fatoumata-diawara": {
+"address": null,
+"cost": "45 €",
+"lat": null,
+"lng": null,
+"ts": 1793543595,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/7996/jan-boehmermann-das-rundfunk-tanzorchester-ehrenfeld": {
+"address": null,
+"cost": "55 €",
+"lat": null,
+"lng": null,
+"ts": 1793543609,
+"venue": "Olympiahalle"
+},
+"https://www.muffatwerk.de/de/events/view/7998/arlo-parks": {
+"address": null,
+"cost": "38 €",
+"lat": null,
+"lng": null,
+"ts": 1793543595,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8008/blackout-problems": {
+"address": null,
+"cost": "39,20 €",
+"lat": null,
+"lng": null,
+"ts": 1793543607,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8009/juse-ju": {
+"address": null,
+"cost": "36,20 €",
+"lat": null,
+"lng": null,
+"ts": 1793543609,
+"venue": "Ampere"
+},
 "https://www.muffatwerk.de/de/events/view/8011/ikkimel": {
 "address": null,
 "cost": "55,45 €",
@@ -4574,6 +4870,118 @@
 "lng": null,
 "ts": 1793542845,
 "venue": "Zenith"
+},
+"https://www.muffatwerk.de/de/events/view/8012/jas": {
+"address": null,
+"cost": "39,95 €",
+"lat": null,
+"lng": null,
+"ts": 1793543605,
+"venue": "Technikum"
+},
+"https://www.muffatwerk.de/de/events/view/8013/afrob-ferris-mc": {
+"address": null,
+"cost": "42,50 €",
+"lat": null,
+"lng": null,
+"ts": 1793543572,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8014/dominik-hartz": {
+"address": null,
+"cost": "43,50 €",
+"lat": null,
+"lng": null,
+"ts": 1793543572,
+"venue": "Hansa 39 (verlegt aus der Muffathalle)"
+},
+"https://www.muffatwerk.de/de/events/view/8020/levka": {
+"address": null,
+"cost": "36,10 €",
+"lat": null,
+"lng": null,
+"ts": 1793543609,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8027/kodaline": {
+"address": null,
+"cost": "42,50 €",
+"lat": null,
+"lng": null,
+"ts": 1793543607,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8028/cassia": {
+"address": null,
+"cost": "28 €",
+"lat": null,
+"lng": null,
+"ts": 1793543596,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8041/briada-schwestern": {
+"address": null,
+"cost": "28,20 €",
+"lat": null,
+"lng": null,
+"ts": 1793543607,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8052/sharaktah": {
+"address": null,
+"cost": "31,95 €",
+"lat": null,
+"lng": null,
+"ts": 1793543567,
+"venue": "Strom"
+},
+"https://www.muffatwerk.de/de/events/view/8054/catt": {
+"address": null,
+"cost": "39,75 €",
+"lat": null,
+"lng": null,
+"ts": 1793543609,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8061/gvllow": {
+"address": null,
+"cost": "28,20 €",
+"lat": null,
+"lng": null,
+"ts": 1793543586,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8073/kwam-e": {
+"address": null,
+"cost": "40,95 €",
+"lat": null,
+"lng": null,
+"ts": 1793543605,
+"venue": "Technikum"
+},
+"https://www.muffatwerk.de/de/events/view/8074/ella-stern": {
+"address": null,
+"cost": "30,30 €",
+"lat": null,
+"lng": null,
+"ts": 1793543605,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8075/luca-vasta": {
+"address": null,
+"cost": "36,90 €",
+"lat": null,
+"lng": null,
+"ts": 1793543610,
+"venue": "Technikum"
+},
+"https://www.muffatwerk.de/de/events/view/8076/erra-currents": {
+"address": null,
+"cost": "40 €",
+"lat": null,
+"lng": null,
+"ts": 1793543596,
+"venue": "Muffathalle"
 },
 "https://www.muffatwerk.de/de/events/view/8082/yosho": {
 "address": null,
@@ -4583,6 +4991,14 @@
 "ts": 1793542843,
 "venue": "Ampere"
 },
+"https://www.muffatwerk.de/de/events/view/8085/blanco-white": {
+"address": null,
+"cost": "45,80 €",
+"lat": null,
+"lng": null,
+"ts": 1793543610,
+"venue": "Muffathalle"
+},
 "https://www.muffatwerk.de/de/events/view/8086/cordoba78": {
 "address": null,
 "cost": "27,10 €",
@@ -4591,12 +5007,228 @@
 "ts": 1793542846,
 "venue": "Milla"
 },
+"https://www.muffatwerk.de/de/events/view/8088/editors": {
+"address": null,
+"cost": "53 €",
+"lat": null,
+"lng": null,
+"ts": 1793543609,
+"venue": "Zenith"
+},
+"https://www.muffatwerk.de/de/events/view/8090/king-pigeon": {
+"address": null,
+"cost": "20,50 €",
+"lat": null,
+"lng": null,
+"ts": 1793543595,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8091/saustoimusi": {
+"address": null,
+"cost": "30,80 €",
+"lat": null,
+"lng": null,
+"ts": 1793543607,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8093/against-the-current": {
+"address": null,
+"cost": "38 €",
+"lat": null,
+"lng": null,
+"ts": 1793543595,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8094/de-staat": {
+"address": null,
+"cost": "34,05 €",
+"lat": null,
+"lng": null,
+"ts": 1793543569,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8101/zeck": {
+"address": null,
+"cost": "31,90 €",
+"lat": null,
+"lng": null,
+"ts": 1793543605,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8104/manfred-mann-s-earth-band": {
+"address": null,
+"cost": "53,00 €",
+"lat": null,
+"lng": null,
+"ts": 1793543607,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8113/olli-schulz": {
+"address": null,
+"cost": "36,95 €",
+"lat": null,
+"lng": null,
+"ts": 1793543586,
+"venue": "Isarphilharmonie"
+},
+"https://www.muffatwerk.de/de/events/view/8116/gotts-street-park": {
+"address": null,
+"cost": "32 €",
+"lat": null,
+"lng": null,
+"ts": 1793543607,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8121/razz": {
+"address": null,
+"cost": "33,50 €",
+"lat": null,
+"lng": null,
+"ts": 1793543611,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8129/viko-penglord": {
+"address": null,
+"cost": "30 €",
+"lat": null,
+"lng": null,
+"ts": 1793543607,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8130/tayc": {
+"address": null,
+"cost": "55 €",
+"lat": null,
+"lng": null,
+"ts": 1793543596,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8131/leila": {
+"address": null,
+"cost": "29,95 €",
+"lat": null,
+"lng": null,
+"ts": 1793543610,
+"venue": "Kranhalle"
+},
+"https://www.muffatwerk.de/de/events/view/8132/endless-wellness": {
+"address": null,
+"cost": "38,20 €",
+"lat": null,
+"lng": null,
+"ts": 1793543597,
+"venue": "Technikum"
+},
+"https://www.muffatwerk.de/de/events/view/8133/michael-schulte": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793543609,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8134/leap": {
+"address": null,
+"cost": "30 €",
+"lat": null,
+"lng": null,
+"ts": 1793543595,
+"venue": "Muffathalle"
+},
 "https://www.muffatwerk.de/de/events/view/8138/so-soon": {
 "address": null,
 "cost": null,
 "lat": null,
 "lng": null,
 "ts": 1793542849,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8143/amble": {
+"address": null,
+"cost": "35 €",
+"lat": null,
+"lng": null,
+"ts": 1793543609,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8146/shearwater-loma": {
+"address": null,
+"cost": "29,45 €",
+"lat": null,
+"lng": null,
+"ts": 1793543595,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8147/ness": {
+"address": null,
+"cost": "44,90 €",
+"lat": null,
+"lng": null,
+"ts": 1793543611,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8148/cascada": {
+"address": null,
+"cost": "56,35 €",
+"lat": null,
+"lng": null,
+"ts": 1793543609,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8149/lugatti": {
+"address": null,
+"cost": "35,50 €",
+"lat": null,
+"lng": null,
+"ts": 1793543572,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8150/thylacine": {
+"address": null,
+"cost": "37,20 €",
+"lat": null,
+"lng": null,
+"ts": 1793543611,
+"venue": "Technikum"
+},
+"https://www.muffatwerk.de/de/events/view/8153/saint-stacy": {
+"address": null,
+"cost": "26 €",
+"lat": null,
+"lng": null,
+"ts": 1793543595,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8157/ami-warning-jamaram": {
+"address": null,
+"cost": "40,35 €",
+"lat": null,
+"lng": null,
+"ts": 1793543595,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8159/panicbaby": {
+"address": null,
+"cost": "34,99 €",
+"lat": null,
+"lng": null,
+"ts": 1793543567,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8163/tonic-walter": {
+"address": null,
+"cost": "39,20 €",
+"lat": null,
+"lng": null,
+"ts": 1793543607,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8164/east-forest": {
+"address": null,
+"cost": "35 €",
+"lat": null,
+"lng": null,
+"ts": 1793543596,
 "venue": "Ampere"
 },
 "https://www.muffatwerk.de/de/events/view/8165/belle-sebastian": {
@@ -4607,12 +5239,148 @@
 "ts": 1793542847,
 "venue": "Muffathalle"
 },
+"https://www.muffatwerk.de/de/events/view/8166/matze-rossi": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793543610,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8167/henge": {
+"address": null,
+"cost": "35,20 €",
+"lat": null,
+"lng": null,
+"ts": 1793543609,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8169/leoniden": {
+"address": null,
+"cost": "51,55 €",
+"lat": null,
+"lng": null,
+"ts": 1793543612,
+"venue": "Tonhalle"
+},
+"https://www.muffatwerk.de/de/events/view/8172/traenen": {
+"address": null,
+"cost": "34,50 €",
+"lat": null,
+"lng": null,
+"ts": 1793543610,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8173/murda": {
+"address": null,
+"cost": "32 €",
+"lat": null,
+"lng": null,
+"ts": 1793543595,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8179/jugo-uerdens": {
+"address": null,
+"cost": "29,80 €",
+"lat": null,
+"lng": null,
+"ts": 1793543609,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8183/haus-f": {
+"address": null,
+"cost": "31,90 €",
+"lat": null,
+"lng": null,
+"ts": 1793543611,
+"venue": "Strom"
+},
 "https://www.muffatwerk.de/de/events/view/8185/alexandra-kay": {
 "address": null,
 "cost": "30,60 €",
 "lat": null,
 "lng": null,
 "ts": 1793542850,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8186/madeline-juno": {
+"address": null,
+"cost": "47,20 €",
+"lat": null,
+"lng": null,
+"ts": 1793543610,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8190/jazzanova-live-feat-wayne-snow": {
+"address": null,
+"cost": "39,78 €",
+"lat": null,
+"lng": null,
+"ts": 1793543607,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8195/bac": {
+"address": null,
+"cost": "39,90 €",
+"lat": null,
+"lng": null,
+"ts": 1793543609,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8211/venjent": {
+"address": null,
+"cost": "39,90 €",
+"lat": null,
+"lng": null,
+"ts": 1793543605,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8215/mika-noe": {
+"address": null,
+"cost": "36,90 €",
+"lat": null,
+"lng": null,
+"ts": 1793543607,
+"venue": "Technikum"
+},
+"https://www.muffatwerk.de/de/events/view/8217/anda-morts": {
+"address": null,
+"cost": "39,90 €",
+"lat": null,
+"lng": null,
+"ts": 1793543610,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8218/delta-goodrem": {
+"address": null,
+"cost": "35 €",
+"lat": null,
+"lng": null,
+"ts": 1793543611,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8222/doubtboy-goldy-mp3": {
+"address": null,
+"cost": "30 €",
+"lat": null,
+"lng": null,
+"ts": 1793543607,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8223/get-well-soon": {
+"address": null,
+"cost": "47 €",
+"lat": null,
+"lng": null,
+"ts": 1793543609,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8224/wishbone-ash": {
+"address": null,
+"cost": "46,90 €",
+"lat": null,
+"lng": null,
+"ts": 1793543609,
 "venue": "Ampere"
 },
 "https://www.muffatwerk.de/de/events/view/8225/mor-ve-oetesi": {
@@ -4623,6 +5391,54 @@
 "ts": 1793542848,
 "venue": "Muffathalle"
 },
+"https://www.muffatwerk.de/de/events/view/8230/anais": {
+"address": null,
+"cost": "37,55 €",
+"lat": null,
+"lng": null,
+"ts": 1793543609,
+"venue": "Technikum (verlegt aus dem Strom)"
+},
+"https://www.muffatwerk.de/de/events/view/8233/kahraman-deniz": {
+"address": null,
+"cost": "48,35 €",
+"lat": null,
+"lng": null,
+"ts": 1793543609,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8236/cassmae": {
+"address": null,
+"cost": "29,95 €",
+"lat": null,
+"lng": null,
+"ts": 1793543605,
+"venue": "Strom"
+},
+"https://www.muffatwerk.de/de/events/view/8239/devon-allman-blues-summit": {
+"address": null,
+"cost": "40 €",
+"lat": null,
+"lng": null,
+"ts": 1793543612,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8240/basement": {
+"address": null,
+"cost": "32,50 €",
+"lat": null,
+"lng": null,
+"ts": 1793543609,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8241/lena-linus": {
+"address": null,
+"cost": "35,90 €",
+"lat": null,
+"lng": null,
+"ts": 1793543610,
+"venue": "Ampere"
+},
 "https://www.muffatwerk.de/de/events/view/8242/munich-rocks-fun-for-free": {
 "address": null,
 "cost": "kostenlos",
@@ -4630,6 +5446,150 @@
 "lng": null,
 "ts": 1793542847,
 "venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8243/culcha-candela": {
+"address": null,
+"cost": "58,75 €",
+"lat": null,
+"lng": null,
+"ts": 1793543611,
+"venue": "Zenith"
+},
+"https://www.muffatwerk.de/de/events/view/8244/filow": {
+"address": null,
+"cost": "49,99 €",
+"lat": null,
+"lng": null,
+"ts": 1793543597,
+"venue": "Backstage Werk"
+},
+"https://www.muffatwerk.de/de/events/view/8245/lauren-sanderson": {
+"address": null,
+"cost": "25 €",
+"lat": null,
+"lng": null,
+"ts": 1793543609,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8246/martin-suter": {
+"address": null,
+"cost": "44,95 €",
+"lat": null,
+"lng": null,
+"ts": 1793543569,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8252/heather-nova": {
+"address": null,
+"cost": "45 €",
+"lat": null,
+"lng": null,
+"ts": 1793543610,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8253/graveyard-blues-pills": {
+"address": null,
+"cost": "45 €",
+"lat": null,
+"lng": null,
+"ts": 1793543611,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8258/the-tallest-man-on-earth": {
+"address": null,
+"cost": "37 €",
+"lat": null,
+"lng": null,
+"ts": 1793543609,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8260/fortuna-ehrenfeld": {
+"address": null,
+"cost": "40,50 €",
+"lat": null,
+"lng": null,
+"ts": 1793543611,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8261/mc-windhund": {
+"address": null,
+"cost": "33 €",
+"lat": null,
+"lng": null,
+"ts": 1793543609,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8263/mother-s-finest": {
+"address": null,
+"cost": "59,30 €",
+"lat": null,
+"lng": null,
+"ts": 1793543605,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8268/isar-slam": {
+"address": null,
+"cost": "13 €",
+"lat": null,
+"lng": null,
+"ts": 1793543595,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8269/isar-slam": {
+"address": null,
+"cost": "13 €",
+"lat": null,
+"lng": null,
+"ts": 1793543607,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8271/naft": {
+"address": null,
+"cost": "29,20 €",
+"lat": null,
+"lng": null,
+"ts": 1793543612,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8273/trettmann": {
+"address": null,
+"cost": "59,90 €",
+"lat": null,
+"lng": null,
+"ts": 1793543612,
+"venue": "Zenith"
+},
+"https://www.muffatwerk.de/de/events/view/8277/mcnd-devil-youth-club": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793543605,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8280/palace": {
+"address": null,
+"cost": "37,50 €",
+"lat": null,
+"lng": null,
+"ts": 1793543611,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8282/radio-gong-ue30-party": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793543572,
+"venue": "Muffatwerk All-Area"
+},
+"https://www.muffatwerk.de/de/events/view/8283/betterov": {
+"address": null,
+"cost": "39,05 €",
+"lat": null,
+"lng": null,
+"ts": 1793543611,
+"venue": "Muffathalle"
 },
 "https://www.muffatwerk.de/de/events/view/8284/element-sound-20th-anniversary": {
 "address": null,
@@ -4639,6 +5599,38 @@
 "ts": 1793542845,
 "venue": "Muffatcafé"
 },
+"https://www.muffatwerk.de/de/events/view/8286/liaze": {
+"address": null,
+"cost": "36,90 €",
+"lat": null,
+"lng": null,
+"ts": 1793543609,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8291/royal-blood": {
+"address": null,
+"cost": "50 €",
+"lat": null,
+"lng": null,
+"ts": 1793543610,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8292/deutsche-box-poetry-slam-meisterschaft-2027": {
+"address": null,
+"cost": "18 €",
+"lat": null,
+"lng": null,
+"ts": 1793543609,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8293/herbst": {
+"address": null,
+"cost": "ab 33,90 €",
+"lat": null,
+"lng": null,
+"ts": 1793543611,
+"venue": "Ampere"
+},
 "https://www.muffatwerk.de/de/events/view/8294/decade-of-rnb": {
 "address": null,
 "cost": null,
@@ -4647,6 +5639,14 @@
 "ts": 1793542847,
 "venue": "Muffatcafé"
 },
+"https://www.muffatwerk.de/de/events/view/8296/molec": {
+"address": null,
+"cost": "45 €",
+"lat": null,
+"lng": null,
+"ts": 1793543595,
+"venue": "Ampere"
+},
 "https://www.muffatwerk.de/de/events/view/8297/mor-ve-oetesi": {
 "address": null,
 "cost": "59 €",
@@ -4654,6 +5654,46 @@
 "lng": null,
 "ts": 1793542848,
 "venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8311/silvesterparty": {
+"address": null,
+"cost": "24,90 €",
+"lat": null,
+"lng": null,
+"ts": 1793543607,
+"venue": "Muffatwerk All-Area"
+},
+"https://www.muffatwerk.de/de/events/view/8328/old-but-gold": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793543607,
+"venue": "Muffatwerk All-Area"
+},
+"https://www.muffatwerk.de/de/events/view/8329/la-sonora-santanera": {
+"address": null,
+"cost": "57 €",
+"lat": null,
+"lng": null,
+"ts": 1793543605,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8330/caliente-perreo-friday": {
+"address": null,
+"cost": "15 €",
+"lat": null,
+"lng": null,
+"ts": 1793543572,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/8334/staubkind": {
+"address": null,
+"cost": "46,00 €",
+"lat": null,
+"lng": null,
+"ts": 1793543609,
+"venue": "Ampere"
 },
 "https://www.museum-fuenf-kontinente.de/services/english-summary.html": {
 "address": null,
@@ -5336,6 +6376,22 @@
 "lng": null,
 "ts": 1793542805,
 "venue": "Residenz & Conference Centre and House of Bavarian Industry (Munich)"
+},
+"https://www.unibw.de/home/veranstaltungen/zentrale-termine/m4p-showcase-the-challenge-of-digital-peace-promoting-journalism-in-a-contested-information-environment": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793543564,
+"venue": "UniCasino"
+},
+"https://www.unibw.de/home/veranstaltungen/zentrale-termine/unibw-x-edth-hackathon-fimi-osint-1": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793543564,
+"venue": "Universität der Bundeswehr München"
 },
 "https://www.unibw.de/home/veranstaltungen/zentrale-termine/vertrauen-verantwortung-vernunft-kuenstliche-intelligenz-und-ethik": {
 "address": null,
