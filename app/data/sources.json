@@ -1392,7 +1392,8 @@
     "address": "Prinzregentenplatz 12, 81675 München",
     "lat": 48.1395,
     "lng": 11.604
-   }
+   },
+   "exclude": "^Prinzregententheater|^Akademietheater"
   }
  },
  {
