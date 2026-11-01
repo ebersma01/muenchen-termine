@@ -203,6 +203,11 @@
 "lat": 48.14297,
 "lng": 11.57476
 },
+"bäckerstraße 14, 81241 münchen": {
+"address": "Alten- und Service-Zentrum Pasing, 14, Bäckerstraße, Neupasing, Pasing, Pasing-Obermenzing, München, Bayern, 81241, Deutschland",
+"lat": 48.14546,
+"lng": 11.4613
+},
 "bürgerhaus glockenbachwerkstatt, münchen": null,
 "cafe wildwuchs im werkhaus, münchen": null,
 "caos cafe, münchen": {
@@ -617,6 +622,11 @@
 "lat": 48.1658,
 "lng": 11.6235
 },
+"konigsplatz 1, 80333 münchen": {
+"address": "Staatliche Antikensammlung, 1, Königsplatz, Kunstareal, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80333, Deutschland",
+"lat": 48.14515,
+"lng": 11.56507
+},
 "kranhalle, münchen": {
 "address": "Kranhalle, Hansastraße, Hansapark, Sendling-Westpark, München, Bayern, 81373, Deutschland",
 "lat": 48.12948,
@@ -984,6 +994,16 @@
 "lat": 48.13202,
 "lng": 11.56043
 },
+"occamstraße 8, 80802 münchen": {
+"address": "8, Occamstraße, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80802, Deutschland",
+"lat": 48.16187,
+"lng": 11.5898
+},
+"odeonsplatz 1, 80539 münchen": {
+"address": "FELIX W., 1, Odeonsplatz, Maxvorstadt, München, Bayern, 80333, Deutschland",
+"lat": 48.14299,
+"lng": 11.57742
+},
 "odeonsplatz, münchen": {
 "address": "Odeonsplatz, Brienner Straße, Kreuzviertel, Altstadt-Lehel, München, Bayern, 80333, Deutschland",
 "lat": 48.14277,
@@ -1028,6 +1048,11 @@
 "address": "Palais Club & Bar, 16, Arnulfstraße, Marsfeld, Maxvorstadt, München, Bayern, 80335, Deutschland",
 "lat": 48.14199,
 "lng": 11.55818
+},
+"paosostraße 25, 81243 münchen": {
+"address": "25, Paosostraße, Waldkolonie Pasing, Pasing, Pasing-Obermenzing, München, Bayern, 81243, Deutschland",
+"lat": 48.14322,
+"lng": 11.44736
 },
 "park café münchen": {
 "address": "Park-Café, 7, Sophienstraße, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80333, Deutschland",
@@ -1158,6 +1183,11 @@
 "lng": 11.53253
 },
 "sce creative hall, münchen": null,
+"schleißheimer straße 144, 80797 münchen": {
+"address": "144, Schleißheimer Straße, Schwabing-West, Schwabing, München, Bayern, 80797, Deutschland",
+"lat": 48.16128,
+"lng": 11.56376
+},
 "schloss blutenburg, münchen": {
 "address": "Schloss Blutenburg, 15, Seldweg, Pipping, Obermenzing, Pasing-Obermenzing, München, Bayern, 81247, Deutschland",
 "lat": 48.16309,
@@ -1364,6 +1394,11 @@
 "address": "1, Tölzer Straße, Thalkirchen, Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln, München, Bayern, 81379, Deutschland",
 "lat": 48.10277,
 "lng": 11.53869
+},
+"türkenstraße 86, 80799 münchen": {
+"address": "Galli, 86, Türkenstraße, Am alten nördlichen Friedhof, Maxvorstadt, München, Bayern, 80799, Deutschland",
+"lat": 48.15184,
+"lng": 11.57729
 },
 "u bahnhof olympiazentrum, münchen": null,
 "umweltstation heidehaus, münchen": null,

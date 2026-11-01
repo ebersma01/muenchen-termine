@@ -424,6 +424,14 @@
 "ts": 1793548616,
 "venue": "Kulturhaus Milbertshofen"
 },
+"https://rausgegangen.de/events/das-ultimative-gipfeltreffen-egerlander-oberkrainer-2/": {
+"address": "Marsstraße 43, 80335 München",
+"cost": "49.00 €",
+"lat": null,
+"lng": null,
+"ts": 1793552878,
+"venue": "Circus Krone München"
+},
 "https://rausgegangen.de/events/dia-de-los-muertos-community-treffen-0/": {
 "address": "Leopoldstraße 13, 80802 München",
 "cost": "kostenlos",
@@ -431,6 +439,14 @@
 "lng": null,
 "ts": 1793549152,
 "venue": "Frida - Mexikanisches Restaurant"
+},
+"https://rausgegangen.de/events/dyade-lichtinstallation-in-st-hildegard-von-vanessa-hafenbra-0/": {
+"address": "Paosostraße 25, 81243 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793552878,
+"venue": "St. Hildegard - Pasing"
 },
 "https://rausgegangen.de/events/escape-the-city-munchen-die-vermisste-opernsangerin-mit-echt-82/": {
 "address": "Max-Joseph-Platz, 80539 München",
@@ -472,6 +488,22 @@
 "ts": 1793548623,
 "venue": "Nationaltheater München - Bayerische Staatsoper"
 },
+"https://rausgegangen.de/events/geschichte-live-erleben-mit-historischer-stadtfuhrung-munche-183/": {
+"address": "Odeonsplatz 1, 80539 München",
+"cost": "25.00 €",
+"lat": null,
+"lng": null,
+"ts": 1793552879,
+"venue": "Odeonsplatz"
+},
+"https://rausgegangen.de/events/glaube-377/": {
+"address": "Sonnenstraße 12a, 80331 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793552879,
+"venue": "City Kinos"
+},
 "https://rausgegangen.de/events/herbst-tanzfest-2026-0/": {
 "address": "Curt Mezger Platz 1, 80809 München",
 "cost": "20.00 €",
@@ -479,6 +511,14 @@
 "lng": null,
 "ts": 1793549154,
 "venue": "Kulturhaus Milbertshofen"
+},
+"https://rausgegangen.de/events/hippes-historisches-munchen-schwabing-stadtfuhrung-mit-deine-1019/": {
+"address": "Schleißheimer Straße 144, 80797 München",
+"cost": "15.00 €",
+"lat": null,
+"lng": null,
+"ts": 1793552879,
+"venue": "München, Schleißheimer Straße"
 },
 "https://rausgegangen.de/events/jazz-kids-munchen-new-orleans-jazz-blues-lebendig-authentisc-5/": {
 "address": "Brudermühlstraße 2, 81371 München",
@@ -536,6 +576,14 @@
 "ts": 1793548623,
 "venue": "Lenbachhaus und Kunstbau"
 },
+"https://rausgegangen.de/events/kostenfreier-ferienworkshop-im-tuftellab-robotik-0/": {
+"address": "Freddie-Mercury-Straße 5, 80797 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793552879,
+"venue": "Munich Urban Colab"
+},
 "https://rausgegangen.de/events/krimi-trail-munchen-maxvorstadt-spektakularer-kunstraub-216/": {
 "address": "Königsplatz, 80333 München",
 "cost": "7.80 €",
@@ -543,6 +591,22 @@
 "lng": null,
 "ts": 1793549154,
 "venue": "Krimi-Trail München Maxvorstadt"
+},
+"https://rausgegangen.de/events/kulinarische-stadtfuhrung-kultur-kulinarik-neu-entdecken-146/": {
+"address": "Konigsplatz 1, 80333 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793552879,
+"venue": "Altstadt München"
+},
+"https://rausgegangen.de/events/lennart-schilgen-macht-nichts-lieder-vom-schleifen-und-schle-8/": {
+"address": "Occamstraße 8, 80802 München",
+"cost": "29.00 €",
+"lat": null,
+"lng": null,
+"ts": 1793552878,
+"venue": "Münchner Lustspielhaus"
 },
 "https://rausgegangen.de/events/lesung-und-mitmachprogramm-mit-michaela-koschak-0/": {
 "address": "Schloss Nymphenburg, 80638 München",
@@ -559,6 +623,14 @@
 "lng": null,
 "ts": 1793548627,
 "venue": "Gasteig HP8"
+},
+"https://rausgegangen.de/events/mitspieltheater-schneewittchen-2/": {
+"address": "Türkenstraße 86, 80799 München",
+"cost": "14.20 €",
+"lat": null,
+"lng": null,
+"ts": 1793552878,
+"venue": "Galli Theater Amalienpassage"
 },
 "https://rausgegangen.de/events/nachtflohmarkt-live-musik-streetfood-34/": {
 "address": "Arnulfstr. 195, 80335 München",
@@ -655,6 +727,14 @@
 "lng": null,
 "ts": 1793548627,
 "venue": "Lenbachhaus und Kunstbau"
+},
+"https://rausgegangen.de/events/werkausstellung-aquarell-magie-des-wassers-15-oktober-bis-25-18/": {
+"address": "Bäckerstraße 14, 81241 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793552878,
+"venue": "MVHS in Pasing"
 },
 "https://ru.muenchen.de/2026/206/Buergerversammlung-fuer-den-Stadtbezirk-9-126751": {
 "address": null,
