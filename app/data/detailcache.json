@@ -392,12 +392,28 @@
 "ts": 1793549154,
 "venue": "PODIUM @ Schießstätte Allach"
 },
+"https://rausgegangen.de/events/ausstellung-bunt-auf-bunt-3/": {
+"address": "Situlistraße 73, 80939 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793596999,
+"venue": "Mohr-Villa: Gewölbesaal"
+},
 "https://rausgegangen.de/events/besichtigung-marstallmuseum-mit-museum-nymphenburger-porzell-830/": {
 "address": "Schloß Nymphenburg 208, 80638 München",
 "cost": "kostenlos",
 "lat": null,
 "lng": null,
 "ts": 1793548627,
+"venue": "Marstallmuseum und Museum \"Nymphenburger Porzellan\" in Schloss Nymphenburg"
+},
+"https://rausgegangen.de/events/besichtigung-marstallmuseum-mit-museum-nymphenburger-porzell-831/": {
+"address": "Schloß Nymphenburg 208, 80638 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793596999,
 "venue": "Marstallmuseum und Museum \"Nymphenburger Porzellan\" in Schloss Nymphenburg"
 },
 "https://rausgegangen.de/events/bless-the-mic-rap-meets-poetry-slam-15/": {
@@ -407,6 +423,14 @@
 "lng": null,
 "ts": 1793548627,
 "venue": "Bürgerhaus Glockenbachwerkstatt"
+},
+"https://rausgegangen.de/events/community-nahen-50/": {
+"address": "Claude-Lorrain-Str. 25, 81543 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793596999,
+"venue": "Färberei"
 },
 "https://rausgegangen.de/events/crash-metal-4/": {
 "address": "Ainmillerstraße 10, 80801 München",
@@ -440,6 +464,14 @@
 "ts": 1793549152,
 "venue": "Frida - Mexikanisches Restaurant"
 },
+"https://rausgegangen.de/events/drinkpaint-servietten-technik-munchen-1/": {
+"address": "Baaderstraße 1, 80469 München",
+"cost": "59.00 €",
+"lat": null,
+"lng": null,
+"ts": 1793596999,
+"venue": "Terra Bar"
+},
 "https://rausgegangen.de/events/dyade-lichtinstallation-in-st-hildegard-von-vanessa-hafenbra-0/": {
 "address": "Paosostraße 25, 81243 München",
 "cost": "kostenlos",
@@ -454,6 +486,14 @@
 "lat": null,
 "lng": null,
 "ts": 1793549157,
+"venue": null
+},
+"https://rausgegangen.de/events/escape-the-city-munchen-die-vermisste-opernsangerin-mit-echt-83/": {
+"address": "Max-Joseph-Platz, 80539 München",
+"cost": "79.90 €",
+"lat": null,
+"lng": null,
+"ts": 1793597001,
 "venue": null
 },
 "https://rausgegangen.de/events/european-django-band-0/": {
@@ -480,6 +520,14 @@
 "ts": 1793548627,
 "venue": "Paketposthalle München Pineapple Park"
 },
+"https://rausgegangen.de/events/formula1-ausstellung-munchen-157/": {
+"address": "Arnulfstr. 195, 80335 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793596999,
+"venue": "Paketposthalle München Pineapple Park"
+},
 "https://rausgegangen.de/events/fuhrung-durch-das-nationaltheater-61/": {
 "address": "Max-Joseph-Platz 2, 80539 München",
 "cost": "kostenlos",
@@ -495,6 +543,22 @@
 "lng": null,
 "ts": 1793552879,
 "venue": "Odeonsplatz"
+},
+"https://rausgegangen.de/events/geschichte-live-erleben-mit-historischer-stadtfuhrung-munche-184/": {
+"address": "Odeonsplatz 1, 80539 München",
+"cost": "25.00 €",
+"lat": null,
+"lng": null,
+"ts": 1793596999,
+"venue": "Odeonsplatz"
+},
+"https://rausgegangen.de/events/glaube-374/": {
+"address": "Sonnenstraße 12a, 80331 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793596999,
+"venue": "City Kinos"
 },
 "https://rausgegangen.de/events/glaube-377/": {
 "address": "Sonnenstraße 12a, 80331 München",
@@ -518,6 +582,14 @@
 "lat": null,
 "lng": null,
 "ts": 1793552879,
+"venue": "München, Schleißheimer Straße"
+},
+"https://rausgegangen.de/events/hippes-historisches-munchen-schwabing-stadtfuhrung-mit-deine-1020/": {
+"address": "Schleißheimer Straße 144, 80797 München",
+"cost": "15.00 €",
+"lat": null,
+"lng": null,
+"ts": 1793597001,
 "venue": "München, Schleißheimer Straße"
 },
 "https://rausgegangen.de/events/jazz-kids-munchen-new-orleans-jazz-blues-lebendig-authentisc-5/": {
@@ -592,12 +664,28 @@
 "ts": 1793549154,
 "venue": "Krimi-Trail München Maxvorstadt"
 },
+"https://rausgegangen.de/events/krimi-trail-munchen-maxvorstadt-spektakularer-kunstraub-217/": {
+"address": "Königsplatz, 80333 München",
+"cost": "7.80 €",
+"lat": null,
+"lng": null,
+"ts": 1793596999,
+"venue": "Krimi-Trail München Maxvorstadt"
+},
 "https://rausgegangen.de/events/kulinarische-stadtfuhrung-kultur-kulinarik-neu-entdecken-146/": {
 "address": "Konigsplatz 1, 80333 München",
 "cost": "kostenlos",
 "lat": null,
 "lng": null,
 "ts": 1793552879,
+"venue": "Altstadt München"
+},
+"https://rausgegangen.de/events/kulinarische-stadtfuhrung-kultur-kulinarik-neu-entdecken-147/": {
+"address": "Konigsplatz 1, 80333 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793596999,
 "venue": "Altstadt München"
 },
 "https://rausgegangen.de/events/lennart-schilgen-macht-nichts-lieder-vom-schleifen-und-schle-8/": {
@@ -688,6 +776,14 @@
 "ts": 1793548623,
 "venue": "Showpalast"
 },
+"https://rausgegangen.de/events/stand-up-comedy-workshop-performance-writing-0/": {
+"address": "Candidplatz 9, 81543 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793596994,
+"venue": "Comedy für Freunde Club"
+},
 "https://rausgegangen.de/events/sternengefluster-tanztheater-fur-kinder-2/": {
 "address": "Karl-Schwarzschild-Straße 2, 85748 Garching bei München",
 "cost": "10.00 €",
@@ -703,6 +799,30 @@
 "lng": null,
 "ts": 1793548621,
 "venue": "Laikey Teehaus Munich Social Circle"
+},
+"https://rausgegangen.de/events/super-jet-kinoko-0/": {
+"address": "Reitknechtstr.6, 80639 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793596994,
+"venue": "Backstage Club"
+},
+"https://rausgegangen.de/events/tanzworkshop-lady-style-fur-frauen-0/": {
+"address": "Friedrich-Loy-Straße 16, 80796 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793596999,
+"venue": "ClubIn Internationaler Treff"
+},
+"https://rausgegangen.de/events/textured-art-workshop-mit-strukturpaste-bei-entkorkte-kunst-33/": {
+"address": "Georgenstraße 63, 80799 München",
+"cost": "60.00 €",
+"lat": null,
+"lng": null,
+"ts": 1793596999,
+"venue": "Entkorkte Kunst"
 },
 "https://rausgegangen.de/events/the-close-up-die-munchner-philharmoniker-portraits-von-co-me-26/": {
 "address": "Hans-Preißinger-Straße 8, 81379 München",
@@ -720,6 +840,14 @@
 "ts": 1793551683,
 "venue": "Haus der Kunst"
 },
+"https://rausgegangen.de/events/tune-installation-miriam-adefris-a-hundred-vast-proximities-95/": {
+"address": "Prinzregentenstraße 1, 80538 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793596999,
+"venue": "Haus der Kunst"
+},
 "https://rausgegangen.de/events/was-zu-verschwinden-droht-wird-bild-mensch-natur-kunst-516/": {
 "address": "Kunstareal - Luisenstraße 33, 80333 München",
 "cost": "kostenlos",
@@ -734,6 +862,14 @@
 "lat": null,
 "lng": null,
 "ts": 1793552878,
+"venue": "MVHS in Pasing"
+},
+"https://rausgegangen.de/events/werkausstellung-aquarell-magie-des-wassers-15-oktober-bis-25-19/": {
+"address": "Bäckerstraße 14, 81241 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793596994,
 "venue": "MVHS in Pasing"
 },
 "https://ru.muenchen.de/2026/206/Buergerversammlung-fuer-den-Stadtbezirk-9-126751": {
@@ -2492,6 +2628,14 @@
 "ts": 1793548604,
 "venue": null
 },
+"https://www.gasteig.de/veranstaltungen/konzert-des-brso-takemitsu-britten-rachmaninow/": {
+"address": null,
+"cost": "27 €",
+"lat": null,
+"lng": null,
+"ts": 1793596991,
+"venue": null
+},
 "https://www.gasteig.de/veranstaltungen/raffaele-casarano-bazar-live/": {
 "address": null,
 "cost": "21.7 €",
@@ -2499,6 +2643,14 @@
 "lng": null,
 "ts": 1793548605,
 "venue": null
+},
+"https://www.gasteig.de/veranstaltungen/tommi-2026/": {
+"address": "München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793596991,
+"venue": "Obergeschoss, Gaming/Update, Gasteig Motorama"
 },
 "https://www.gasteig.de/veranstaltungen/we-are-video-spark-b0094/": {
 "address": null,
@@ -2530,6 +2682,14 @@
 "lat": null,
 "lng": null,
 "ts": 1793548417,
+"venue": null
+},
+"https://www.hausderkunst.de/veranstaltungen/familienführung-zu-tomás-saraceno-verwobene-welten-325218": {
+"address": null,
+"cost": "5 €",
+"lat": null,
+"lng": null,
+"ts": 1793596990,
 "venue": null
 },
 "https://www.hausderkunst.de/veranstaltungen/herbstferien-workshop-zu-tomás-saraceno-in-collaboration-verwobene-welten-326255": {
@@ -2708,6 +2868,14 @@
 "ts": 1793548417,
 "venue": "Lenbachhaus München"
 },
+"https://www.lenbachhaus.de/besuchen/kalender/termin/knight-gambit-19176": {
+"address": "Luisenstrasse 33, 80333 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793596990,
+"venue": "Lenbachhaus München"
+},
 "https://www.lenbachhaus.de/besuchen/kalender/termin/sensing-sites-dekoloniale-gedaechtnissuche-19151": {
 "address": "Luisenstrasse 33, 80333 München",
 "cost": null,
@@ -2730,6 +2898,14 @@
 "lat": null,
 "lng": null,
 "ts": 1793548417,
+"venue": "Lenbachhaus München"
+},
+"https://www.lenbachhaus.de/besuchen/kalender/termin/up-in-die-laterne-19158": {
+"address": "Luisenstrasse 33, 80333 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793596990,
 "venue": "Lenbachhaus München"
 },
 "https://www.lenbachhaus.de/en/program/exhibitions/details/maria-jarema": {
@@ -3364,6 +3540,14 @@
 "ts": 1793548407,
 "venue": "wird angekündigt"
 },
+"https://www.lmu.de/de/newsroom/veranstaltungskalender/veranstaltung/die-persoenliche-energiebilanz-mentale-gesundheit-im-arbeitsalltag-abde5416.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793596990,
+"venue": "Online"
+},
 "https://www.lmu.de/de/newsroom/veranstaltungskalender/veranstaltung/die-register-des-universums-d1c39769.html": {
 "address": "Universitätskirche St. Ludwig Ludwigstraße 22, 80539 München",
 "cost": null,
@@ -3548,6 +3732,14 @@
 "ts": 1793548608,
 "venue": null
 },
+"https://www.meetup.com/ai-agents-munich/events/317090453/": {
+"address": "Adams-Lehmann-Straße 44, 80797 München-Schwabing-West, Germany, München, BY, München",
+"cost": "150.00 €",
+"lat": null,
+"lng": null,
+"ts": 1793596991,
+"venue": "commercetools GmbH"
+},
 "https://www.meetup.com/aws-munich/events/317187519/": {
 "address": "Seitzstraße 8e, 80538 München, Germany, München, BY, München",
 "cost": "150.00 €",
@@ -3572,6 +3764,14 @@
 "ts": 1793548615,
 "venue": "Netlight Consulting GmbH"
 },
+"https://www.meetup.com/highperformer/events/315639526/": {
+"address": "Sophienstraße 28, 80333, München, München",
+"cost": "150.00 €",
+"lat": null,
+"lng": null,
+"ts": 1793596991,
+"venue": "The Charles Hotel"
+},
 "https://www.meetup.com/munich-co-founder-matching/events/316880160/": {
 "address": "Tölzer Str. 1, Munich, Munich",
 "cost": "150.00 €",
@@ -3579,6 +3779,14 @@
 "lng": null,
 "ts": 1793548615,
 "venue": "NanoTemper Technologies GmbH"
+},
+"https://www.meetup.com/munich-social-gaming/events/314674392/": {
+"address": "Neuschwansteinpl. 12, München, BY, München",
+"cost": "150.00 €",
+"lat": null,
+"lng": null,
+"ts": 1793596991,
+"venue": null
 },
 "https://www.meetup.com/sremuc/events/317132304/": {
 "address": "Erika-Mann-Straße 33, 80636 München, Germany, München, BY, München",
@@ -3603,6 +3811,14 @@
 "lng": null,
 "ts": 1793548409,
 "venue": "München"
+},
+"https://www.mphil.de/konzerte-und-karten/kalender/konzerte/frag-die-profis-streicher-2026-12-05-16-30-00": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793596991,
+"venue": "Kleiner Saal, Haus K"
 },
 "https://www.mphil.de/ueber-uns/musikerinnen-und-musiker/details/floris-mijnders": {
 "address": null,
@@ -5556,6 +5772,14 @@
 "ts": 1793548527,
 "venue": "Muffathalle"
 },
+"https://www.muffatwerk.de/de/events/view/8301/carla-ahad": {
+"address": null,
+"cost": "30,30 €",
+"lat": null,
+"lng": null,
+"ts": 1793596990,
+"venue": "Ampere"
+},
 "https://www.muffatwerk.de/de/events/view/8311/silvesterparty": {
 "address": null,
 "cost": "24,90 €",
@@ -6333,6 +6557,22 @@
 "ts": 1793548597,
 "venue": "Halle, Backstage"
 },
+"https://www.songkick.com/concerts/43067408-dust-bolt-at-halle-backstage?utm_medium=organic&utm_source=microformat": {
+"address": "Reitknechtstrasse 6, 80639 Munich",
+"cost": "29.20 €",
+"lat": 48.14491,
+"lng": 11.52166,
+"ts": 1793596990,
+"venue": "Halle, Backstage"
+},
+"https://www.songkick.com/concerts/43078397-die-drei-kids-at-backstage?utm_medium=organic&utm_source=microformat": {
+"address": "Reitknechtstrasse 6, 80639 Munich",
+"cost": null,
+"lat": 48.14498,
+"lng": 11.52191,
+"ts": 1793596990,
+"venue": "Backstage"
+},
 "https://www.songkick.com/concerts/43088154-meltdown-au-at-kranhalle-feierwerk?utm_medium=organic&utm_source=microformat": {
 "address": "Hansastr. 39, 81373 Munich",
 "cost": "33.70 €",
@@ -6357,6 +6597,22 @@
 "ts": 1793548597,
 "venue": "Muffathalle"
 },
+"https://www.songkick.com/concerts/43110663-in-extremo-at-circus-kronebau?utm_medium=organic&utm_source=microformat": {
+"address": "Marsstraße 43, 80335 Munich",
+"cost": "72.90 €",
+"lat": 48.14559,
+"lng": 11.55048,
+"ts": 1793596990,
+"venue": "Circus Krone-Bau"
+},
+"https://www.songkick.com/concerts/43110810-new-roses-at-werk-backstage?utm_medium=organic&utm_source=microformat": {
+"address": "Reitknechtstrasse 6, 80639 Munich",
+"cost": "39.20 €",
+"lat": 48.14491,
+"lng": 11.52166,
+"ts": 1793596990,
+"venue": "Werk, Backstage"
+},
 "https://www.songkick.com/concerts/43123774-st-paul-and-the-broken-bones-at-strom?utm_medium=organic&utm_source=microformat": {
 "address": "Lindwurmstraße 88, 80337 Munich",
 "cost": "44.50 €",
@@ -6372,6 +6628,14 @@
 "lng": null,
 "ts": 1793548593,
 "venue": "TonHalle München"
+},
+"https://www.songkick.com/concerts/43149610-bleachers-at-tonhalle-kultfabrik?utm_medium=organic&utm_source=microformat": {
+"address": "Grafinger Strasse 6, 81671 Munich",
+"cost": "66.74 €",
+"lat": 48.12375,
+"lng": 11.60761,
+"ts": 1793596990,
+"venue": "Tonhalle - Kultfabrik"
 },
 "https://www.songkick.com/concerts/43157782-to-athena-at-milla-club?utm_medium=organic&utm_source=microformat": {
 "address": "Holzstrasse 28, 80469 Munich",

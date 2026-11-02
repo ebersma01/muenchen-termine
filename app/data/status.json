@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-01T18:17:13+01:00",
- "total": 1135,
+ "generated": "2026-11-02T06:23:27+01:00",
+ "total": 1186,
  "sources": [
   {
    "id": "bachtrack",
@@ -219,28 +219,12 @@
    "error": "Termine gefunden, aber keiner passt (Zeitraum/Ort/Kategorie)"
   },
   {
-   "id": "staatsoper",
-   "name": "Bayerische Staatsoper",
-   "found": 0,
-   "events": 0,
-   "ok": false,
-   "error": "keine Termine erkannt"
-  },
-  {
    "id": "starnberg",
    "name": "Starnberg",
    "found": 5,
    "events": 0,
    "ok": false,
    "error": "Termine gefunden, aber keiner passt (Zeitraum/Ort/Kategorie)"
-  },
-  {
-   "id": "unibw",
-   "name": "Universität der Bundeswehr München",
-   "found": 0,
-   "events": 0,
-   "ok": false,
-   "error": "ConnectTimeout: HTTPSConnectionPool(host='www.unibw.de', port=443): Max retries exceeded with url: /home/events-search (Caused by ConnectTimeoutError(<HTTPSConnection(host='www"
   },
   {
    "id": "wirtschaftsbeirat",
@@ -270,7 +254,7 @@
    "id": "amerikahaus",
    "name": "Amerikahaus",
    "found": 15,
-   "events": 9,
+   "events": 8,
    "ok": true,
    "error": null
   },
@@ -350,7 +334,7 @@
    "id": "ev-akademie-tutzing",
    "name": "Evangelische Akademie Tutzing",
    "found": 18,
-   "events": 16,
+   "events": 14,
    "ok": true,
    "error": null
   },
@@ -389,8 +373,8 @@
   {
    "id": "gasteig",
    "name": "Gasteig HP8 / Isarphilharmonie",
-   "found": 12,
-   "events": 10,
+   "found": 14,
+   "events": 12,
    "ok": true,
    "error": null
   },
@@ -445,8 +429,8 @@
   {
    "id": "kammerspiele",
    "name": "Münchner Kammerspiele",
-   "found": 140,
-   "events": 118,
+   "found": 139,
+   "events": 117,
    "ok": true,
    "error": null
   },
@@ -485,8 +469,8 @@
   {
    "id": "literaturhaus",
    "name": "Literaturhaus München",
-   "found": 73,
-   "events": 71,
+   "found": 72,
+   "events": 70,
    "ok": true,
    "error": null
   },
@@ -509,8 +493,8 @@
   {
    "id": "meetup",
    "name": "Meetup München",
-   "found": 9,
-   "events": 5,
+   "found": 12,
+   "events": 8,
    "ok": true,
    "error": null
   },
@@ -533,7 +517,7 @@
   {
    "id": "mpg",
    "name": "Max-Planck-Gesellschaft",
-   "found": 13,
+   "found": 12,
    "events": 2,
    "ok": true,
    "error": null
@@ -573,7 +557,7 @@
   {
    "id": "muffatwerk",
    "name": "Muffatwerk",
-   "found": 225,
+   "found": 224,
    "events": 150,
    "ok": true,
    "error": null
@@ -590,7 +574,7 @@
    "id": "munich-travel",
    "name": "munich.travel Ausstellungen",
    "found": 36,
-   "events": 19,
+   "events": 18,
    "ok": true,
    "error": null
   },
@@ -638,15 +622,15 @@
    "id": "rausgegangen",
    "name": "Rausgegangen München",
    "found": 515,
-   "events": 75,
+   "events": 70,
    "ok": true,
    "error": null
   },
   {
    "id": "residenztheater",
    "name": "Residenztheater",
-   "found": 62,
-   "events": 62,
+   "found": 60,
+   "events": 60,
    "ok": true,
    "error": null
   },
@@ -655,6 +639,14 @@
    "name": "Songkick München",
    "found": 50,
    "events": 49,
+   "ok": true,
+   "error": null
+  },
+  {
+   "id": "staatsoper",
+   "name": "Bayerische Staatsoper",
+   "found": 59,
+   "events": 52,
    "ok": true,
    "error": null
   },
@@ -691,10 +683,18 @@
    "error": null
   },
   {
+   "id": "unibw",
+   "name": "Universität der Bundeswehr München",
+   "found": 7,
+   "events": 7,
+   "ok": true,
+   "error": null
+  },
+  {
    "id": "unterfahrt",
    "name": "Jazzclub Unterfahrt",
    "found": 15,
-   "events": 11,
+   "events": 10,
    "ok": true,
    "error": null
   },

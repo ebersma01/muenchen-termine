@@ -24,6 +24,7 @@
 "lng": 11.56873
 },
 "acatech forum am karolinenplatz 4!, münchen": null,
+"adams-lehmann-straße 44, 80797 münchen-schwabing-west, germany, münchen, by, münchen": null,
 "agv akademischer gesangverein münchen": null,
 "akademiestr. 2-4, 80799 münchen": {
 "address": "Akademie der Bildenden Künste München, 2-4, Akademiestraße, Am alten nördlichen Friedhof, Maxvorstadt, München, Bayern, 80799, Deutschland",
@@ -114,6 +115,8 @@
 "lng": 11.52387
 },
 "aspekte galerie der mvhs im gasteig hp8, münchen": null,
+"aspekte galerie im einstein 28, münchen": null,
+"atelier kevo, münchen": null,
 "atelierstraße 24, 81671 munich": {
 "address": "TonHalle, 24, Atelierstraße, Werksviertel München, Berg am Laim, München, Bayern, 81671, Deutschland",
 "lat": 48.12391,
@@ -130,6 +133,7 @@
 "lat": 48.12622,
 "lng": 11.58497
 },
+"backstage club, münchen": null,
 "backstage kultur- und veranstaltungszentrum, münchen": null,
 "backstage werk, münchen": null,
 "bahnhofsplatz 5, 81241 münchen": {
@@ -183,6 +187,7 @@
 "lng": 11.58399
 },
 "biom biotech cluster development gmbh, martinsried": null,
+"blackbox i alexander tutsek-stiftung, münchen": null,
 "blumenstraße 7, 80331 münchen": {
 "address": "Glockenbachwerkstatt, 7, Blumenstraße, Angerviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
 "lat": 48.13352,
@@ -192,6 +197,11 @@
 "address": "BMW Museum, 2, Am Olympiapark, Am Riesenfeld, Milbertshofen-Am Hart, München, Bayern, 80809, Deutschland",
 "lat": 48.1769,
 "lng": 11.55907
+},
+"bob's im alten pumpenwerk, münchen": {
+"address": "BOB's im alten Pumpenwerk, 16, Kaflerstraße, Villenkolonie Pasing II, Pipping, Pasing, Pasing-Obermenzing, München, Bayern, 81241, Deutschland",
+"lat": 48.14995,
+"lng": 11.4578
 },
 "brasserie »oskarmaria«, münchen": {
 "address": "Brasserie OskarMaria, 1, Salvatorplatz, Kreuzviertel, Altstadt-Lehel, München, Bayern, 80333, Deutschland",
@@ -210,6 +220,16 @@
 },
 "bürgerhaus glockenbachwerkstatt, münchen": null,
 "cafe wildwuchs im werkhaus, münchen": null,
+"café pfefferminza, münchen": {
+"address": "Pfefferminza, 28, Soyerhofstraße, Neuharlaching, Untergiesing-Harlaching, Giesing, München, Bayern, 81547, Deutschland",
+"lat": 48.10059,
+"lng": 11.58155
+},
+"candidplatz 9, 81543 münchen": {
+"address": "Comedy für Freunde, 9, Candidplatz, Untergiesing-Harlaching, Giesing, München, Bayern, 81543, Deutschland",
+"lat": 48.11143,
+"lng": 11.5709
+},
 "caos cafe, münchen": {
 "address": "Caos, 3, Christophstraße, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80538, Deutschland",
 "lat": 48.14132,
@@ -234,6 +254,12 @@
 },
 "circus-krone-bau, münchen": null,
 "city kinos, münchen": null,
+"claude-lorrain-str. 25, 81543 münchen": {
+"address": "25, Claude-Lorrain-Straße, Untergiesing-Harlaching, Giesing, München, Bayern, 81543, Deutschland",
+"lat": 48.11935,
+"lng": 11.56986
+},
+"clubin internationaler treff, münchen": null,
 "coart academy & events, münchen": null,
 "comedy für freunde club, münchen": null,
 "corleone, münchen": {
@@ -279,6 +305,11 @@
 "lat": 48.14367,
 "lng": 11.58054
 },
+"die krake, münchen": {
+"address": "Die Krake, 22, Reichenbachstraße, Gärtnerplatz, Isarvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80469, Deutschland",
+"lat": 48.13026,
+"lng": 11.57567
+},
 "die macherei, münchen": {
 "address": "Die Macherei, Baumkirchen, Berg am Laim, München, Bayern, Deutschland",
 "lat": 48.13029,
@@ -289,6 +320,7 @@
 "lat": 48.14236,
 "lng": 11.57053
 },
+"diy & drinks atelier, münchen": null,
 "dreifach- sporthalle gaißacher str. 8, 80333 münchen": null,
 "dreifachsporthalle adolf-weber-gymnasiums kapschstraße 4, 80636 münchen": null,
 "dreifachturnhalle, schrobenhausener straße 17, 80686 münchen": null,
@@ -335,6 +367,7 @@
 "lat": 48.14883,
 "lng": 11.58004
 },
+"familienhäuschen gabriela, münchen": null,
 "feierwerk / hansa 39, münchen": {
 "address": "Radio Feierwerk, 39, Hansastraße, Hansapark, Sendling-Westpark, München, Bayern, 81373, Deutschland",
 "lat": 48.12891,
@@ -369,6 +402,16 @@
 "lng": 11.5617
 },
 "frida - mexikanisches restaurant, münchen": null,
+"friedrich-loy-straße 16, 80796 münchen": {
+"address": "16, Friedrich-Loy-Straße, Schwabing-West, Schwabing, München, Bayern, 80796, Deutschland",
+"lat": 48.16294,
+"lng": 11.56576
+},
+"färberei, münchen": {
+"address": "Die Färberei, Untere Weidenstraße, Untergiesing-Harlaching, Giesing, München, Bayern, 81543, Deutschland",
+"lat": 48.11926,
+"lng": 11.57012
+},
 "gabelsbergerstraße 6, 80333 münchen": {
 "address": "St. Markus, 6, Gabelsbergerstraße, Maxvorstadt, München, Bayern, 80333, Deutschland",
 "lat": 48.1461,
@@ -390,6 +433,7 @@
 "lat": 48.25251,
 "lng": 11.62385
 },
+"garibaldi marienplatz, münchen": null,
 "garibaldi museumsviertel, münchen": null,
 "gartensalon, münchen": {
 "address": "Gartensalon, 90, Türkenstraße, Am alten nördlichen Friedhof, Maxvorstadt, München, Bayern, 80799, Deutschland",
@@ -407,6 +451,11 @@
 "address": "gehölz, 45, Schellingstraße, Kunstareal, Maxvorstadt, München, Bayern, 80799, Deutschland",
 "lat": 48.15066,
 "lng": 11.57419
+},
+"georgenstraße 63, 80799 münchen": {
+"address": "63, Georgenstraße, Am alten nördlichen Friedhof, Maxvorstadt, München, Bayern, 80799, Deutschland",
+"lat": 48.15612,
+"lng": 11.57144
 },
 "geschlossene schulvorstellung, münchen": null,
 "gewerkschaftshaus, münchen": null,
@@ -462,10 +511,20 @@
 "lat": 48.1295,
 "lng": 11.53344
 },
+"hard rock cafe münchen": {
+"address": "Hard Rock Cafe, 1, Platzl, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
+"lat": 48.13773,
+"lng": 11.57955
+},
 "haus der bayerischen wirtschaft, münchen": {
 "address": "Haus der Bayerischen Wirtschaft, 5, Max-Joseph-Straße, Kunstareal, Maxvorstadt, München, Bayern, 80333, Deutschland",
 "lat": 48.14311,
 "lng": 11.56976
+},
+"haus der eigenarbeit (hei), münchen": {
+"address": "HEi, Haus der Eigenarbeit, 42, Wörthstraße, Haidhausen-Nord, Haidhausen, Au-Haidhausen, München, Bayern, 81667, Deutschland",
+"lat": 48.12873,
+"lng": 11.60198
 },
 "haus der kunst, münchen": {
 "address": "Haus der Kunst, Prinzregentenstraße, Lehel, Altstadt-Lehel, München, Bayern, 80538, Deutschland",
@@ -563,6 +622,11 @@
 "lat": 48.1354,
 "lng": 11.60088
 },
+"josefa, münchen": {
+"address": "Josefastraße, Hollern, Unterschleißheim, Landkreis München, Bayern, 85716, Deutschland",
+"lat": 48.27095,
+"lng": 11.58538
+},
 "jugendkirche \"zum guten hirten\", münchen": null,
 "jump house münchen": {
 "address": "JUMP House München, 172, Ingolstädter Straße, Neufreimann, Freimann, Schwabing-Freimann, München, Bayern, 80939, Deutschland",
@@ -600,6 +664,8 @@
 "lat": 48.13407,
 "lng": 11.56718
 },
+"keramik blumenschein, münchen": null,
+"kesselhaus motorworld, münchen": null,
 "kesselhaus münchen": {
 "address": "Kesselhaus, 33, Lilienthalallee, Alt-Freimann, Freimann, Schwabing-Freimann, München, Bayern, 80939, Deutschland",
 "lat": 48.1955,
@@ -617,6 +683,8 @@
 "lat": 48.17466,
 "lng": 11.55235
 },
+"kleiner saal, haus k, münchen": null,
+"kleines spiel - figurentheater für erwachsene, münchen": null,
 "kleines theater im pförtnerhaus, münchen": {
 "address": "Kleines Theater im Pförtnerhaus, 156, Oberföhringer Straße, Gartenstadt Bogenhausen-Priel, Priel, Oberföhring, Bogenhausen, München, Bayern, 81925, Deutschland",
 "lat": 48.1658,
@@ -637,12 +705,22 @@
 "krimi-trail münchen maxvorstadt": null,
 "kult9, münchen": null,
 "kultur im schlachthof, münchen": null,
+"kultur im trafo, münchen": {
+"address": "Kultur im Trafo, 171a, Nymphenburger Straße, Gern, Neuhausen-Nymphenburg, München, Bayern, 80634, Deutschland",
+"lat": 48.15514,
+"lng": 11.5312
+},
 "kultur- und bürgerhaus pelkovenschlössl, münchen": null,
 "kulturbühne silbersaal, münchen": null,
 "kulturhaus milbertshofen, münchen": {
 "address": "Kulturhaus Milbertshofen, Curt-Mezger-Platz, Am Riesenfeld, Milbertshofen-Am Hart, München, Bayern, 80807, Deutschland",
 "lat": 48.18212,
 "lng": 11.56716
+},
+"kulturhaus neuperlach, münchen": {
+"address": "Kulturhaus Neuperlach, Ständlerstraße, Neuperlach, Ramersdorf-Perlach, München, Bayern, 81735, Deutschland",
+"lat": 48.10726,
+"lng": 11.64483
 },
 "kulturstrand münchen isar": null,
 "kulturzentrum 2411, münchen": {
@@ -822,6 +900,11 @@
 "lat": 48.1522,
 "lng": 11.56881
 },
+"maximiliansforum, münchen": {
+"address": "MaximiliansForum, Maximilianstraße, Lehel, Altstadt-Lehel, München, Bayern, 80538, Deutschland",
+"lat": 48.13825,
+"lng": 11.58448
+},
 "mehrzweckhalle, an der georg-zech-allee 15-17, 80995 münchen": null,
 "menzinger weinladen, münchen": {
 "address": "Menzinger Weinladen, 148, Allacher Straße, Hartmannshofen, Untermenzing, Allach-Untermenzing, München, Bayern, 80997, Deutschland",
@@ -847,6 +930,12 @@
 "address": "Mohr-Villa, Situlistraße, Gartenstadt Freimann, Alt-Freimann, Freimann, Schwabing-Freimann, München, Bayern, 80939, Deutschland",
 "lat": 48.19393,
 "lng": 11.61817
+},
+"mohr-villa: gewölbesaal, münchen": null,
+"monacensia im hildebrandhaus, münchen": {
+"address": "Monacensia im Hildebrandhaus, 23, Maria-Theresia-Straße, Altbogenhausen, Bogenhausen, München, Bayern, 81675, Deutschland",
+"lat": 48.14359,
+"lng": 11.59891
 },
 "moon bar lehel, münchen": {
 "address": "The Moon Bar Lehel, 5, Thierschplatz, Lehel, Altstadt-Lehel, München, Bayern, 80538, Deutschland",
@@ -895,10 +984,16 @@
 "lng": 11.55176
 },
 "munich vegan tours meeting point": null,
+"munich wine rebels": null,
 "museum brandhorst, münchen": {
 "address": "Museum Brandhorst, 35a, Theresienstraße, Kunstareal, Maxvorstadt, München, Bayern, 80333, Deutschland",
 "lat": 48.14812,
 "lng": 11.57409
+},
+"museum fünf kontinente, münchen": {
+"address": "Museum Fünf Kontinente, 42, Maximilianstraße, Lehel, Altstadt-Lehel, München, Bayern, 80538, Deutschland",
+"lat": 48.13752,
+"lng": 11.58578
 },
 "museum mensch und natur, münchen": {
 "address": "Museum Mensch und Natur, Maria-Ward-Straße, Nymphenburg, Neuhausen-Nymphenburg, München, Bayern, 80638, Deutschland",
@@ -910,6 +1005,7 @@
 "lat": 48.10301,
 "lng": 11.60223
 },
+"mvhs am scheidplatz, münchen": null,
 "mvhs einstein 28, münchen": null,
 "mvhs in pasing": null,
 "myposter, münchen": {
@@ -987,6 +1083,11 @@
 "nationaltheater münchen - bayerische staatsoper": null,
 "neue akropolis münchen": null,
 "neue ziegelei - zentrum für soziales und kultur, münchen": null,
+"neuschwansteinpl. 12, münchen, by, münchen": {
+"address": "NachbarschaftsTreff Giesing, 12, Neuschwansteinplatz, Stadelheim, Fasangarten, Obergiesing-Fasangarten, München, Bayern, 81549, Deutschland",
+"lat": 48.1058,
+"lng": 11.59143
+},
 "ns-dokumentationszentrum münchen, max-mannheimer-platz 1, 80333 münchen & livestream": null,
 "ns-dokuzentrum, münchen": null,
 "nußbaumstr. 5, 80336 münchen": {
@@ -1030,6 +1131,7 @@
 "lat": 48.16479,
 "lng": 11.54715
 },
+"onederwine, münchen": null,
 "online, münchen": {
 "address": "Khoa Nguyen - Online Marketing Freelancer, 30, Freibadstraße, Untergiesing-Harlaching, Giesing, München, Bayern, 81543, Deutschland",
 "lat": 48.11848,
@@ -1043,6 +1145,7 @@
 },
 "otium concept, münchen": null,
 "out of the blox - lego bauraum für erwachsene. und kids., münchen": null,
+"out of the blox, münchen": null,
 "paketposthalle münchen pineapple park": null,
 "palais club, münchen": {
 "address": "Palais Club & Bar, 16, Arnulfstraße, Marsfeld, Maxvorstadt, München, Bayern, 80335, Deutschland",
@@ -1111,6 +1214,17 @@
 "prinzregententheaterführung, münchen": null,
 "prinzregententheatergartensaal, münchen": null,
 "prinzregententheatergroßes haus, münchen": null,
+"psv e.v. – moosach": null,
+"raum, münchen": {
+"address": "Der Raum, 34, Herzogstraße, Viktoriaviertel, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80803, Deutschland",
+"lat": 48.16275,
+"lng": 11.58111
+},
+"reitknechtstr.6, 80639 münchen": {
+"address": "Backstage, 6, Reitknechtstraße, Nymphenburg, Neuhausen-Nymphenburg, München, Bayern, 80639, Deutschland",
+"lat": 48.14498,
+"lng": 11.52197
+},
 "residenztheater, münchen": {
 "address": "Residenztheater, 1, Max-Joseph-Platz, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80539, Deutschland",
 "lat": 48.14011,
@@ -1257,10 +1371,21 @@
 "lat": 48.15235,
 "lng": 11.58214
 },
+"situlistraße 73, 80939 münchen": {
+"address": "73, Situlistraße, Gartenstadt Freimann, Alt-Freimann, Freimann, Schwabing-Freimann, München, Bayern, 80939, Deutschland",
+"lat": 48.19346,
+"lng": 11.61816
+},
+"sofia.shik, münchen": null,
 "sonnenstraße 12a, 80331 münchen": {
 "address": "12a, Sonnenstraße, Klinikviertel, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80331, Deutschland",
 "lat": 48.13699,
 "lng": 11.56379
+},
+"sophienstraße 28, 80333, münchen, münchen": {
+"address": "The Charles Hotel, 28, Sophienstraße, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80333, Deutschland",
+"lat": 48.14289,
+"lng": 11.56252
 },
 "st. hildegard - pasing": {
 "address": "St. Hildegard, Omptedastraße, Waldkolonie Pasing, Pasing, Pasing-Obermenzing, München, Bayern, 81243, Deutschland",
@@ -1294,6 +1419,7 @@
 "lat": 48.12492,
 "lng": 11.54907
 },
+"studio tela wãve, münchen": null,
 "studiobühne twm, münchen": {
 "address": "Studiobühne TWM, 5, Neuturmstraße, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
 "lat": 48.13822,
@@ -1304,6 +1430,7 @@
 "lat": 48.14776,
 "lng": 11.56695
 },
+"sub e.v. - schwul in münchen": null,
 "substanz, münchen": {
 "address": "Substanz, 28, Ruppertstraße, Am Schlachthof, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80337, Deutschland",
 "lat": 48.12474,
@@ -1327,6 +1454,11 @@
 "lat": 48.12351,
 "lng": 11.60661
 },
+"terra bar, münchen": {
+"address": "Terra, 1, Baaderstraße, Gärtnerplatz, Altstadt-Lehel, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80469, Deutschland",
+"lat": 48.1334,
+"lng": 11.58177
+},
 "thalkirchen, münchen, münchen": {
 "address": "Thalkirchen, Pognerstraße, Thalkirchen, Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln, München, Bayern, 81379, Deutschland",
 "lat": 48.10284,
@@ -1342,6 +1474,7 @@
 "lat": 48.15431,
 "lng": 11.63641
 },
+"the collective flow, münchen": null,
 "the jungle comedy club, münchen": null,
 "the keg bar, münchen": {
 "address": "The Keg, 1, Trautenwolfstraße, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80802, Deutschland",
@@ -1349,6 +1482,7 @@
 "lng": 11.58549
 },
 "the loft club, münchen": null,
+"the movement atelier, münchen": null,
 "theater drehleier, münchen": {
 "address": "Drehleier, 123, Rosenheimer Straße, Haidhausen-Süd, Haidhausen, Au-Haidhausen, München, Bayern, 81669, Deutschland",
 "lat": 48.12605,
@@ -1413,6 +1547,11 @@
 "address": "Vereinsheim, Hans-Dietrich-Genscher-Straße, Freiham-Nord, Freiham, Aubing-Lochhausen-Langwied, München, Bayern, 81248, Deutschland",
 "lat": 48.14228,
 "lng": 11.40251
+},
+"wein-moment münchen": {
+"address": "Wein Moment, 10, Ludwigstraße, Schönfeldvorstadt, Maxvorstadt, München, Bayern, 80539, Deutschland",
+"lat": 48.1459,
+"lng": 11.57944
 },
 "weisses bräuhaus im tal (tal 7, 80331 münchen) *": null,
 "werksviertel mitte münchen": {
