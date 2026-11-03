@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-03T06:13:20+01:00",
- "total": 1116,
+ "generated": "2026-11-03T15:20:10+01:00",
+ "total": 1959,
  "sources": [
   {
    "id": "bachtrack",
@@ -37,10 +37,10 @@
   {
    "id": "boell",
    "name": "Heinrich-Böll-Stiftung",
-   "found": 1,
+   "found": 0,
    "events": 0,
    "ok": false,
-   "error": "Termine gefunden, aber keiner passt (Zeitraum/Ort/Kategorie)"
+   "error": "HTTPError: 504 Server Error: Gateway Time-out for url: https://www.boell.de/de/veranstaltungen"
   },
   {
    "id": "brso",
@@ -89,14 +89,6 @@
    "events": 0,
    "ok": false,
    "error": "keine Termine erkannt"
-  },
-  {
-   "id": "dev-events",
-   "name": "dev.events München",
-   "found": 0,
-   "events": 0,
-   "ok": false,
-   "error": "HTTPError: 403 Client Error: Forbidden for url: https://dev.events/EU/DE/Munich"
   },
   {
    "id": "dsw",
@@ -152,7 +144,7 @@
    "found": 0,
    "events": 0,
    "ok": false,
-   "error": "keine Termine erkannt"
+   "error": "Error: Page.content: Unable to retrieve content because the page is navigating and changing the content."
   },
   {
    "id": "hm",
@@ -195,14 +187,6 @@
    "error": "keine Termine erkannt"
   },
   {
-   "id": "munich-travel",
-   "name": "munich.travel Ausstellungen",
-   "found": 0,
-   "events": 0,
-   "ok": false,
-   "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.munich.travel/en/topics/arts-culture/exhibitions-2026-2027"
-  },
-  {
    "id": "mvhs",
    "name": "Münchner Volkshochschule",
    "found": 1,
@@ -225,14 +209,6 @@
    "events": 0,
    "ok": false,
    "error": "keine Termine erkannt"
-  },
-  {
-   "id": "starnberg",
-   "name": "Starnberg",
-   "found": 6,
-   "events": 0,
-   "ok": false,
-   "error": "Termine gefunden, aber keiner passt (Zeitraum/Ort/Kategorie)"
   },
   {
    "id": "wirtschaftsbeirat",
@@ -277,16 +253,16 @@
   {
    "id": "backstage",
    "name": "Backstage",
-   "found": 54,
-   "events": 45,
+   "found": 57,
+   "events": 48,
    "ok": true,
    "error": null
   },
   {
    "id": "badw",
    "name": "Bayerische Akademie der Wissenschaften",
-   "found": 6,
-   "events": 6,
+   "found": 7,
+   "events": 7,
    "ok": true,
    "error": null
   },
@@ -294,7 +270,7 @@
    "id": "bayern-innovativ",
    "name": "Bayern Innovativ",
    "found": 107,
-   "events": 3,
+   "events": 2,
    "ok": true,
    "error": null
   },
@@ -331,9 +307,25 @@
    "error": null
   },
   {
+   "id": "deutsches-theater",
+   "name": "Deutsches Theater München",
+   "found": 113,
+   "events": 78,
+   "ok": true,
+   "error": null
+  },
+  {
+   "id": "dev-events",
+   "name": "dev.events München",
+   "found": 19,
+   "events": 8,
+   "ok": true,
+   "error": null
+  },
+  {
    "id": "dlr",
    "name": "DLR Oberpfaffenhofen",
-   "found": 22,
+   "found": 23,
    "events": 1,
    "ok": true,
    "error": null
@@ -342,7 +334,7 @@
    "id": "erding",
    "name": "Erding",
    "found": 13,
-   "events": 1,
+   "events": 2,
    "ok": true,
    "error": null
   },
@@ -413,8 +405,24 @@
   {
    "id": "hfp-tum",
    "name": "Hochschule für Politik (TUM)",
-   "found": 7,
+   "found": 6,
    "events": 1,
+   "ok": true,
+   "error": null
+  },
+  {
+   "id": "hochx",
+   "name": "HochX Theater und Live Art",
+   "found": 24,
+   "events": 19,
+   "ok": true,
+   "error": null
+  },
+  {
+   "id": "hofspielhaus",
+   "name": "Hofspielhaus",
+   "found": 93,
+   "events": 93,
    "ok": true,
    "error": null
   },
@@ -455,6 +463,14 @@
    "name": "Katholische Akademie in Bayern",
    "found": 23,
    "events": 13,
+   "ok": true,
+   "error": null
+  },
+  {
+   "id": "komoedie",
+   "name": "Komödie im Bayerischen Hof",
+   "found": 158,
+   "events": 150,
    "ok": true,
    "error": null
   },
@@ -509,8 +525,8 @@
   {
    "id": "meetup",
    "name": "Meetup München",
-   "found": 10,
-   "events": 6,
+   "found": 11,
+   "events": 8,
    "ok": true,
    "error": null
   },
@@ -519,6 +535,14 @@
    "name": "Messe München",
    "found": 10,
    "events": 4,
+   "ok": true,
+   "error": null
+  },
+  {
+   "id": "metropoltheater",
+   "name": "Metropoltheater",
+   "found": 53,
+   "events": 53,
    "ok": true,
    "error": null
   },
@@ -557,7 +581,7 @@
   {
    "id": "muenchen-de",
    "name": "muenchen.de Veranstaltungen",
-   "found": 7,
+   "found": 10,
    "events": 2,
    "ok": true,
    "error": null
@@ -573,7 +597,7 @@
   {
    "id": "muffatwerk",
    "name": "Muffatwerk",
-   "found": 223,
+   "found": 224,
    "events": 150,
    "ok": true,
    "error": null
@@ -581,8 +605,16 @@
   {
    "id": "munich-startup",
    "name": "Munich Startup",
-   "found": 84,
-   "events": 64,
+   "found": 88,
+   "events": 67,
+   "ok": true,
+   "error": null
+  },
+  {
+   "id": "munich-travel",
+   "name": "munich.travel Ausstellungen",
+   "found": 36,
+   "events": 18,
    "ok": true,
    "error": null
   },
@@ -599,6 +631,14 @@
    "name": "Olympiapark",
    "found": 20,
    "events": 17,
+   "ok": true,
+   "error": null
+  },
+  {
+   "id": "pathos",
+   "name": "Pathos Theater",
+   "found": 39,
+   "events": 32,
    "ok": true,
    "error": null
   },
@@ -629,8 +669,8 @@
   {
    "id": "rausgegangen",
    "name": "Rausgegangen München",
-   "found": 515,
-   "events": 70,
+   "found": 517,
+   "events": 95,
    "ok": true,
    "error": null
   },
@@ -639,6 +679,14 @@
    "name": "Residenztheater",
    "found": 59,
    "events": 59,
+   "ok": true,
+   "error": null
+  },
+  {
+   "id": "schauburg",
+   "name": "Schauburg – Theater für junges Publikum",
+   "found": 152,
+   "events": 136,
    "ok": true,
    "error": null
   },
@@ -659,6 +707,14 @@
    "error": null
   },
   {
+   "id": "starnberg",
+   "name": "Starnberg",
+   "found": 5,
+   "events": 2,
+   "ok": true,
+   "error": null
+  },
+  {
    "id": "sternwarte",
    "name": "Volkssternwarte München",
    "found": 10,
@@ -671,6 +727,22 @@
    "name": "Bayerisches Wirtschaftsministerium",
    "found": 25,
    "events": 4,
+   "ok": true,
+   "error": null
+  },
+  {
+   "id": "tams",
+   "name": "TamS Theater",
+   "found": 24,
+   "events": 24,
+   "ok": true,
+   "error": null
+  },
+  {
+   "id": "theater-fraunhofer",
+   "name": "Theater im Fraunhofer",
+   "found": 93,
+   "events": 82,
    "ok": true,
    "error": null
   },
@@ -731,10 +803,26 @@
    "error": null
   },
   {
+   "id": "viel-laerm",
+   "name": "Theater Viel Lärm um Nichts",
+   "found": 11,
+   "events": 11,
+   "ok": true,
+   "error": null
+  },
+  {
+   "id": "volkstheater",
+   "name": "Münchner Volkstheater",
+   "found": 111,
+   "events": 103,
+   "ok": true,
+   "error": null
+  },
+  {
    "id": "wj-muenchen",
    "name": "Wirtschaftsjunioren München",
-   "found": 224,
-   "events": 13,
+   "found": 226,
+   "events": 14,
    "ok": true,
    "error": null
   },

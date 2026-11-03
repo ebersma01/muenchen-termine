@@ -25,6 +25,11 @@
 },
 "acatech forum am karolinenplatz 4!, münchen": null,
 "adams-lehmann-straße 44, 80797 münchen-schwabing-west, germany, münchen, by, münchen": null,
+"agnes-pockels-bogen 1, 80992 münchen": {
+"address": "1, Agnes-Pockels-Bogen, Moosach, München, Bayern, 80992, Deutschland",
+"lat": 48.17409,
+"lng": 11.53224
+},
 "agv akademischer gesangverein münchen": null,
 "akademiestr. 2-4, 80799 münchen": {
 "address": "Akademie der Bildenden Künste München, 2-4, Akademiestraße, Am alten nördlichen Friedhof, Maxvorstadt, München, Bayern, 80799, Deutschland",
@@ -42,6 +47,7 @@
 "lat": 48.13197,
 "lng": 11.54453
 },
+"alte paketposthalle, münchen": null,
 "alte pinakothek, münchen": {
 "address": "Alte Pinakothek, 27, Barer Straße, Kunstareal, Maxvorstadt, München, Bayern, 80333, Deutschland",
 "lat": 48.14828,
@@ -114,6 +120,11 @@
 "lat": 48.1483,
 "lng": 11.52387
 },
+"arnulfstraße 195-199, 80634 münchen": {
+"address": "Casa Padel Pineapple Park, 195-199, Arnulfstraße, Siedlung Neuhausen, Nymphenburg, Neuhausen-Nymphenburg, München, Bayern, 80634, Deutschland",
+"lat": 48.14695,
+"lng": 11.52335
+},
 "aspekte galerie der mvhs im gasteig hp8, münchen": null,
 "aspekte galerie im einstein 28, münchen": null,
 "atelier kevo, münchen": null,
@@ -164,6 +175,7 @@
 "lng": 11.5568
 },
 "bayerstraße 3-5, 80335 münchen, germany, münchen, by, münchen": null,
+"baystartup, münchen": null,
 "beim sedlmayr, münchen": {
 "address": "Beim Sedlmayr, 14, Westenriederstraße, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
 "lat": 48.13495,
@@ -228,6 +240,13 @@
 "lat": 48.14546,
 "lng": 11.4613
 },
+"bühne 1, münchen": {
+"address": "Kleine Bühne, 1, August-Exter-Straße, Kolonie I, Pipping, Pasing, Pasing-Obermenzing, München, Bayern, 81245, Deutschland",
+"lat": 48.15114,
+"lng": 11.46129
+},
+"bühne 2, münchen": null,
+"bühne 3, münchen": null,
 "bürgerhaus glockenbachwerkstatt, münchen": null,
 "cafe wildwuchs im werkhaus, münchen": null,
 "café pfefferminza, münchen": {
@@ -348,6 +367,11 @@
 },
 "eataly schrannenhalle, münchen": null,
 "ecke luisenstraße /brienner straße, münchen": null,
+"ehrengutstraße 6, münchen, münchen": {
+"address": "6, Ehrengutstraße, Am Schlachthof, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80469, Deutschland",
+"lat": 48.12121,
+"lng": 11.55854
+},
 "einewelthaus münchen": {
 "address": "EineWeltHaus, 80, Schwanthalerstraße, Klinikviertel, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80336, Deutschland",
 "lat": 48.13793,
@@ -375,6 +399,11 @@
 "lng": 11.6064
 },
 "entkorkte kunst, münchen": null,
+"erich-kästner-straße 14, 80796 münchen": {
+"address": "14, Erich-Kästner-Straße, Schwabing-West, Schwabing, München, Bayern, 80796, Deutschland",
+"lat": 48.16292,
+"lng": 11.56935
+},
 "erika-mann-straße 33, 80636 münchen, germany, münchen, by, münchen": null,
 "erlöserkirche schwabing (ungererstr. 13)": {
 "address": "Erlöserkirche, 13, Ungererstraße, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80802, Deutschland",
@@ -414,6 +443,11 @@
 "address": "Forum, Sendlinger Feld, Sendling, München, Bayern, Deutschland",
 "lat": 48.11151,
 "lng": 11.55455
+},
+"foyer, münchen": {
+"address": "Foyer, Wolfratshauser Straße, Gartenstadt, Pullach im Isartal, Landkreis München, Bayern, 82049, Deutschland",
+"lat": 48.06536,
+"lng": 11.51474
 },
 "freddie-mercury straße 5, 80797 münchen": {
 "address": "EIT Urban Mobility Innovation Hub Central, 5, Freddie-Mercury-Straße, Kasernenviertel, Ebenau, Neuhausen-Nymphenburg, München, Bayern, 80797, Deutschland",
@@ -518,6 +552,11 @@
 "lat": 48.12261,
 "lng": 11.48278
 },
+"haimhauserstraße 13a, 80802 münchen": {
+"address": "13a, Haimhauserstraße, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80802, Deutschland",
+"lat": 48.16234,
+"lng": 11.59054
+},
 "halle e, münchen": {
 "address": "Halle E, Schäftlarnstraße, Sendlinger Feld, Sendling, München, Bayern, 81371, Deutschland",
 "lat": 48.11175,
@@ -620,6 +659,11 @@
 "ibz internationales begegnungszentrum amalienstraße 38, 80539 münchen": null,
 "icm – international congress center messe münchen": null,
 "ihk für münchen und oberbayern": null,
+"im haus, münchen": {
+"address": "Caritas Don Bosco Schulen im Salesianum Haus 10, 19, Auerfeldstraße, Haidhausen-Süd, Au, Au-Haidhausen, München, Bayern, 81541, Deutschland",
+"lat": 48.12433,
+"lng": 11.59511
+},
 "impact hub münchen": {
 "address": "Impact Hub, 8, Gotzinger Straße, Sendlinger Feld, Sendling, München, Bayern, 81371, Deutschland",
 "lat": 48.12118,
@@ -684,6 +728,11 @@
 "lng": 11.54569
 },
 "kammerkonzert „vortreffliche harmonie-musik“, münchen": null,
+"kanalstraße 15, 80538 münchen": {
+"address": "Kuckuck Kinderbuchhandlung, 15, Kanalstraße, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80538, Deutschland",
+"lat": 48.13557,
+"lng": 11.58439
+},
 "karl-schwarzschild-straße 2, 85748 garching bei münchen": {
 "address": "Europäische Südsternwarte, 2, Karl-Schwarzschild-Straße, Hochschul- und Forschungszentrum, Garching bei München, Landkreis München, Bayern, 85748, Deutschland",
 "lat": 48.25963,
@@ -883,6 +932,7 @@
 "lat": 48.12305,
 "lng": 11.55323
 },
+"luitpoldblock, münchen": null,
 "lyrik kabinett, münchen": {
 "address": "Stiftung Lyrik Kabinett, 83a, Amalienstraße, Schönfeldvorstadt, Maxvorstadt, München, Bayern, 80799, Deutschland",
 "lat": 48.15137,
@@ -1063,8 +1113,10 @@
 "lat": 48.10301,
 "lng": 11.60223
 },
+"mvhs am ostbahnhof, münchen": null,
 "mvhs am scheidplatz, münchen": null,
 "mvhs einstein 28, münchen": null,
+"mvhs im einstein 28, münchen": null,
 "mvhs in pasing": null,
 "myposter, münchen": {
 "address": "myposter, 12, Nymphenburger Straße, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80335, Deutschland",
@@ -1305,6 +1357,11 @@
 "lat": 48.11138,
 "lng": 11.55432
 },
+"restaurant pfistermühle, münchen": {
+"address": "Pfistermühle, 4, Pfisterstraße, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
+"lat": 48.13832,
+"lng": 11.57928
+},
 "rio filmpalast, münchen": {
 "address": "Rio Filmpalast, 46, Rosenheimer Straße, Haidhausen-Süd, Au, Au-Haidhausen, München, Bayern, 81669, Deutschland",
 "lat": 48.12864,
@@ -1448,6 +1505,11 @@
 "lat": 48.15235,
 "lng": 11.58214
 },
+"sigmund-riefler-bogen, 81829 münchen": {
+"address": "Sigmund-Riefler-Bogen, Messestadt Riem, Trudering-Riem, München, Bayern, 81829, Deutschland",
+"lat": 48.13588,
+"lng": 11.71136
+},
 "situlistraße 73, 80939 münchen": {
 "address": "73, Situlistraße, Gartenstadt Freimann, Alt-Freimann, Freimann, Schwabing-Freimann, München, Bayern, 80939, Deutschland",
 "lat": 48.19346,
@@ -1458,6 +1520,11 @@
 "address": "12a, Sonnenstraße, Klinikviertel, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80331, Deutschland",
 "lat": 48.13699,
 "lng": 11.56379
+},
+"sonnenstraße 18b ,, münchen, münchen": {
+"address": "Koos, 18b, Sonnenstraße, Klinikviertel, Isarvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80331, Deutschland",
+"lat": 48.13621,
+"lng": 11.56445
 },
 "sophienstraße 28, 80333, münchen, münchen": {
 "address": "The Charles Hotel, 28, Sophienstraße, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80333, Deutschland",
@@ -1625,6 +1692,11 @@
 "address": "Unter Deck, 26, Oberanger, Angerviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
 "lat": 48.13504,
 "lng": 11.57114
+},
+"utzschneiderstraße 8, 80469 münchen": {
+"address": "8, Utzschneiderstraße, Angerviertel, Altstadt-Lehel, München, Bayern, 80469, Deutschland",
+"lat": 48.13386,
+"lng": 11.57548
 },
 "vamuki e. v., münchen": null,
 "vereinsheim, münchen": {

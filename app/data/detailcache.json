@@ -79,6 +79,15 @@
 "ts": 1793548379,
 "venue": "Bayerische Akademie der Wissenschaften"
 },
+"https://badw.de/veranstaltungen/event/kfg-conference-neoimperialism-and-human-rights": {
+"address": "Alfons-Goppel-Straße 11, 80539 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "KFG conference",
+"ts": 1793715518,
+"venue": "Bayerische Akademie der Wissenschaften"
+},
 "https://badw.de/veranstaltungen/event/women-in-science": {
 "address": "Auditorium\r\nEinsteinstr. 25, 81675 München",
 "cost": null,
@@ -376,6 +385,150 @@
 "ts": 1793548419,
 "venue": null
 },
+"https://pathos-muenchen.de/global/php/ics-download.php?objid=1025": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan",
+"ts": 1793715553,
+"venue": null
+},
+"https://pathos-muenchen.de/global/php/ics-download.php?objid=1026": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan",
+"ts": 1793715554,
+"venue": null
+},
+"https://pathos-muenchen.de/global/php/ics-download.php?objid=1027": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan",
+"ts": 1793715555,
+"venue": null
+},
+"https://pathos-muenchen.de/global/php/ics-download.php?objid=1028": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan",
+"ts": 1793715555,
+"venue": null
+},
+"https://pathos-muenchen.de/global/php/ics-download.php?objid=1031": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan",
+"ts": 1793715555,
+"venue": null
+},
+"https://pathos-muenchen.de/global/php/ics-download.php?objid=1032": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan",
+"ts": 1793715557,
+"venue": null
+},
+"https://pathos-muenchen.de/global/php/ics-download.php?objid=1033": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan",
+"ts": 1793715557,
+"venue": null
+},
+"https://pathos-muenchen.de/global/php/ics-download.php?objid=1034": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan",
+"ts": 1793715558,
+"venue": null
+},
+"https://pathos-muenchen.de/global/php/ics-download.php?objid=1036": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan",
+"ts": 1793715558,
+"venue": null
+},
+"https://pathos-muenchen.de/global/php/ics-download.php?objid=1037": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan",
+"ts": 1793715558,
+"venue": null
+},
+"https://pathos-muenchen.de/global/php/ics-download.php?objid=1038": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan",
+"ts": 1793715558,
+"venue": null
+},
+"https://pathos-muenchen.de/global/php/ics-download.php?objid=1039": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan",
+"ts": 1793715558,
+"venue": null
+},
+"https://pathos-muenchen.de/global/php/ics-download.php?objid=1054": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan",
+"ts": 1793715552,
+"venue": null
+},
+"https://pathos-muenchen.de/global/php/ics-download.php?objid=1074": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan",
+"ts": 1793715555,
+"venue": null
+},
+"https://pathos-muenchen.de/global/php/ics-download.php?objid=1075": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan",
+"ts": 1793715556,
+"venue": null
+},
+"https://pathos-muenchen.de/global/php/ics-download.php?objid=908": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan",
+"ts": 1793715555,
+"venue": null
+},
 "https://rausgegangen.de/events/5ndreas-postrock-festival-0/": {
 "address": "Hansastr. 39, 81373 München",
 "cost": "kostenlos",
@@ -383,6 +536,15 @@
 "lng": null,
 "ts": 1793548593,
 "venue": "Feierwerk / Kranhalle"
+},
+"https://rausgegangen.de/events/aha-midnightbazar-fashion-forschung-to-go-0/": {
+"address": "Arnulfstraße 195-199, 80634 München",
+"cost": "3.00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "AHA @ Midnightbazar: Fashion-Forschung to go am 14.11.2026 in München",
+"ts": 1793715521,
+"venue": "Alte Paketposthalle"
 },
 "https://rausgegangen.de/events/aircraft-live-olha-borovyk-afterparty-0/": {
 "address": "Landsberger Straße 212, 80687 München",
@@ -408,6 +570,15 @@
 "ts": 1793682794,
 "venue": "Dallmayr Coffee Club"
 },
+"https://rausgegangen.de/events/arnd-schimkat-aka-arthur-senkrecht-lachen-machen-0/": {
+"address": "Haimhauserstraße 13A, 80802 München",
+"cost": "29.00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Arnd Schimkat aka Arthur Senkrecht - \"Lachen machen\" München-Premiere am 06.11.2026 in München",
+"ts": 1793715520,
+"venue": "Lach- und Schießgesellschaft im TamS"
+},
 "https://rausgegangen.de/events/ausstellung-bunt-auf-bunt-3/": {
 "address": "Situlistraße 73, 80939 München",
 "cost": "kostenlos",
@@ -415,6 +586,15 @@
 "lng": null,
 "ts": 1793596999,
 "venue": "Mohr-Villa: Gewölbesaal"
+},
+"https://rausgegangen.de/events/beisl-comedy-open-mic-stand-up-comedy-show-1/": {
+"address": "Utzschneiderstraße 8, 80469 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "beisl Comedy | Open Mic | Stand-Up Comedy Show am 04.11.2026 in München",
+"ts": 1793715520,
+"venue": "beisl bar & café"
 },
 "https://rausgegangen.de/events/besichtigung-marstallmuseum-mit-museum-nymphenburger-porzell-830/": {
 "address": "Schloß Nymphenburg 208, 80638 München",
@@ -448,6 +628,42 @@
 "ts": 1793548627,
 "venue": "Bürgerhaus Glockenbachwerkstatt"
 },
+"https://rausgegangen.de/events/brave-as-poetry-0/ ": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793715555,
+"venue": null
+},
+"https://rausgegangen.de/events/cantina-comedy-72/": {
+"address": "München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Cantina Comedy am 05.11.2026 in München",
+"ts": 1793715521,
+"venue": "La Cantina"
+},
+"https://rausgegangen.de/events/comedy-fur-freunde-best-of-show-115/": {
+"address": "Candidplatz 9, 81543 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Comedy für Freunde_Premium Stand-Up Show am 06.11.2026 in München",
+"ts": 1793715520,
+"venue": "Comedy für Freunde Club"
+},
+"https://rausgegangen.de/events/comedy-fur-freunde-profi-testbuhne-187/": {
+"address": "Candidplatz 9, 81543 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Comedy für Freunde - Profi-Testbühne am 06.11.2026 in München",
+"ts": 1793715520,
+"venue": "Comedy für Freunde Club"
+},
 "https://rausgegangen.de/events/community-nahen-50/": {
 "address": "Claude-Lorrain-Str. 25, 81543 München",
 "cost": "kostenlos",
@@ -463,6 +679,15 @@
 "lng": null,
 "ts": 1793548621,
 "venue": "Crash"
+},
+"https://rausgegangen.de/events/dance-of-drauganna-0/ ": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1793715555,
+"venue": null
 },
 "https://rausgegangen.de/events/darpana-tanz-crew-0/": {
 "address": "Curt Mezger Platz 1, 80809 München",
@@ -487,6 +712,24 @@
 "lng": null,
 "ts": 1793549152,
 "venue": "Frida - Mexikanisches Restaurant"
+},
+"https://rausgegangen.de/events/dirty-comedy-stand-up-comedy-open-mic-aufzeichnung-28/": {
+"address": "Sendlinger-Tor-Platz 5, 80336 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Dirty Comedy - Stand Up Comedy Open Mic (Aufzeichnung) am 03.11.2026 in München",
+"ts": 1793715518,
+"venue": "Senatore"
+},
+"https://rausgegangen.de/events/dokfest-goes-schwere-reiter-so-ist-das-leben-und-nicht-ander-0/": {
+"address": "Dachauer Straße 114a, 80636 München",
+"cost": "9.00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "DOK.fest goes schwere reiter SO IST DAS LEBEN UND NICHT ANDERS. & ÖSTERREICH IM NIEMANDSLAND – WO KOMME ICH HER? am 16.11.2026 in München",
+"ts": 1793715554,
+"venue": "Schwere Reiter – Tanz Theater Musik"
 },
 "https://rausgegangen.de/events/drinkpaint-servietten-technik-munchen-1/": {
 "address": "Baaderstraße 1, 80469 München",
@@ -576,6 +819,15 @@
 "ts": 1793548623,
 "venue": "Nationaltheater München - Bayerische Staatsoper"
 },
+"https://rausgegangen.de/events/geistesblitz-comedy-open-mic-218/": {
+"address": "Erich-Kästner-Straße 14, 80796 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Geistesblitz Comedy - Open Mic am 04.11.2026 in München",
+"ts": 1793715520,
+"venue": "Salta - Bodega & Bar"
+},
 "https://rausgegangen.de/events/geschichte-live-erleben-mit-historischer-stadtfuhrung-munche-183/": {
 "address": "Odeonsplatz 1, 80539 München",
 "cost": "25.00 €",
@@ -624,6 +876,24 @@
 "ts": 1793552879,
 "venue": "City Kinos"
 },
+"https://rausgegangen.de/events/glitsh-7-reihe-fur-performative-texte-0/": {
+"address": "Dachauer Str. 110d, 80636 München",
+"cost": "40 €",
+"lat": null,
+"lng": null,
+"pagetitle": "GLITSH #7 - Reihe für Performative Texte am 14.11.2026 in München",
+"ts": 1793715554,
+"venue": "PATHOS theater"
+},
+"https://rausgegangen.de/events/guided-tour-of-the-national-theater-3/": {
+"address": "Max-Joseph-Platz 2, 80539 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "GUIDED TOUR OF THE NATIONAL THEATER am 06.11.2026 in München",
+"ts": 1793715520,
+"venue": "Nationaltheater München - Bayerische Staatsoper"
+},
 "https://rausgegangen.de/events/herbst-tanzfest-2026-0/": {
 "address": "Curt Mezger Platz 1, 80809 München",
 "cost": "20.00 €",
@@ -656,6 +926,15 @@
 "ts": 1793682795,
 "venue": "München, Schleißheimer Straße"
 },
+"https://rausgegangen.de/events/hullis-comedy-dinner-show-20/": {
+"address": "Sigmund-Riefler-Bogen, 81829 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "HULLIS - Comedy. Dinner. Show. am 03.11.2026 in München",
+"ts": 1793715521,
+"venue": "HULLIS Die Dinnershow"
+},
 "https://rausgegangen.de/events/jazz-kids-munchen-new-orleans-jazz-blues-lebendig-authentisc-5/": {
 "address": "Brudermühlstraße 2, 81371 München",
 "cost": "kostenlos",
@@ -672,6 +951,15 @@
 "ts": 1793548622,
 "venue": "Circus Krone München"
 },
+"https://rausgegangen.de/events/jungle-comedy-showcase-live-english-standup-17/": {
+"address": "Arnulfstraße 195-199, 80634 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Jungle Comedy Showcase: Live English Standup am 06.11.2026 in München",
+"ts": 1793715520,
+"venue": "The Jungle Comedy Club"
+},
 "https://rausgegangen.de/events/junkies-of-dreaming-mahler-3-currentzis-9/": {
 "address": "Sonnenstraße 12a, 80331 München",
 "cost": "kostenlos",
@@ -687,6 +975,15 @@
 "lng": null,
 "ts": 1793549156,
 "venue": "Kultur- und Bürgerhaus Pelkovenschlössl"
+},
+"https://rausgegangen.de/events/kindertheater-in-munchen-kleines-theater-im-pfortnerhaus-100/": {
+"address": "Oberföhringer Straße 156, 81925 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Kindertheater in München - Kleines Theater im Pförtnerhaus am 04.11.2026 in München",
+"ts": 1793715537,
+"venue": "Kleines Theater im Pförtnerhaus"
 },
 "https://rausgegangen.de/events/kindertheater-in-munchen-kleines-theater-im-pfortnerhaus-505/": {
 "address": "Oberföhringer Straße 156, 81925 München",
@@ -784,6 +1081,15 @@
 "ts": 1793682794,
 "venue": "Altstadt München"
 },
+"https://rausgegangen.de/events/langes-wochenende-3/": {
+"address": "Dachauer Straße 114a, 80636 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Langes Wochenende am 27.01.2027 in München",
+"ts": 1793715556,
+"venue": "Schwere Reiter – Tanz Theater Musik"
+},
 "https://rausgegangen.de/events/lennart-schilgen-macht-nichts-lieder-vom-schleifen-und-schle-8/": {
 "address": "Occamstraße 8, 80802 München",
 "cost": "29.00 €",
@@ -847,6 +1153,15 @@
 "lng": null,
 "ts": 1793548616,
 "venue": "Damarante Keramik"
+},
+"https://rausgegangen.de/events/premierenlesung-omas-ohren-konnen-nicht-horen-mit-johanna-tr-0/": {
+"address": "Kanalstraße 15, 80538 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Premierenlesung: „Omas Ohren können nicht hören” mit Johanna Trunte am 14.11.2026 in München",
+"ts": 1793715537,
+"venue": "Kuckuck Kinderbuchladen"
 },
 "https://rausgegangen.de/events/public-health-filmfestival-vergiftete-wahrheit-thema-trinkwa-0/": {
 "address": "Rosenheimer Straße 46, 81669 München",
@@ -1008,6 +1323,15 @@
 "ts": 1793548349,
 "venue": null
 },
+"https://ru.muenchen.de/2026/211/Buergerversammlung-fuer-den-Stadtbezirk-3-126852": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Bürgerversammlung für den Stadtbezirk 3",
+"ts": 1793715517,
+"venue": null
+},
 "https://smaek.de/ausstellungen/aegypten-geschichte-und-modernitaet/": {
 "address": null,
 "cost": null,
@@ -1072,6 +1396,213 @@
 "ts": 1793548380,
 "venue": null
 },
+"https://t.rausgegangen.de/tickets/shop/p-goldclit": {
+"address": null,
+"cost": "ab 8,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Goldclit Ticketshop",
+"ts": 1793715554,
+"venue": null
+},
+"https://t.rausgegangen.de/tickets/shop/p-is-that-all-there-is": {
+"address": null,
+"cost": "ab 8,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "IS THAT ALL THERE IS Ticketshop",
+"ts": 1793715555,
+"venue": null
+},
+"https://t.rausgegangen.de/tickets/shop/p-matea-otto-und-die-buchstaben": {
+"address": null,
+"cost": "ab 5,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Matea, Otto und die Buchstaben Ticketshop",
+"ts": 1793715555,
+"venue": null
+},
+"https://t.rausgegangen.de/tickets/shop/p-wg-gesucht": {
+"address": null,
+"cost": "ab 8,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "WG GESUCHT! Ticketshop",
+"ts": 1793715555,
+"venue": null
+},
+"https://theater-hochx.de/veranstaltung/aus-heiterem-himmel-6/2026-12-10/2/": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Aus heiterem Himmel – HochX Theater und Live Art",
+"ts": 1793715549,
+"venue": null
+},
+"https://theater-hochx.de/veranstaltung/die-prinzessin-kommt-um-vier/2026-12-09/2/": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Die Prinzessin kommt um vier – HochX Theater und Live Art",
+"ts": 1793715549,
+"venue": null
+},
+"https://theater-hochx.de/veranstaltung/ersatzverwandte/2026-12-19/": {
+"address": null,
+"cost": "6 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Ersatzverwandte – HochX Theater und Live Art",
+"ts": 1793715549,
+"venue": null
+},
+"https://theater-hochx.de/veranstaltung/ersatzverwandte/2026-12-20/": {
+"address": null,
+"cost": "6 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Ersatzverwandte – HochX Theater und Live Art",
+"ts": 1793715548,
+"venue": null
+},
+"https://theater-hochx.de/veranstaltung/ersatzverwandte/2026-12-21/": {
+"address": null,
+"cost": "6 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Ersatzverwandte – HochX Theater und Live Art",
+"ts": 1793715548,
+"venue": null
+},
+"https://theater-hochx.de/veranstaltung/im-glueck-3/": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Im Glück – HochX Theater und Live Art",
+"ts": 1793715549,
+"venue": null
+},
+"https://theater-hochx.de/veranstaltung/lix-33/": {
+"address": null,
+"cost": "6 €",
+"lat": null,
+"lng": null,
+"pagetitle": "LIX #33 Pierre Jarawan, Kaleb Erdmann und Rinah Lang – HochX Theater und Live Art",
+"ts": 1793715552,
+"venue": null
+},
+"https://theater-hochx.de/veranstaltung/meg-die-vergessliche-katze/2026-12-15/2/": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Meg, die vergessliche Katze – HochX Theater und Live Art",
+"ts": 1793715549,
+"venue": null
+},
+"https://theater-hochx.de/veranstaltung/mein-leben-als-ameise-2/": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Mein Leben als Ameise – HochX Theater und Live Art",
+"ts": 1793715549,
+"venue": null
+},
+"https://theater-hochx.de/veranstaltung/obaysch-oder-die-verrueckte-geschichte-vom-ersten-nilpferd-in-europa/2026-11-20/": {
+"address": null,
+"cost": "6 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Obaysch – Neues aus einer kleinen großen Welt – HochX Theater und Live Art",
+"ts": 1793715552,
+"venue": null
+},
+"https://theater-hochx.de/veranstaltung/obaysch-oder-die-verrueckte-geschichte-vom-ersten-nilpferd-in-europa/2026-11-21/": {
+"address": null,
+"cost": "6 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Obaysch – Neues aus einer kleinen großen Welt – HochX Theater und Live Art",
+"ts": 1793715552,
+"venue": null
+},
+"https://theater-hochx.de/veranstaltung/obaysch-oder-die-verrueckte-geschichte-vom-ersten-nilpferd-in-europa/2026-11-22/": {
+"address": null,
+"cost": "6 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Obaysch – Neues aus einer kleinen großen Welt – HochX Theater und Live Art",
+"ts": 1793715552,
+"venue": null
+},
+"https://theater-hochx.de/veranstaltung/real/2026-12-08/2/": {
+"address": null,
+"cost": "6 €",
+"lat": null,
+"lng": null,
+"pagetitle": "real! – HochX Theater und Live Art",
+"ts": 1793715552,
+"venue": null
+},
+"https://theater-hochx.de/veranstaltung/real/2026-12-12/": {
+"address": null,
+"cost": "6 €",
+"lat": null,
+"lng": null,
+"pagetitle": "real! – HochX Theater und Live Art",
+"ts": 1793715549,
+"venue": null
+},
+"https://theater-hochx.de/veranstaltung/vlogging-ego/2026-11-12/": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Vlogging.Ego – HochX Theater und Live Art",
+"ts": 1793715552,
+"venue": null
+},
+"https://theater-hochx.de/veranstaltung/vlogging-ego/2026-11-13/": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Vlogging.Ego – HochX Theater und Live Art",
+"ts": 1793715552,
+"venue": null
+},
+"https://theater-hochx.de/veranstaltung/wunden-lecken/2026-11-27/": {
+"address": null,
+"cost": "6 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Wunden lecken – HochX Theater und Live Art",
+"ts": 1793715552,
+"venue": null
+},
+"https://theater-hochx.de/veranstaltung/wunden-lecken/2026-11-28/": {
+"address": null,
+"cost": "6 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Wunden lecken – HochX Theater und Live Art",
+"ts": 1793715552,
+"venue": null
+},
+"https://theater-hochx.de/veranstaltung/zimtsterne-und-pfeffernuesse-3/2026-12-11/2/": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Zimtsterne und Pfeffernüsse – HochX Theater und Live Art",
+"ts": 1793715549,
+"venue": null
+},
 "https://theaterakademie.de/de/theater/programm/absolvent-innenvorsprechen-schauspiel-2026": {
 "address": null,
 "cost": null,
@@ -1134,6 +1665,42 @@
 "lat": null,
 "lng": null,
 "ts": 1793553433,
+"venue": null
+},
+"https://tickets.annonci.de/vlun/fau/": {
+"address": "theater VIEL LÄRM UM NICHTS in der Pasinger Fabrik",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "FAUST",
+"ts": 1793715582,
+"venue": null
+},
+"https://tickets.annonci.de/vlun/herz/": {
+"address": "theater VIEL LÄRM UM NICHTS in der Pasinger Fabrik",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Ein heißes Herz",
+"ts": 1793715582,
+"venue": null
+},
+"https://tickets.annonci.de/vlun/herz/677/": {
+"address": "theater VIEL LÄRM UM NICHTS in der Pasinger Fabrik",
+"cost": "35,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Ein heißes Herz",
+"ts": 1793715582,
+"venue": null
+},
+"https://tickets.annonci.de/vlun/woy/": {
+"address": "theater VIEL LÄRM UM NICHTS in der Pasinger Fabrik",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "WOYZECK",
+"ts": 1793715582,
 "venue": null
 },
 "https://tomgaebel.com/a-swinging-christmas": {
@@ -2516,6 +3083,123 @@
 "ts": 1793548379,
 "venue": null
 },
+"https://www.deutsches-theater.de/alexander-klaws-a-very-special-musical-christmas/": {
+"address": null,
+"cost": "ab 39,50 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Alexander Klaws – A very special Musical Christmas",
+"ts": 1793715559,
+"venue": "Theatersaal"
+},
+"https://www.deutsches-theater.de/amare/": {
+"address": null,
+"cost": "28,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Amaré",
+"ts": 1793715560,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/andreas-gabalier/": {
+"address": null,
+"cost": "ab 89,90 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Andreas Gabalier",
+"ts": 1793715559,
+"venue": "Theatersaal"
+},
+"https://www.deutsches-theater.de/astor-und-schmidbauer/": {
+"address": null,
+"cost": "ab 29,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Astor und Schmidbauer",
+"ts": 1793715562,
+"venue": "Theatersaal"
+},
+"https://www.deutsches-theater.de/ball-der-nationen/": {
+"address": null,
+"cost": "ab 50,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Ball der Nationen",
+"ts": 1793715561,
+"venue": "Ballsaal"
+},
+"https://www.deutsches-theater.de/ball-der-sterne/": {
+"address": null,
+"cost": "ab 44,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Ball der Sterne 2027",
+"ts": 1793715561,
+"venue": "Ballsaal"
+},
+"https://www.deutsches-theater.de/ballsaison/": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Ballsaison 2027",
+"ts": 1793715561,
+"venue": null
+},
+"https://www.deutsches-theater.de/balltotal/": {
+"address": null,
+"cost": "ab 47,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "ball total 2027",
+"ts": 1793715562,
+"venue": "Ballsaal"
+},
+"https://www.deutsches-theater.de/beni-weber/": {
+"address": null,
+"cost": "31,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Beni Weber – Live Tour 2026",
+"ts": 1793715560,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/blechschaden-mit-bob-ross/": {
+"address": null,
+"cost": "ab 48,80 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Blechschaden mit Bob Ross",
+"ts": 1793715561,
+"venue": "Theatersaal"
+},
+"https://www.deutsches-theater.de/blue-man-group/": {
+"address": null,
+"cost": "ab 39,90 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Blue Man Group",
+"ts": 1793715562,
+"venue": "Theatersaal"
+},
+"https://www.deutsches-theater.de/chaka-the-music-of-chaka-khan/": {
+"address": null,
+"cost": "ab 29,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "CHAKA – The Music of Chaka Khan",
+"ts": 1793715561,
+"venue": "Theatersaal"
+},
+"https://www.deutsches-theater.de/chris-hopkins-swinging-christmas/": {
+"address": null,
+"cost": "ab 29,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Chris Hopkins‘ Swinging Christmas",
+"ts": 1793715560,
+"venue": "Silbersaal"
+},
 "https://www.deutsches-theater.de/cinderella-das-musical-wo-drueckt-der-schuh/": {
 "address": null,
 "cost": "ab 29,00 €",
@@ -2523,6 +3207,42 @@
 "lng": null,
 "ts": 1793548414,
 "venue": "Theatersaal"
+},
+"https://www.deutsches-theater.de/cuban-gala-night/": {
+"address": null,
+"cost": "35,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Cuban Gala Night",
+"ts": 1793715558,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/da-watschnbaum/": {
+"address": null,
+"cost": "33,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Da Watschnbaum",
+"ts": 1793715563,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/das-az-sofa/": {
+"address": null,
+"cost": "10,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Das AZ-Sofa",
+"ts": 1793715559,
+"venue": "Barocksaal"
+},
+"https://www.deutsches-theater.de/del-plata-tango/": {
+"address": null,
+"cost": "ab 38,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Del Plata Gran Milonga",
+"ts": 1793715558,
+"venue": "Silbersaal"
 },
 "https://www.deutsches-theater.de/der-geist-der-weihnacht/": {
 "address": null,
@@ -2532,6 +3252,420 @@
 "ts": 1793551681,
 "venue": "Theatersaal"
 },
+"https://www.deutsches-theater.de/der-koenig-der-loewen-live-in-concert/": {
+"address": null,
+"cost": "ab 29,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Der König der Löwen – Live in Concert",
+"ts": 1793715562,
+"venue": "Theatersaal"
+},
+"https://www.deutsches-theater.de/der-letzte-koenig-von-bayern/": {
+"address": null,
+"cost": "ab 39,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Der letzte König von Bayern – Das Musical",
+"ts": 1793715564,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/der-muenchner-live/": {
+"address": null,
+"cost": "29,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Der Münchner LIVE",
+"ts": 1793715558,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/die-nacht-der-musicals/": {
+"address": null,
+"cost": "ab 39,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Die Nacht der Musicals",
+"ts": 1793715564,
+"venue": "Theatersaal"
+},
+"https://www.deutsches-theater.de/die-orchesterprobe-von-karl-valentin/": {
+"address": null,
+"cost": "32,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Die Orchesterprobe von Karl Valentin",
+"ts": 1793715564,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/die-paepstin-das-musical/": {
+"address": null,
+"cost": "ab 29,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Die Päpstin – Das Musical",
+"ts": 1793715560,
+"venue": "Theatersaal"
+},
+"https://www.deutsches-theater.de/dignity/": {
+"address": null,
+"cost": "28,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Isabelle Bodenseh Quartett: DIGNITY",
+"ts": 1793715558,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/disney-der-gloeckner-von-notre-dame/": {
+"address": null,
+"cost": "ab 39,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Disney Der Glöckner von Notre Dame",
+"ts": 1793715558,
+"venue": "Theatersaal"
+},
+"https://www.deutsches-theater.de/drei-haselnuesse-fuer-aschenbroedel/": {
+"address": null,
+"cost": "ab 29,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Drei Haselnüsse für Aschenbrödel",
+"ts": 1793715559,
+"venue": "Theatersaal"
+},
+"https://www.deutsches-theater.de/eine-stimme-viele-saiten/": {
+"address": null,
+"cost": "31,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Eine Stimme – viele Saiten",
+"ts": 1793715562,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/franziska-wanninger/": {
+"address": null,
+"cost": "29,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Franziska Wanninger – Wenn du wen brauchst ruf mich nicht an",
+"ts": 1793715565,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/gala-nacht-des-deutschen-fussballs/": {
+"address": null,
+"cost": "ab 99,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Gala-Nacht des deutschen Fußballs",
+"ts": 1793715561,
+"venue": "Ballsaal"
+},
+"https://www.deutsches-theater.de/gina-und-glinda-tour27/": {
+"address": null,
+"cost": "39,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Gina & Glinda Tour ´27",
+"ts": 1793715563,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/ginas-christmas-comedy-show/": {
+"address": null,
+"cost": "42,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Gina’s Christmas Comedy Show – Live!",
+"ts": 1793715559,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/guenther-grauer-musikalische-erinnerungen/": {
+"address": null,
+"cost": "29,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Günther Grauer – Musikalische Erinnerungen: Mit Schlagern bis Hollywood",
+"ts": 1793715558,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/guenther-grauer/": {
+"address": null,
+"cost": "29,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Günther Grauer 30 Jahre singender Wirt – Mein musikalisches Leben",
+"ts": 1793715562,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/hello-again/": {
+"address": null,
+"cost": "ab 29,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Hello! Again?",
+"ts": 1793715563,
+"venue": "Theatersaal"
+},
+"https://www.deutsches-theater.de/helmut-schleich/": {
+"address": null,
+"cost": "35,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Helmut Schleich Live 2027",
+"ts": 1793715564,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/herzklopfen/": {
+"address": null,
+"cost": "30,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Herzklopfen",
+"ts": 1793715565,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/himmel-nochmal/": {
+"address": null,
+"cost": "28,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Himmel, nochmal!",
+"ts": 1793715558,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/hits-flirts-und-andere-un-an-nehm-lich-keiten/": {
+"address": null,
+"cost": "42,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "HITS, FLIRTS & ANDERE UN-AN-NEHM-LICH-KEITEN!",
+"ts": 1793715562,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/hokus-pokus/": {
+"address": null,
+"cost": "31,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Hokus Pokus – die Zauberkunst im Fokus!",
+"ts": 1793715565,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/konzertante-aneignung-eine-musikalische-frechheit/": {
+"address": null,
+"cost": "32,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Konzertante Aneignung – Eine musikalische Frechheit",
+"ts": 1793715564,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/lieb-mich-heiss-an-kalten-tagen/": {
+"address": null,
+"cost": "27,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Lieb mich heiß an kalten Tagen",
+"ts": 1793715559,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/magic-maxl-zaubern-verboten/": {
+"address": null,
+"cost": "27,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Magic Maxl – Zaubern verboten!",
+"ts": 1793715559,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/mamma-mia-das-musical/": {
+"address": null,
+"cost": "ab 34,90 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Mamma Mia!",
+"ts": 1793715565,
+"venue": "Theatersaal"
+},
+"https://www.deutsches-theater.de/martin-schmid-swingtime/": {
+"address": null,
+"cost": "29,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Martin Schmid: Swingtime",
+"ts": 1793715563,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/maskenball-der-tiere/": {
+"address": null,
+"cost": "ab 20,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Maskenball der Tiere",
+"ts": 1793715565,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/mathias-landtwing-quartett/": {
+"address": null,
+"cost": "32,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Mathias Landtwing Quartett",
+"ts": 1793715563,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/merry-jazzmas/": {
+"address": null,
+"cost": "37,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Merry Jazzmas!",
+"ts": 1793715561,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/merry-musical/": {
+"address": null,
+"cost": "ab 36,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Merry Musical",
+"ts": 1793715559,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/midnight-cabaret/": {
+"address": null,
+"cost": "ab 28,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "The Midnight Cabaret",
+"ts": 1793715562,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/mord-in-bayern/": {
+"address": null,
+"cost": "27,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "TRUE CRIME LIVE – MORD IN BAYERN",
+"ts": 1793715563,
+"venue": null
+},
+"https://www.deutsches-theater.de/muencher-jazzsalon-art-blakey/": {
+"address": null,
+"cost": "39,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Münchner Jazzsalon – Art Blakey",
+"ts": 1793715562,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/muencher-jazzsalon-stan-getz/": {
+"address": null,
+"cost": "39,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Münchner Jazzsalon – Stan Getz",
+"ts": 1793715565,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/muenchner-jazzsalon-john-coltrane/": {
+"address": null,
+"cost": "35,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Münchner Jazzsalon – John Coltrane",
+"ts": 1793715559,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/notenlos-dein-wunschmusical-2027/": {
+"address": null,
+"cost": "30,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Notenlos – Dein Wunschmusical",
+"ts": 1793715563,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/oehle-jahre-wieder/": {
+"address": null,
+"cost": "35,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Oehl Adventskonzert „Oehle Jahre wieder“",
+"ts": 1793715560,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/oide-wiesn-buergerball/": {
+"address": null,
+"cost": "ab 27,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Oide Wiesn Bürgerball",
+"ts": 1793715561,
+"venue": "Ballsaal"
+},
+"https://www.deutsches-theater.de/one-night-stand/": {
+"address": null,
+"cost": "42,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "One Night Stand",
+"ts": 1793715564,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/only-hits/": {
+"address": null,
+"cost": "29,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Lisa Wahlandt & Band – Only Hits!",
+"ts": 1793715562,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/operation-schneeschmelze/": {
+"address": null,
+"cost": "26,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Operation Schneeschmelze",
+"ts": 1793715558,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/oskar-maria-graf/": {
+"address": null,
+"cost": "33,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Oskar Maria Graf",
+"ts": 1793715565,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/pasion-de-baile/": {
+"address": null,
+"cost": "ab 54,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Pasión de Baile",
+"ts": 1793715561,
+"venue": "Ballsaal"
+},
+"https://www.deutsches-theater.de/rapunzel/": {
+"address": null,
+"cost": "ab 29,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Rapunzel",
+"ts": 1793715564,
+"venue": "Theatersaal"
+},
+"https://www.deutsches-theater.de/riedel-singt-kaestner/": {
+"address": null,
+"cost": "29,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Riedel singt Kästner",
+"ts": 1793715565,
+"venue": "Silbersaal"
+},
 "https://www.deutsches-theater.de/rock-the-ballet/": {
 "address": null,
 "cost": "ab 29,00 €",
@@ -2539,6 +3673,114 @@
 "lng": null,
 "ts": 1793548414,
 "venue": "Theatersaal"
+},
+"https://www.deutsches-theater.de/romeo-und-julia/": {
+"address": null,
+"cost": "ab 29,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Romeo & Julia",
+"ts": 1793715558,
+"venue": "Theatersaal"
+},
+"https://www.deutsches-theater.de/sisters-in-crime/": {
+"address": null,
+"cost": "ab 29,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Sisters in Crime",
+"ts": 1793715565,
+"venue": "Theatersaal"
+},
+"https://www.deutsches-theater.de/solaire/": {
+"address": null,
+"cost": "29,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Solaire and its Fusion Project",
+"ts": 1793715565,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/songs-and-stories-live/": {
+"address": null,
+"cost": "29,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "SONGS & STORIES LIVE – DIE GRÖSSTEN HITS UND IHRE GESCHICHTE",
+"ts": 1793715563,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/sophie-wegener-encontros-e-despedidas/": {
+"address": null,
+"cost": "28,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Sophie Wegener – Encontros e despedidas",
+"ts": 1793715563,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/strings-on-fire/": {
+"address": null,
+"cost": "34,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Strings on Fire",
+"ts": 1793715565,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/the-cat-stevens-tribute/": {
+"address": null,
+"cost": "ab 29,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "The Cat Stevens Tribute",
+"ts": 1793715563,
+"venue": "Theatersaal"
+},
+"https://www.deutsches-theater.de/tour-de-france-131126/": {
+"address": null,
+"cost": "20,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "TOUR DE FRANCE – Die Party mit französischer und frankophoner Musik",
+"ts": 1793715558,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/trio-sfera/": {
+"address": null,
+"cost": "32,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "TRIO SFERA „Verschwiegene Lieder“",
+"ts": 1793715565,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/variete-burlesque/": {
+"address": null,
+"cost": "39,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Varieté Burlesque",
+"ts": 1793715560,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/vickys-shit-show/": {
+"address": null,
+"cost": "27,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Vickys Shit Show",
+"ts": 1793715558,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/vom-winde-verweht/": {
+"address": null,
+"cost": "ab 32,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Vom Winde verweht",
+"ts": 1793715559,
+"venue": "Silbersaal"
 },
 "https://www.eatutzing.de/veranstaltung/1-kammerkonzert-des-symphonieorchesters-des-br-10/": {
 "address": null,
@@ -2692,6 +3934,15 @@
 "ts": 1793548347,
 "venue": "Große Aula LMU-Main Building, Geschwister Scholl-Platz 1 Munich"
 },
+"https://www.erding.de/meldungen-detail/schnee-in-allen-farben-und-formen": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Schnee in allen Farben und Formen - Kreisstadt Erding",
+"ts": 1793715537,
+"venue": null
+},
 "https://www.erding.de/veranstaltungen-detail/lesung-der-eigenen-berufung-folgen": {
 "address": null,
 "cost": null,
@@ -2770,6 +4021,744 @@
 "lat": null,
 "lng": null,
 "ts": 1793548413,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/02036c4a-e180-490e-834b-e40ccf198c41": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715582,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/03d01502-fe59-4739-8649-b657dd7a6be5": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715584,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/093b4d1f-3484-4a38-a448-e17a7bf750a4": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "15 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715586,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/0d350f4c-44bf-4664-96be-e12910c98552": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "25 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715588,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/0d7747ac-8ac0-402e-acce-f65b74d265fb": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715586,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/145bed32-6f71-4d84-824b-ad527b65e7b4": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715582,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/17677d28-f01c-4395-85fc-ed868aabdc6e": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "21 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715585,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/1b35d29c-9dee-401d-82f2-cc9b7530e6c8": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "24 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715588,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/1dc28d87-e993-4cab-9c75-d25e38529c06": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715586,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/280532d7-f439-4cd6-90fd-e728a310e9d1": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "10 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715585,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/29665ca3-93ae-43de-aa85-4bbaba181aee": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715588,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/2e9f90a2-61c6-4854-a8e2-41186578f385": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715583,
+"venue": "Pestalozzistr. 42"
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/32a71d20-b432-48ba-ae85-6de322f877d9": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715582,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/348c89a4-2da7-4bec-b4cd-8ca3587dab3a": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715585,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/369736db-ba0d-4753-907c-af7bbcebdd91": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715587,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/37201b56-23eb-44da-9155-44d768cb8333": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715589,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/375aa3cd-d761-4fce-9800-37dca0fddd17": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "12 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715584,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/3f8f85fe-12e3-4bf1-a237-a606feaf5164": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715582,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/45895d5c-5b4b-4671-94c3-a47cedd51c75": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715584,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/48a719fd-5c50-41e7-8a02-ee16c632ff40": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715587,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/4d16c8a5-c0a1-44e4-ae10-c94a6de2605f": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "21 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715582,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/52d51806-4b4c-418c-a2d4-aa6c5a940b2b": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715587,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/541907f5-08ce-4d90-a3d2-442ee5a91224": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715586,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/556369e6-ed84-43b9-a6f0-abb4f240a507": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715587,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/59232f06-a05e-480e-bb6f-b6e46b0f1828": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "8 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715586,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/5aeb51d5-30cf-4758-a36a-091e7e51c84a": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "24 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715587,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/60242558-fa3c-47d1-b4aa-ec110d5206b3": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715586,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/615c832e-c79e-495d-90ef-6d0647ae4237": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "21 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715588,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/64a6acab-bab0-4f6d-8a51-649013613b31": {
+"address": "Fraunhoferstraße 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715583,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/6576887f-819a-4c1b-bf1c-16ff9973b00d": {
+"address": "Fraunhoferstraße 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715584,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/672f667d-3b80-42f1-b579-bb0297640b85": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "24 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715588,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/69d9051a-6cee-4229-a069-ea42baed2161": {
+"address": null,
+"cost": "12 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715584,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/6ca38c0b-6c3b-49c0-ad95-ac69d50d3b87": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715588,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/7906eb3a-ebd1-49f7-9349-0637f81ca287": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715584,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/7afdc6e3-6567-44aa-a365-c17857bfb3f9": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715582,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/7ff5702e-d93a-4e53-81b9-bf88e77adeb3": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715589,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/843bb197-3f47-4235-96c8-bc34043006a6": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715588,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/84b6b72a-84d3-46e2-9aca-d9afc9e8d198": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715586,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/86921095-0ef7-403d-b816-73154f130390": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715583,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/8e5e0e56-b180-4aa8-876a-78c48ff8dfb5": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715585,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/90740f26-f785-42ee-9655-ed653edae157": {
+"address": "Fraunhoferstraße 9, 80469 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715584,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/93825404-8c7c-4247-8b9c-900aa2164aa4": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "25 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715588,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/945bd492-7aa2-4b69-830d-1b9a77f6ee17": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715588,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/954e83ce-6dad-45c3-846c-ab248ac10295": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715583,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/9a90b0e0-33ec-4431-a047-5c912f249fb9": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715589,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/9c08a347-7884-45a2-bea3-c31d2b9f8cbe": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715582,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/9d3902bd-f826-4b1b-b412-f5d27b5b72cf": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "21 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715586,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/9e38234d-5d47-4b05-a5c7-869ac0e27f0a": {
+"address": "Fraunhoferstraße 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715583,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/a1a94f91-5274-4756-ae7b-ae2112f4c352": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715585,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/a6d804e9-d039-44e2-94ca-0a9c07bdb95e": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715586,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/adc8cdf2-f19f-4c63-8536-c04acd3496b4": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715587,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/b1f34fe4-64ee-4749-aa6a-67b090a3bede": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715586,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/b435edc3-e4aa-4335-aad4-19be17ebffe9": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715585,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/b88cb4d7-2fb5-493f-adca-690839d5103c": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "21 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715589,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/b905b0f3-01ca-48ca-b61b-08ea4482e20b": {
+"address": "Fraunhoferstraße 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715584,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/b909a7aa-ac17-4bf2-9eb8-aa128b0a8e1f": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715589,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/ba6754f4-2a75-40ec-ad87-5d30732b9dac": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715586,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/bac5607d-8911-4ecc-a28b-05df95205c72": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715585,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/bb9fa973-de90-4542-be20-cb5bd3eeaf11": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715587,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/bbf8c99a-b6bb-43df-be94-faa5d10c979d": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "21 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715588,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/c2302815-3c9a-44b4-afa5-d43dba8e172d": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "12 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715584,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/c26e04aa-3634-4d33-887f-b9d2a1f0117d": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715585,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/c3dce3d9-4139-4c71-bc60-ce78bef91e0f": {
+"address": "Fraunhoferstraße 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715583,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/c8648149-2f13-498f-bde3-1f1f1c14063e": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "21 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715587,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/cd9e091a-a033-4457-b3d0-b87eeb84b5c7": {
+"address": "Fraunhoferstraße 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715583,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/ce0705fe-1a71-462b-b263-d5278e45afa0": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "12 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715582,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/d82c96aa-2346-45de-b8af-a8791a54d66d": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715584,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/dafd6d77-36e4-4f4e-9e53-4292929d1274": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "21 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715586,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/db925fce-8060-4911-9528-2a2f258079f9": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "21 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715589,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/de0809b6-8079-4b31-9655-52b31d8f471d": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "25 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715588,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/e0e56d6a-9b77-4b8c-bae5-39519eabd670": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "21 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715585,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/e1186899-a1d8-44c1-8e69-7045cd07cb5e": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715583,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/e2ee46fc-bdb4-4167-991b-a6bfb47024f6": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715583,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/e4afd211-35a2-4883-b7bb-66f8a55eb946": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "15 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715585,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/e77fe2ad-d660-42e6-af11-4997fe0e2798": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715589,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/f0933b3e-d1d3-4cdc-9fcb-ba600d18bba7": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715588,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/f2082c0b-e621-4572-b491-b4cecaf3e580": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715583,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/f6c972b3-8427-47af-afa4-91bfcbc22107": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715586,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/fa46beaf-405b-441d-ad31-2ae62c46e7fa": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715587,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/fab2ef9d-8948-4d1f-ba47-efb3005cd2da": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "19 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715589,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/fed84624-bf7c-4c67-ac6f-68864066663d": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": "12 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715582,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/fed90c10-23f4-4b5a-ab95-fe2ab677d0e5": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1793715586,
 "venue": null
 },
 "https://www.gasteig.de/festivals/14-chinesisches-filmfest-muenchen/": {
@@ -2956,6 +4945,231 @@
 "ts": 1793548377,
 "venue": null
 },
+"https://www.hofspielhaus.de/stuecke/beatles-go-christmas/": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Beatles go Christmas - Hofspielhaus München",
+"ts": 1793715577,
+"venue": null
+},
+"https://www.hofspielhaus.de/stuecke/christian-christl-bayoogie-masters/": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Christian Christl - Bayoogie Masters - Hofspielhaus München",
+"ts": 1793715581,
+"venue": null
+},
+"https://www.hofspielhaus.de/stuecke/das-zauberfloetchen/": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Das Zauberflötchen - Hofspielhaus München",
+"ts": 1793715577,
+"venue": null
+},
+"https://www.hofspielhaus.de/stuecke/der-kleine-prinz/": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Der Kleine Prinz - Hofspielhaus München",
+"ts": 1793715580,
+"venue": null
+},
+"https://www.hofspielhaus.de/stuecke/der-kontrabass/": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "DER KONTRABASS - Hofspielhaus München",
+"ts": 1793715580,
+"venue": null
+},
+"https://www.hofspielhaus.de/stuecke/der-saengerkrieg-der-heidehasen/": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Der Sängerkrieg der Heidehasen - Hofspielhaus München",
+"ts": 1793715577,
+"venue": null
+},
+"https://www.hofspielhaus.de/stuecke/der-tatortreiniger/": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Der Tatortreiniger - Hofspielhaus München",
+"ts": 1793715580,
+"venue": null
+},
+"https://www.hofspielhaus.de/stuecke/female-instincts-katrin-avisontizian-jost/": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "FEMALE INSTINCTS KATRIN AVISON und TIZIAN JOST - Hofspielhaus München",
+"ts": 1793715580,
+"venue": null
+},
+"https://www.hofspielhaus.de/stuecke/giesing-mountain/": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Giesing Mountain - Hofspielhaus München",
+"ts": 1793715579,
+"venue": null
+},
+"https://www.hofspielhaus.de/stuecke/hannah-ahrendt-und-mary-mccarthy-warum-sollte-ich-meine-grossmutter-nicht-umbringen-wenn-ich-das-will/": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Hannah Ahrendt und Mary Mccarthy - Hofspielhaus München",
+"ts": 1793715581,
+"venue": null
+},
+"https://www.hofspielhaus.de/stuecke/kaltgestellt/": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Kaltgestellt - Hofspielhaus München",
+"ts": 1793715577,
+"venue": null
+},
+"https://www.hofspielhaus.de/stuecke/kunst/": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Kunst - Hofspielhaus München",
+"ts": 1793715579,
+"venue": null
+},
+"https://www.hofspielhaus.de/stuecke/loriots-dramatische-werke/": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Loriots dramatische Werke - Hofspielhaus München",
+"ts": 1793715580,
+"venue": null
+},
+"https://www.hofspielhaus.de/stuecke/max-tiller-quartett-modern-jazz/": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Max Tiller Quartett – modern Jazz - Hofspielhaus München",
+"ts": 1793715577,
+"venue": null
+},
+"https://www.hofspielhaus.de/stuecke/oh-mein-gott/": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Oh Mein Gott! - Hofspielhaus München",
+"ts": 1793715577,
+"venue": null
+},
+"https://www.hofspielhaus.de/stuecke/omi-alarm/": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Omi-Alarm - Hofspielhaus München",
+"ts": 1793715582,
+"venue": null
+},
+"https://www.hofspielhaus.de/stuecke/penthesilea/": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Penthesilea - Hofspielhaus München",
+"ts": 1793715582,
+"venue": null
+},
+"https://www.hofspielhaus.de/stuecke/schrecklich-amuesant-aber-in-zukunft-ohne-mich/": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Schrecklich amüsant - aber in Zukunft ohne mich - Hofspielhaus München",
+"ts": 1793715577,
+"venue": null
+},
+"https://www.hofspielhaus.de/stuecke/shakespeares-saemtliche-werke-leicht-gekuerzt/": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Shakespeares sämtliche Werke (leicht gekürzt) - Hofspielhaus München",
+"ts": 1793715579,
+"venue": null
+},
+"https://www.hofspielhaus.de/stuecke/silvestershow-sinatra-perfectly-frank/": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Silvestershow: Sinatra: Perfectly Frank! - Hofspielhaus München",
+"ts": 1793715580,
+"venue": null
+},
+"https://www.hofspielhaus.de/stuecke/sinatra-perfecly-frank/": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Sinatra: Perfectly Frank! - Hofspielhaus München",
+"ts": 1793715577,
+"venue": null
+},
+"https://www.hofspielhaus.de/stuecke/so-schoen-und-so-bloed-dazu/": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "So schön und so blöd dazu - Hofspielhaus München",
+"ts": 1793715577,
+"venue": null
+},
+"https://www.hofspielhaus.de/stuecke/the-rick-hollander-quartett/": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "The Rick Hollander Quartett - Hofspielhaus München",
+"ts": 1793715581,
+"venue": null
+},
+"https://www.hofspielhaus.de/stuecke/und-morgen-kommt-der-hartmann/": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Und morgen kommt der Hartmann - Hofspielhaus München",
+"ts": 1793715580,
+"venue": null
+},
+"https://www.hofspielhaus.de/stuecke/weihnachtsjazz-mit-alma-naidu/": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Alma Naidu - Voice & Piano - Hofspielhaus München",
+"ts": 1793715577,
+"venue": null
+},
 "https://www.hss.de/veranstaltungen/ungarn-und-die-freiheit-70-jahre-mut-aufbruch-und-europaeische-verantwortung-5260623123/": {
 "address": "Lazarettstr. 33, 80636 München",
 "cost": null,
@@ -3018,6 +5232,1347 @@
 "lat": null,
 "lng": null,
 "ts": 1793548416,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/1000014/gerhard-polt.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Gerhard Polt",
+"ts": 1793715572,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/2214/heilige-nacht-–-ludwig-thoma.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Heilige Nacht – Ludwig Thoma",
+"ts": 1793715570,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/2216/a-weihnachtsgschicht.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "A Weihnachtsgschicht",
+"ts": 1793715570,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/4218/helmut-schleich-–-live-2027.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Helmut Schleich – Live 2027",
+"ts": 1793715575,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/4797/the-soul-queens-und-der-zacken-aus-der-krone.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "THE SOUL QUEENS-UND DER ZACKEN AUS DER KRONE",
+"ts": 1793715574,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5171/mei-schee,-scho-wieda-weihnacht-n.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Mei schee, scho wieda Weihnacht'n",
+"ts": 1793715569,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5575/the-firebirds-burlesque-show-2027.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "The Firebirds Burlesque Show 2027",
+"ts": 1793715572,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5576/the-firebirds-burlesque-show-2027.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "The Firebirds Burlesque Show 2027",
+"ts": 1793715572,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5577/the-firebirds-burlesque-show-2027.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "The Firebirds Burlesque Show 2027",
+"ts": 1793715572,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5582/gerhard-polt.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Gerhard Polt",
+"ts": 1793715569,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5606/gerhard-polt.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Gerhard Polt",
+"ts": 1793715571,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5633/wolfgang-krebs-–-bayern-liebt-dich.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Wolfgang Krebs – Bayern liebt Dich",
+"ts": 1793715568,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5635/eisi-gulp-tagebuch-eine-komikers-ii-sturm-und-drang.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Eisi Gulp - Tagebuch eine Komikers II -Sturm und Drang",
+"ts": 1793715568,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5636/eisi-gulp-tagebuch-eine-komikers-ii-sturm-und-drang.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Eisi Gulp - Tagebuch eine Komikers II -Sturm und Drang",
+"ts": 1793715573,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5647/carmen-geschöpf-der-leidenschaft.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Carmen - Geschöpf der Leidenschaft",
+"ts": 1793715572,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5650/die-br-brettl-spitzen-–-live-in-starbesetzung.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Die BR- Brettl-Spitzen – LIVE in Starbesetzung",
+"ts": 1793715569,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5651/italia-con-amore.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Italia con Amore",
+"ts": 1793715569,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5652/italia-con-amore.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Italia con Amore",
+"ts": 1793715574,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5655/susi-oder-so-–-kaiserin-von-österreich.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Susi oder so – Kaiserin von Österreich",
+"ts": 1793715572,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5656/susi-oder-so-–-kaiserin-von-österreich.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Susi oder so – Kaiserin von Österreich",
+"ts": 1793715575,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5658/willy-astor-„reimart-und-lachkunde“-prädikat-wortvoll.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "WILLY ASTOR „Reimart und Lachkunde“ Prädikat Wortvoll",
+"ts": 1793715572,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5659/„und-sonntags-regnets-sowieso“-erich-kästner-und-edmund-nick.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "„und Sonntags regnets sowieso“ Erich Kästner und Edmund Nick",
+"ts": 1793715572,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5662/carmen-geschöpf-der-leidenschaft.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Carmen - Geschöpf der Leidenschaft",
+"ts": 1793715568,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5666/50s-show.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "50s Show",
+"ts": 1793715571,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5684/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715569,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5685/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715569,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5686/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715569,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5687/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715569,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5688/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715569,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5689/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715569,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5690/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715569,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5691/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715569,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5692/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715569,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5693/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715569,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5694/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715569,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5695/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715569,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5696/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715569,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5697/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715569,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5698/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715570,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5699/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715570,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5700/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715570,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5701/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715570,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5702/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715570,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5703/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715570,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5704/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715570,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5705/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715570,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5706/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715570,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5707/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715570,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5708/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715571,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5709/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715571,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5710/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715571,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5711/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715571,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5712/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715571,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5713/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715571,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5763/der-boandlkramerkongress-brandner-kaspar-teil-3.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Der Boandlkramerkongress - Brandner Kaspar Teil 3",
+"ts": 1793715566,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5764/der-boandlkramerkongress-brandner-kaspar-teil-3.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Der Boandlkramerkongress - Brandner Kaspar Teil 3",
+"ts": 1793715567,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5765/der-boandlkramerkongress-brandner-kaspar-teil-3.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Der Boandlkramerkongress - Brandner Kaspar Teil 3",
+"ts": 1793715568,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5766/der-boandlkramerkongress-brandner-kaspar-teil-3.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Der Boandlkramerkongress - Brandner Kaspar Teil 3",
+"ts": 1793715568,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5767/der-boandlkramerkongress-brandner-kaspar-teil-3.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Der Boandlkramerkongress - Brandner Kaspar Teil 3",
+"ts": 1793715568,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5768/der-boandlkramerkongress-brandner-kaspar-teil-3.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Der Boandlkramerkongress - Brandner Kaspar Teil 3",
+"ts": 1793715568,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5769/der-boandlkramerkongress-brandner-kaspar-teil-3.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Der Boandlkramerkongress - Brandner Kaspar Teil 3",
+"ts": 1793715568,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5770/der-boandlkramerkongress-brandner-kaspar-teil-3.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Der Boandlkramerkongress - Brandner Kaspar Teil 3",
+"ts": 1793715568,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5771/der-boandlkramerkongress-brandner-kaspar-teil-3.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Der Boandlkramerkongress - Brandner Kaspar Teil 3",
+"ts": 1793715568,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5772/der-boandlkramerkongress-brandner-kaspar-teil-3.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Der Boandlkramerkongress - Brandner Kaspar Teil 3",
+"ts": 1793715568,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5773/der-boandlkramerkongress-brandner-kaspar-teil-3.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Der Boandlkramerkongress - Brandner Kaspar Teil 3",
+"ts": 1793715568,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5774/der-boandlkramerkongress-brandner-kaspar-teil-3.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Der Boandlkramerkongress - Brandner Kaspar Teil 3",
+"ts": 1793715568,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5775/der-boandlkramerkongress-brandner-kaspar-teil-3.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Der Boandlkramerkongress - Brandner Kaspar Teil 3",
+"ts": 1793715568,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5776/der-boandlkramerkongress-brandner-kaspar-teil-3.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Der Boandlkramerkongress - Brandner Kaspar Teil 3",
+"ts": 1793715569,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5777/der-boandlkramerkongress-brandner-kaspar-teil-3.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Der Boandlkramerkongress - Brandner Kaspar Teil 3",
+"ts": 1793715569,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5778/stille-nacht-im-amtsgericht.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Stille Nacht im Amtsgericht",
+"ts": 1793715570,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5779/stille-nacht-im-amtsgericht.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Stille Nacht im Amtsgericht",
+"ts": 1793715570,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5780/stille-nacht-im-amtsgericht.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Stille Nacht im Amtsgericht",
+"ts": 1793715570,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5783/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kur-Royal",
+"ts": 1793715571,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5784/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kur-Royal",
+"ts": 1793715571,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5785/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kur-Royal",
+"ts": 1793715571,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5786/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "KUR-ROYAL",
+"ts": 1793715571,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5787/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kur-Royal",
+"ts": 1793715571,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5788/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kur-Royal",
+"ts": 1793715571,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5789/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kur-Royal",
+"ts": 1793715571,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5790/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kur-Royal",
+"ts": 1793715571,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5791/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "KUR-ROYAL",
+"ts": 1793715571,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5792/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kur-Royal",
+"ts": 1793715571,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5793/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kur-Royal",
+"ts": 1793715572,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5794/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kur-Royal",
+"ts": 1793715572,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5795/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kur-Royal",
+"ts": 1793715572,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5796/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kur-Royal",
+"ts": 1793715572,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5797/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "KUR-ROYAL",
+"ts": 1793715572,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5798/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kur-Royal",
+"ts": 1793715572,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5799/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kur-Royal",
+"ts": 1793715572,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5800/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kur-Royal",
+"ts": 1793715572,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5801/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kur-Royal",
+"ts": 1793715572,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5802/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kur-Royal",
+"ts": 1793715572,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5803/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "KUR-ROYAL",
+"ts": 1793715572,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5804/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715573,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5805/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715573,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5806/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715573,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5807/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715573,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5808/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715573,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5809/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715573,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5810/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715573,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5811/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715573,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5812/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715574,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5813/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715574,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5814/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715574,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5815/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715574,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5816/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715574,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5817/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715574,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5818/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715574,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5819/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715574,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5820/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715574,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5821/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715574,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5822/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715574,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5823/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715574,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5824/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715574,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5825/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715574,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5826/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715575,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5827/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715575,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5828/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715575,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5829/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715575,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5830/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715575,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5831/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715575,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5832/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715575,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5833/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715575,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5834/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715575,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5835/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715575,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5836/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715575,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5875/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715571,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5876/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715571,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5877/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715571,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5879/und-es-gibt-ihn-doch.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Und es gibt Ihn doch",
+"ts": 1793715570,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5881/stille-nacht-im-amtsgericht.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Stille Nacht im Amtsgericht",
+"ts": 1793715570,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5882/stille-nacht-im-amtsgericht.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Stille Nacht im Amtsgericht",
+"ts": 1793715570,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5884/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kur-Royal",
+"ts": 1793715572,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5885/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kur-Royal",
+"ts": 1793715572,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5886/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kur-Royal",
+"ts": 1793715572,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5887/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "KUR-ROYAL",
+"ts": 1793715572,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5888/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "KUR-ROYAL",
+"ts": 1793715572,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5889/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "KUR-ROYAL",
+"ts": 1793715572,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5890/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kur-Royal",
+"ts": 1793715573,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5891/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kur-Royal",
+"ts": 1793715573,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5892/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kur-Royal",
+"ts": 1793715573,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5893/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "KUR-ROYAL",
+"ts": 1793715573,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5894/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kur-Royal",
+"ts": 1793715573,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5895/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kur-Royal",
+"ts": 1793715573,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5896/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kur-Royal",
+"ts": 1793715573,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5897/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kur-Royal",
+"ts": 1793715573,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5898/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kur-Royal",
+"ts": 1793715573,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5899/kur-royal.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "KUR-ROYAL",
+"ts": 1793715573,
+"venue": null
+},
+"https://www.komoedie-muenchen.de/spielplan-tickets/5921/1h22-vor-dem-ende.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "1h22 vor dem Ende",
+"ts": 1793715573,
 "venue": null
 },
 "https://www.kunsthalle-muc.de/barcelona/": {
@@ -3844,6 +7399,15 @@
 "ts": 1793548407,
 "venue": "Japan-Zentrum, Raum L 155 Oettingenstr. 67 80538, München"
 },
+"https://www.lmu.de/de/newsroom/veranstaltungskalender/veranstaltung/seeds-to-sounds-035c338b.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Seeds to Sounds",
+"ts": 1793715518,
+"venue": "LMU Hauptgebäude Geschwister-Scholl-Platz 1 80539 München"
+},
 "https://www.lmu.de/de/newsroom/veranstaltungskalender/veranstaltung/sounds-of-positive-imaginary-futures-b569a905.html": {
 "address": null,
 "cost": null,
@@ -3980,6 +7544,15 @@
 "ts": 1793548615,
 "venue": "Scalable Capital"
 },
+"https://www.meetup.com/friending-around-munich/events/316316763/": {
+"address": "Sonnenstraße 18b ,, München, München",
+"cost": "8.99 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Speed Friending Night: Meet Locals & Expats in Munich , Sat, Nov 7, 2026, 7:00 PM",
+"ts": 1793715518,
+"venue": "Koos Hotel & Apartments"
+},
 "https://www.meetup.com/friending-around-munich/events/317119878/": {
 "address": "TBD, München, München",
 "cost": "9.99 €",
@@ -4027,6 +7600,78 @@
 "lng": null,
 "ts": 1793548615,
 "venue": "Google Munich - Safety Engineering Center"
+},
+"https://www.meetup.com/themunichconnection/events/317013943/": {
+"address": "Ehrengutstraße 6, München, München",
+"cost": "10 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Every Thursday After-Work Socializing | Meet New People, Make New Connections, Thu, Nov 5, 2026, 7:00 PM",
+"ts": 1793715518,
+"venue": "Café Le Hygge"
+},
+"https://www.metropoltheater.com/spielplan/stueck-details/a-thousand-kisses-deep-257/": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "A Thousand Kisses Deep",
+"ts": 1793715539,
+"venue": null
+},
+"https://www.metropoltheater.com/spielplan/stueck-details/der-fuenfte-schritt-836/": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Der fünfte Schritt",
+"ts": 1793715539,
+"venue": null
+},
+"https://www.metropoltheater.com/spielplan/stueck-details/die-wahrheiten-245/": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Die Wahrheiten",
+"ts": 1793715539,
+"venue": null
+},
+"https://www.metropoltheater.com/spielplan/stueck-details/michael-kohlhaas-828/": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Michael Kohlhaas",
+"ts": 1793715540,
+"venue": null
+},
+"https://www.metropoltheater.com/spielplan/stueck-details/post-von-karlheinz-676/": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Post von Karlheinz",
+"ts": 1793715539,
+"venue": null
+},
+"https://www.metropoltheater.com/spielplan/stueck-details/putsch-834/": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Putsch",
+"ts": 1793715539,
+"venue": null
+},
+"https://www.metropoltheater.com/spielplan/stueck-details/rausch-druk-835/": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "RAUSCH (Druk)",
+"ts": 1793715540,
+"venue": null
 },
 "https://www.mpg.de/events/46308/9023208": {
 "address": null,
@@ -5075,6 +8720,510 @@
 "lng": null,
 "ts": 1793548333,
 "venue": "online"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/achim-bogdahn": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Achim Bogdahn",
+"ts": 1793715537,
+"venue": "19:30 Uhr Bühne 2"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/alien-disko-7": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Alien Disko #7",
+"ts": 1793715537,
+"venue": "19:30 Uhr im Haus"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/am-meer-lag-muenchen-nie": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Am Meer lag München nie",
+"ts": 1793715537,
+"venue": "19:00 Uhr Bühne 2"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/angela-aux": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Angela Aux",
+"ts": 1793715537,
+"venue": "20:00 Uhr Bühne 2"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/annette-dittert": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Annette Dittert",
+"ts": 1793715537,
+"venue": "19:30 Uhr Bühne 1"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/axel-hacke": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Axel Hacke",
+"ts": 1793715537,
+"venue": "16:00 Uhr Bühne 1"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/bananafishbones-0": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Bananafishbones",
+"ts": 1793715537,
+"venue": "20:00 Uhr Bühne 1"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/best-poetry-slam": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Best of Poetry Slam",
+"ts": 1793715537,
+"venue": "19:00 Uhr Bühne 1"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/der-gute-mensch-von-sezuan": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Der gute Mensch von Sezuan",
+"ts": 1793715537,
+"venue": "20:00 Uhr Bühne 3"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/dirk-von-lowtzow-0": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Dirk von Lowtzow",
+"ts": 1793715538,
+"venue": "20:00 Uhr Bühne 1"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/dominik-eulberg": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Dominik Eulberg",
+"ts": 1793715537,
+"venue": "20:00 Uhr Bühne 1"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/ein-stern-ist-aufgegangen": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Ein Stern ist aufgegangen",
+"ts": 1793715537,
+"venue": "16:30 Uhr Bühne 1"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/freddy-friends-2": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Freddy & Friends #2",
+"ts": 1793715537,
+"venue": "20:00 Uhr Bühne 2"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/freddy-friends-3": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Freddy & Friends #3",
+"ts": 1793715537,
+"venue": "20:00 Uhr Bühne 2"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/grosse-matinee-der-saubande": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Große Matinée der \"Saubande\"",
+"ts": 1793715537,
+"venue": "11:01 Uhr Bühne 1"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/heinz-strunk-2": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Heinz Strunk",
+"ts": 1793715539,
+"venue": "20:00 Uhr Bühne 1"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/hotel-matze": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Hotel Matze",
+"ts": 1793715537,
+"venue": "20:00 Uhr Bühne 1"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/kino-asyl": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "KINO ASYL",
+"ts": 1793715537,
+"venue": "19:00 Uhr Bühne 2"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/mareike-fallwickl": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Mareike Fallwickl",
+"ts": 1793715537,
+"venue": "20:00 Uhr Bühne 1"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/michael-wolffsohn": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Michael Wolffsohn",
+"ts": 1793715537,
+"venue": "20:00 Uhr Bühne 2"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/mona-ameziane-christine-westermann": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Mona Ameziane & Christine Westermann",
+"ts": 1793715537,
+"venue": "20:00 Uhr Bühne 1"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/muenchner-poetry-slam-stadtmeisterschaft-2026": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Münchner Poetry Slam-Stadtmeisterschaft 2026",
+"ts": 1793715537,
+"venue": "19:00 Uhr Bühne 1"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/salon-sonnenberg-8": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Salon Sonnenberg #8",
+"ts": 1793715537,
+"venue": "20:00 Uhr Bühne 1"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/salon-sonnenberg-9": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Salon Sonnenberg #9",
+"ts": 1793715537,
+"venue": "20:00 Uhr Bühne 1"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/sensing-sites-dekoloniale-gedaechtnissuche": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Sensing Sites – Dekoloniale Gedächtnissuche",
+"ts": 1793715537,
+"venue": "18:00 Uhr Bühne 3"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/stefanie-sargnagel": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Stefanie Sargnagel",
+"ts": 1793715539,
+"venue": "20:00 Uhr Bühne 1"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/u20-poetry-slam": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "U20 Poetry Slam",
+"ts": 1793715537,
+"venue": "19:00 Uhr Bühne 2"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/vandalisbin": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Vandalisbin",
+"ts": 1793715537,
+"venue": "20:00 Uhr Bühne 2"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/volksshow-27": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Volksshow #27",
+"ts": 1793715537,
+"venue": "20:00 Uhr Bühne 2"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/volksshow-28": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Volksshow #28",
+"ts": 1793715537,
+"venue": "20:00 Uhr Bühne 2"
+},
+"https://www.muenchner-volkstheater.de/programm/extra/volkstour": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Volkstour",
+"ts": 1793715537,
+"venue": "16:00 Uhr Foyer"
+},
+"https://www.muenchner-volkstheater.de/programm/schauspiel/appropriate-was-sich-gehoert": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Appropriate (Was sich gehört)",
+"ts": 1793715537,
+"venue": "19:30 Uhr Bühne 1"
+},
+"https://www.muenchner-volkstheater.de/programm/schauspiel/catarina-oder-von-der-schoenheit-faschisten-zu-toeten": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Catarina oder Von der Schönheit, Faschisten zu töten",
+"ts": 1793715537,
+"venue": "19:30 Uhr Bühne 1"
+},
+"https://www.muenchner-volkstheater.de/programm/schauspiel/der-aufhaltsame-aufstieg-des-arturo-ui": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Der aufhaltsame Aufstieg des Arturo Ui",
+"ts": 1793715537,
+"venue": "19:30 Uhr Bühne 1"
+},
+"https://www.muenchner-volkstheater.de/programm/schauspiel/der-blinde-passagier": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Der blinde Passagier",
+"ts": 1793715537,
+"venue": "19:30 Uhr Bühne 1"
+},
+"https://www.muenchner-volkstheater.de/programm/schauspiel/der-brandner-kaspar-und-das-ewig-leben": {
+"address": "Tumblingerstraße 29, 80337 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Der Brandner Kaspar und das ewig' Leben",
+"ts": 1793715537,
+"venue": "Münchner Volkstheater"
+},
+"https://www.muenchner-volkstheater.de/programm/schauspiel/der-zauberer-von-oz": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Der Zauberer von Oz",
+"ts": 1793715538,
+"venue": "19:30 Uhr Bühne 1"
+},
+"https://www.muenchner-volkstheater.de/programm/schauspiel/die-geierwally": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "DIE GEIERWALLY",
+"ts": 1793715537,
+"venue": "19:30 Uhr Bühne 1"
+},
+"https://www.muenchner-volkstheater.de/programm/schauspiel/die-raeuber-erstes-internationales-schlachthoftheater": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Die Räuber – Erstes internationales Schlachthoftheater",
+"ts": 1793715537,
+"venue": "20:00 Uhr Bühne 2"
+},
+"https://www.muenchner-volkstheater.de/programm/schauspiel/don-karlos": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Don Karlos",
+"ts": 1793715537,
+"venue": "19:30 Uhr Bühne 1"
+},
+"https://www.muenchner-volkstheater.de/programm/schauspiel/echtzeitalter": {
+"address": null,
+"cost": "6 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Echtzeitalter",
+"ts": 1793715537,
+"venue": "19:30 Uhr Bühne 1"
+},
+"https://www.muenchner-volkstheater.de/programm/schauspiel/ein-volksfeind": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Ein Volksfeind",
+"ts": 1793715537,
+"venue": "19:30 Uhr Bühne 1"
+},
+"https://www.muenchner-volkstheater.de/programm/schauspiel/elektra-750-ps-vergangenheitsueberwaeltigung": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "ELEKTRA – 750 PS Vergangenheitsüberwältigung",
+"ts": 1793715537,
+"venue": "20:00 Uhr Bühne 2"
+},
+"https://www.muenchner-volkstheater.de/programm/schauspiel/felix-krull": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Felix Krull",
+"ts": 1793715537,
+"venue": "20:00 Uhr Bühne 2"
+},
+"https://www.muenchner-volkstheater.de/programm/schauspiel/fischer-fritz": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Fischer Fritz",
+"ts": 1793715537,
+"venue": "20:00 Uhr Bühne 3"
+},
+"https://www.muenchner-volkstheater.de/programm/schauspiel/glaube-liebe-roboter": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Glaube Liebe Roboter",
+"ts": 1793715538,
+"venue": "19:30 Uhr Bühne 1"
+},
+"https://www.muenchner-volkstheater.de/programm/schauspiel/gym": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Gym",
+"ts": 1793715539,
+"venue": "20:00 Uhr Bühne 3"
+},
+"https://www.muenchner-volkstheater.de/programm/schauspiel/i-wanna-contact-living-das-gespenstische-von-canterville": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "I WANNA CONTACT THE LIVING – Das Gespenstische von Canterville",
+"ts": 1793715537,
+"venue": "20:00 Uhr Bühne 2"
+},
+"https://www.muenchner-volkstheater.de/programm/schauspiel/im-wasser-sind-wir-schwerelos": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Im Wasser sind wir schwerelos",
+"ts": 1793715538,
+"venue": "20:00 Uhr Bühne 2"
+},
+"https://www.muenchner-volkstheater.de/programm/schauspiel/lichtspiel": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Lichtspiel",
+"ts": 1793715537,
+"venue": "19:30 Uhr Bühne 1"
+},
+"https://www.muenchner-volkstheater.de/programm/schauspiel/ludwig-ii": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Ludwig II.",
+"ts": 1793715539,
+"venue": "19:30 Uhr Bühne 1"
+},
+"https://www.muenchner-volkstheater.de/programm/schauspiel/momo": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "MOMO",
+"ts": 1793715537,
+"venue": "19:00 Uhr Bühne 3"
+},
+"https://www.muenchner-volkstheater.de/programm/schauspiel/philophobia": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Philophobia",
+"ts": 1793715537,
+"venue": "20:00 Uhr Bühne 2"
+},
+"https://www.muenchner-volkstheater.de/programm/schauspiel/tide": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Tide",
+"ts": 1793715537,
+"venue": "20:00 Uhr Bühne 2"
+},
+"https://www.muenchner-volkstheater.de/programm/schauspiel/trauer-ist-das-ding-mit-federn": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Trauer ist das Ding mit Federn",
+"ts": 1793715537,
+"venue": "19:30 Uhr Bühne 1"
+},
+"https://www.muenchner-volkstheater.de/programm/schauspiel/was-ihr-wollt": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Was ihr wollt",
+"ts": 1793715537,
+"venue": "19:30 Uhr Bühne 1"
 },
 "https://www.muffatwerk.de/de/events/view/7587/dreiviertelblut": {
 "address": null,
@@ -6276,6 +10425,15 @@
 "ts": 1793548541,
 "venue": "Ampere"
 },
+"https://www.muffatwerk.de/de/events/view/8338/tricky": {
+"address": null,
+"cost": "47,25 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Tricky",
+"ts": 1793715518,
+"venue": "Muffathalle"
+},
 "https://www.munich-startup.de/events/4-city-demo-day-kreislaufwirtschaft": {
 "address": "Freddie-Mercury Straße 5, 80797 München",
 "cost": null,
@@ -6652,12 +10810,30 @@
 "ts": 1793548331,
 "venue": "Online"
 },
+"https://www.munich-startup.de/events/tutorial-startup-valuation-value-creation-bewertung-verstehen-und-gezielt-steigern": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Tutorial: Startup Valuation & Value Creation: Bewertung verstehen und gezielt steigern",
+"ts": 1793715517,
+"venue": "Online"
+},
 "https://www.munich-startup.de/events/tutorial-steuern-fuer-startups-welche-steuerrechtlichen-themen-sind-fuer-startups-wichtig-0427": {
 "address": null,
 "cost": null,
 "lat": null,
 "lng": null,
 "ts": 1793548332,
+"venue": "Online"
+},
+"https://www.munich-startup.de/events/tutorial-us-reimbursement-strategy-getting-paid-after-fda": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Tutorial: US Reimbursement Strategy – Getting Paid After FDA",
+"ts": 1793715517,
 "venue": "Online"
 },
 "https://www.munich-startup.de/events/tutorial-wandeldarlehen-und-safe-fuer-startups": {
@@ -6691,6 +10867,15 @@
 "lng": null,
 "ts": 1793548326,
 "venue": "Online"
+},
+"https://www.munich-startup.de/events/tutorial-wie-gehe-ich-mit-druck-souveraen-waehrend-meiner-pitches-um": {
+"address": "Agnes-Pockels-Bogen 1, 80992 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Tutorial: Wie gehe ich mit Druck souverän während meiner Pitches um?",
+"ts": 1793715517,
+"venue": "BayStartUP"
 },
 "https://www.munich-startup.de/events/tutorial-zu-viel-verraten-ip-recht-deines-startups-bei-auftritten-auf-veranstaltungen-und-bei-ndas-mit-corporates": {
 "address": null,
@@ -6804,6 +10989,15 @@
 "lng": null,
 "ts": 1793548423,
 "venue": null
+},
+"https://www.mvhs.de/kurse/460-CAT-KAT21551": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Programmschwerpunkt: München – Münchner Volkshochschule",
+"ts": 1793715518,
+"venue": "Online"
 },
 "https://www.mvhs.de/services/hier-erhalten-sie-das-aktuelle-programm": {
 "address": "Marienplatz 8, 80331 München",
@@ -6964,6 +11158,357 @@
 "lng": null,
 "ts": 1793548615,
 "venue": "Germering, Stadthalle Germering, Orlandosaal"
+},
+"https://www.schauburg.net/de/labs/am-ende-des-regenbogens-copy": {
+"address": null,
+"cost": "5 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715544,
+"venue": null
+},
+"https://www.schauburg.net/de/labs/family-time-familien-workshop": {
+"address": null,
+"cost": "5 bis 30 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715541,
+"venue": null
+},
+"https://www.schauburg.net/de/labs/geister-lab": {
+"address": null,
+"cost": "10 bis 150 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715542,
+"venue": null
+},
+"https://www.schauburg.net/de/labs/irgendwas-die-ganze-zeit": {
+"address": null,
+"cost": "5 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715544,
+"venue": null
+},
+"https://www.schauburg.net/de/labs/krieg": {
+"address": null,
+"cost": "10 bis 150 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715542,
+"venue": null
+},
+"https://www.schauburg.net/de/labs/labflix-staffel-1-irgendwas-mit-glueck": {
+"address": null,
+"cost": "5 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715544,
+"venue": null
+},
+"https://www.schauburg.net/de/labs/maedchen-lab": {
+"address": null,
+"cost": "10 bis 150 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715540,
+"venue": null
+},
+"https://www.schauburg.net/de/labs/mal-krach-lab": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715544,
+"venue": null
+},
+"https://www.schauburg.net/de/labs/pen-paper": {
+"address": null,
+"cost": "10 bis 150 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715542,
+"venue": null
+},
+"https://www.schauburg.net/de/labs/schau-spiel-lab": {
+"address": null,
+"cost": "2 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715542,
+"venue": null
+},
+"https://www.schauburg.net/de/labs/zwergerl-lab": {
+"address": null,
+"cost": "10 bis 150 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715545,
+"venue": null
+},
+"https://www.schauburg.net/de/labs/zwergerl-lab-sb": {
+"address": null,
+"cost": "10 bis 150 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715545,
+"venue": null
+},
+"https://www.schauburg.net/de/programm/angst-oder-hase": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715545,
+"venue": null
+},
+"https://www.schauburg.net/de/programm/community-music": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715540,
+"venue": null
+},
+"https://www.schauburg.net/de/programm/der-zauberer-von-oz": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715545,
+"venue": null
+},
+"https://www.schauburg.net/de/programm/die-asche-meines-vaters": {
+"address": null,
+"cost": "560 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715544,
+"venue": null
+},
+"https://www.schauburg.net/de/programm/die-kleine-hexe": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715542,
+"venue": null
+},
+"https://www.schauburg.net/de/programm/die-kuh-rosmarie": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715540,
+"venue": null
+},
+"https://www.schauburg.net/de/programm/drunter-drueber": {
+"address": null,
+"cost": "ab 6 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715541,
+"venue": null
+},
+"https://www.schauburg.net/de/programm/fight-or-flight": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715545,
+"venue": null
+},
+"https://www.schauburg.net/de/programm/glueck-im-doppelpack": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715544,
+"venue": null
+},
+"https://www.schauburg.net/de/programm/gute-wut": {
+"address": null,
+"cost": "ab 5 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715545,
+"venue": null
+},
+"https://www.schauburg.net/de/programm/ich-will-aber": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715545,
+"venue": null
+},
+"https://www.schauburg.net/de/programm/just-listen": {
+"address": "Am Olympiapark 1, 80809 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715540,
+"venue": null
+},
+"https://www.schauburg.net/de/programm/klang-spiel-platz": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715542,
+"venue": null
+},
+"https://www.schauburg.net/de/programm/la-le-luffft": {
+"address": null,
+"cost": "ab 6 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715544,
+"venue": null
+},
+"https://www.schauburg.net/de/programm/mehrfachleben-at": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715541,
+"venue": null
+},
+"https://www.schauburg.net/de/programm/meze-brotzeit": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715542,
+"venue": null
+},
+"https://www.schauburg.net/de/programm/minga-music-talks": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715540,
+"venue": null
+},
+"https://www.schauburg.net/de/programm/open-decks-dance": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715541,
+"venue": null
+},
+"https://www.schauburg.net/de/programm/rund": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715545,
+"venue": null
+},
+"https://www.schauburg.net/de/programm/schauburg-sagt-gute-nacht": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715545,
+"venue": null
+},
+"https://www.schauburg.net/de/programm/spiel-mit": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715542,
+"venue": null
+},
+"https://www.schauburg.net/de/programm/sprachcafe": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715541,
+"venue": null
+},
+"https://www.schauburg.net/de/programm/superposition": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715542,
+"venue": null
+},
+"https://www.schauburg.net/de/programm/timm-thaler": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715544,
+"venue": null
+},
+"https://www.schauburg.net/de/programm/viva-wasser": {
+"address": null,
+"cost": "6 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715544,
+"venue": null
+},
+"https://www.schauburg.net/de/programm/workshop-haende-bewegung": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715544,
+"venue": null
+},
+"https://www.schauburg.net/de/programm/zu-hause-ist-es-am-schoensten": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Schauburg",
+"ts": 1793715540,
+"venue": null
 },
 "https://www.songkick.com/concerts/42807793-dark-tenor-at-kleine-olympiahalle?utm_medium=organic&utm_source=microformat": {
 "address": "80809 Munich",
@@ -7850,6 +12395,24 @@
 "ts": 1793551681,
 "venue": null
 },
+"https://www.starnberg.de/buergerservice-verwaltung/aktuelles/news/buergersprechstunde-am-19112026": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Bürgersprechstunde am 19.11.2026",
+"ts": 1793715537,
+"venue": null
+},
+"https://www.starnberg.de/buergerservice-verwaltung/aktuelles/news/gemeinsam-statt-einsam-stadtbuecherei-starnberg-beteiligt-sich-am-aktionsmonat-gemeinsam-in-der-bibliothek": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Gemeinsam statt einsam: Stadtbücherei Starnberg beteiligt sich am Aktionsmonat „Gemeinsam in der Bibliothek“",
+"ts": 1793715537,
+"venue": null
+},
 "https://www.stmwi.bayern.de/veranstaltungen/57963-bau-2027-weltleitmesse-muenchen/": {
 "address": null,
 "cost": null,
@@ -8146,6 +12709,15 @@
 "ts": 1793548587,
 "venue": null
 },
+"https://www.unterfahrt.de/programm-detail.php?dateID=16664": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Unterfahrt Mitgliederversammlung Programminfo",
+"ts": 1793715518,
+"venue": null
+},
 "https://www.unternehmertum.de/events/industrial-edge-workshops-for-startups-and-smes-2-2": {
 "address": null,
 "cost": null,
@@ -8425,6 +12997,15 @@
 "lng": null,
 "ts": 1793548339,
 "venue": "hbw"
+},
+"https://www.vbw-bayern.de/vbw/Themen-und-Services/Innovation/XR-im-Bereich-Recruiting-Employer-Branding-Onboarding-und-Training-–-erleben-verstehen-einsetzen.jsp": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "XR im Unternehmen für Recruiting, Employer Branding, Onboarding und Tr",
+"ts": 1793715517,
+"venue": null
 },
 "https://www.vbw-bayern.de/vbw/Themen-und-Services/Medien/15.-Medienkongress.jsp": {
 "address": "Max-Joseph-Straße 5 80333 München",
@@ -8824,6 +13405,15 @@
 "lat": null,
 "lng": null,
 "ts": 1793548348,
+"venue": null
+},
+"https://www.wj-muenchen.de/?veranstaltung=129875": {
+"address": null,
+"cost": "20,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "| Wirtschaftsjunioren München",
+"ts": 1793715517,
 "venue": null
 },
 "https://www.zvei.org/presse-medien/termine/electronica-2026": {
