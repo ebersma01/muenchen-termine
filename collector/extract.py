@@ -300,6 +300,14 @@ def _page_year(soup):
     return int(ys.pop()) if len(ys) == 1 else None
 
 
+def _sel_match(el, sel):
+    try:
+        return el.css.match(sel)
+    except AttributeError:
+        import soupsieve
+        return soupsieve.match(sel, el)
+
+
 def parse_cards(html_text, base_url, cfg=None):
     """Findet Termine auf einer normalen Webseite. cfg kann CSS-Selektoren vorgeben:
     card (ein Element pro Termin), title, date, location, link."""
@@ -316,7 +324,21 @@ def parse_cards(html_text, base_url, cfg=None):
     root = soup.select_one(cfg["root"]) if cfg.get("root") else (soup.find("main") or soup.body or soup)
     if root is None:
         return []
-    if cfg.get("card"):
+    if cfg.get("card") and cfg.get("monthHeader"):
+        # Spielplaene mit Monatsueberschrift ("November 2026") und nur Tageszahl im Termin
+        cards, month, day = [], "", ""
+        sel = cfg["monthHeader"] + ", " + cfg["card"] + (", " + cfg["dayHeader"] if cfg.get("dayHeader") else "")
+        for el in root.select(sel):
+            if _sel_match(el, cfg["monthHeader"]):
+                month = _text(el)
+            elif cfg.get("dayHeader") and _sel_match(el, cfg["dayHeader"]):
+                day = re.sub(r"\D", "", _text(el))[:2]
+            elif _sel_match(el, cfg["card"]):
+                el["data-month"] = month
+                if day:
+                    el["data-day"] = day
+                cards.append(el)
+    elif cfg.get("card"):
         cards = root.select(cfg["card"])
     else:
         cards = _auto_cards(root, year)
@@ -372,6 +394,9 @@ def _auto_cards(root, year):
 
 
 def _card_to_event(card, base_url, cfg, year):
+    if cfg.get("drop"):
+        for x in card.select(cfg["drop"]):
+            x.decompose()
     text = _text(card)
     if len(text) < 12:
         return None
@@ -380,6 +405,10 @@ def _card_to_event(card, base_url, cfg, year):
         d_el = card.select_one(cfg["date"])
         if d_el:
             dsrc = _text(d_el)
+
+    if card.get("data-month"):
+        dd = card.get("data-day") or re.sub(r"\D", "", dsrc)[:2]
+        dsrc = dd + ". " + card["data-month"]
     ds = find_dates(dsrc, year=year)
     if not ds:
         return None
@@ -390,6 +419,10 @@ def _card_to_event(card, base_url, cfg, year):
         if len(between) < 25 and re.search(r"[-–—]|bis", between):
             end = ds[1][0]
     t1, t2 = find_time(dsrc[ds_s:] if cfg.get("date") else text[ds_s:ds_s + 200]) if True else (None, None)
+    if cfg.get("time"):
+        tm = card.select_one(cfg["time"])
+        if tm:
+            t1, t2 = find_time(re.sub(r"\b(\d{1,2})\.(\d{2})\b", r"\1:\2", _text(tm)) + " Uhr")
     if not t1:
         t1, t2 = find_time(text)
     # Titel
@@ -398,6 +431,8 @@ def _card_to_event(card, base_url, cfg, year):
         el = card.select_one(cfg["title"])
         if el:
             title = _text(el) or el.get("alt") or el.get("title")
+            if title and cfg.get("titleFirstLine"):
+                title = next((t.strip() for t in el.stripped_strings if _is_title(t.strip())), title)
     if not title:
         heads = [(int(el.name[1]), i, _text(el)) for i, el in enumerate(card.find_all(["h1", "h2", "h3", "h4", "h5", "h6"]))]
         heads = [h for h in heads if _is_title(h[2])]

@@ -136,12 +136,18 @@ def add_details(evs, f):
 
 
 # --------------------------------------------------------------------------- Aufbereiten
+_WORDSTART = {"theater", "bühne"}
+
+
 def _kw_hits(text, kws):
     n = 0
     for kw in kws:
         if not kw:
             continue
-        if len(kw) <= 3:
+        if kw.lower() in _WORDSTART:
+            # nur am Wortanfang, damit Hausnamen wie "Prinzregententheater" nicht zaehlen
+            ok = re.search(r"(?<![A-Za-zÄÖÜäöüß])" + re.escape(kw), text, re.I)
+        elif len(kw) <= 3:
             ok = re.search(r"(?<![A-Za-zÄÖÜäöüß-])" + re.escape(kw) + r"(?![A-Za-zÄÖÜäöüß-])", text)
         elif len(kw) >= 7:
             ok = re.search(re.escape(kw), text, re.I)  # auch in Wortzusammensetzungen ("Universitätsgottesdienst")
@@ -173,7 +179,6 @@ def best_category(title, desc, cats, defaults, keywords_only=False, fallback=Non
     tbest = max(order, key=lambda c: (tscore[c], scores[c], -order.index(c)))
     if broad and tscore[tbest] >= 3 and tscore[tbest] > tscore[d]:
         return tbest
-        return best
     return d
 
 
@@ -443,6 +448,16 @@ def main():
         n_new, n_cached = detail.enrich(list(all_events.values()), sources, cache, geocoder,
                                         max_fetch=int(os.environ.get("DETAIL_MAX", "900")))
         all_events = {k: e for k, e in all_events.items() if not e.pop("_drop", False)}
+        by_id = {s["id"]: s for s in sources}
+        for e in all_events.values():
+            if e.pop("_retitled", False):  # Titel kam erst von der Detailseite: Kategorie neu bestimmen
+                src = by_id.get(e["source"], {})
+                f = src.get("fetch") or {}
+                one = best_category(e["title"], e.get("description") or "", cats, src.get("categories", []),
+                                    keywords_only=bool(f.get("keywordsOnly")), fallback=list(f.get("fallbackCats", [])),
+                                    broad=bool(f.get("broad")))
+                if one:
+                    e["categories"] = [one]
         cache.save()
         print(f"Detailseiten: {n_new} neu geladen, {n_cached} aus dem Zwischenspeicher ({time.time() - t0:.0f} s)", flush=True)
         if only and args.show:

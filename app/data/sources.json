@@ -1057,7 +1057,7 @@
   "name": "Residenztheater",
   "url": "https://www.residenztheater.de/spielplan",
   "categories": [
-   "kultur"
+   "theater"
   ],
   "region": "München",
   "active": true,
@@ -1071,7 +1071,8 @@
     "address": "Max-Joseph-Platz 1, 80539 München",
     "lat": 48.1404,
     "lng": 11.5786
-   }
+   },
+   "broad": true
   }
  },
  {
@@ -1079,7 +1080,7 @@
   "name": "Münchner Kammerspiele",
   "url": "https://www.muenchner-kammerspiele.de/de/programm",
   "categories": [
-   "kultur"
+   "theater"
   ],
   "region": "München",
   "active": true,
@@ -1090,16 +1091,17 @@
     "address": "Maximilianstr. 26-28, 80539 München",
     "lat": 48.1388,
     "lng": 11.5839
-   }
+   },
+   "broad": true
   }
  },
  {
   "id": "gaertnerplatz",
   "name": "Staatstheater am Gärtnerplatz",
-  "url": "https://www.gaertnerplatztheater.de/de/start/spielplan/index.html",
+  "url": "https://www.gaertnerplatztheater.de/spielplan/index.html",
   "categories": [
-   "kultur",
-   "musik-klassisch"
+   "musik-klassisch",
+   "theater"
   ],
   "region": "München",
   "active": true,
@@ -1111,7 +1113,8 @@
     "lat": 48.1316,
     "lng": 11.5762
    },
-   "render": true
+   "render": true,
+   "broad": true
   }
  },
  {
@@ -1372,7 +1375,7 @@
   "name": "Theaterakademie August Everding / Prinzregententheater",
   "url": "https://theaterakademie.de/de/theater/programm",
   "categories": [
-   "kultur",
+   "theater",
    "musik-klassisch"
   ],
   "region": "München",
@@ -1383,7 +1386,7 @@
    "card": "li.datarecord",
    "title": "a.font-medium",
    "fallbackCats": [
-    "kultur"
+    "theater"
    ],
    "maxEvents": 60,
    "location": "div.flex-3 span.text-ellipsis",
@@ -1575,6 +1578,265 @@
   "builtin": true,
   "fetch": {
    "keywordsOnly": true
+  }
+ },
+ {
+  "id": "volkstheater",
+  "name": "Münchner Volkstheater",
+  "url": "https://www.muenchner-volkstheater.de/programm/spielplan",
+  "categories": [
+   "theater"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "card": "div.schedule--day-content",
+   "monthHeader": ".schedule--month-title",
+   "dayHeader": ".schedule--day-title",
+   "time": ".field-event-time",
+   "title": ".schedule--title",
+   "venue": {
+    "name": "Münchner Volkstheater",
+    "address": "Tumblingerstraße 29, 80337 München",
+    "lat": 48.1259,
+    "lng": 11.5555
+   }
+  }
+ },
+ {
+  "id": "metropoltheater",
+  "name": "Metropoltheater",
+  "url": "https://www.metropoltheater.com/spielplan/aktuell/",
+  "categories": [
+   "theater"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "card": "div.termin:not(.termin_spielfrei)",
+   "monthHeader": "h2.center",
+   "date": "span.termin-datum",
+   "time": ".termin-column1a",
+   "title": ".termin-column2",
+   "titleFirstLine": true,
+   "link": ".termin-column2 a",
+   "venue": {
+    "name": "Metropoltheater",
+    "address": "Floriansmühlstraße 5, 80939 München",
+    "lat": 48.2005,
+    "lng": 11.6105
+   },
+   "drop": ".termin-ort"
+  }
+ },
+ {
+  "id": "schauburg",
+  "name": "Schauburg – Theater für junges Publikum",
+  "url": "https://www.schauburg.net/de/spielplan",
+  "categories": [
+   "theater"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "render": true,
+   "venue": {
+    "name": "Schauburg",
+    "address": "Franz-Joseph-Straße 47, 80801 München",
+    "lat": 48.1588,
+    "lng": 11.5764
+   },
+   "broad": true
+  }
+ },
+ {
+  "id": "hochx",
+  "name": "HochX Theater und Live Art",
+  "url": "https://theater-hochx.de/spielplan",
+  "categories": [
+   "theater"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "type": "jsonld",
+   "venue": {
+    "name": "HochX",
+    "address": "Entenbachstraße 37, 81541 München",
+    "lat": 48.1222,
+    "lng": 11.5865
+   }
+  }
+ },
+ {
+  "id": "pathos",
+  "name": "Pathos Theater",
+  "url": "https://pathos-muenchen.de/",
+  "categories": [
+   "theater"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "venue": {
+    "name": "Pathos Theater",
+    "address": "Dachauer Straße 110d, 80636 München",
+    "lat": 48.1567,
+    "lng": 11.5469
+   },
+   "broad": true
+  }
+ },
+ {
+  "id": "deutsches-theater",
+  "name": "Deutsches Theater München",
+  "url": "https://www.deutsches-theater.de/programm/",
+  "categories": [
+   "theater"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "render": true,
+   "card": "div.wpb_wrapper:has(> .dt-teaser)",
+   "date": ".zeitraum",
+   "title": ".weitere-informationen div",
+   "link": ".dt-teaser a",
+   "titleFromDetail": true,
+   "longOk": true,
+   "exclude": "^Ausstellung",
+   "venue": {
+    "name": "Deutsches Theater",
+    "address": "Schwanthalerstraße 13, 80336 München",
+    "lat": 48.1384,
+    "lng": 11.564
+   },
+   "broad": true
+  }
+ },
+ {
+  "id": "komoedie",
+  "name": "Komödie im Bayerischen Hof",
+  "url": "https://www.komoedie-muenchen.de/spielplan",
+  "categories": [
+   "theater"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "venue": {
+    "name": "Komödie im Bayerischen Hof",
+    "address": "Promenadeplatz 6, 80333 München",
+    "lat": 48.1403,
+    "lng": 11.5733
+   },
+   "broad": true
+  }
+ },
+ {
+  "id": "hofspielhaus",
+  "name": "Hofspielhaus",
+  "url": "https://www.hofspielhaus.de/spielplan",
+  "categories": [
+   "theater"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "venue": {
+    "name": "Hofspielhaus",
+    "address": "Falkenturmstraße 8, 80331 München",
+    "lat": 48.1384,
+    "lng": 11.5807
+   },
+   "card": "a.table-row",
+   "date": ".dates",
+   "time": ".time",
+   "title": ".name",
+   "drop": ".produktion, .untertitel, .ort",
+   "broad": true
+  }
+ },
+ {
+  "id": "viel-laerm",
+  "name": "Theater Viel Lärm um Nichts",
+  "url": "https://www.theaterviellaermumnichts.de/spielplan",
+  "categories": [
+   "theater"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "venue": {
+    "name": "Theater Viel Lärm um Nichts",
+    "address": "Pariser Straße 1, 81667 München",
+    "lat": 48.1307,
+    "lng": 11.5925
+   },
+   "card": "li:has([data-hook=ev-list-item-title])",
+   "date": "[data-hook=ev-date]",
+   "title": "[data-hook=ev-list-item-title]"
+  }
+ },
+ {
+  "id": "tams",
+  "name": "TamS Theater",
+  "url": "https://tamstheater.de/spielplan",
+  "categories": [
+   "theater"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "venue": {
+    "name": "TamS Theater",
+    "address": "Haimhauserstraße 13a, 80802 München",
+    "lat": 48.1606,
+    "lng": 11.5862
+   },
+   "broad": true
+  }
+ },
+ {
+  "id": "blutenburg",
+  "name": "Blutenburg-Theater",
+  "url": "https://www.blutenburg-theater.de/willkommen/spielplan.html",
+  "categories": [
+   "theater"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": false
+ },
+ {
+  "id": "theater-fraunhofer",
+  "name": "Theater im Fraunhofer",
+  "url": "https://www.fraunhofertheater.de/spielplan",
+  "categories": [
+   "theater"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "broad": true,
+   "venue": {
+    "name": "Theater im Fraunhofer",
+    "address": "Fraunhoferstraße 9, 80469 München",
+    "lat": 48.1307,
+    "lng": 11.5745
+   }
   }
  }
 ]

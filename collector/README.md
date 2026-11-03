@@ -59,6 +59,11 @@ Jede Quelle ist ein Eintrag in `app/data/sources.json`:
 | `detail` | Detailseiten der Termine öffnen, um Uhrzeit und Ort zu ergänzen |
 | `maxEvents` | höchstens so viele Termine dieser Quelle |
 | `noDetail` | Detailseiten dieser Quelle nicht öffnen |
+| `monthHeader`, `dayHeader` | Spielpläne mit Monatsüberschrift („November 2026“) und nur Tageszahl: Selektoren für Monats- und Tageskopf |
+| `time` | Selektor für die Uhrzeit (auch „19.30“ ohne „Uhr“) |
+| `titleFirstLine` | vom Titel-Element nur die erste Textzeile nehmen |
+| `drop` | Selektor für Teile der Karte, die vorher entfernt werden (z. B. Untertitel, Raumname) |
+| `titleFromDetail` | Titel von der Detailseite übernehmen (wenn die Übersicht nur Bilder zeigt); Kategorie wird danach neu bestimmt |
 
 Nach dem Einsammeln öffnet der Sammler für jeden Termin ohne Ort, Adresse oder Preis automatisch
 die verlinkte Detailseite und übernimmt dort genannte Angaben (`collector/detail.py`).

@@ -84,6 +84,9 @@ def parse_detail(html):
         if d.get("cost"):
             out["cost"] = d["cost"]
     soup = BeautifulSoup(html, "lxml")
+    og = soup.find("meta", attrs={"property": "og:title"})
+    pt = (og.get("content") if og else None) or (soup.title.get_text(strip=True) if soup.title else "")
+    out["pagetitle"] = re.split(r"\s+[|–-]\s+(?=[^|–-]*$)", pt.strip())[0].strip() if " | " in pt else pt.strip()
     whole = soup.body.get_text(" | ", strip=True) if soup.body else ""
     root = _main_text(soup)
     txt = re.sub(r"[ \t\r\f\v]+", " ", root.get_text("\n", strip=True))
@@ -168,7 +171,7 @@ def enrich(events, sources, cache, geocoder, max_fetch=900, workers=10, budget_s
         src = by_src.get(e["source"], {})
         if (src.get("fetch") or {}).get("noDetail"):
             continue
-        if needs_detail(e, src.get("url")):
+        if needs_detail(e, src.get("url")) or ((src.get("fetch") or {}).get("titleFromDetail") and e.get("url")):
             todo.setdefault(urldefrag(e["url"])[0], []).append(e)
     cached, fetch_urls = {}, []
     for u in todo:
@@ -209,6 +212,9 @@ def apply(e, d, geocoder, src):
         return  # Detailseite gehoert vermutlich zu einem anderen Ort (z. B. Ticketshop einer Tour)
     if e["cost"] in (None, "", "unklar") and d.get("cost"):
         e["cost"] = d["cost"]
+    if (src.get("fetch") or {}).get("titleFromDetail") and d.get("pagetitle") and 3 < len(d["pagetitle"]) < 180:
+        e["title"] = d["pagetitle"]
+        e["_retitled"] = True
     v = e["venue"]
     changed = False
     if d.get("venue") and (re.match(r"^[\d(]", d["venue"]) or re.match(r"^(online|hybrid|digital|webinar|tba|tbd)\W*$", d["venue"], re.I)):
