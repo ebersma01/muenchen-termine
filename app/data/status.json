@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-03T15:20:10+01:00",
- "total": 1959,
+ "generated": "2026-11-03T17:06:41+01:00",
+ "total": 1979,
  "sources": [
   {
    "id": "bachtrack",
@@ -40,7 +40,7 @@
    "found": 0,
    "events": 0,
    "ok": false,
-   "error": "HTTPError: 504 Server Error: Gateway Time-out for url: https://www.boell.de/de/veranstaltungen"
+   "error": "keine Termine erkannt"
   },
   {
    "id": "brso",
@@ -93,10 +93,10 @@
   {
    "id": "dsw",
    "name": "DSW (Aktionärsschutz)",
-   "found": 8,
+   "found": 0,
    "events": 0,
    "ok": false,
-   "error": "Termine gefunden, aber keiner passt (Zeitraum/Ort/Kategorie)"
+   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.dsw-info.de/veranstaltungen/anlegerforen/"
   },
   {
    "id": "einstein-kultur",
@@ -421,8 +421,8 @@
   {
    "id": "hofspielhaus",
    "name": "Hofspielhaus",
-   "found": 93,
-   "events": 93,
+   "found": 96,
+   "events": 96,
    "ok": true,
    "error": null
   },
@@ -445,7 +445,7 @@
   {
    "id": "in-muenchen",
    "name": "in-muenchen.de",
-   "found": 4,
+   "found": 5,
    "events": 1,
    "ok": true,
    "error": null
@@ -670,7 +670,7 @@
    "id": "rausgegangen",
    "name": "Rausgegangen München",
    "found": 517,
-   "events": 95,
+   "events": 123,
    "ok": true,
    "error": null
   },

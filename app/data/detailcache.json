@@ -570,6 +570,15 @@
 "ts": 1793682794,
 "venue": "Dallmayr Coffee Club"
 },
+"https://rausgegangen.de/events/apsilon-30/": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Apsilon • Glanz Null Tour am 06.11.2026 in München",
+"ts": 1793722000,
+"venue": "Muffathalle"
+},
 "https://rausgegangen.de/events/arnd-schimkat-aka-arthur-senkrecht-lachen-machen-0/": {
 "address": "Haimhauserstraße 13A, 80802 München",
 "cost": "29.00 €",
@@ -672,6 +681,15 @@
 "ts": 1793596999,
 "venue": "Färberei"
 },
+"https://rausgegangen.de/events/contact-festival-5/": {
+"address": "Lilienthalallee 29, 80939 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Contact Festival am 05.12.2026 in München",
+"ts": 1793722000,
+"venue": "Zenith"
+},
 "https://rausgegangen.de/events/crash-metal-4/": {
 "address": "Ainmillerstraße 10, 80801 München",
 "cost": "kostenlos",
@@ -679,6 +697,15 @@
 "lng": null,
 "ts": 1793548621,
 "venue": "Crash"
+},
+"https://rausgegangen.de/events/crazy-2000er-party-munchen-0/": {
+"address": "Lindwurmstraße 88, 80337 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "CRAZY 2000er PARTY - MÜNCHEN am 06.11.2026 in München",
+"ts": 1793722000,
+"venue": "STROM"
 },
 "https://rausgegangen.de/events/dance-of-drauganna-0/ ": {
 "address": null,
@@ -894,6 +921,15 @@
 "ts": 1793715520,
 "venue": "Nationaltheater München - Bayerische Staatsoper"
 },
+"https://rausgegangen.de/events/hadrshift-0/": {
+"address": "Lilienthalallee 29, 80939 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Hadrshift am 04.12.2026 in München",
+"ts": 1793722000,
+"venue": "Zenith"
+},
 "https://rausgegangen.de/events/herbst-tanzfest-2026-0/": {
 "address": "Curt Mezger Platz 1, 80809 München",
 "cost": "20.00 €",
@@ -934,6 +970,15 @@
 "pagetitle": "HULLIS - Comedy. Dinner. Show. am 03.11.2026 in München",
 "ts": 1793715521,
 "venue": "HULLIS Die Dinnershow"
+},
+"https://rausgegangen.de/events/interdisciplinary-improvisation-laboratory-tell-me-your-stor-0/": {
+"address": "Hansastraße 31, 81373 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Interdisciplinary Improvisation Laboratory - Tell me your Story with Salomé Rodrigues am 04.11.2026 in München",
+"ts": 1793722000,
+"venue": "Feierwerk Farbenladen"
 },
 "https://rausgegangen.de/events/jazz-kids-munchen-new-orleans-jazz-blues-lebendig-authentisc-5/": {
 "address": "Brudermühlstraße 2, 81371 München",
@@ -1194,6 +1239,15 @@
 "lng": null,
 "ts": 1793548623,
 "venue": "Showpalast"
+},
+"https://rausgegangen.de/events/st-paul-the-broken-bones-0/": {
+"address": "Lindwurmstraße 88, 80337 München",
+"cost": "44.50 €",
+"lat": null,
+"lng": null,
+"pagetitle": "St. Paul & The Broken Bones am 03.11.2026 in München",
+"ts": 1793722000,
+"venue": "STROM"
 },
 "https://rausgegangen.de/events/stand-up-comedy-workshop-performance-writing-0/": {
 "address": "Candidplatz 9, 81543 München",

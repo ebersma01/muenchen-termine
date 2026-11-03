@@ -99,6 +99,11 @@
 "lat": 48.13289,
 "lng": 11.58949
 },
+"anse yoga, münchen": {
+"address": "Anse Yoga, 3, Gebhardweg, Neulustheim, Obermenzing, Pasing-Obermenzing, München, Bayern, 81247, Deutschland",
+"lat": 48.16492,
+"lng": 11.47399
+},
 "arcisstr. 21, 80333 münchen": {
 "address": "TUM Universitätsbibliothek (Stammgelände), 21, Arcisstraße, Kunstareal, Maxvorstadt, München, Bayern, 80333, Deutschland",
 "lat": 48.14888,
@@ -175,6 +180,7 @@
 "lng": 11.5568
 },
 "bayerstraße 3-5, 80335 münchen, germany, münchen, by, münchen": null,
+"baystartup office im mtz münchen obergeschoss, e1, agnes-pockels-bogen 1 80992 münchen": null,
 "baystartup, münchen": null,
 "beim sedlmayr, münchen": {
 "address": "Beim Sedlmayr, 14, Westenriederstraße, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
@@ -583,6 +589,11 @@
 "address": "Kranhalle, 39, Hansastraße, Hansapark, Sendling-Westpark, München, Bayern, 81373, Deutschland",
 "lat": 48.1295,
 "lng": 11.53344
+},
+"hansastraße 31, 81373 münchen": {
+"address": "Farbenladen, 31, Hansastraße, Hansapark, Sendling-Westpark, München, Bayern, 81373, Deutschland",
+"lat": 48.1301,
+"lng": 11.53256
 },
 "hard rock cafe münchen": {
 "address": "Hard Rock Cafe, 1, Platzl, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
