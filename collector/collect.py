@@ -136,6 +136,22 @@ def add_details(evs, f):
 
 
 # --------------------------------------------------------------------------- Aufbereiten
+# Orte mit festem Schwerpunkt: gilt fuer Sammelquellen (Songkick, rausgegangen, muenchen.de ...)
+VENUE_CATS = [
+    (r"Technikum|Backstage|Muffat|Feierwerk|\bStrom\b|Theaterfabrik|Tonhalle|Zenith|Olympiahalle|\bMilla\b|Ampere|Unterfahrt"
+     r"|Neue Theater ?Fabrik|Kranhalle|Hansa ?39|Sunny Red|Import Export|Muffathalle",
+     ["musik-modern"]),
+    (r"Isarphilharmonie|Herkulessaal|Philharmonie im Gasteig|Prinzregententheater", ["musik-klassisch", "theater"]),
+]
+
+
+def venue_category(text):
+    for rx, cs in VENUE_CATS:
+        if text.strip() and re.search(rx, text, re.I):
+            return cs
+    return None
+
+
 _WORDSTART = {"theater", "bühne"}
 
 
@@ -318,8 +334,16 @@ def finish(ev, src, cats, geocoder, today):
     fb = list(f.get("fallbackCats", []))
     if f.get("fallbackType") and f["fallbackType"] not in (ev.get("_type") or ""):
         fb = []
-    one = best_category(title, ev.get("description") or "", cats, src.get("categories", []),
-                        keywords_only=bool(f.get("keywordsOnly")), fallback=fb, broad=bool(f.get("broad")))
+    desc = ev.get("description") or ""
+    vname = v.get("name") or ""
+    if vname:  # Ortsnamen zaehlen nicht als Stichwort ("Technikum" ist kein Technik-Termin)
+        desc = desc.replace(vname, " ")
+    vcat = None if f.get("venue") else venue_category(vname + " " + (v.get("address") or ""))
+    if vcat:  # reine Konzertorte: Ort gibt die Standardkategorie vor
+        one = best_category(title, desc, cats, vcat)
+    else:
+        one = best_category(title, desc, cats, src.get("categories", []),
+                            keywords_only=bool(f.get("keywordsOnly")), fallback=fb, broad=bool(f.get("broad")))
     catlist = [one] if one else []
     if not catlist:
         return None
