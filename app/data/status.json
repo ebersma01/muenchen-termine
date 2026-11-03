@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-02T06:23:27+01:00",
- "total": 1186,
+ "generated": "2026-11-03T06:13:20+01:00",
+ "total": 1116,
  "sources": [
   {
    "id": "bachtrack",
@@ -99,14 +99,6 @@
    "error": "HTTPError: 403 Client Error: Forbidden for url: https://dev.events/EU/DE/Munich"
   },
   {
-   "id": "dlr",
-   "name": "DLR Oberpfaffenhofen",
-   "found": 0,
-   "events": 0,
-   "ok": false,
-   "error": "SSLError: HTTPSConnectionPool(host='www.dlr.de', port=443): Max retries exceeded with url: /de/aktuelles/veranstaltungen (Caused by SSLError(SSLCertVerificationError(1, '"
-  },
-  {
    "id": "dsw",
    "name": "DSW (Aktionärsschutz)",
    "found": 8,
@@ -160,7 +152,7 @@
    "found": 0,
    "events": 0,
    "ok": false,
-   "error": "Error: Page.content: Unable to retrieve content because the page is navigating and changing the content."
+   "error": "keine Termine erkannt"
   },
   {
    "id": "hm",
@@ -203,6 +195,14 @@
    "error": "keine Termine erkannt"
   },
   {
+   "id": "munich-travel",
+   "name": "munich.travel Ausstellungen",
+   "found": 0,
+   "events": 0,
+   "ok": false,
+   "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.munich.travel/en/topics/arts-culture/exhibitions-2026-2027"
+  },
+  {
    "id": "mvhs",
    "name": "Münchner Volkshochschule",
    "found": 1,
@@ -219,9 +219,17 @@
    "error": "Termine gefunden, aber keiner passt (Zeitraum/Ort/Kategorie)"
   },
   {
+   "id": "staatsoper",
+   "name": "Bayerische Staatsoper",
+   "found": 0,
+   "events": 0,
+   "ok": false,
+   "error": "keine Termine erkannt"
+  },
+  {
    "id": "starnberg",
    "name": "Starnberg",
-   "found": 5,
+   "found": 6,
    "events": 0,
    "ok": false,
    "error": "Termine gefunden, aber keiner passt (Zeitraum/Ort/Kategorie)"
@@ -254,7 +262,7 @@
    "id": "amerikahaus",
    "name": "Amerikahaus",
    "found": 15,
-   "events": 8,
+   "events": 9,
    "ok": true,
    "error": null
   },
@@ -270,7 +278,7 @@
    "id": "backstage",
    "name": "Backstage",
    "found": 54,
-   "events": 46,
+   "events": 45,
    "ok": true,
    "error": null
   },
@@ -286,14 +294,14 @@
    "id": "bayern-innovativ",
    "name": "Bayern Innovativ",
    "found": 107,
-   "events": 4,
+   "events": 3,
    "ok": true,
    "error": null
   },
   {
    "id": "baymevbm",
    "name": "bayme vbm",
-   "found": 292,
+   "found": 301,
    "events": 60,
    "ok": true,
    "error": null
@@ -317,8 +325,16 @@
   {
    "id": "deutsches-museum",
    "name": "Deutsches Museum",
-   "found": 7,
-   "events": 4,
+   "found": 8,
+   "events": 5,
+   "ok": true,
+   "error": null
+  },
+  {
+   "id": "dlr",
+   "name": "DLR Oberpfaffenhofen",
+   "found": 22,
+   "events": 1,
    "ok": true,
    "error": null
   },
@@ -333,8 +349,8 @@
   {
    "id": "ev-akademie-tutzing",
    "name": "Evangelische Akademie Tutzing",
-   "found": 18,
-   "events": 14,
+   "found": 22,
+   "events": 19,
    "ok": true,
    "error": null
   },
@@ -373,8 +389,8 @@
   {
    "id": "gasteig",
    "name": "Gasteig HP8 / Isarphilharmonie",
-   "found": 14,
-   "events": 12,
+   "found": 13,
+   "events": 11,
    "ok": true,
    "error": null
   },
@@ -414,14 +430,14 @@
    "id": "hwk",
    "name": "Handwerkskammer für München und Oberbayern",
    "found": 5,
-   "events": 4,
+   "events": 5,
    "ok": true,
    "error": null
   },
   {
    "id": "in-muenchen",
    "name": "in-muenchen.de",
-   "found": 5,
+   "found": 4,
    "events": 1,
    "ok": true,
    "error": null
@@ -429,8 +445,8 @@
   {
    "id": "kammerspiele",
    "name": "Münchner Kammerspiele",
-   "found": 139,
-   "events": 117,
+   "found": 125,
+   "events": 108,
    "ok": true,
    "error": null
   },
@@ -445,7 +461,7 @@
   {
    "id": "kunsthalle",
    "name": "Kunsthalle München",
-   "found": 119,
+   "found": 117,
    "events": 34,
    "ok": true,
    "error": null
@@ -493,8 +509,8 @@
   {
    "id": "meetup",
    "name": "Meetup München",
-   "found": 12,
-   "events": 8,
+   "found": 10,
+   "events": 6,
    "ok": true,
    "error": null
   },
@@ -517,7 +533,7 @@
   {
    "id": "mpg",
    "name": "Max-Planck-Gesellschaft",
-   "found": 12,
+   "found": 13,
    "events": 2,
    "ok": true,
    "error": null
@@ -533,8 +549,8 @@
   {
    "id": "mucbook",
    "name": "Mucbook",
-   "found": 3,
-   "events": 1,
+   "found": 4,
+   "events": 2,
    "ok": true,
    "error": null
   },
@@ -557,7 +573,7 @@
   {
    "id": "muffatwerk",
    "name": "Muffatwerk",
-   "found": 224,
+   "found": 223,
    "events": 150,
    "ok": true,
    "error": null
@@ -565,16 +581,8 @@
   {
    "id": "munich-startup",
    "name": "Munich Startup",
-   "found": 81,
-   "events": 61,
-   "ok": true,
-   "error": null
-  },
-  {
-   "id": "munich-travel",
-   "name": "munich.travel Ausstellungen",
-   "found": 36,
-   "events": 18,
+   "found": 84,
+   "events": 64,
    "ok": true,
    "error": null
   },
@@ -613,8 +621,8 @@
   {
    "id": "prinzregententheater",
    "name": "Theaterakademie August Everding / Prinzregententheater",
-   "found": 825,
-   "events": 37,
+   "found": 819,
+   "events": 36,
    "ok": true,
    "error": null
   },
@@ -629,8 +637,8 @@
   {
    "id": "residenztheater",
    "name": "Residenztheater",
-   "found": 60,
-   "events": 60,
+   "found": 59,
+   "events": 59,
    "ok": true,
    "error": null
   },
@@ -639,14 +647,6 @@
    "name": "Songkick München",
    "found": 50,
    "events": 49,
-   "ok": true,
-   "error": null
-  },
-  {
-   "id": "staatsoper",
-   "name": "Bayerische Staatsoper",
-   "found": 59,
-   "events": 52,
    "ok": true,
    "error": null
   },
@@ -694,7 +694,7 @@
    "id": "unterfahrt",
    "name": "Jazzclub Unterfahrt",
    "found": 15,
-   "events": 10,
+   "events": 11,
    "ok": true,
    "error": null
   },
@@ -709,7 +709,7 @@
   {
    "id": "vbw",
    "name": "vbw – Vereinigung der Bayerischen Wirtschaft",
-   "found": 43,
+   "found": 45,
    "events": 34,
    "ok": true,
    "error": null
@@ -733,8 +733,8 @@
   {
    "id": "wj-muenchen",
    "name": "Wirtschaftsjunioren München",
-   "found": 225,
-   "events": 14,
+   "found": 224,
+   "events": 13,
    "ok": true,
    "error": null
   },

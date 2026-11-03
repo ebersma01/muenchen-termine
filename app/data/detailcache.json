@@ -168,6 +168,14 @@
 "ts": 1793548611,
 "venue": null
 },
+"https://event.dlr.de/event/dlr-auf-der-hochschulkontaktmesse-in-muenchen-2026/": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793682788,
+"venue": null
+},
 "https://freundeskreis.eatutzing.de/veranstaltung/abschied-nehmen-aber-wie/": {
 "address": "Rehbühlstr. 90, 92637 Weiden",
 "cost": null,
@@ -392,6 +400,14 @@
 "ts": 1793549154,
 "venue": "PODIUM @ Schießstätte Allach"
 },
+"https://rausgegangen.de/events/aperitivo-221/": {
+"address": "Dienerstraße 12, 80331 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793682794,
+"venue": "Dallmayr Coffee Club"
+},
 "https://rausgegangen.de/events/ausstellung-bunt-auf-bunt-3/": {
 "address": "Situlistraße 73, 80939 München",
 "cost": "kostenlos",
@@ -414,6 +430,14 @@
 "lat": null,
 "lng": null,
 "ts": 1793596999,
+"venue": "Marstallmuseum und Museum \"Nymphenburger Porzellan\" in Schloss Nymphenburg"
+},
+"https://rausgegangen.de/events/besichtigung-marstallmuseum-mit-museum-nymphenburger-porzell-832/": {
+"address": "Schloß Nymphenburg 208, 80638 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793682794,
 "venue": "Marstallmuseum und Museum \"Nymphenburger Porzellan\" in Schloss Nymphenburg"
 },
 "https://rausgegangen.de/events/bless-the-mic-rap-meets-poetry-slam-15/": {
@@ -496,6 +520,14 @@
 "ts": 1793597001,
 "venue": null
 },
+"https://rausgegangen.de/events/escape-the-city-munchen-die-vermisste-opernsangerin-mit-echt-84/": {
+"address": "Max-Joseph-Platz, 80539 München",
+"cost": "79.90 €",
+"lat": null,
+"lng": null,
+"ts": 1793682795,
+"venue": null
+},
 "https://rausgegangen.de/events/european-django-band-0/": {
 "address": "August-Exter-Straße 1, 81245 München",
 "cost": "kostenlos",
@@ -528,6 +560,14 @@
 "ts": 1793596999,
 "venue": "Paketposthalle München Pineapple Park"
 },
+"https://rausgegangen.de/events/formula1-ausstellung-munchen-158/": {
+"address": "Arnulfstr. 195, 80335 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793682794,
+"venue": "Paketposthalle München Pineapple Park"
+},
 "https://rausgegangen.de/events/fuhrung-durch-das-nationaltheater-61/": {
 "address": "Max-Joseph-Platz 2, 80539 München",
 "cost": "kostenlos",
@@ -551,6 +591,22 @@
 "lng": null,
 "ts": 1793596999,
 "venue": "Odeonsplatz"
+},
+"https://rausgegangen.de/events/geschichte-live-erleben-mit-historischer-stadtfuhrung-munche-185/": {
+"address": "Odeonsplatz 1, 80539 München",
+"cost": "25.00 €",
+"lat": null,
+"lng": null,
+"ts": 1793682794,
+"venue": "Odeonsplatz"
+},
+"https://rausgegangen.de/events/glaube-370/": {
+"address": "Sonnenstraße 12a, 80331 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793682794,
+"venue": "City Kinos"
 },
 "https://rausgegangen.de/events/glaube-374/": {
 "address": "Sonnenstraße 12a, 80331 München",
@@ -590,6 +646,14 @@
 "lat": null,
 "lng": null,
 "ts": 1793597001,
+"venue": "München, Schleißheimer Straße"
+},
+"https://rausgegangen.de/events/hippes-historisches-munchen-schwabing-stadtfuhrung-mit-deine-1021/": {
+"address": "Schleißheimer Straße 144, 80797 München",
+"cost": "15.00 €",
+"lat": null,
+"lng": null,
+"ts": 1793682795,
 "venue": "München, Schleißheimer Straße"
 },
 "https://rausgegangen.de/events/jazz-kids-munchen-new-orleans-jazz-blues-lebendig-authentisc-5/": {
@@ -648,6 +712,14 @@
 "ts": 1793548623,
 "venue": "Lenbachhaus und Kunstbau"
 },
+"https://rausgegangen.de/events/klangskulptur-und-performance-sensing-sites-dekoloniale-geda-4/": {
+"address": "Kunstareal - Luisenstraße 33, 80333 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793682791,
+"venue": "Lenbachhaus und Kunstbau"
+},
 "https://rausgegangen.de/events/kostenfreier-ferienworkshop-im-tuftellab-robotik-0/": {
 "address": "Freddie-Mercury-Straße 5, 80797 München",
 "cost": "kostenlos",
@@ -655,6 +727,14 @@
 "lng": null,
 "ts": 1793552879,
 "venue": "Munich Urban Colab"
+},
+"https://rausgegangen.de/events/krimi-premieren-lesung-tom-hillenbrand-hollenfang-0/": {
+"address": "Ruth-Drexel-Straße, 81927 München",
+"cost": "5.00 €",
+"lat": null,
+"lng": null,
+"ts": 1793682794,
+"venue": "Neue Ziegelei - Zentrum für Soziales und Kultur"
 },
 "https://rausgegangen.de/events/krimi-trail-munchen-maxvorstadt-spektakularer-kunstraub-216/": {
 "address": "Königsplatz, 80333 München",
@@ -672,6 +752,14 @@
 "ts": 1793596999,
 "venue": "Krimi-Trail München Maxvorstadt"
 },
+"https://rausgegangen.de/events/krimi-trail-munchen-maxvorstadt-spektakularer-kunstraub-218/": {
+"address": "Königsplatz, 80333 München",
+"cost": "7.80 €",
+"lat": null,
+"lng": null,
+"ts": 1793682794,
+"venue": "Krimi-Trail München Maxvorstadt"
+},
 "https://rausgegangen.de/events/kulinarische-stadtfuhrung-kultur-kulinarik-neu-entdecken-146/": {
 "address": "Konigsplatz 1, 80333 München",
 "cost": "kostenlos",
@@ -686,6 +774,14 @@
 "lat": null,
 "lng": null,
 "ts": 1793596999,
+"venue": "Altstadt München"
+},
+"https://rausgegangen.de/events/kulinarische-stadtfuhrung-kultur-kulinarik-neu-entdecken-148/": {
+"address": "Konigsplatz 1, 80333 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793682794,
 "venue": "Altstadt München"
 },
 "https://rausgegangen.de/events/lennart-schilgen-macht-nichts-lieder-vom-schleifen-und-schle-8/": {
@@ -719,6 +815,14 @@
 "lng": null,
 "ts": 1793552878,
 "venue": "Galli Theater Amalienpassage"
+},
+"https://rausgegangen.de/events/munchen-der-nationalsozialismus-stadtfuhrung-mit-alex-43/": {
+"address": "Marienplatz 22, 80331 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793682791,
+"venue": "Mariensäule am Marienplatz"
 },
 "https://rausgegangen.de/events/nachtflohmarkt-live-musik-streetfood-34/": {
 "address": "Arnulfstr. 195, 80335 München",
@@ -856,6 +960,14 @@
 "ts": 1793548627,
 "venue": "Lenbachhaus und Kunstbau"
 },
+"https://rausgegangen.de/events/was-zu-verschwinden-droht-wird-bild-mensch-natur-kunst-517/": {
+"address": "Kunstareal - Luisenstraße 33, 80333 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793682794,
+"venue": "Lenbachhaus und Kunstbau"
+},
 "https://rausgegangen.de/events/werkausstellung-aquarell-magie-des-wassers-15-oktober-bis-25-18/": {
 "address": "Bäckerstraße 14, 81241 München",
 "cost": "kostenlos",
@@ -870,6 +982,14 @@
 "lat": null,
 "lng": null,
 "ts": 1793596994,
+"venue": "MVHS in Pasing"
+},
+"https://rausgegangen.de/events/werkausstellung-aquarell-magie-des-wassers-15-oktober-bis-25-20/": {
+"address": "Bäckerstraße 14, 81241 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793682792,
 "venue": "MVHS in Pasing"
 },
 "https://ru.muenchen.de/2026/206/Buergerversammlung-fuer-den-Stadtbezirk-9-126751": {
@@ -1106,6 +1226,22 @@
 "lat": null,
 "lng": null,
 "ts": 1793548352,
+"venue": null
+},
+"https://www.amerikahaus.de/ueber-uns/news/call-for-applications-for-the-young-security-conference-fellowship-2026-2027": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793682788,
+"venue": null
+},
+"https://www.amerikahaus.de/ueber-uns/news/unsere-veranstaltungen-zu-den-us-midterms": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793682788,
 "venue": null
 },
 "https://www.antike-am-koenigsplatz.mwn.de/en/event/upcoming-special-exhibition-collecting-with-style-caroline-murat-ludwig-i-and-antiquity/": {
@@ -1972,6 +2108,14 @@
 "ts": 1793548345,
 "venue": null
 },
+"https://www.baymevbm.de/baymevbm/ServiceCenter/Nachhaltigkeit/Energie/Forum-Energie-Umwelt-und-Klima-2.jsp": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793682786,
+"venue": null
+},
 "https://www.baymevbm.de/baymevbm/ServiceCenter/Nachhaltigkeit/Klima/Sustainable-Finance-–-Anforderungen-im-Status-Quo.jsp": {
 "address": null,
 "cost": null,
@@ -2098,6 +2242,14 @@
 "lat": null,
 "lng": null,
 "ts": 1793548340,
+"venue": null
+},
+"https://www.baymevbm.de/baymevbm/ServiceCenter/Tarif/M-E-Flächentarifverträge/Tarif-Vergütung/ERA-Eingruppierung-–-Vertiefung-für-HR-Süd-2026.jsp": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793682786,
 "venue": null
 },
 "https://www.baymevbm.de/baymevbm/ServiceCenter/Tarif/M-E-Flächentarifverträge/Tarif-Vergütung/Eingruppierung-nach-dem-ERA-TV-digital-5-2026.jsp": {
@@ -2324,6 +2476,14 @@
 "ts": 1793548409,
 "venue": null
 },
+"https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/freie-maschinen": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793682788,
+"venue": null
+},
 "https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/spuk-spiel-halloween-tuefteleien": {
 "address": null,
 "cost": null,
@@ -2396,6 +2556,22 @@
 "ts": 1793548368,
 "venue": null
 },
+"https://www.eatutzing.de/veranstaltung/die-anstalt-politische-satire-im-schloss-39/": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793682788,
+"venue": null
+},
+"https://www.eatutzing.de/veranstaltung/die-anstalt-politische-satire-im-schloss-40/": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793682788,
+"venue": null
+},
 "https://www.eatutzing.de/veranstaltung/die-zukunft-des-protestantismus/": {
 "address": "Schlossstraße 2+4, 82327 Tutzing",
 "cost": "kostenlos",
@@ -2419,6 +2595,14 @@
 "lng": null,
 "ts": 1793548367,
 "venue": null
+},
+"https://www.eatutzing.de/veranstaltung/generationengespraeche-was-und-verbindet/": {
+"address": "Schlossstraße 2+4, 82327 Tutzing",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793682788,
+"venue": "Kontakt"
 },
 "https://www.eatutzing.de/veranstaltung/herbsttagung-des-politischen-clubs-2/": {
 "address": null,
@@ -2483,6 +2667,22 @@
 "lng": null,
 "ts": 1793548370,
 "venue": "Kontakt"
+},
+"https://www.eatutzing.de/veranstaltung/seid-unverzagt-weihnachtstagung/": {
+"address": "Schlossstraße 2+4, 82327 Tutzing",
+"cost": "90,00 €",
+"lat": null,
+"lng": null,
+"ts": 1793682788,
+"venue": "Kontakt"
+},
+"https://www.eatutzing.de/veranstaltung/teilhabe-im-film-vol-3/": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793682788,
+"venue": null
 },
 "https://www.econ.lmu.de/de/aktuelles/veranstaltung/munich-lectures-in-economics-2026-d4533d3e.html": {
 "address": null,
@@ -2732,6 +2932,14 @@
 "ts": 1793548418,
 "venue": null
 },
+"https://www.hausderkunst.de/veranstaltungen/open-atelier-solar-283853": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793682788,
+"venue": null
+},
 "https://www.heim-handwerk.de/de/": {
 "address": null,
 "cost": null,
@@ -2771,6 +2979,14 @@
 "lng": null,
 "ts": 1793548334,
 "venue": "Universität der Bundeswehr München"
+},
+"https://www.hwk-muenchen.de/termine/kostenfreies-online-einstiegsseminar-fuer-existenzgruender-im-nebenerwerb-im-handwerk-in-muenchen-74,0,evedetail.html?eve=5155": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793682785,
+"venue": "Online"
 },
 "https://www.hwk-muenchen.de/termine/krisenvorsorge-beim-stromausfall-alles-ueber-notstromaggregate-74,0,evedetail.html?eve=5206": {
 "address": null,
@@ -3604,6 +3820,14 @@
 "ts": 1793548407,
 "venue": "Hörsaal M 118 Geschwister-Scholl Platz 1 80539 München"
 },
+"https://www.lmu.de/de/newsroom/veranstaltungskalender/veranstaltung/mit-bne-fremdsprachen-lernen-5ffa6a56.html": {
+"address": "Multifunktionsraum - Fachbibliothek Philologicum Ludwigstraße 25, 80539 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793682788,
+"venue": "Raum"
+},
 "https://www.lmu.de/de/newsroom/veranstaltungskalender/veranstaltung/nature-writing-mit-natur-gestalten-als-epistemische-praxis-7ee9f60b.html": {
 "address": "Leopoldstraße 13, 80802 München",
 "cost": null,
@@ -3659,6 +3883,14 @@
 "lng": null,
 "ts": 1793548407,
 "venue": "Veranstaltungsraum"
+},
+"https://www.lmu.de/de/newsroom/veranstaltungskalender/veranstaltung/vom-orakelmythos-zur-kultlandschaft-ammoneion-von-siwa-1f35d464.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793682788,
+"venue": "Haus der Kulturinstitute Katharina-von-Bora-Str. 10 80333 München"
 },
 "https://www.lmu.de/de/newsroom/veranstaltungskalender/veranstaltung/vom-orakelmythos-zur-kultlandschaft-b1419f6d.html": {
 "address": null,
@@ -3860,6 +4092,14 @@
 "ts": 1793548607,
 "venue": "Festsaal im Münchner Künstlerhaus"
 },
+"https://www.mucbook.de/event/spaziergaenge-hot-spots-of-art/": {
+"address": "Bergmannstraße 4, 80339 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793682795,
+"venue": "irrland 2"
+},
 "https://www.muenchen.de/veranstaltungen/allerheiligen": {
 "address": null,
 "cost": "kostenlos",
@@ -4004,6 +4244,22 @@
 "ts": 1793548435,
 "venue": null
 },
+"https://www.muenchner-kammerspiele.de/de/programm/32919-mephisto?activity=54641": {
+"address": null,
+"cost": "Ab 18 €",
+"lat": null,
+"lng": null,
+"ts": 1793682788,
+"venue": null
+},
+"https://www.muenchner-kammerspiele.de/de/programm/32919-mephisto?activity=54642": {
+"address": null,
+"cost": "Ab 18 €",
+"lat": null,
+"lng": null,
+"ts": 1793682789,
+"venue": null
+},
 "https://www.muenchner-kammerspiele.de/de/programm/32923-was-ihr-wollt": {
 "address": null,
 "cost": "6 €",
@@ -4020,6 +4276,14 @@
 "ts": 1793548423,
 "venue": null
 },
+"https://www.muenchner-kammerspiele.de/de/programm/32923-was-ihr-wollt?activity=54634": {
+"address": null,
+"cost": "6 €",
+"lat": null,
+"lng": null,
+"ts": 1793682789,
+"venue": null
+},
 "https://www.muenchner-kammerspiele.de/de/programm/32924-sauhund": {
 "address": null,
 "cost": "Ab 18 €",
@@ -4034,6 +4298,14 @@
 "lat": null,
 "lng": null,
 "ts": 1793548425,
+"venue": null
+},
+"https://www.muenchner-kammerspiele.de/de/programm/32924-sauhund?activity=54640": {
+"address": null,
+"cost": "Ab 18 €",
+"lat": null,
+"lng": null,
+"ts": 1793682788,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/42815-wallenstein?activity=53858": {
@@ -4116,12 +4388,28 @@
 "ts": 1793548439,
 "venue": null
 },
+"https://www.muenchner-kammerspiele.de/de/programm/42852-play-auerbach?activity=54611": {
+"address": null,
+"cost": "15 €",
+"lat": null,
+"lng": null,
+"ts": 1793682789,
+"venue": null
+},
 "https://www.muenchner-kammerspiele.de/de/programm/42853-love-me-tender": {
 "address": null,
 "cost": "30 €",
 "lat": null,
 "lng": null,
 "ts": 1793548438,
+"venue": null
+},
+"https://www.muenchner-kammerspiele.de/de/programm/42853-love-me-tender?activity=54607": {
+"address": null,
+"cost": "30 €",
+"lat": null,
+"lng": null,
+"ts": 1793682789,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/42857-anna-mascha-und-julia?activity=53626": {
@@ -4156,12 +4444,28 @@
 "ts": 1793548431,
 "venue": null
 },
+"https://www.muenchner-kammerspiele.de/de/programm/42859-meister-und-margarita?activity=54635": {
+"address": null,
+"cost": "Ab 18 €",
+"lat": null,
+"lng": null,
+"ts": 1793682789,
+"venue": null
+},
 "https://www.muenchner-kammerspiele.de/de/programm/42863-wokey-wokey": {
 "address": null,
 "cost": "6 €",
 "lat": null,
 "lng": null,
 "ts": 1793548436,
+"venue": null
+},
+"https://www.muenchner-kammerspiele.de/de/programm/42863-wokey-wokey?activity=54647": {
+"address": null,
+"cost": "6 €",
+"lat": null,
+"lng": null,
+"ts": 1793682789,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/42871-mein-kleines-prachttier": {
@@ -4186,6 +4490,22 @@
 "lat": null,
 "lng": null,
 "ts": 1793548427,
+"venue": null
+},
+"https://www.muenchner-kammerspiele.de/de/programm/42871-mein-kleines-prachttier?activity=54638": {
+"address": null,
+"cost": "Ab 18 €",
+"lat": null,
+"lng": null,
+"ts": 1793682788,
+"venue": null
+},
+"https://www.muenchner-kammerspiele.de/de/programm/42871-mein-kleines-prachttier?activity=54639": {
+"address": null,
+"cost": "Ab 18 €",
+"lat": null,
+"lng": null,
+"ts": 1793682789,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/48737-alfons-jetzt-noch-deutscherer?activity=48741": {
@@ -4300,12 +4620,36 @@
 "ts": 1793548431,
 "venue": null
 },
+"https://www.muenchner-kammerspiele.de/de/programm/51771-jugend-ohne-gott?activity=52289": {
+"address": null,
+"cost": "15 €",
+"lat": null,
+"lng": null,
+"ts": 1793682788,
+"venue": null
+},
+"https://www.muenchner-kammerspiele.de/de/programm/51771-jugend-ohne-gott?activity=52290": {
+"address": null,
+"cost": "15 €",
+"lat": null,
+"lng": null,
+"ts": 1793682789,
+"venue": null
+},
 "https://www.muenchner-kammerspiele.de/de/programm/51771-jugend-ohne-gott?activity=53633": {
 "address": null,
 "cost": "15 €",
 "lat": null,
 "lng": null,
 "ts": 1793548424,
+"venue": null
+},
+"https://www.muenchner-kammerspiele.de/de/programm/51771-jugend-ohne-gott?activity=54633": {
+"address": null,
+"cost": "15 €",
+"lat": null,
+"lng": null,
+"ts": 1793682789,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/51812-schubert-in-paradise?activity=53907": {
@@ -4338,6 +4682,46 @@
 "lat": null,
 "lng": null,
 "ts": 1793548432,
+"venue": null
+},
+"https://www.muenchner-kammerspiele.de/de/programm/51824-the-truest-true-crime?activity=52274": {
+"address": null,
+"cost": "Ab 12 €",
+"lat": null,
+"lng": null,
+"ts": 1793682788,
+"venue": null
+},
+"https://www.muenchner-kammerspiele.de/de/programm/51824-the-truest-true-crime?activity=52275": {
+"address": null,
+"cost": "Ab 12 €",
+"lat": null,
+"lng": null,
+"ts": 1793682788,
+"venue": null
+},
+"https://www.muenchner-kammerspiele.de/de/programm/51824-the-truest-true-crime?activity=52276": {
+"address": null,
+"cost": "Ab 12 €",
+"lat": null,
+"lng": null,
+"ts": 1793682788,
+"venue": null
+},
+"https://www.muenchner-kammerspiele.de/de/programm/51824-the-truest-true-crime?activity=52277": {
+"address": null,
+"cost": "Ab 12 €",
+"lat": null,
+"lng": null,
+"ts": 1793682789,
+"venue": null
+},
+"https://www.muenchner-kammerspiele.de/de/programm/51824-the-truest-true-crime?activity=54637": {
+"address": null,
+"cost": "Ab 12 €",
+"lat": null,
+"lng": null,
+"ts": 1793682788,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/51838-limina": {
@@ -4548,12 +4932,28 @@
 "ts": 1793548426,
 "venue": null
 },
+"https://www.muenchner-kammerspiele.de/de/programm/55-jeeps?activity=54648": {
+"address": null,
+"cost": "Ab 18 €",
+"lat": null,
+"lng": null,
+"ts": 1793682788,
+"venue": null
+},
 "https://www.muenchner-kammerspiele.de/de/programm/55013-michel-friedman-spricht-mit-carolin-amlinger": {
 "address": null,
 "cost": "25 €",
 "lat": null,
 "lng": null,
 "ts": 1793548445,
+"venue": null
+},
+"https://www.muenchner-kammerspiele.de/de/programm/55013-michel-friedman-spricht-mit-carolin-amlinger?activity=55016": {
+"address": null,
+"cost": "25 €",
+"lat": null,
+"lng": null,
+"ts": 1793682789,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/55020-michel-friedman-spricht-mit-jovana-reisinger": {
@@ -4564,6 +4964,14 @@
 "ts": 1793548442,
 "venue": null
 },
+"https://www.muenchner-kammerspiele.de/de/programm/55020-michel-friedman-spricht-mit-jovana-reisinger?activity=55023": {
+"address": null,
+"cost": "25 €",
+"lat": null,
+"lng": null,
+"ts": 1793682789,
+"venue": null
+},
 "https://www.muenchner-kammerspiele.de/de/programm/55026-michel-friedman-spricht-mit-joschka-fischer": {
 "address": null,
 "cost": "25 €",
@@ -4572,12 +4980,28 @@
 "ts": 1793548432,
 "venue": null
 },
+"https://www.muenchner-kammerspiele.de/de/programm/55026-michel-friedman-spricht-mit-joschka-fischer?activity=55029": {
+"address": null,
+"cost": "25 €",
+"lat": null,
+"lng": null,
+"ts": 1793682788,
+"venue": null
+},
 "https://www.muenchner-kammerspiele.de/de/programm/55043-uberlegenheitsfantasien": {
 "address": null,
 "cost": "15 €",
 "lat": null,
 "lng": null,
 "ts": 1793548433,
+"venue": null
+},
+"https://www.muenchner-kammerspiele.de/de/programm/55043-uberlegenheitsfantasien?activity=55046": {
+"address": null,
+"cost": "15 €",
+"lat": null,
+"lng": null,
+"ts": 1793682788,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/55058-mit-mannern-leben": {
@@ -4602,6 +5026,14 @@
 "lat": null,
 "lng": null,
 "ts": 1793548434,
+"venue": null
+},
+"https://www.muenchner-kammerspiele.de/de/programm/55149-justitias-tochter-live?activity=55150": {
+"address": null,
+"cost": "25 €",
+"lat": null,
+"lng": null,
+"ts": 1793682788,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/55183-sjaella-fallwander-each-of-us-like-you?activity=55185": {
@@ -4907,6 +5339,14 @@
 "lng": null,
 "ts": 1793548490,
 "venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/view/7968/leony": {
+"address": null,
+"cost": "56 €",
+"lat": null,
+"lng": null,
+"ts": 1793682790,
+"venue": "Tonhalle"
 },
 "https://www.muffatwerk.de/de/events/view/7977/karate-andi": {
 "address": null,
@@ -5596,6 +6036,14 @@
 "ts": 1793548464,
 "venue": "Muffathalle"
 },
+"https://www.muffatwerk.de/de/events/view/8250/buntspecht": {
+"address": null,
+"cost": "43,65 €",
+"lat": null,
+"lng": null,
+"ts": 1793682790,
+"venue": "Muffathalle"
+},
 "https://www.muffatwerk.de/de/events/view/8252/heather-nova": {
 "address": null,
 "cost": "45 €",
@@ -5611,6 +6059,14 @@
 "lng": null,
 "ts": 1793548579,
 "venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/view/8256/sophie-hunger": {
+"address": null,
+"cost": "59,64 €",
+"lat": null,
+"lng": null,
+"ts": 1793682790,
+"venue": "Isarphilharmonie"
 },
 "https://www.muffatwerk.de/de/events/view/8258/the-tallest-man-on-earth": {
 "address": null,
@@ -5908,6 +6364,14 @@
 "ts": 1793548316,
 "venue": "SCE Creative Hall"
 },
+"https://www.munich-startup.de/events/gate-network-female-founders-breakfast": {
+"address": "Lichtenbergstraße 8, 85748 Garching bei München",
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793682785,
+"venue": "gate – Garchinger Technologie- und Gründerzentrum GmbH"
+},
 "https://www.munich-startup.de/events/how-to-get-your-startup-ready-for-its-next-funding-round": {
 "address": null,
 "cost": null,
@@ -5956,6 +6420,14 @@
 "ts": 1793548323,
 "venue": "Holiday Inn"
 },
+"https://www.munich-startup.de/events/marketing-sparring-fuer-gruender": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793682785,
+"venue": "Online"
+},
 "https://www.munich-startup.de/events/matchup": {
 "address": "Seidlstraße 23, 80335 München",
 "cost": null,
@@ -5979,6 +6451,14 @@
 "lng": null,
 "ts": 1793548323,
 "venue": "Strascheg Center for Entrepreneurship (SCE)"
+},
+"https://www.munich-startup.de/events/munichtech-expo-conference-2027": {
+"address": "Am Bavariapark 14, 80339 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793682785,
+"venue": "Alte Kongresshalle"
 },
 "https://www.munich-startup.de/events/one-startup-one-europe-eu-inc-erklaert": {
 "address": null,
@@ -6525,6 +7005,14 @@
 "ts": 1793548593,
 "venue": "Circus Krone-Bau"
 },
+"https://www.songkick.com/concerts/42906153-amon-amarth-at-zenith-die-kulturhalle?utm_medium=organic&utm_source=microformat": {
+"address": "Lilienthalallee 29, 80939 Munich",
+"cost": "87.90 €",
+"lat": 48.19464,
+"lng": 11.60865,
+"ts": 1793682790,
+"venue": "Zenith, die Kulturhalle"
+},
 "https://www.songkick.com/concerts/42939412-our-promise-at-werk-backstage?utm_medium=organic&utm_source=microformat": {
 "address": "Reitknechtstrasse 6, 80639 Munich",
 "cost": "35.70 €",
@@ -6773,6 +7261,14 @@
 "ts": 1793548593,
 "venue": "Backstage"
 },
+"https://www.songkick.com/concerts/43302189-munich-philharmonic-orchestra-at-residenz-serenade?utm_medium=organic&utm_source=microformat": {
+"address": "Residenzstraße 1, München, 80333 Munich",
+"cost": "39.00 €",
+"lat": 48.14124,
+"lng": 11.57909,
+"ts": 1793682790,
+"venue": "Residenz Serenade"
+},
 "https://www.songkick.com/concerts/43347754-walls-of-jericho-at-halle-backstage?utm_medium=organic&utm_source=microformat": {
 "address": "Reitknechtstrasse 6, 80639 Munich",
 "cost": "33.70 €",
@@ -6797,6 +7293,14 @@
 "ts": 1793548596,
 "venue": "Hotel Bayerischer Hof/night Club"
 },
+"https://www.songkick.com/concerts/43388976-mayflower-madame-at-xbar?utm_medium=organic&utm_source=microformat": {
+"address": "Sternstraße 20, 80538 Munich",
+"cost": null,
+"lat": 48.1396,
+"lng": 11.5911,
+"ts": 1793682790,
+"venue": "X-Bar"
+},
 "https://www.songkick.com/concerts/43398655-makkela-at-glockenbachwerkstatt?utm_medium=organic&utm_source=microformat": {
 "address": "Blumenstraße 7, 80331 Munich",
 "cost": null,
@@ -6813,6 +7317,22 @@
 "ts": 1793548593,
 "venue": "Milla Club"
 },
+"https://www.songkick.com/concerts/43461907-yll-limani-at-zenith-die-kulturhalle?utm_medium=organic&utm_source=microformat": {
+"address": "Lilienthalallee 29, 80939 Munich",
+"cost": "70.00 €",
+"lat": 48.19464,
+"lng": 11.60865,
+"ts": 1793682790,
+"venue": "Zenith, die Kulturhalle"
+},
+"https://www.songkick.com/concerts/43467803-banger-at-luitpoldhalle?utm_medium=organic&utm_source=microformat": {
+"address": "Luitpoldstraße 1, 85356 Freising",
+"cost": "20.00 €",
+"lat": 48.40044,
+"lng": 11.75478,
+"ts": 1793682790,
+"venue": "Luitpoldhalle"
+},
 "https://www.songkick.com/concerts/43480709-anna-mccarthy-at-munchner-kammerspiele?utm_medium=organic&utm_source=microformat": {
 "address": "Maximilianstraße 28, 80539 Munich",
 "cost": "25.00 €",
@@ -6821,6 +7341,22 @@
 "ts": 1793548599,
 "venue": "Münchner Kammerspiele"
 },
+"https://www.songkick.com/concerts/43484684-god-in-therapy-at-kafe-marat?utm_medium=organic&utm_source=microformat": {
+"address": "Thalkirchner Str. 102, 80337 Munich",
+"cost": null,
+"lat": 48.11725,
+"lng": 11.5511,
+"ts": 1793682790,
+"venue": "Kafe Marat"
+},
+"https://www.songkick.com/festivals/2585169-katzenclub/id/43026677-katzenclub-festival-2026?utm_medium=organic&utm_source=microformat": {
+"address": "Hansastraße 39, 81373 Munich",
+"cost": "48.35 €",
+"lat": 48.12875,
+"lng": 11.53441,
+"ts": 1793682790,
+"venue": "Feierwerk"
+},
 "https://www.songkick.com/festivals/3795380-wunderpunktfestival/id/43316199-wunderpunktfestival-2026?utm_medium=organic&utm_source=microformat": {
 "address": "Entenbachstr.37, 81541 Munich",
 "cost": null,
@@ -6828,6 +7364,14 @@
 "lng": 11.57772,
 "ts": 1793548593,
 "venue": "HochX Theater"
+},
+"https://www.songkick.com/festivals/3808373-diwali-indian-food-in-munchen/id/43450800-diwali-indian-food-festival-in-mnchen-2026?utm_medium=organic&utm_source=microformat": {
+"address": "Alte Paketposthalle, Arnulfstraße 195-199, 80634 Munich",
+"cost": "6.17 €",
+"lat": 48.14689,
+"lng": 11.52347,
+"ts": 1793682790,
+"venue": "Midnightbazar"
 },
 "https://www.staatsoper.de/stuecke/2-akademiekonzert-2026-27-robin-ticciati/2026-11-30-2000-16152": {
 "address": null,
@@ -7370,6 +7914,14 @@
 "ts": 1793548399,
 "venue": "München"
 },
+"https://www.tum.de/aktuelles/veranstaltungen/details/bewerbungszeitraum-european-talent-academy-2027": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793682788,
+"venue": "Online"
+},
 "https://www.tum.de/aktuelles/veranstaltungen/details/eu-simulation-zero-waste-2026": {
 "address": null,
 "cost": null,
@@ -7400,6 +7952,14 @@
 "lat": null,
 "lng": null,
 "ts": 1793548407,
+"venue": "Online"
+},
+"https://www.tum.de/aktuelles/veranstaltungen/details/infosessions-auslandsaufenthalte-ueber-erasmus": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793682788,
 "venue": "Online"
 },
 "https://www.tum.de/aktuelles/veranstaltungen/details/lit-advanced-day-fuer-wissenschaftliches-arbeiten": {
@@ -7562,6 +8122,14 @@
 "ts": 1793548587,
 "venue": null
 },
+"https://www.unterfahrt.de/programm-detail.php?dateID=11692": {
+"address": null,
+"cost": "36 €",
+"lat": null,
+"lng": null,
+"ts": 1793682790,
+"venue": null
+},
 "https://www.unterfahrt.de/programm-detail.php?dateID=14389": {
 "address": null,
 "cost": "20 €",
@@ -7602,6 +8170,14 @@
 "ts": 1793548348,
 "venue": null
 },
+"https://www.unternehmertum.de/events/opportunity-hunters-talks-4": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793682788,
+"venue": null
+},
 "https://www.unternehmertum.de/events/opportunity-hunters-talks-8": {
 "address": null,
 "cost": null,
@@ -7634,6 +8210,14 @@
 "ts": 1793548336,
 "venue": "hbw"
 },
+"https://www.vbw-bayern.de/vbw/Termine/Demokratie-in-Gefahr.-Mehrheitsfindung-in-Zeiten-zunehmender-Polarisierung.jsp": {
+"address": "Max-Joseph-Straße 5 80333 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793682786,
+"venue": "hbw"
+},
 "https://www.vbw-bayern.de/vbw/Termine/Erfahrungen-aus-der-Kommunalen-Waermeplanung.jsp": {
 "address": "Online",
 "cost": "kostenlos",
@@ -7656,6 +8240,14 @@
 "lat": null,
 "lng": null,
 "ts": 1793548336,
+"venue": "hbw"
+},
+"https://www.vbw-bayern.de/vbw/Termine/vbw-Stiftung-Lebensgrundlagen-Bayern-–-Förderpreisverleihung-2026-2.jsp": {
+"address": "Max-Joseph-Straße 5 80333 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793682786,
 "venue": "hbw"
 },
 "https://www.vbw-bayern.de/vbw/Termine/vbw-bei-der-Landesversammlung-der-Jungen-Union.jsp": {
@@ -7690,6 +8282,14 @@
 "ts": 1793548337,
 "venue": "hbw"
 },
+"https://www.vbw-bayern.de/vbw/Themen-und-Services/Außenwirtschaft/Auslandsmärkte-Export/Amerika-hat-gewählt-–-Die-transatlantischen-Wirtschaftsbeziehungen-nach-den-Zwischenwahlen.jsp": {
+"address": "Max-Joseph-Straße 5 80333 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793682785,
+"venue": "hbw"
+},
 "https://www.vbw-bayern.de/vbw/Themen-und-Services/Bildung/Aktionsrat-Bildung/Oekonomische-Bildung.jsp": {
 "address": "Max-Joseph-Straße 5 80333 München",
 "cost": "kostenlos",
@@ -7720,6 +8320,14 @@
 "lat": null,
 "lng": null,
 "ts": 1793548338,
+"venue": "hbw"
+},
+"https://www.vbw-bayern.de/vbw/Themen-und-Services/Digitalisierung/Digitalisierung-im-Ueberblick/Agenda-EinfachStaat-–-Neustart-fuer-Verwaltung-und-Industrie.jsp": {
+"address": "Max-Joseph-Straße 5 80333 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793682785,
 "venue": "hbw"
 },
 "https://www.vbw-bayern.de/vbw/Themen-und-Services/Digitalisierung/Digitalisierung-im-Ueberblick/KI-Einsatz-erkennen-rechtlich-einordnen-und-verantwortlich-gestalten.jsp": {
@@ -7761,6 +8369,14 @@
 "lng": null,
 "ts": 1793548334,
 "venue": null
+},
+"https://www.vbw-bayern.de/vbw/Themen-und-Services/Energie-Klima/Energie/Energie.Land.Wirtschaft.Bayern.jsp": {
+"address": "Max-Joseph-Straße 5 80333 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793682785,
+"venue": "hbw"
 },
 "https://www.vbw-bayern.de/vbw/Themen-und-Services/Energie-Klima/Energie/Energieflexibilitaetsoptionen-in-der-Industrie.jsp": {
 "address": "Online",
@@ -7832,6 +8448,14 @@
 "lat": null,
 "lng": null,
 "ts": 1793548336,
+"venue": null
+},
+"https://www.vbw-bayern.de/vbw/Themen-und-Services/Recht/KI-Recht/KI-Einsatz-erkennen-rechtlich-einordnen-und-verantwortlich-gestalten.jsp": {
+"address": "Online",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"ts": 1793682786,
 "venue": null
 },
 "https://www.vbw-bayern.de/vbw/Themen-und-Services/Recht/Sozialversicherungsrecht/Entgeltabrechnung-zum-Jahreswechsel-2026-2027.jsp": {
@@ -8073,6 +8697,14 @@
 "lng": null,
 "ts": 1793548384,
 "venue": null
+},
+"https://www.vdma.eu/kalender/-/event/view/124659": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"ts": 1793682786,
+"venue": "SNIEC - Shanghai New International Expo Centre Co. , Ltd. No. 2345 Longyang Road 201204 Pudong Shang"
 },
 "https://www.vdma.eu/kalender/-/event/view/127054": {
 "address": null,
