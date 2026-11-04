@@ -33,7 +33,9 @@
    "Payment",
    "Zahlungs",
    "Fintech",
-   "Gehalt"
+   "Gehalt",
+   "Erbschaftsteuer",
+   "Steuerreform"
   ],
   "builtin": true
  },
@@ -75,7 +77,8 @@
    "Ukraine",
    "Nahost",
    "NATO",
-   "Diplomatie"
+   "Diplomatie",
+   "Midterms"
   ],
   "builtin": true
  },
@@ -208,7 +211,12 @@
    "Blues",
    "Reggae",
    "Live-Musik",
-   "Live Musik"
+   "Live Musik",
+   "Party",
+   "Partys",
+   "Releasekonzert",
+   "Bigband",
+   "Clubkonzert"
   ],
   "builtin": true
  },

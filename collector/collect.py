@@ -141,6 +141,7 @@ VENUE_CATS = [
     (r"Technikum|Backstage|Muffat|Feierwerk|\bStrom\b|Theaterfabrik|Tonhalle|Zenith|Olympiahalle|\bMilla\b|Ampere|Unterfahrt"
      r"|Neue Theater ?Fabrik|Kranhalle|Hansa ?39|Sunny Red|Import Export|Muffathalle",
      ["musik-modern"]),
+    (r"Bergson", []),  # gemischtes Programm: Kategorie nach Stichwort
     (r"Isarphilharmonie|Herkulessaal|Philharmonie im Gasteig|Prinzregententheater", ["musik-klassisch", "theater"]),
 ]
 
@@ -148,7 +149,7 @@ VENUE_CATS = [
 def venue_category(text):
     for rx, cs in VENUE_CATS:
         if text.strip() and re.search(rx, text, re.I):
-            return cs
+            return cs  # [] = Ort bekannt, aber gemischtes Programm
     return None
 
 
@@ -341,6 +342,9 @@ def finish(ev, src, cats, geocoder, today):
     vcat = None if f.get("venue") else venue_category(vname + " " + (v.get("address") or ""))
     if vcat:  # reine Konzertorte: Ort gibt die Standardkategorie vor
         one = best_category(title, desc, cats, vcat)
+    elif vcat == []:  # gemischter Ort: nur nach Stichwort, sonst Standard der Quelle
+        one = best_category(title, desc, cats, [], keywords_only=True,
+                            fallback=list(src.get("categories", []))[:1] or ["kultur"])
     else:
         one = best_category(title, desc, cats, src.get("categories", []),
                             keywords_only=bool(f.get("keywordsOnly")), fallback=fb, broad=bool(f.get("broad")))

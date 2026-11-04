@@ -60,6 +60,8 @@ Jede Quelle ist ein Eintrag in `app/data/sources.json`:
 | `maxEvents` | höchstens so viele Termine dieser Quelle |
 | `noDetail` | Detailseiten dieser Quelle nicht öffnen |
 | `monthHeader`, `dayHeader` | Spielpläne mit Monatsüberschrift („November 2026“) und nur Tageszahl: Selektoren für Monats- und Tageskopf |
+| `tags` | Selektor für Rubriken/Hashtags der Karte; sie werden an die Beschreibung gehängt und zählen für die Kategorie |
+| `linkAttr` | Link steht in einem Attribut der Karte (z. B. `data-util-url-param`) |
 | `time` | Selektor für die Uhrzeit (auch „19.30“ ohne „Uhr“) |
 | `titleFirstLine` | vom Titel-Element nur die erste Textzeile nehmen |
 | `drop` | Selektor für Teile der Karte, die vorher entfernt werden (z. B. Untertitel, Raumname) |

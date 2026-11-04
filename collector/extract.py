@@ -475,6 +475,8 @@ def _card_to_event(card, base_url, cfg, year):
     if cfg.get("link"):
         a = card.select_one(cfg["link"])
         link = a.get("href") if a else None
+    if not link and cfg.get("linkAttr"):
+        link = card.get(cfg["linkAttr"])
     if not link:
         if card.name == "a" and card.get("href"):
             link = card["href"]
@@ -524,6 +526,10 @@ def _card_to_event(card, base_url, cfg, year):
             desc = desc.replace(x, " ")
     desc = " ".join(p for p in desc.split(" | ") if len(p) > 25 and not _STOP_TITLES.match(p.strip()))
     desc = re.sub(r"\s+", " ", desc).strip()[:300]
+    if cfg.get("tags"):  # Rubriken der Seite ("Jazz", "Klassik") helfen bei der Kategorie
+        tags = [_text(t) for t in card.select(cfg["tags"])]
+        if tags:
+            desc = (desc + " · " + ", ".join(tags)).strip(" ·")
     has_time = bool(t1) and (end is None or end == start)
     if has_time:
         s = f"{start.isoformat()}T{t1}"

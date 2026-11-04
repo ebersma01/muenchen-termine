@@ -1838,5 +1838,34 @@
     "lng": 11.5745
    }
   }
+ },
+ {
+  "id": "bergson",
+  "name": "Bergson Kunstkraftwerk",
+  "url": "https://www.bergson.com/programm",
+  "categories": [
+   "kultur"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "card": "div.program-item",
+   "date": ".event-date",
+   "time": ".time",
+   "title": ".program-title",
+   "linkAttr": "data-util-url-param",
+   "keywordsOnly": true,
+   "fallbackCats": [
+    "kultur"
+   ],
+   "venue": {
+    "name": "Bergson Kunstkraftwerk",
+    "address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+    "lat": 48.1626,
+    "lng": 11.425
+   },
+   "tags": ".hashtag"
+  }
  }
 ]
