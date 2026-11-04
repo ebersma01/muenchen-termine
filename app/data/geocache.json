@@ -1,4 +1,5 @@
 {
+"\"fesch\" wirtshaus & stehausschank, münchen": null,
 ".11.26, münchen": {
 "address": "München, Bayern, Deutschland",
 "lat": 48.13711,
@@ -99,6 +100,7 @@
 "lat": 48.13289,
 "lng": 11.58949
 },
+"anagram - haus im tal, münchen": null,
 "anse yoga, münchen": {
 "address": "Anse Yoga, 3, Gebhardweg, Neulustheim, Obermenzing, Pasing-Obermenzing, München, Bayern, 81247, Deutschland",
 "lat": 48.16492,
@@ -133,6 +135,7 @@
 "aspekte galerie der mvhs im gasteig hp8, münchen": null,
 "aspekte galerie im einstein 28, münchen": null,
 "atelier kevo, münchen": null,
+"atelier tonga, münchen": null,
 "atelierstraße 24, 81671 munich": {
 "address": "TonHalle, 24, Atelierstraße, Werksviertel München, Berg am Laim, München, Bayern, 81671, Deutschland",
 "lat": 48.12391,
@@ -142,6 +145,11 @@
 "address": "TonHalle, 24, Atelierstraße, Werksviertel München, Berg am Laim, München, Bayern, 81671, Deutschland",
 "lat": 48.12391,
 "lng": 11.60691
+},
+"atelierwerkstatt machwerk, münchen": {
+"address": "Machwerk AtelierWerkstatt, 212, Landsberger Straße, Neu-Friedenheim, Friedenheim, Laim, München, Bayern, 80687, Deutschland",
+"lat": 48.14198,
+"lng": 11.51592
 },
 "ayinger am platzl, münchen": null,
 "ayinger in der au, münchen": {
@@ -255,6 +263,7 @@
 "bühne 3, münchen": null,
 "bürgerhaus glockenbachwerkstatt, münchen": null,
 "cafe wildwuchs im werkhaus, münchen": null,
+"café le hygge, münchen": null,
 "café pfefferminza, münchen": {
 "address": "Pfefferminza, 28, Soyerhofstraße, Neuharlaching, Untergiesing-Harlaching, Giesing, München, Bayern, 81547, Deutschland",
 "lat": 48.10059,
@@ -319,6 +328,11 @@
 "lng": 11.56719
 },
 "cuvilliéstheater, münchen": null,
+"dachauer straße 114a, 80636 münchen": {
+"address": "114a, Dachauer Straße, Kasernenviertel, Ebenau, Neuhausen-Nymphenburg, München, Bayern, 80636, Deutschland",
+"lat": 48.15935,
+"lng": 11.54889
+},
 "daily matcha, münchen": {
 "address": "Daily Matcha, 20, Leopoldstraße, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80802, Deutschland",
 "lat": 48.15407,
@@ -553,6 +567,11 @@
 "lat": 48.13125,
 "lng": 11.5757
 },
+"habibi kiosk, münchen": {
+"address": "Münchner Kammerspiele | Habibi Kiosk, 28, Maximilianstraße, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80539, Deutschland",
+"lat": 48.13845,
+"lng": 11.58272
+},
 "haderner bräu, münchen": {
 "address": "Haderner Bräu, 56a, Großhaderner Straße, Haderner Stern, Kleinhadern, Hadern, München, Bayern, 81375, Deutschland",
 "lat": 48.12261,
@@ -567,6 +586,11 @@
 "address": "Halle E, Schäftlarnstraße, Sendlinger Feld, Sendling, München, Bayern, 81371, Deutschland",
 "lat": 48.11175,
 "lng": 11.55393
+},
+"hand aufs herz restaurant, münchen": {
+"address": "Hand aufs Herz, 25, Dreimühlenstraße, Dreimühlen, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80469, Deutschland",
+"lat": 48.12059,
+"lng": 11.55961
 },
 "hans-jensen-weg 3, 80939 münchen": {
 "address": "Cavalluna Park, 3, Hans-Jensen-Weg, Großlappen, Freimann, Schwabing-Freimann, München, Bayern, 80939, Deutschland",
@@ -636,6 +660,7 @@
 "lat": 48.15393,
 "lng": 11.55772
 },
+"hochbrüchenstrasse. 3, munich, munich": null,
 "hochschule münchen, hörsaal 1.046 (roter würfel)": null,
 "hochx theater und live art, münchen": {
 "address": "HochX Theater und Live Art, 37, Entenbachstraße, Nockherberg, Untere Au, Au, Au-Haidhausen, München, Bayern, 81541, Deutschland",
@@ -885,6 +910,7 @@
 "lng": 11.55005
 },
 "le schlürf, münchen": null,
+"legal club, münchen": null,
 "lenbachhaus und kunstbau münchen luisenstraße 33, 80333 münchen": null,
 "lenbachhaus und kunstbau, münchen": {
 "address": "Garten der Städtischen Galerie im Lenbachhaus und Kunstbau, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80333, Deutschland",
@@ -944,6 +970,11 @@
 "lng": 11.55323
 },
 "luitpoldblock, münchen": null,
+"lustspielhaus, münchen": {
+"address": "Lustspielhaus, 8, Occamstraße, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80802, Deutschland",
+"lat": 48.16184,
+"lng": 11.5897
+},
 "lyrik kabinett, münchen": {
 "address": "Stiftung Lyrik Kabinett, 83a, Amalienstraße, Schönfeldvorstadt, Maxvorstadt, München, Bayern, 80799, Deutschland",
 "lat": 48.15137,
@@ -1128,6 +1159,7 @@
 "mvhs am scheidplatz, münchen": null,
 "mvhs einstein 28, münchen": null,
 "mvhs im einstein 28, münchen": null,
+"mvhs im gasteig hp8, münchen": null,
 "mvhs in pasing": null,
 "myposter, münchen": {
 "address": "myposter, 12, Nymphenburger Straße, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80335, Deutschland",
@@ -1185,6 +1217,11 @@
 "address": "Münchner Stadtbibliothek Bogenhausen, 16, Rosenkavalierplatz, Arabellapark, Priel, Bogenhausen, München, Bayern, 81925, Deutschland",
 "lat": 48.1517,
 "lng": 11.61983
+},
+"münchner stadtbibliothek hadern, münchen": {
+"address": "Münchner Stadtbibliothek Hadern, 90, Guardinistraße, Haderner Stern, Neuhadern, Hadern, München, Bayern, 81375, Deutschland",
+"lat": 48.1186,
+"lng": 11.49076
 },
 "münchner stadtbibliothek im hp8, münchen": {
 "address": "Münchner Stadtbibliothek im HP8, 8, Hans-Preißinger-Straße, Sendlinger Feld, Sendling, München, Bayern, 81379, Deutschland",
@@ -1305,6 +1342,11 @@
 "lat": 48.15104,
 "lng": 11.46128
 },
+"penguin random house verlagsgruppe, münchen": {
+"address": "Penguin Random House Verlagsgruppe, 28, Neumarkter Straße, Gewerbegebiet Berg am Laim, Baumkirchen, Berg am Laim, München, Bayern, 81673, Deutschland",
+"lat": 48.1324,
+"lng": 11.62175
+},
 "pepe dome, münchen": {
 "address": "Pepe Dome, Heinrich-Wieland-Straße, Neuperlach, Ramersdorf-Perlach, München, Bayern, 81735, Deutschland",
 "lat": 48.11201,
@@ -1327,6 +1369,7 @@
 "lng": 11.57223
 },
 "podium @ schießstätte allach, münchen": null,
+"podium allach, schiessstätte allach, münchen": null,
 "prannerstraße 4, 80333 münchen, germany, münchen, by, münchen": null,
 "praxisräume hebammengemeinschaft, münchen": null,
 "prinzregentenplatz 12, 81675 münchen": {
@@ -1574,6 +1617,11 @@
 "lat": 48.12492,
 "lng": 11.54907
 },
+"studio numi, münchen": {
+"address": "Studio numi, 1, Zenettiplatz, Am Schlachthof, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80337, Deutschland",
+"lat": 48.1246,
+"lng": 11.55543
+},
 "studio tela wãve, münchen": null,
 "studiobühne twm, münchen": {
 "address": "Studiobühne TWM, 5, Neuturmstraße, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
@@ -1597,6 +1645,11 @@
 "lng": 11.66159
 },
 "sv münchen west e.v.": null,
+"tal 24, 80331 münchen": {
+"address": "Haus Im Tal, 24, Tal, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
+"lat": 48.13575,
+"lng": 11.5796
+},
 "taubenschlag bar, münchen": {
 "address": "Taubenschlag Bar, 15, Schulstraße, St. Vinzenz-Viertel, Ebenau, Neuhausen-Nymphenburg, München, Bayern, 80634, Deutschland",
 "lat": 48.15046,
@@ -1619,6 +1672,11 @@
 "lat": 48.1334,
 "lng": 11.58177
 },
+"terra, münchen": {
+"address": "Terra, 1, Baaderstraße, Gärtnerplatz, Altstadt-Lehel, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80469, Deutschland",
+"lat": 48.1334,
+"lng": 11.58177
+},
 "thalkirchen, münchen, münchen": {
 "address": "Thalkirchen, Pognerstraße, Thalkirchen, Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln, München, Bayern, 81379, Deutschland",
 "lat": 48.10284,
@@ -1628,6 +1686,11 @@
 "address": "1, Thalkirchner Straße, Am Alten Südlichen Friedhof, Glockenbach, Altstadt-Lehel, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80337, Deutschland",
 "lat": 48.13219,
 "lng": 11.56696
+},
+"thalkirchner straße 2, 81371 münchen": {
+"address": "Andy's Krablergarten, 2, Thalkirchner Straße, Am Alten Südlichen Friedhof, Glockenbach, Isarvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80337, Deutschland",
+"lat": 48.13242,
+"lng": 11.56623
 },
 "the bali space, münchen": {
 "address": "The Bali Space, 198, Englschalkinger Straße, Cosimapark, Priel, Englschalking, Bogenhausen, München, Bayern, 81927, Deutschland",
@@ -1737,6 +1800,7 @@
 "lat": 48.08021,
 "lng": 11.63837
 },
+"westendstraße 68, 80339 munich, 80339 munich": null,
 "wiese an der alte pinakothek, münchen": null,
 "wirtshaus zum isartal, münchen": {
 "address": "Wirtshaus zum Isartal, 2, Brudermühlstraße, Sendlinger Feld, Sendling, München, Bayern, 81371, Deutschland",
