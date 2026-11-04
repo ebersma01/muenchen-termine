@@ -51,7 +51,6 @@
    "Stadtrat",
    "Stiftung",
    "Podiumsdiskussion",
-   "Europa",
    "Wahl",
    "Debatte",
    "Diskussion",
@@ -78,7 +77,11 @@
    "Nahost",
    "NATO",
    "Diplomatie",
-   "Midterms"
+   "Midterms",
+   "Europapolitik",
+   "Europäische Union",
+   "EU-Kommission",
+   "Europawahl"
   ],
   "builtin": true
  },
@@ -152,7 +155,10 @@
    "Reisevortrag",
    "Reisebericht",
    "Multivision",
-   "Länderabend"
+   "Länderabend",
+   "Rundgang",
+   "Kuratorenführung",
+   "Kurator"
   ],
   "builtin": true
  },
