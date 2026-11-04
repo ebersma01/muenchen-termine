@@ -691,6 +691,15 @@
 "ts": 1793715521,
 "venue": "La Cantina"
 },
+"https://rausgegangen.de/events/club-upside-down-0/": {
+"address": "Reitknechtstraße 6, 80639 München",
+"cost": "5.00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "CLUB UPSIDE DOWN am 06.11.2026 in München",
+"ts": 1793806619,
+"venue": "BACKSTAGE Kultur- und Veranstaltungszentrum"
+},
 "https://rausgegangen.de/events/comedy-fur-freunde-best-of-show-115/": {
 "address": "Candidplatz 9, 81543 München",
 "cost": "kostenlos",
@@ -1190,6 +1199,15 @@
 "ts": 1793549154,
 "venue": "Theatiner Film"
 },
+"https://rausgegangen.de/events/kirmes-im-kopf-live-in-munchen-1/": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Angelina Boerger ■ Kirmes im Kopf – Normal war nie der Plan am 04.11.2026 in München",
+"ts": 1793806619,
+"venue": "Bergson Kunstkraftwerk"
+},
 "https://rausgegangen.de/events/klangskulptur-und-performance-sensing-sites-dekoloniale-geda-2/": {
 "address": "Kunstareal - Luisenstraße 33, 80333 München",
 "cost": "kostenlos",
@@ -1403,6 +1421,24 @@
 "lng": null,
 "ts": 1793549154,
 "venue": "Saal X im Gasteig HP8"
+},
+"https://rausgegangen.de/events/sabine-liebner-morton-feldman-100-piano-recital-2-for-bunita-0/": {
+"address": "Dachauer Straße 114a, 80636 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Sabine Liebner: Morton Feldman 100 / piano recital 2: For Bunita Marcus 1985 am 06.11.2026 in München",
+"ts": 1793806619,
+"venue": "Schwere Reiter – Tanz Theater Musik"
+},
+"https://rausgegangen.de/events/sabine-liebner-morton-feldman-100-piano-recital-3-early-pian-0/": {
+"address": "Dachauer Straße 114a, 80636 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Sabine Liebner: Morton Feldman 100 / piano recital 3: Early Piano pieces 1950 – 1964 / piano recital 4: Piano 1977 & Palais de Mari 1986 am 07.11.2026 in München",
+"ts": 1793806619,
+"venue": "Schwere Reiter – Tanz Theater Musik"
 },
 "https://rausgegangen.de/events/salon-luitpold-ard-der-ki-podcast-live-welche-probleme-kann--0/": {
 "address": "Brienner Str. 11, 80333 München",
@@ -2777,6 +2813,15 @@
 "ts": 1793548457,
 "venue": null
 },
+"https://www.backstage.eu/event/544329dd-598e-4022-890f-b8d26caa1879": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Website",
+"ts": 1793806619,
+"venue": null
+},
 "https://www.backstage.eu/event/71199549-0a22-4f93-81c5-24bd52625991": {
 "address": null,
 "cost": null,
@@ -2831,6 +2876,15 @@
 "lat": null,
 "lng": null,
 "ts": 1793548457,
+"venue": null
+},
+"https://www.backstage.eu/event/fed1b83b-011c-4e58-81e9-9d4f5f9a4858": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Website",
+"ts": 1793806619,
 "venue": null
 },
 "https://www.bayerisches-nationalmuseum.de/en/visit/exhibitions/liminal-spaces": {
@@ -3202,6 +3256,15 @@
 "ts": 1793548344,
 "venue": null
 },
+"https://www.baymevbm.de/baymevbm/Termine-Veranstaltungen/Treffpunkt-Arbeitsrecht-–-Muenchen-Oberbayern-5.jsp": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Treffpunkt Arbeitsrecht München-Oberbayern",
+"ts": 1793806618,
+"venue": null
+},
 "https://www.baymevbm.de/baymevbm/Termine-Veranstaltungen/bayme-vbm-Regionalversammlungen-Muenchen-Oberbayern-2-2026.jsp": {
 "address": null,
 "cost": null,
@@ -3298,6 +3361,1356 @@
 "ts": 1793548613,
 "venue": null
 },
+"https://www.bergson.com/event/20-jahre-odeon-jugendsinfonieorchester-13-februar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "20 Jahre ODEON Jugendsinfonieorchester  -  Bergson",
+"ts": 1793806634,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/5-000-jahre-weihnachten-13-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "44 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Weihnachten zwischen Christbaum, Glühwein und alten Bräuchen  -  Bergson",
+"ts": 1793806628,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/80er-party-05-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "15 €",
+"lat": null,
+"lng": null,
+"pagetitle": "80er Party im Bergson München: Eurodance, Britpop & Hip-Hop in der Barbastelle  -  Bergson",
+"ts": 1793806626,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/80er-party-06-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "15 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Back to the 80s: Party in der Barbastelle  -  Bergson",
+"ts": 1793806620,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/adventsbrunch-im-bergson-05-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "59 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Mit Genuss durch die Adventszeit  -  Bergson",
+"ts": 1793806626,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/adventsbrunch-im-bergson-06-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "59 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Mit Genuss durch die Adventszeit  -  Bergson",
+"ts": 1793806626,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/adventsbrunch-im-bergson-12-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "59 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Mit Genuss durch die Adventszeit  -  Bergson",
+"ts": 1793806627,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/adventsbrunch-im-bergson-19-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "59 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Mit Genuss durch die Adventszeit  -  Bergson",
+"ts": 1793806628,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/adventsbrunch-im-bergson-20-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "59 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Mit Genuss durch die Adventszeit  -  Bergson",
+"ts": 1793806629,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/adventsbrunch-im-bergson-29-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "59 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Mit Genuss durch die Adventszeit  -  Bergson",
+"ts": 1793806625,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/aladdin-jameel-live-on-tour": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Aladdin Jameel: Stand-up-Comedy im Bergson",
+"ts": 1793806624,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/alessandro-capasso-03-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Alessandro Capasso: „Der Münchner LIVE“ im Bergson",
+"ts": 1793806625,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/am-weihnachtsabend": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Jazzrausch Bigband: Am Weihnachtsabend  -  Bergson",
+"ts": 1793806627,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/am-weihnachtsabend-13-12-26-2": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Jazzrausch Bigband: Am Weihnachtsabend  -  Bergson",
+"ts": 1793806627,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/amelie-diana-andreas-bittl-a-weihnachtsgschicht": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kabarett im Bergson Kunstkraftwerk - Amelie Diana & Andreas Bittl. „A  Weihnachtsgschicht“  -  Bergson",
+"ts": 1793806628,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/angelina-boerger-kirmes-im-kopf-04-11-26": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "32 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Angelina Boerger: Kirmes im Kopf  -  Bergson",
+"ts": 1793806620,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/anissa-loucif-kopftuchmaedchen-10-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "„Kopftuchmädchen“ im Bergson: Ein Abend mit Anissa Loucif  -  Bergson",
+"ts": 1793806627,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/bad-meditators-club-live-22-januar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "39,20 €",
+"lat": null,
+"lng": null,
+"pagetitle": "BAD MEDITATORS CLUB LIVE - Ein Abend mit Michael „Curse“ Kurth, DJ Kool GQ & Gästen  -  Bergson",
+"ts": 1793806633,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/balduin-und-der-jazz-22-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Mitmach-Kinderkonzert: Eine turbulente Reise durch die Welt des Jazz  -  Bergson",
+"ts": 1793806624,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/balduin-und-die-klassik-24-januar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Familienkonzert im Bergson: Ein musikalisches Abenteuer mit Beethoven für Kinder  -  Bergson",
+"ts": 1793806633,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/bergson-curators-dinner-03-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "85,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Kunst und Kulinarik beim Curators’ Dinner im Bergson",
+"ts": 1793806625,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/bergson-curators-dinner-04-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "85,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Kunst und Kulinarik beim Curators’ Dinner im Bergson",
+"ts": 1793806620,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/bergson-gallery-fuehrung-07-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kunstführung durch SUPERMARK€T & I’LL SEE IT THROUGH THE CHERRY PIE  -  Bergson",
+"ts": 1793806621,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/bergson-gallery-fuehrung-08-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kunstführung durch SUPERMARK€T & I’LL SEE IT THROUGH THE CHERRY PIE  -  Bergson",
+"ts": 1793806621,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/bergson-gallery-fuehrung-14-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kunstführung durch SUPERMARK€T in der Bergson Gallery  -  Bergson",
+"ts": 1793806622,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/bergson-gallery-fuehrung-15-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kunstführung durch SUPERMARK€T & I’LL SEE IT THROUGH THE CHERRY PIE  -  Bergson",
+"ts": 1793806622,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/bergson-gallery-fuehrung-21-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kunstführung durch SUPERMARK€T in der Bergson Gallery  -  Bergson",
+"ts": 1793806623,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/bergson-gallery-fuehrung-22-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kunstführung durch SUPERMARK€T & I’LL SEE IT THROUGH THE CHERRY PIE  -  Bergson",
+"ts": 1793806624,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/bergson-gallery-fuehrung-28-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kunstführung durch SUPERMARK€T & I’LL SEE IT THROUGH THE CHERRY PIE  -  Bergson",
+"ts": 1793806624,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/bergson-gallery-fuehrung-29-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kunstführung durch SUPERMARK€T & I’LL SEE IT THROUGH THE CHERRY PIE  -  Bergson",
+"ts": 1793806625,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/bergson-gallery-praesentiert-monaco-franze-100-07-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "MONACO FRANZE 100 – A bissl was bleibt immer  -  Bergson",
+"ts": 1793806621,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/bergson-metal-fest-14-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "19 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Bergson Metal Fest w/ Dream State, Lost in Hollywood, Mayflower, Throatcut., Kora Winter  -  Bergson",
+"ts": 1793806622,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/bergson-open-stage-night-14-februar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "5,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Open Stage im Bergson: Deine Bühne in der Barbastelle  -  Bergson",
+"ts": 1793806635,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/bergson-open-stage-night-29-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "5,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Bergson Open Stage Night  -  Bergson",
+"ts": 1793806625,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/bergson-s-rise-05-12-26": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Bergson's Rise  -  Bergson",
+"ts": 1793806626,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/bergson-s-rise-3": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Bergson's Rise  -  Bergson",
+"ts": 1793806630,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/bergson-schaulager-x-jan-kuck": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Bergson Schaulager x Jan Kuck - Ein neuer Ort für Kunst zwischen Depot und Ausstellung  -  Bergson",
+"ts": 1793806621,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/bergson-silvesterdinner": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "220 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Bergson Silvesterdinner: Vier-Gänge-Menü & Party mit Live-Musik  -  Bergson",
+"ts": 1793806630,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/bergson-silvesterparty": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "49,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Bergson Silvesterparty: Die Tanzfläche ruft: DJ, Live-Musik & die größten Hits der 80er bis 2000er!  -  Bergson",
+"ts": 1793806630,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/bergson-voices-musik-des-krieges-24-januar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "44 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Musik des Krieges: Strawinsky & Beethoven im Bergson",
+"ts": 1793806633,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/bergsons-rise-30-januar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "44 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Jazzrausch Bigband Bergson’s Rise und Euphoria  -  Bergson",
+"ts": 1793806634,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/bergsons-rise-euphoria-13-februar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "44 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Jazzrausch Bigband Bergson’s Rise und Euphoria  -  Bergson",
+"ts": 1793806634,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/botticelli-baby-13-11-26": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Botticelli Baby-Mission Ekstase mit Jazz, Punk, Blues, Folk & Pop  -  Bergson",
+"ts": 1793806622,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/br-clubkonzert-04-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "BR Clubkonzert im Bergson: Petros Klampanis – Latent Info  -  Bergson",
+"ts": 1793806620,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/brunch-im-bergson-08-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "24,50 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Brunch im Bergson",
+"ts": 1793806621,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/brunch-im-bergson-15-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "24,50 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Brunch im Bergson",
+"ts": 1793806622,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/brunch-im-bergson-22-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "24,50 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Brunch im Bergson",
+"ts": 1793806624,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/champagne-and-dine-19-februar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Champagner und Kulinarik mit Taittinger erleben  -  Bergson",
+"ts": 1793806635,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/das-bergson-pubquiz-06-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "100 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Das Bergson Pubquiz  -  Bergson",
+"ts": 1793806626,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/das-bergson-pubquiz-07-februar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "100 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Das Bergson Pubquiz  -  Bergson",
+"ts": 1793806634,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/das-bergson-pubquiz-10-januar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "100 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Das Bergson Pubquiz  -  Bergson",
+"ts": 1793806631,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/der-bunte-knall-19-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Klangzauber im Bergson – Ein Kinderkonzert zum Mitmachen  -  Bergson",
+"ts": 1793806629,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/der-bunte-knall-20-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Klangzauber im Bergson – Ein Kinderkonzert zum Mitmachen  -  Bergson",
+"ts": 1793806629,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/der-bunte-knall-27-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Klangzauber im Bergson – Ein Kinderkonzert zum Mitmachen  -  Bergson",
+"ts": 1793806629,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/die-bergson-story-04-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Die Bergson Story - Eine audio-visuelle Führung in Europas klügstem Konzertsaal  -  Bergson",
+"ts": 1793806626,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/die-bergson-story-06-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Die Bergson Story - Eine audio-visuelle Führung in Europas klügstem Konzertsaal  -  Bergson",
+"ts": 1793806620,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/die-bergson-story-18-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Die Bergson Story - Eine audio-visuelle Führung in Europas klügstem Konzertsaal  -  Bergson",
+"ts": 1793806628,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/die-bergson-story-20-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Die Bergson Story - Eine audio-visuelle Führung in Europas klügstem Konzertsaal  -  Bergson",
+"ts": 1793806629,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/die-bergson-story-20-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Die Bergson Story - Eine audio-visuelle Führung in Europas klügstem Konzertsaal  -  Bergson",
+"ts": 1793806623,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/die-brandenburgischen-konzerte-i-23-januar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "69 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Balthasar-Neumann-Orchester im Bergson: Bachs Brandenburgische Konzerte  -  Bergson",
+"ts": 1793806633,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/die-brandenburgischen-konzerte-ii-23-januar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "69 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Balthasar-Neumann-Orchester im Bergson: Bachs Brandenburgische Konzerte  -  Bergson",
+"ts": 1793806633,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/die-digitale-festung-wie-man-daten-wirklich-schuetzt-26-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Datenschutz im Fokus: Cybersecurity-Abend im Bergson",
+"ts": 1793806624,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/die-usa-nach-den-midterms": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Die USA nach den Midterms: Kerstin Kohlenberg (DIE ZEIT) ordnet ein  -  Bergson",
+"ts": 1793806620,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/elli-die-dampflokomotive-17-januar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Kuna und Elli auf einer musikalischen Reise um die Welt  -  Bergson",
+"ts": 1793806632,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/ensemble-interchange-sweet-was-the-song-20-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "30 €",
+"lat": null,
+"lng": null,
+"pagetitle": "„Sweet was the song“ lässt Weihnachtsmusik neu erklingen  -  Bergson",
+"ts": 1793806629,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/erbschaftsteuer-reform-oder-weiter-so-29-januar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "20 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Erbschaftsteuer auf dem Prüfstand: Was sich jetzt ändern könnte  -  Bergson",
+"ts": 1793806633,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/eva-karl-faltermeier-ding-dong": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kabarett im Bergson Kunstkraftwerk - Eva Karl Faltermeier. „Ding Dong“  -  Bergson",
+"ts": 1793806623,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/eva-umlauf-genau-so-faengt-es-an-04-februar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Eva Umlauf im Bergson – Was Erinnerung heute bedeutet  -  Bergson",
+"ts": 1793806634,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/fabian-lampert-einer-dieser-abende-23-januar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Stand-up-Comedy im Bergson: Fabian Lampert mit „Einer dieser Abende“  -  Bergson",
+"ts": 1793806633,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/franca-lehfeldt-gute-muetter-schlechte-muetter-28-januar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Mutterschaft im Wandel: Franca Lehfeldt live im Bergson",
+"ts": 1793806633,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/franziska-wanninger-wenn-du-wen-brauchst-ruf-mich-nicht-an": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Franziska Wanninger: Wenn du wen brauchst, ruf mich nicht an  -  Bergson",
+"ts": 1793806632,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/greatest-hits-party-19-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "15 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Greatest Hits Party mit der Bergson Party Band  -  Bergson",
+"ts": 1793806629,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/gregor-haegele-17-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Gregor Hägele bringt seine Weihnachtsshow ins Bergson",
+"ts": 1793806628,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/grosser-musikalischer-adventsbrunch-im-atrium-13-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "99 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Adventsbrunch im Bergson mit Klassik und Jazz  -  Bergson",
+"ts": 1793806628,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/health-n-harmony-03-january-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "28 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Mit Yoga Flow Dance in Bewegung kommen und den Alltag loslassen  -  Bergson",
+"ts": 1793806631,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/health-n-harmony-05-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Health ’n’ Harmony im Bergson: Yoga zu Live-Musik  -  Bergson",
+"ts": 1793806620,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/health-n-harmony-06-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Health ’n’ Harmony im Bergson: Yoga zu Live-Musik  -  Bergson",
+"ts": 1793806626,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/health-n-harmony-08-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Health ’n’ Harmony im Bergson: Yoga zu Live-Musik  -  Bergson",
+"ts": 1793806621,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/health-n-harmony-10-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Health ’n’ Harmony im Bergson: Yoga zu Live-Musik  -  Bergson",
+"ts": 1793806627,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/health-n-harmony-14-januar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Health ’n’ Harmony im Bergson: Yoga zu Live-Musik  -  Bergson",
+"ts": 1793806631,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/health-n-harmony-18-februar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Health ’n’ Harmony im Bergson: Yoga zu Live-Musik  -  Bergson",
+"ts": 1793806635,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/health-n-harmony-20-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Health ’n’ Harmony im Bergson: Yoga zu Live-Musik  -  Bergson",
+"ts": 1793806629,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/health-n-harmony-festival-22-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "44 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Health 'n' Harmony Festival: Yogakurse, Live-Musik & happy faces  -  Bergson",
+"ts": 1793806623,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/health-n-harmony-for-families-12-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "24 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Yoga für Groß und Klein im Bergson",
+"ts": 1793806627,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/health-n-harmony-for-families-28-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "24 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Yoga für Groß und Klein im Bergson",
+"ts": 1793806624,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/humorkonzert-07-februar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Bergson Phil’: Ein Abend voller Humor  -  Bergson",
+"ts": 1793806634,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/humorkonzert-27-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Bergson Phil’: Ein Abend voller Humor  -  Bergson",
+"ts": 1793806624,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/interplay-johanna-summer-franziska-hoelscher-15-januar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "44 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Johanna Summer und Franziska Hölscher verbinden Jazz und Klassik  -  Bergson",
+"ts": 1793806632,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/jazz-dinner-in-der-barbastelle-11-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "89 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Jazz Dinner in der Barbastelle: Live-Musik trifft im Bergson auf Kulinarik  -  Bergson",
+"ts": 1793806627,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/jazz-dinner-in-der-barbastelle-13-februar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "89 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Jazz Dinner in der Barbastelle: Live-Musik trifft im Bergson auf Kulinarik  -  Bergson",
+"ts": 1793806634,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/jazz-dinner-in-der-barbastelle-14-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "89 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Jazz Dinner in der Barbastelle: Live-Musik trifft im Bergson auf Kulinarik  -  Bergson",
+"ts": 1793806622,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/jazz-dinner-in-der-barbastelle-15-januar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "89 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Jazz Dinner im Bergson – Musik und Genuss in der Barbastelle  -  Bergson",
+"ts": 1793806632,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/jazzrausch-bigband-bergson-phil-eine-technosinfonie-07-11-26-1": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Jazzrausch Bigband & Bergson Phil’: Eine Techno-Sinfonie  -  Bergson",
+"ts": 1793806621,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/jazzrausch-bigband-bergson-phil-eine-technosinfonie-09-januar-2027-2": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Jazzrausch Bigband & Bergson Phil’: Eine Technosinfonie  -  Bergson",
+"ts": 1793806631,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/jazzrausch-bigband-euphoria-08-januar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Clubshows zum Album-Release  -  Bergson",
+"ts": 1793806631,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/jazzrausch-bigband-euphoria-10-21-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Clubshows zum Album-Release  -  Bergson",
+"ts": 1793806623,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/jazzrausch-bigband-euphoria-13-20-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Clubshows zum Album-Release  -  Bergson",
+"ts": 1793806623,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/jazzrausch-bigband-muenchner-symphoniker-18-12-26-1": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Jazzrausch Bigband × Münchner Symphoniker - Christmas Sound im Stile großer Tanzorchester mit neuen Stücken  -  Bergson",
+"ts": 1793806628,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/jazzrausch-bigband-muenchner-symphoniker-19-12-26-2": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Jazzrausch Bigband × Münchner Symphoniker - Christmas Sound im Stile großer Tanzorchester  -  Bergson",
+"ts": 1793806629,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/jazzrausch-bigband-muenchner-symphoniker-4-20-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Jazzrausch Bigband trifft Münchner Symphoniker  -  Bergson",
+"ts": 1793806629,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/joachim-gauck-ueber-demokratie-und-freiheit-03-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Joachim Gauck im Bergson: Die Zukunft unserer Demokratie  -  Bergson",
+"ts": 1793806625,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/kammermusik-mit-vladimir-jurowski-16-januar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Vladimir Jurowski spielt Mozart und Poulenc im Bergson",
+"ts": 1793806632,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/katja-eichinger-geld-21-januar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Katja Eichinger präsentiert „Geld“ im Bergson: Krimi voller Macht und Geheimnisse  -  Bergson",
+"ts": 1793806632,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/kinderkonzert-sarah-und-das-nix-15-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Im Bergson: „Sarah und das Nix“ – Ein musikalisches Abenteuer für Kinder  -  Bergson",
+"ts": 1793806622,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/kinderkonzert-sarah-und-das-nix-31-januar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Familienkonzert im Bergson: Sarah und das Nix  -  Bergson",
+"ts": 1793806634,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/kinderkonzert-sarah-und-die-fledermaus-10-januar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Familienkonzert im Bergson: Sarah und die Fledermaus  -  Bergson",
+"ts": 1793806631,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/kiosk61-praesentiert-debuet-album-28-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "KIOSK61 live im Bergson: Das München-Debüt der Leipziger Band  -  Bergson",
+"ts": 1793806625,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/klimawandel-in-muenchen-18-februar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "20 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Was der Klimawandel für München bedeutet  -  Bergson",
+"ts": 1793806635,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/koennen-wir-die-welt-retten-8-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Können wir die Welt retten? - Dirk Steffens und Marc Elsberg im Gespräch  -  Bergson",
+"ts": 1793806627,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/liebe-14-februar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "140 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Navid Kermani im Bergson: Liebe  -  Bergson",
+"ts": 1793806635,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/light-in-music-music-in-light-06-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Vivien Walser & Ligyung: Ein Abend zwischen Licht und Musik  -  Bergson",
+"ts": 1793806627,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/luca-kieser-simsalabim-simon-brenner-20-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Luca Kieser präsentiert „Simsalabim, Simon Brenner“ im Bergson",
+"ts": 1793806623,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/lucky-punch-22-november-2026-1": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Lucky Punch Comedy Club im Bergson Kunstkraftwerk  -  Bergson",
+"ts": 1793806624,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/lucky-punch-27-dezember-2026-1": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Lucky Punch Comedy Club im Bergson Kunstkraftwerk  -  Bergson",
+"ts": 1793806630,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/marialy-pacheco-reload": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Marialy Pacheco: „Reload“ - Erlebe die kubanische Starpianistin live  -  Bergson",
+"ts": 1793806623,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/martin-kaelberer-meets-tommy-baldu-deep-29-januar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "44 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Martin Kälberer ist zurück im Elektra Tonquartier!  -  Bergson",
+"ts": 1793806633,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/melanie-raabe-daisy-und-all-deine-geheimnisse-werden-mir-gehoeren-14-januar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Melanie Raabe im Bergson: Thriller-Lesung zu „DAISY“  -  Bergson",
+"ts": 1793806631,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/mustafa-algiyadi-almost-legal-alien-13-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Live-Stand-up-Comedy von Münchens mehrfach ausgezeichnetem Comedian  -  Bergson",
+"ts": 1793806628,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/neujahrskonzert-der-bergson-phil-mit-neuem-programm": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Neujahrskonzert der Bergson Phil’ mit neuem Programm  -  Bergson",
+"ts": 1793806631,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/neujahrskonzert-der-bergson-phil-mit-neuem-programm-02-01-27": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Neujahrskonzert der Bergson Phil’ mit neuem Programm  -  Bergson",
+"ts": 1793806631,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/neujahrskonzert-der-bergson-phil-mit-neuem-programm-03-01-27": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Neujahrskonzert der Bergson Phil’ mit neuem Programm  -  Bergson",
+"ts": 1793806631,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/neujahrskonzert-der-bergson-phil-mit-neuem-programm-05-01-27": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Neujahrskonzert der Bergson Phil’ mit neuem Programm  -  Bergson",
+"ts": 1793806631,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/neujahrskonzert-der-bergson-phil-mit-neuem-programm-06-01-27-1": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Neujahrskonzert der Bergson Phil’ mit neuem Programm  -  Bergson",
+"ts": 1793806631,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/noten-neuronen-08-november-2026-1": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Noten & Neuronen - Musik für die Gehirngesundheit mit Mitgliedern des BRSO  -  Bergson",
+"ts": 1793806621,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/ola-onabule-x-bergson-jazz-orchestra-19-juli-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Ola Onabulé live: Ein besonderer Konzertabend mit dem Bergson Jazz Orchestra  -  Bergson",
+"ts": 1793806632,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/orgelsound-360-romantische-weihnacht-28-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Im Bergson: Orgelsound 360° Weihnachtsspecial mit klassischen Weihnachtsmelodien  -  Bergson",
+"ts": 1793806625,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/peterchens-mondfahrt-06-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Peterchens Mondfahrt – Ein Kinderkonzert der Bergson Artists  -  Bergson",
+"ts": 1793806626,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/peterchens-mondfahrt-13-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Peterchens Mondfahrt – Ein Kinderkonzert der Bergson Artists  -  Bergson",
+"ts": 1793806627,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/peterchens-mondfahrt-29-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Peterchens Mondfahrt – Ein Kinderkonzert der Bergson Artists  -  Bergson",
+"ts": 1793806625,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/randy-brecker-konstantin-koelmel-project-05-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Im Bergson: Musikhistorie meets Future, Grammy-Gewinner trifft auf Rising Star  -  Bergson",
+"ts": 1793806626,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/renner-never-ending-story-22-januar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "RENNER: Jazz-Trio im Bergson",
+"ts": 1793806633,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/samuel-der-bunte-knall-31-dezember-26": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Samuel & der bunte Knall: Silvesterkonzert für Kinder  -  Bergson",
+"ts": 1793806630,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/sasa-hanten-talent-zum-glueck-17-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Zwischen Kunst und Literatur: Sasa Hanten im Bergson",
+"ts": 1793806628,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/silvesterbrunch-31-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "59 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Genussvoll ins neue Jahr mit unserem Silvesterbrunch  -  Bergson",
+"ts": 1793806630,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/silvesterkonzert-bergson-jazz-orchestra": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "The Music of Glenn Miller: Großes Silvesterkonzert mit dem  Bergson Jazz Orchestra  -  Bergson",
+"ts": 1793806630,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/simon-pierro-magie-mit-ki-27-dezember-2026-1": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Simon Pierro im Bergson: Magie mit KI live im Elektra Tonquartier  -  Bergson",
+"ts": 1793806630,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/sirius-quartet-incantations-20-november-26": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Sirius Quartet: “Incantations”  -  Bergson",
+"ts": 1793806623,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/star-gastpiel-lakecia-benjamin-we-dream-22-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Lakecia Benjamin “We Dream” – Eine der gefeiertsten Jazz-Musikerinnen der Gegenwart  -  Bergson",
+"ts": 1793806624,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/stephanie-lottermoser-14-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Stephanie Lottermoser - Groovende Synthese aus Jazz, Soul und Pop  -  Bergson",
+"ts": 1793806622,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/the-bassmonsters-30-januar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "44 €",
+"lat": null,
+"lng": null,
+"pagetitle": "The Bassmonsters: Rock trifft Klassik im Bergson",
+"ts": 1793806634,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/theologe-manfred-luetz-im-bergson-kunstkraftwerk-11-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Der Theologe und Bestsellerautor Manfred Lütz im Bergson Kunstkraftwerk  -  Bergson",
+"ts": 1793806621,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/tim-allhoff-between-here-an-nowhere-album-releasekonzert": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Tim Allhoff: „Between here an Nowhere“ (Album-Releasekonzert)  -  Bergson",
+"ts": 1793806620,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/tingvall-trio-pax-04-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Tingvall Trio: „Pax“  -  Bergson",
+"ts": 1793806626,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/tobias-haberl-mut-ein-weckruf-in-bangen-zeiten-13-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Von der Lust auf Veränderung – ein Plädoyer für Mut in krisenhaften Zeiten  -  Bergson",
+"ts": 1793806621,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/trompetenglanz-festliche-musik-in-europas-kluegstem-konzertsaal-17-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Die Trompetenklasse der HMTM bringt festliche Klänge ins Bergson",
+"ts": 1793806628,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/true-crime-in-music-12-februar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "44 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Der rätselhafte Tod des Tschaikowsky mit der Bergson Phil’  -  Bergson",
+"ts": 1793806634,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/true-crime-in-music-22-januar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "44 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Der rätselhafte Tod des Tschaikowsky mit der Bergson Phil’  -  Bergson",
+"ts": 1793806632,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/weihnachtskonzert-der-bergson-voices-29-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "44 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Weihnachtskonzert mit den Bergson Voices: Benjamin Brittens \"Ceremony of Carols\"  -  Bergson",
+"ts": 1793806625,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/wine-and-dine-09-dezember-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "149,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Wine & Dine mit der Domäne Wachau  -  Bergson",
+"ts": 1793806627,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/zum-100-geburtstag-des-monaco-franze-kinotag-im-bergson-15-november-2026": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "56 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Ein Nachmittag mit Monaco Franze zum 100. Geburtstag von Helmut Fischer  -  Bergson",
+"ts": 1793806622,
+"venue": "Bergson Kunstkraftwerk"
+},
 "https://www.br-chor.de/konzerte/26-27-abo-2-sacred-concert/": {
 "address": null,
 "cost": null,
@@ -3312,6 +4725,15 @@
 "lat": null,
 "lng": null,
 "ts": 1793548615,
+"venue": null
+},
+"https://www.cap-lmu.de/aktuell/meldungen/2026/monacensia.php": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Workshop für demokratische Streitkultur in der Monacensia",
+"ts": 1793806619,
 "venue": null
 },
 "https://www.cell-symposia.com/single-cell-biology-2026/index.html": {
@@ -3547,6 +4969,15 @@
 "lng": null,
 "pagetitle": "Der letzte König von Bayern – Das Musical",
 "ts": 1793715564,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/der-muenchner-live-zusatzshow/": {
+"address": null,
+"cost": "29,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Der Münchner LIVE",
+"ts": 1793806619,
 "venue": "Silbersaal"
 },
 "https://www.deutsches-theater.de/der-muenchner-live/": {
@@ -4221,6 +5652,15 @@
 "lng": null,
 "ts": 1793548347,
 "venue": "Große Aula LMU-Main Building, Geschwister Scholl-Platz 1 Munich"
+},
+"https://www.erding.de/meldungen-detail/die-geschichte-vom-fliegenden-teppich-isi": {
+"address": null,
+"cost": "15 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Die Geschichte vom fliegenden Teppich Isi - Kreisstadt Erding",
+"ts": 1793806619,
+"venue": null
 },
 "https://www.erding.de/meldungen-detail/schnee-in-allen-farben-und-formen": {
 "address": null,
@@ -5098,6 +6538,15 @@
 "ts": 1793548607,
 "venue": "Gasteig HP8"
 },
+"https://www.gasteig.de/festivals/lafita-lateinamerikanische-filmtage-2025-6f77e/": {
+"address": "München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "LAFITA – Lateinamerikanische Filmtage 2026 - Gasteig München",
+"ts": 1793806619,
+"venue": "Gasteig HP8"
+},
 "https://www.gasteig.de/festivals/queeres-literaturfestival-muenchen-2/": {
 "address": "München",
 "cost": null,
@@ -5241,6 +6690,15 @@
 "lat": null,
 "lng": null,
 "ts": 1793548414,
+"venue": null
+},
+"https://www.hfp.tum.de/hfp/aktuelles/veranstaltungen/veranstaltungsdetails/article/the-confidence-trap-how-advisors-gain-and-lose-credibility-at-war-wendy-he-university-of-tuebingen/": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "The Confidence Trap: How Advisors Gain and Lose Credibility at War Wendy He (University of Tübingen)",
+"ts": 1793806619,
 "venue": null
 },
 "https://www.hfp.tum.de/theory/neuigkeiten/": {
@@ -5449,6 +6907,15 @@
 "ts": 1793715577,
 "venue": null
 },
+"https://www.hofspielhaus.de/stuecke/studio-eisbach-2/": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Studio Eisbach - Hofspielhaus München",
+"ts": 1793806620,
+"venue": null
+},
 "https://www.hofspielhaus.de/stuecke/the-rick-hollander-quartett/": {
 "address": null,
 "cost": "kostenlos",
@@ -5475,6 +6942,15 @@
 "pagetitle": "Alma Naidu - Voice & Piano - Hofspielhaus München",
 "ts": 1793715577,
 "venue": null
+},
+"https://www.hss.de/veranstaltungen/deutschland-brasilien-wirtschaftspartner-in-einer-wandelnden-weltordnung-5260524005/": {
+"address": "Lazarettstr. 33, 80636 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Veranstaltungen",
+"ts": 1793806619,
+"venue": "Hanns-Seidel-Stiftung e.V. Konferenzzentrum München"
 },
 "https://www.hss.de/veranstaltungen/next-generation-erklaer-mir-mal-die-finanzwelt-3260302412/": {
 "address": "Lazarettstr. 33, 80636 München",
@@ -5548,6 +7024,15 @@
 "lat": null,
 "lng": null,
 "ts": 1793548417,
+"venue": null
+},
+"https://www.in-muenchen.de/kino/neue-kinofilme.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Neue Kinofilme: Die Starts der Woche vom 5. November - IN München",
+"ts": 1793806619,
 "venue": null
 },
 "https://www.juedisches-museum-muenchen.de/en/exhibitions/yalla": {
@@ -8555,6 +10040,15 @@
 "ts": 1793548428,
 "venue": null
 },
+"https://www.muenchner-kammerspiele.de/de/programm/51507-danton": {
+"address": null,
+"cost": "15 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Danton - Programm - Kammerspiele",
+"ts": 1793806619,
+"venue": null
+},
 "https://www.muenchner-kammerspiele.de/de/programm/51507-danton?activity=52299": {
 "address": null,
 "cost": "15 €",
@@ -8770,6 +10264,15 @@
 "lat": null,
 "lng": null,
 "ts": 1793548441,
+"venue": null
+},
+"https://www.muenchner-kammerspiele.de/de/programm/51864-anarchie-in-bayern": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Anarchie in Bayern - Programm - Kammerspiele",
+"ts": 1793806619,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/51872-heaven-will-come": {
@@ -9575,6 +11078,15 @@
 "pagetitle": "MOMO",
 "ts": 1793715537,
 "venue": "19:00 Uhr Bühne 3"
+},
+"https://www.muenchner-volkstheater.de/programm/schauspiel/offene-wunde": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Offene Wunde",
+"ts": 1793806619,
+"venue": "20:00 Uhr Bühne 2"
 },
 "https://www.muenchner-volkstheater.de/programm/schauspiel/philophobia": {
 "address": null,
@@ -10998,6 +12510,15 @@
 "ts": 1793548316,
 "venue": "Munich Urban Colab"
 },
+"https://www.munich-startup.de/events/munich-co-founder-matching-find-your-co-founder-1126": {
+"address": "Tölzer Str. 1, 81379 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Munich Co-Founder Matching / Find your Co-Founder",
+"ts": 1793806618,
+"venue": "NanoTemper Technologies GmbH"
+},
 "https://www.munich-startup.de/events/munich-impact-co-founder-matching-1226": {
 "address": "Heßstraße 89, 80797 München",
 "cost": null,
@@ -11029,6 +12550,15 @@
 "lng": null,
 "ts": 1793548319,
 "venue": "IHK für München und Oberbayern"
+},
+"https://www.munich-startup.de/events/social-business-meetup-muenchen-0427": {
+"address": "Arcisstraße 21, 5. Stock, 80333 München, München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Social Business Meetup München",
+"ts": 1793806618,
+"venue": "Vorhoelzer Forum der TUM"
 },
 "https://www.munich-startup.de/events/startup-demo-night-1026": {
 "address": "Atelierstraße 24, 81671 München",
@@ -12370,6 +13900,15 @@
 "lng": 11.5511,
 "ts": 1793682790,
 "venue": "Kafe Marat"
+},
+"https://www.songkick.com/concerts/43498031-petros-klampanis-at-bergson-kunstkraftwerk?utm_medium=organic&utm_source=microformat": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 Munich",
+"cost": null,
+"lat": 48.16266,
+"lng": 11.42499,
+"pagetitle": "Petros Klampanis, Kristjan Randalu, and Ziv Ravitz at Bergson Kunstkraftwerk (04 Nov 2026)",
+"ts": 1793806619,
+"venue": "Bergson Kunstkraftwerk"
 },
 "https://www.songkick.com/festivals/2585169-katzenclub/id/43026677-katzenclub-festival-2026?utm_medium=organic&utm_source=microformat": {
 "address": "Hansastraße 39, 81373 Munich",

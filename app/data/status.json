@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-04T06:16:48+01:00",
- "total": 1969,
+ "generated": "2026-11-04T16:37:17+01:00",
+ "total": 2135,
  "sources": [
   {
    "id": "bachtrack",
@@ -54,14 +54,6 @@
    "id": "bundesbank",
    "name": "Deutsche Bundesbank (Termine)",
    "found": 10,
-   "events": 0,
-   "ok": false,
-   "error": "Termine gefunden, aber keiner passt (Zeitraum/Ort/Kategorie)"
-  },
-  {
-   "id": "cap-lmu",
-   "name": "CAP an der LMU",
-   "found": 14,
    "events": 0,
    "ok": false,
    "error": "Termine gefunden, aber keiner passt (Zeitraum/Ort/Kategorie)"
@@ -152,7 +144,7 @@
    "found": 0,
    "events": 0,
    "ok": false,
-   "error": "keine Termine erkannt"
+   "error": "Error: Page.content: Unable to retrieve content because the page is navigating and changing the content."
   },
   {
    "id": "hm",
@@ -197,14 +189,6 @@
   {
    "id": "mvhs",
    "name": "Münchner Volkshochschule",
-   "found": 1,
-   "events": 0,
-   "ok": false,
-   "error": "Termine gefunden, aber keiner passt (Zeitraum/Ort/Kategorie)"
-  },
-  {
-   "id": "mvhs-einstein28",
-   "name": "MVHS Einstein 28",
    "found": 1,
    "events": 0,
    "ok": false,
@@ -278,7 +262,7 @@
    "id": "backstage",
    "name": "Backstage",
    "found": 57,
-   "events": 46,
+   "events": 51,
    "ok": true,
    "error": null
   },
@@ -293,7 +277,7 @@
   {
    "id": "bayern-innovativ",
    "name": "Bayern Innovativ",
-   "found": 107,
+   "found": 108,
    "events": 2,
    "ok": true,
    "error": null
@@ -301,8 +285,16 @@
   {
    "id": "baymevbm",
    "name": "bayme vbm",
-   "found": 300,
+   "found": 328,
    "events": 60,
+   "ok": true,
+   "error": null
+  },
+  {
+   "id": "bergson",
+   "name": "Bergson Kunstkraftwerk",
+   "found": 255,
+   "events": 150,
    "ok": true,
    "error": null
   },
@@ -323,18 +315,26 @@
    "error": null
   },
   {
+   "id": "cap-lmu",
+   "name": "CAP an der LMU",
+   "found": 14,
+   "events": 1,
+   "ok": true,
+   "error": null
+  },
+  {
    "id": "deutsches-museum",
    "name": "Deutsches Museum",
-   "found": 8,
-   "events": 5,
+   "found": 9,
+   "events": 6,
    "ok": true,
    "error": null
   },
   {
    "id": "deutsches-theater",
    "name": "Deutsches Theater München",
-   "found": 112,
-   "events": 78,
+   "found": 113,
+   "events": 79,
    "ok": true,
    "error": null
   },
@@ -397,8 +397,8 @@
   {
    "id": "gasteig",
    "name": "Gasteig HP8 / Isarphilharmonie",
-   "found": 10,
-   "events": 9,
+   "found": 11,
+   "events": 10,
    "ok": true,
    "error": null
   },
@@ -421,8 +421,8 @@
   {
    "id": "hfp-tum",
    "name": "Hochschule für Politik (TUM)",
-   "found": 6,
-   "events": 1,
+   "found": 7,
+   "events": 2,
    "ok": true,
    "error": null
   },
@@ -437,8 +437,8 @@
   {
    "id": "hofspielhaus",
    "name": "Hofspielhaus",
-   "found": 96,
-   "events": 96,
+   "found": 97,
+   "events": 97,
    "ok": true,
    "error": null
   },
@@ -462,15 +462,15 @@
    "id": "in-muenchen",
    "name": "in-muenchen.de",
    "found": 2,
-   "events": 1,
+   "events": 2,
    "ok": true,
    "error": null
   },
   {
    "id": "kammerspiele",
    "name": "Münchner Kammerspiele",
-   "found": 125,
-   "events": 109,
+   "found": 126,
+   "events": 110,
    "ok": true,
    "error": null
   },
@@ -485,8 +485,8 @@
   {
    "id": "komoedie",
    "name": "Komödie im Bayerischen Hof",
-   "found": 157,
-   "events": 150,
+   "found": 156,
+   "events": 149,
    "ok": true,
    "error": null
   },
@@ -597,7 +597,7 @@
   {
    "id": "muenchen-de",
    "name": "muenchen.de Veranstaltungen",
-   "found": 10,
+   "found": 8,
    "events": 2,
    "ok": true,
    "error": null
@@ -613,7 +613,7 @@
   {
    "id": "muffatwerk",
    "name": "Muffatwerk",
-   "found": 222,
+   "found": 224,
    "events": 150,
    "ok": true,
    "error": null
@@ -621,8 +621,8 @@
   {
    "id": "munich-startup",
    "name": "Munich Startup",
-   "found": 86,
-   "events": 65,
+   "found": 88,
+   "events": 67,
    "ok": true,
    "error": null
   },
@@ -631,6 +631,14 @@
    "name": "munich.travel Ausstellungen",
    "found": 36,
    "events": 22,
+   "ok": true,
+   "error": null
+  },
+  {
+   "id": "mvhs-einstein28",
+   "name": "MVHS Einstein 28",
+   "found": 1,
+   "events": 1,
    "ok": true,
    "error": null
   },
@@ -677,8 +685,8 @@
   {
    "id": "rausgegangen",
    "name": "Rausgegangen München",
-   "found": 517,
-   "events": 122,
+   "found": 518,
+   "events": 123,
    "ok": true,
    "error": null
   },
@@ -741,8 +749,8 @@
   {
    "id": "theater-fraunhofer",
    "name": "Theater im Fraunhofer",
-   "found": 92,
-   "events": 82,
+   "found": 91,
+   "events": 81,
    "ok": true,
    "error": null
   },
@@ -813,8 +821,8 @@
   {
    "id": "volkstheater",
    "name": "Münchner Volkstheater",
-   "found": 111,
-   "events": 103,
+   "found": 112,
+   "events": 104,
    "ok": true,
    "error": null
   },

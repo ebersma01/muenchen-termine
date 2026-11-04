@@ -84,6 +84,11 @@
 "lat": 48.13783,
 "lng": 11.57458
 },
+"am bergson kunstkraftwerk 2, 81245 münchen": {
+"address": "Bergson Kunstkraftwerk, 2, Am Bergson Kunstkraftwerk, Aubing, Aubing-Lochhausen-Langwied, München, Bayern, 81245, Deutschland",
+"lat": 48.16264,
+"lng": 11.425
+},
 "am klopferspitz 19a, 82152 martinsried": {
 "address": "Innovations- und Gründerzentrum Biotechnologie (IZB), 19a, Am Klopferspitz, Martinsried, Planegg, Landkreis München, Bayern, 82152, Deutschland",
 "lat": 48.10759,
@@ -93,6 +98,11 @@
 "address": "Fakultät für Informatik der LMU, 17, Amalienstraße, Schönfeldvorstadt, Maxvorstadt, München, Bayern, 80333, Deutschland",
 "lat": 48.14702,
 "lng": 11.57592
+},
+"amiraplatz 1, münchen": {
+"address": "1, Amiraplatz, Kreuzviertel, Altstadt-Lehel, München, Bayern, 80333, Deutschland",
+"lat": 48.14276,
+"lng": 11.57549
 },
 "ampere (verlegt aus dem technikum), münchen": null,
 "ampere, münchen": {
@@ -116,6 +126,7 @@
 "lat": 48.14907,
 "lng": 11.56745
 },
+"arcisstraße 21, 5. stock, 80333 münchen, münchen": null,
 "arcisstraße 21, 80333 münchen": {
 "address": "Technische Universität München, 21, Arcisstraße, Kunstareal, Maxvorstadt, München, Bayern, 80333, Deutschland",
 "lat": 48.14907,
@@ -151,6 +162,11 @@
 "lat": 48.14198,
 "lng": 11.51592
 },
+"atrium, münchen": {
+"address": "Atrium, Alt-Freimann, Freimann, Schwabing-Freimann, München, Bayern, Deutschland",
+"lat": 48.18377,
+"lng": 11.61037
+},
 "ayinger am platzl, münchen": null,
 "ayinger in der au, münchen": {
 "address": "Ayinger in der Au, 4, Mariahilfplatz, Obere Au, Au, Au-Haidhausen, München, Bayern, 81541, Deutschland",
@@ -175,7 +191,9 @@
 "lat": 48.17069,
 "lng": 11.56807
 },
+"bambi bar, münchen": null,
 "bar 360 cocktail lounge clup, münchen": null,
+"barbastelle, münchen": null,
 "barerstr. 40, 80333 münchen": {
 "address": "Pinakothek der Moderne, 40, Barer Straße, Kunstareal, Maxvorstadt, München, Bayern, 80333, Deutschland",
 "lat": 48.14716,
@@ -207,6 +225,7 @@
 "lat": 48.13925,
 "lng": 11.53768
 },
+"bergson gallery, münchen": null,
 "bergson kunstkraftwerk, münchen": {
 "address": "Bergson Kunstkraftwerk, 2, Am Bergson Kunstkraftwerk, Aubing, Aubing-Lochhausen-Langwied, München, Bayern, 81245, Deutschland",
 "lat": 48.16264,
@@ -403,6 +422,7 @@
 "lat": 48.13545,
 "lng": 11.60065
 },
+"elektra tonquartier, münchen": null,
 "element boulders münchen": {
 "address": "Element Boulders, 23, Zielstattstraße, Thalkirchen, Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln, München, Bayern, 81379, Deutschland",
 "lat": 48.1022,
@@ -479,6 +499,11 @@
 "lat": 48.15693,
 "lng": 11.55177
 },
+"freiraum, münchen": {
+"address": "Integrationskindergarten FreiRaum, 28, Michael-Huber-Weg, Haidhausen-Nord, Haidhausen, Au-Haidhausen, München, Bayern, 81667, Deutschland",
+"lat": 48.13234,
+"lng": 11.60799
+},
 "freischwimmer bar, münchen": {
 "address": "FreiSchwimmer, Lindwurmstraße, Am Alten Südlichen Friedhof, Klinikviertel, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80337, Deutschland",
 "lat": 48.13085,
@@ -500,6 +525,8 @@
 "lat": 48.1461,
 "lng": 11.57436
 },
+"galerie ebene 3, münchen": null,
+"galerie ebene 4, münchen": null,
 "galerie, münchen": {
 "address": "Sammlung Schack, 9, Prinzregentenstraße, Lehel, Altstadt-Lehel, München, Bayern, 80538, Deutschland",
 "lat": 48.14251,
@@ -655,10 +682,20 @@
 "lat": 48.13597,
 "lng": 11.5785
 },
+"herzog, münchen": {
+"address": "Herzog, 4, Maxburgstraße, Kreuzviertel, Altstadt-Lehel, München, Bayern, 80333, Deutschland",
+"lat": 48.14031,
+"lng": 11.56905
+},
 "heßstr. 89, 80797 münchen, münchen": {
 "address": "SCE Strascheg Center for Entrepreneurship, 89, Heßstraße, Maßmannbergl, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80797, Deutschland",
 "lat": 48.15393,
 "lng": 11.55772
+},
+"hff - hochschule für fernsehen und film, münchen": {
+"address": "Hochschule für Fernsehen und Film München, 1, Bernd-Eichinger-Platz, Kunstareal, Maxvorstadt, München, Bayern, 80333, Deutschland",
+"lat": 48.14664,
+"lng": 11.56951
 },
 "hochbrüchenstrasse. 3, munich, munich": null,
 "hochschule münchen, hörsaal 1.046 (roter würfel)": null,
@@ -949,6 +986,11 @@
 "lat": 48.11071,
 "lng": 11.46936
 },
+"loft, münchen": {
+"address": "Health Loft, Hanne-Hiob-Straße, Werksviertel, Berg am Laim, München, Bayern, 81671, Deutschland",
+"lat": 48.12564,
+"lng": 11.61139
+},
 "lost weekend, münchen": {
 "address": "Lost Weekend, 3, Schellingstraße, Schönfeldvorstadt, Maxvorstadt, München, Bayern, 80799, Deutschland",
 "lat": 48.14912,
@@ -1098,6 +1140,7 @@
 },
 "mtc world of fashion gmbh, münchen": null,
 "mtc world of fashion, münchen": null,
+"mtz münchen | e1 im 1.og agnes-pockels-bogen 1 80992 münchen": null,
 "mucca, münchen": {
 "address": "MUCCA, 2c, Schwere-Reiter-Straße, Kasernenviertel, Ebenau, Neuhausen-Nymphenburg, München, Bayern, 80637, Deutschland",
 "lat": 48.15961,
@@ -1238,17 +1281,28 @@
 "lat": 48.15537,
 "lng": 11.53199
 },
+"münchner stadtbibliothek riem": {
+"address": "Münchner Stadtbibliothek Riem, 19, Michael-Ende-Straße, Messestadt Riem, Trudering-Riem, München, Bayern, 81829, Deutschland",
+"lat": 48.13267,
+"lng": 11.70443
+},
 "münchner volkstheater, münchen": {
 "address": "Münchner Volkstheater, 29, Tumblingerstraße, Am Schlachthof, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80337, Deutschland",
 "lat": 48.12366,
 "lng": 11.5559
 },
+"nachbarschaftstreff alte heimat, münchen": null,
 "nachbarschaftstreff giesing": {
 "address": "NachbarschaftsTreff Giesing, 12, Neuschwansteinplatz, Stadelheim, Fasangarten, Obergiesing-Fasangarten, München, Bayern, 81549, Deutschland",
 "lat": 48.1058,
 "lng": 11.59143
 },
 "nachbarschaftstreff münchen süd treff und tee": null,
+"nanotemper technologies gmbh, münchen": {
+"address": "NanoTemper Technologies GmbH, 4, Flößergasse, WerkStadt Sendling, Mittersendling, Sendling, München, Bayern, 81369, Deutschland",
+"lat": 48.10606,
+"lng": 11.53683
+},
 "nationaltheater münchen - bayerische staatsoper": null,
 "navinasphere, münchen": null,
 "neue akropolis münchen": null,
@@ -1321,6 +1375,11 @@
 "address": "Palais Club & Bar, 16, Arnulfstraße, Marsfeld, Maxvorstadt, München, Bayern, 80335, Deutschland",
 "lat": 48.14199,
 "lng": 11.55818
+},
+"panorama, münchen": {
+"address": "Panorama Towers, 47, Erika-Mann-Straße, Arnulfpark, Marsfeld, Maxvorstadt, München, Bayern, 80636, Deutschland",
+"lat": 48.1431,
+"lng": 11.53942
 },
 "paosostraße 25, 81243 münchen": {
 "address": "25, Paosostraße, Waldkolonie Pasing, Pasing, Pasing-Obermenzing, München, Bayern, 81243, Deutschland",
@@ -1401,6 +1460,11 @@
 "lat": 48.14498,
 "lng": 11.52197
 },
+"reitknechtstraße 6, 80639 münchen": {
+"address": "Backstage, 6, Reitknechtstraße, Nymphenburg, Neuhausen-Nymphenburg, München, Bayern, 80639, Deutschland",
+"lat": 48.14498,
+"lng": 11.52197
+},
 "residenztheater, münchen": {
 "address": "Residenztheater, 1, Max-Joseph-Platz, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80539, Deutschland",
 "lat": 48.14011,
@@ -1416,6 +1480,7 @@
 "lat": 48.13832,
 "lng": 11.57928
 },
+"restaurant zeitlang, münchen": null,
 "rio filmpalast, münchen": {
 "address": "Rio Filmpalast, 46, Rosenheimer Straße, Haidhausen-Süd, Au, Au-Haidhausen, München, Bayern, 81669, Deutschland",
 "lat": 48.12864,
@@ -1467,6 +1532,7 @@
 "lng": 11.58065
 },
 "salon luitpold, münchen": null,
+"salon, münchen": null,
 "salsa cuba club, münchen": {
 "address": "Salsa Cuba Club, 18, Landsberger Straße, Theresienhöhe, Westend, Schwanthalerhöhe, München, Bayern, 80339, Deutschland",
 "lat": 48.13983,
@@ -1650,6 +1716,7 @@
 "lat": 48.13575,
 "lng": 11.5796
 },
+"talente der hochschule für musik und theater münchen live erleben": null,
 "taubenschlag bar, münchen": {
 "address": "Taubenschlag Bar, 15, Schulstraße, St. Vinzenz-Viertel, Ebenau, Neuhausen-Nymphenburg, München, Bayern, 80634, Deutschland",
 "lat": 48.15046,
@@ -1778,6 +1845,7 @@
 "lat": 48.14228,
 "lng": 11.40251
 },
+"vorhoelzer forum der tum, münchen": null,
 "wein-moment münchen": {
 "address": "Wein Moment, 10, Ludwigstraße, Schönfeldvorstadt, Maxvorstadt, München, Bayern, 80539, Deutschland",
 "lat": 48.1459,
