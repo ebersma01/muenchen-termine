@@ -502,6 +502,15 @@
 "ts": 1793715558,
 "venue": null
 },
+"https://pathos-muenchen.de/global/php/ics-download.php?objid=1041": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan",
+"ts": 1794114761,
+"venue": null
+},
 "https://pathos-muenchen.de/global/php/ics-download.php?objid=1054": {
 "address": null,
 "cost": null,
@@ -527,6 +536,33 @@
 "lng": null,
 "pagetitle": "Spielplan",
 "ts": 1793715556,
+"venue": null
+},
+"https://pathos-muenchen.de/global/php/ics-download.php?objid=1076": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan",
+"ts": 1794114760,
+"venue": null
+},
+"https://pathos-muenchen.de/global/php/ics-download.php?objid=1077": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan",
+"ts": 1794114761,
+"venue": null
+},
+"https://pathos-muenchen.de/global/php/ics-download.php?objid=1078": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan",
+"ts": 1794114761,
 "venue": null
 },
 "https://pathos-muenchen.de/global/php/ics-download.php?objid=908": {
@@ -564,6 +600,15 @@
 "pagetitle": "14. Chinesisches Filmfest München am 07.11.2026 in München",
 "ts": 1794028182,
 "venue": "Gasteig HP8"
+},
+"https://rausgegangen.de/events/14-chinesisches-filmfest-munchen-3/": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1794114759,
+"venue": null
 },
 "https://rausgegangen.de/events/5ndreas-postrock-festival-0/": {
 "address": "Hansastr. 39, 81373 München",
@@ -686,6 +731,15 @@
 "ts": 1793596999,
 "venue": "Mohr-Villa: Gewölbesaal"
 },
+"https://rausgegangen.de/events/backstage-comedy-night-12/": {
+"address": "Reitknechtstr.6, 80639 München",
+"cost": "22.70 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Backstage Comedy Night am 11.11.2026 in München",
+"ts": 1794114756,
+"venue": "Backstage Club"
+},
 "https://rausgegangen.de/events/beisl-comedy-open-mic-stand-up-comedy-show-1/": {
 "address": "Utzschneiderstraße 8, 80469 München",
 "cost": "kostenlos",
@@ -753,6 +807,15 @@
 "lng": null,
 "pagetitle": "Besichtigung Marstallmuseum mit Museum \"Nymphenburger Porzellan\" am 07.11.2026 in München",
 "ts": 1794028180,
+"venue": "Marstallmuseum und Museum \"Nymphenburger Porzellan\" in Schloss Nymphenburg"
+},
+"https://rausgegangen.de/events/besichtigung-marstallmuseum-mit-museum-nymphenburger-porzell-837/": {
+"address": "Schloß Nymphenburg 208, 80638 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Besichtigung Marstallmuseum mit Museum \"Nymphenburger Porzellan\" am 08.11.2026 in München",
+"ts": 1794114759,
 "venue": "Marstallmuseum und Museum \"Nymphenburger Porzellan\" in Schloss Nymphenburg"
 },
 "https://rausgegangen.de/events/billie-bird-soledad-tour-2026-2/": {
@@ -907,6 +970,15 @@
 "ts": 1793715520,
 "venue": "Comedy für Freunde Club"
 },
+"https://rausgegangen.de/events/comedy-fur-freunde-profi-testbuhne-188/": {
+"address": "Candidplatz 9, 81543 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Comedy für Freunde - Profi-Testbühne am 13.11.2026 in München",
+"ts": 1794114755,
+"venue": "Comedy für Freunde Club"
+},
 "https://rausgegangen.de/events/comedy-kills-das-open-mic-fur-stand-up-comedy-im-glockenbach-234/": {
 "address": "Max-Joseph-Straße 1, 80333 München",
 "cost": "12.26 €",
@@ -993,6 +1065,15 @@
 "ts": 1794028181,
 "venue": "Literaturhaus München"
 },
+"https://rausgegangen.de/events/definitely-soul-live-auf-dem-schwabinger-weihnachtsmarkt-0/": {
+"address": "Münchner Freiheit 1, 80802 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Definitely Soul live auf dem Schwabinger Weihnachtsmarkt am 12.12.2026 in München",
+"ts": 1794114759,
+"venue": "Schwabinger Weihnachtsmarkt"
+},
 "https://rausgegangen.de/events/dia-de-los-muertos-community-treffen-0/": {
 "address": "Leopoldstraße 13, 80802 München",
 "cost": "kostenlos",
@@ -1062,6 +1143,15 @@
 "ts": 1794028180,
 "venue": "St. Hildegard - Pasing"
 },
+"https://rausgegangen.de/events/dyade-lichtinstallation-in-st-hildegard-von-vanessa-hafenbra-3/": {
+"address": "Paosostraße 25, 81243 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "DYADE – Lichtinstallation in St. Hildegard von Vanessa Hafenbrädl am 08.11.2026 in München",
+"ts": 1794114756,
+"venue": "St. Hildegard - Pasing"
+},
 "https://rausgegangen.de/events/escape-the-city-munchen-die-vermisste-opernsangerin-mit-echt-82/": {
 "address": "Max-Joseph-Platz, 80539 München",
 "cost": "79.90 €",
@@ -1122,6 +1212,15 @@
 "ts": 1794028183,
 "venue": null
 },
+"https://rausgegangen.de/events/escape-the-city-munchen-die-vermisste-opernsangerin-mit-echt-89/": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1794114759,
+"venue": null
+},
 "https://rausgegangen.de/events/european-django-band-0/": {
 "address": "August-Exter-Straße 1, 81245 München",
 "cost": "kostenlos",
@@ -1155,6 +1254,15 @@
 "lng": null,
 "ts": 1793549154,
 "venue": "Flux"
+},
+"https://rausgegangen.de/events/flux-community-yoga-47/": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1794114759,
+"venue": null
 },
 "https://rausgegangen.de/events/formula1-ausstellung-munchen-156/": {
 "address": "Arnulfstr. 195, 80335 München",
@@ -1214,6 +1322,15 @@
 "lng": null,
 "pagetitle": "FORMULA1® Ausstellung München am 07.11.2026 in München",
 "ts": 1794028180,
+"venue": "Paketposthalle München Pineapple Park"
+},
+"https://rausgegangen.de/events/formula1-ausstellung-munchen-163/": {
+"address": "Arnulfstr. 195, 80335 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "FORMULA1® Ausstellung München am 08.11.2026 in München",
+"ts": 1794114759,
 "venue": "Paketposthalle München Pineapple Park"
 },
 "https://rausgegangen.de/events/fuhrung-durch-das-nationaltheater-61/": {
@@ -1319,6 +1436,15 @@
 "pagetitle": "Geschichte live erleben mit historischer Stadtführung München am 07.11.2026 in München",
 "ts": 1794028182,
 "venue": "Odeonsplatz"
+},
+"https://rausgegangen.de/events/geschichte-live-erleben-mit-historischer-stadtfuhrung-munche-190/": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1794114759,
+"venue": null
 },
 "https://rausgegangen.de/events/glaube-370/": {
 "address": "Sonnenstraße 12a, 80331 München",
@@ -1466,6 +1592,15 @@
 "ts": 1794028183,
 "venue": "München, Schleißheimer Straße"
 },
+"https://rausgegangen.de/events/hippes-historisches-munchen-schwabing-stadtfuhrung-mit-deine-1026/": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1794114759,
+"venue": null
+},
 "https://rausgegangen.de/events/hullis-comedy-dinner-show-13/": {
 "address": "Sigmund-Riefler-Bogen, 81829 München",
 "cost": "kostenlos",
@@ -1491,6 +1626,15 @@
 "lng": null,
 "pagetitle": "HULLIS - Comedy. Dinner. Show. am 03.11.2026 in München",
 "ts": 1793715521,
+"venue": "HULLIS Die Dinnershow"
+},
+"https://rausgegangen.de/events/hullis-comedy-dinner-show-64/": {
+"address": "Sigmund-Riefler-Bogen, 81829 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "HULLIS - Comedy. Dinner. Show. am 08.11.2026 in München",
+"ts": 1794114759,
 "venue": "HULLIS Die Dinnershow"
 },
 "https://rausgegangen.de/events/hullis-comedy-dinner-show-9/": {
@@ -1527,6 +1671,15 @@
 "lng": null,
 "ts": 1793548622,
 "venue": "Wirtshaus zum Isartal"
+},
+"https://rausgegangen.de/events/jazzprojekt-jam-session-9/": {
+"address": "Ismaninger Straße 29, 81675 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "JazzProjekt – Jam Session am 08.11.2026 in München",
+"ts": 1794114755,
+"venue": "Freies Musikzentrum e. V. München"
 },
 "https://rausgegangen.de/events/joe-jackson-band-hope-and-fury-tour-2026-2/": {
 "address": "Marsstraße 43, 80335 München",
@@ -1732,6 +1885,15 @@
 "ts": 1794028182,
 "venue": "Krimi-Trail München Maxvorstadt"
 },
+"https://rausgegangen.de/events/krimi-trail-munchen-maxvorstadt-spektakularer-kunstraub-223/": {
+"address": "Königsplatz, 80333 München",
+"cost": "7.80 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Krimi-Trail München Maxvorstadt: Spektakulärer Kunstraub am 08.11.2026 in München",
+"ts": 1794114759,
+"venue": "Krimi-Trail München Maxvorstadt"
+},
 "https://rausgegangen.de/events/kuku-schrapnell-liest-gender-punks-0/": {
 "address": "Hans-Preißinger-Straße 8, 81379 München",
 "cost": "6.00 €",
@@ -1800,6 +1962,15 @@
 "pagetitle": "Kulinarische Stadtführung - Kultur & Kulinarik neu entdecken am 07.11.2026 in München",
 "ts": 1794028182,
 "venue": "Altstadt München"
+},
+"https://rausgegangen.de/events/kulinarische-stadtfuhrung-kultur-kulinarik-neu-entdecken-153/": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1794114759,
+"venue": null
 },
 "https://rausgegangen.de/events/langes-wochenende-3/": {
 "address": "Dachauer Straße 114a, 80636 München",
@@ -1903,6 +2074,15 @@
 "ts": 1793548622,
 "venue": "Paketposthalle München Pineapple Park"
 },
+"https://rausgegangen.de/events/networking-afterwork-weihnachts-special-0/": {
+"address": "Levelingstraße 2, 81673 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Networking & Afterwork Weihnachts-Special am 12.11.2026 in München",
+"ts": 1794114755,
+"venue": "Die Macherei"
+},
 "https://rausgegangen.de/events/nichtschwimmer-comedy-37/": {
 "address": "Lindwurmstraße 37, 80337 München",
 "cost": "kostenlos",
@@ -1920,6 +2100,15 @@
 "ts": 1793548615,
 "venue": "Bürgerhaus Glockenbachwerkstatt"
 },
+"https://rausgegangen.de/events/placebo-30th-anniversary-tour-3/": {
+"address": "Spiridon-Louis-Ring 21, 80809 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Placebo - 30th Anniversary Tour am 09.11.2026 in München",
+"ts": 1794114756,
+"venue": "Olympiahalle München"
+},
 "https://rausgegangen.de/events/pop-up-sale-keramik-aus-portugal-pro-kg-16/": {
 "address": "Pestalozzistraße 14, 80469 München",
 "cost": "kostenlos",
@@ -1936,6 +2125,15 @@
 "pagetitle": "Premierenlesung: „Omas Ohren können nicht hören” mit Johanna Trunte am 14.11.2026 in München",
 "ts": 1793715537,
 "venue": "Kuckuck Kinderbuchladen"
+},
+"https://rausgegangen.de/events/public-health-filmfestival-checker-tobi-und-die-heimliche-he-0/": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1794114759,
+"venue": null
 },
 "https://rausgegangen.de/events/public-health-filmfestival-vergiftete-wahrheit-thema-trinkwa-0/": {
 "address": "Rosenheimer Straße 46, 81669 München",
@@ -2005,6 +2203,15 @@
 "pagetitle": "Schreibwerkstatt Giesinger Bahnhof & Friends present GESPRÄCHSFÄDEN am 06.11.2026 in München",
 "ts": 1793855932,
 "venue": "Feierwerk Farbenladen"
+},
+"https://rausgegangen.de/events/see-your-true-self-yoga-achtsamkeit-fotografie-0/": {
+"address": "Aberlestraße 9, 81371 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "See your true Self - Yoga, Achtsamkeit & Fotografie am 08.11.2026 in München",
+"ts": 1794114759,
+"venue": "Kali & Friends"
 },
 "https://rausgegangen.de/events/sing-circle-the-live-band-singalong-0/": {
 "address": "Thalkirchner Straße 2, 81371 München",
@@ -2084,6 +2291,24 @@
 "ts": 1793549156,
 "venue": "ESO Supernova Planetarium & Besucherzentrum"
 },
+"https://rausgegangen.de/events/stichd-knit-club-im-flux-0/": {
+"address": "Barer Straße 40, 80333 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "STICHD KNit Club im FLUX am 08.11.2026 in München",
+"ts": 1794114759,
+"venue": "FLUX"
+},
+"https://rausgegangen.de/events/stuss-mit-spargel-stand-up-comedy-149/": {
+"address": "Tegernseer Landstraße 93, 81539 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Stuss mit Spargel - Stand-up Comedy am 09.11.2026 in München",
+"ts": 1794114759,
+"venue": "Altgiesing"
+},
 "https://rausgegangen.de/events/sunday-afternoon-wine-clubbing-vol-1-powered-by-franken/": {
 "address": "Alter Hof 3, 80331 München",
 "cost": "19.00 €",
@@ -2160,6 +2385,15 @@
 "ts": 1793548627,
 "venue": "Aspekte Galerie der MVHS im Gasteig HP8"
 },
+"https://rausgegangen.de/events/the-howlers-eu-album-tour-2026-0/": {
+"address": "Reitknechtstraße 6, 80639 München",
+"cost": "27.15 €",
+"lat": null,
+"lng": null,
+"pagetitle": "THE HOWLERS - EU Album Tour 2026 am 08.11.2026 in München",
+"ts": 1794114755,
+"venue": "BACKSTAGE Kultur- und Veranstaltungszentrum"
+},
 "https://rausgegangen.de/events/the-meltdown-5/": {
 "address": "Hansastr. 39, 81373 München",
 "cost": "34.50 €",
@@ -2168,6 +2402,15 @@
 "pagetitle": "The Meltdown am 06.11.2026 in München",
 "ts": 1793942400,
 "venue": "Feierwerk / Kranhalle"
+},
+"https://rausgegangen.de/events/thomas-maurer-im-falschen-film-3/": {
+"address": "Haimhauserstraße 13A, 80802 München",
+"cost": "29.00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Thomas Maurer - \"Im falschen Film\" am 11.11.2026 in München",
+"ts": 1794114756,
+"venue": "Lach- und Schießgesellschaft im TamS"
 },
 "https://rausgegangen.de/events/thomas-maurer-im-falschen-film-4/": {
 "address": "Haimhauserstraße 13A, 80802 München",
@@ -2187,6 +2430,15 @@
 "ts": 1793942405,
 "venue": null
 },
+"https://rausgegangen.de/events/tour-de-france-die-party-mit-franzosischer-und-frankophoner--0/": {
+"address": "Schwanthalerstraße 13, 80336 München",
+"cost": "20.00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "TOUR DE FRANCE – Die Party mit französischer und frankophoner Musik am 13.11.2026 in München",
+"ts": 1794114755,
+"venue": "Kulturbühne Silbersaal"
+},
 "https://rausgegangen.de/events/trouble-shooters-all-about-soul-live-auf-dem-schwabinger-wei-0/": {
 "address": "Münchner Freiheit 1, 80802 München",
 "cost": "kostenlos",
@@ -2195,6 +2447,15 @@
 "pagetitle": "Trouble Shooters all about soul live auf dem Schwabinger Weihnachtsmarkt am 28.11.2026 in München",
 "ts": 1793942405,
 "venue": "Schwabinger Weihnachtsmarkt"
+},
+"https://rausgegangen.de/events/tune-installation-miriam-adefris-a-hundred-vast-proximities-100/": {
+"address": "Prinzregentenstraße 1, 80538 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "TUNE Installation",
+"ts": 1794114759,
+"venue": "Haus der Kunst"
 },
 "https://rausgegangen.de/events/tune-installation-miriam-adefris-a-hundred-vast-proximities-94/": {
 "address": "Prinzregentenstraße 1, 80538 München",
@@ -2248,6 +2509,15 @@
 "ts": 1793855928,
 "venue": "Urban Comedy Club"
 },
+"https://rausgegangen.de/events/vernissage-1-des-turtle-collective-haunted-0/": {
+"address": "Hansastraße 31, 81373 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Vernissage des Turtle Kollektivs - haunted (DE) am 08.11.2026 in München",
+"ts": 1794114755,
+"venue": "Feierwerk Farbenladen"
+},
 "https://rausgegangen.de/events/was-zu-verschwinden-droht-wird-bild-mensch-natur-kunst-516/": {
 "address": "Kunstareal - Luisenstraße 33, 80333 München",
 "cost": "kostenlos",
@@ -2262,6 +2532,15 @@
 "lat": null,
 "lng": null,
 "ts": 1793682794,
+"venue": "Lenbachhaus und Kunstbau"
+},
+"https://rausgegangen.de/events/was-zu-verschwinden-droht-wird-bild-mensch-natur-kunst-522/": {
+"address": "Kunstareal - Luisenstraße 33, 80333 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Was zu verschwinden droht, wird Bild. Mensch – Natur – Kunst am 08.11.2026 in München",
+"ts": 1794114759,
 "venue": "Lenbachhaus und Kunstbau"
 },
 "https://rausgegangen.de/events/werkausstellung-aquarell-magie-des-wassers-15-oktober-bis-25-18/": {
@@ -2313,6 +2592,15 @@
 "lng": null,
 "pagetitle": "Werkausstellung Aquarell: Magie des Wassers 15. Oktober bis 25. November 2026 am 06.11.2026 in München",
 "ts": 1793942402,
+"venue": "MVHS in Pasing"
+},
+"https://rausgegangen.de/events/werkausstellung-aquarell-magie-des-wassers-15-oktober-bis-25-25/": {
+"address": "Bäckerstraße 14, 81241 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Werkausstellung Aquarell: Magie des Wassers 15. Oktober bis 25. November 2026 am 08.11.2026 in München",
+"ts": 1794114759,
 "venue": "MVHS in Pasing"
 },
 "https://ru.muenchen.de/2026/206/Buergerversammlung-fuer-den-Stadtbezirk-9-126751": {
@@ -3517,6 +3805,24 @@
 "ts": 1793548458,
 "venue": null
 },
+"https://www.backstage.eu/event/06722a48-e6c3-4c57-89b7-0f20f25f95b1": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Website",
+"ts": 1794114752,
+"venue": null
+},
+"https://www.backstage.eu/event/086737f0-49b4-4362-b9d6-d023de481238": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Website",
+"ts": 1794114752,
+"venue": null
+},
 "https://www.backstage.eu/event/0b36a1d4-f21a-43bd-b4f1-84e429ec97da": {
 "address": null,
 "cost": null,
@@ -3657,6 +3963,15 @@
 "ts": 1793548458,
 "venue": null
 },
+"https://www.backstage.eu/event/7bc464d1-3fe8-4221-895b-e3e9bac141f5": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Website",
+"ts": 1794114752,
+"venue": null
+},
 "https://www.backstage.eu/event/7cb535ab-c57a-47f3-858c-acebb7796f35": {
 "address": null,
 "cost": null,
@@ -3672,6 +3987,15 @@
 "lng": null,
 "pagetitle": "Website",
 "ts": 1794028177,
+"venue": null
+},
+"https://www.backstage.eu/event/abd06208-34b4-4f71-a998-827ac2351513": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Website",
+"ts": 1794114752,
 "venue": null
 },
 "https://www.backstage.eu/event/ad4faf52-5bad-46d9-b223-12804177d66a": {
@@ -3697,6 +4021,15 @@
 "lat": null,
 "lng": null,
 "ts": 1793548457,
+"venue": null
+},
+"https://www.backstage.eu/event/d31bacc6-4327-46d4-b89b-16595e37b7fa": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Website",
+"ts": 1794114752,
 "venue": null
 },
 "https://www.backstage.eu/event/e3e8d6db-8730-48c0-99c2-fb1c01458415": {
@@ -4666,6 +4999,15 @@
 "ts": 1793806624,
 "venue": "Bergson Kunstkraftwerk"
 },
+"https://www.bergson.com/event/buena-vista-night-28-februar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Son Cubano im Bergson: Karibikfeeling in der Barbastelle  -  Bergson",
+"ts": 1794114761,
+"venue": "Bergson Kunstkraftwerk"
+},
 "https://www.bergson.com/event/champagne-and-dine-19-februar-2027": {
 "address": "Am Bergson Kunstkraftwerk 2, 81245 München",
 "cost": null,
@@ -5188,6 +5530,15 @@
 "ts": 1793806632,
 "venue": "Bergson Kunstkraftwerk"
 },
+"https://www.bergson.com/event/katrin-eigendorf-erzaehlen-was-ist-04-maerz-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Das persönlichste Buch der bekannten ZDF-Sonderkorrespondentin und SPIEGEL-Bestseller-Autorin  -  Bergson",
+"ts": 1794114761,
+"venue": "Bergson Kunstkraftwerk"
+},
 "https://www.bergson.com/event/kinderkonzert-sarah-und-das-nix-15-november-2026": {
 "address": "Am Bergson Kunstkraftwerk 2, 81245 München",
 "cost": "kostenlos",
@@ -5422,6 +5773,15 @@
 "ts": 1793806627,
 "venue": "Bergson Kunstkraftwerk"
 },
+"https://www.bergson.com/event/peterchens-mondfahrt-28-februar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Peterchens Mondfahrt – Ein Kinderkonzert der Bergson Artists  -  Bergson",
+"ts": 1794114761,
+"venue": "Bergson Kunstkraftwerk"
+},
 "https://www.bergson.com/event/peterchens-mondfahrt-29-november-2026": {
 "address": "Am Bergson Kunstkraftwerk 2, 81245 München",
 "cost": "kostenlos",
@@ -5465,6 +5825,15 @@
 "lng": null,
 "pagetitle": "Richard Wagners „Rheingold“ und ein Abend zwischen Licht, Klang und Musik  -  Bergson",
 "ts": 1793942406,
+"venue": "Bergson Kunstkraftwerk"
+},
+"https://www.bergson.com/event/richard-wagner-das-rheingold-28-februar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "69,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Richard Wagners „Rheingold“ und ein Abend zwischen Licht, Klang und Musik  -  Bergson",
+"ts": 1794114761,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/samuel-der-bunte-knall-31-dezember-26": {
@@ -6642,6 +7011,15 @@
 "ts": 1793549157,
 "venue": "Stadtbücherei"
 },
+"https://www.erding.de/veranstaltungen-detail/vortrag-ueber-die-nord-west-passage-im-aktivtreff": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Vortrag über „Die Nord-West-Passage“ - Kreisstadt Erding",
+"ts": 1794114760,
+"venue": "Haus der Begegnung"
+},
 "https://www.feierwerk.de/konzert-kulturprogramm/detail/02-12-2026_lynnic-und-itsarius": {
 "address": null,
 "cost": "23 €",
@@ -6659,6 +7037,15 @@
 "pagetitle": "Mi 02.12.2026 - Pa Sheehy @ Feierwerk München",
 "ts": 1794028178,
 "venue": "Tickets Mi."
+},
+"https://www.feierwerk.de/konzert-kulturprogramm/detail/03-12-2026_999": {
+"address": null,
+"cost": "25 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Do 03.12.2026 - 999 @ Feierwerk München",
+"ts": 1794114753,
+"venue": "Do."
 },
 "https://www.feierwerk.de/konzert-kulturprogramm/detail/04-11-2026_sechser": {
 "address": null,
@@ -7682,6 +8069,15 @@
 "lat": null,
 "lng": null,
 "ts": 1793548418,
+"venue": null
+},
+"https://www.hausderkunst.de/veranstaltungen/little-wildlife-explorers-das-geheimnis-der-tierwelt-in-der-stadt-327436": {
+"address": null,
+"cost": "5 €",
+"lat": null,
+"lng": null,
+"pagetitle": "14.11.2026, 14:00 — Little Wildlife Explorers: Das Geheimnis der…",
+"ts": 1794114752,
 "venue": null
 },
 "https://www.hausderkunst.de/veranstaltungen/open-atelier-solar-283828": {
@@ -9564,6 +9960,24 @@
 "ts": 1794028177,
 "venue": "Lenbachhaus München"
 },
+"https://www.lenbachhaus.de/besuchen/kalender/termin/im-dazwischen-19145": {
+"address": "Luisenstrasse 33, 80333 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Workshop",
+"ts": 1794114752,
+"venue": "Lenbachhaus München"
+},
+"https://www.lenbachhaus.de/besuchen/kalender/termin/klima-kunst-und-kommunikation-19124": {
+"address": "Luisenstrasse 33, 80333 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Gespräch",
+"ts": 1794114752,
+"venue": "Lenbachhaus München"
+},
 "https://www.lenbachhaus.de/besuchen/kalender/termin/knight-gambit-19176": {
 "address": "Luisenstrasse 33, 80333 München",
 "cost": null,
@@ -10662,6 +11076,15 @@
 "ts": 1793596991,
 "venue": null
 },
+"https://www.meetup.com/munichstammtisch/events/317164393/": {
+"address": "Bayerstraße 10A, München, BY, München",
+"cost": "150.00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Hike (Medium) - 2 Peaks Tour - Stümpfling + Rosskopf, Sun, Nov 8, 2026, 8:50 AM",
+"ts": 1794114753,
+"venue": "München Hbf"
+},
 "https://www.meetup.com/sremuc/events/317132304/": {
 "address": "Erika-Mann-Straße 33, 80636 München, Germany, München, BY, München",
 "cost": "150.00 €",
@@ -10687,6 +11110,15 @@
 "pagetitle": "Every Thursday After-Work Socializing | Meet New People, Make New Connections, Thu, Nov 5, 2026, 7:00 PM",
 "ts": 1793715518,
 "venue": "Café Le Hygge"
+},
+"https://www.meetup.com/x-comedy-english-stand-up-comedy-shows/events/317102571/": {
+"address": "Baaderstraße 1, 80469,, München, München",
+"cost": "150.00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Terrably Funny! English Comedy Night @Terra, Sun, Nov 8, 2026, 7:00 PM",
+"ts": 1794114753,
+"venue": "Terra Bar"
 },
 "https://www.metropoltheater.com/spielplan/stueck-details/a-thousand-kisses-deep-257/": {
 "address": null,
@@ -13228,6 +13660,15 @@
 "ts": 1793769394,
 "venue": "Ampere"
 },
+"https://www.muffatwerk.de/de/events/view/8209/lilli": {
+"address": null,
+"cost": "32,50 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Lilli",
+"ts": 1794114752,
+"venue": "Milla"
+},
 "https://www.muffatwerk.de/de/events/view/8211/venjent": {
 "address": null,
 "cost": "39,90 €",
@@ -14932,6 +15373,15 @@
 "ts": 1793855925,
 "venue": "Veranstaltungsforum Fürstenfeld"
 },
+"https://www.songkick.com/concerts/42979879-jack-and-the-weatherman-at-technikum?utm_medium=organic&utm_source=microformat": {
+"address": "Speicherstraße 26, 81671 Munich",
+"cost": "31.50 €",
+"lat": 48.12346,
+"lng": 11.60661,
+"pagetitle": "Jack and the Weatherman at Technikum (im Werksviertel Mitte) (12 Nov 2026)",
+"ts": 1794114753,
+"venue": "Technikum (im Werksviertel Mitte)"
+},
 "https://www.songkick.com/concerts/43000448-la-guns-at-hansa-39-feirwerk?utm_medium=organic&utm_source=microformat": {
 "address": "Hansastrasse 39-41, 81373 Munich",
 "cost": "41.05 – 42.55 €",
@@ -14956,6 +15406,15 @@
 "lng": 11.60983,
 "ts": 1793548596,
 "venue": "Kesselhaus"
+},
+"https://www.songkick.com/concerts/43039019-muff-potter-at-strom?utm_medium=organic&utm_source=microformat": {
+"address": "Lindwurmstraße 88, 80337 Munich",
+"cost": "39.45 €",
+"lat": 48.12496,
+"lng": 11.54866,
+"pagetitle": "Muff Potter at Strom (12 Nov 2026)",
+"ts": 1794114753,
+"venue": "Strom"
 },
 "https://www.songkick.com/concerts/43040539-nachtmahr-at-halle-backstage?utm_medium=organic&utm_source=microformat": {
 "address": "Reitknechtstrasse 6, 80639 Munich",
@@ -15139,6 +15598,15 @@
 "ts": 1794028178,
 "venue": "Technikum (im Werksviertel Mitte)"
 },
+"https://www.songkick.com/concerts/43202202-santiago-cruz-at-zztechnikum?utm_medium=organic&utm_source=microformat": {
+"address": "Speicherstraße 26, 81671 Munich",
+"cost": "49.90 – 51.40 €",
+"lat": 48.12349,
+"lng": 11.6066,
+"pagetitle": "Santiago Cruz at Zz_technikum (11 Nov 2026)",
+"ts": 1794114753,
+"venue": "Zz_technikum"
+},
 "https://www.songkick.com/concerts/43219512-guacayo-at-kult-9?utm_medium=organic&utm_source=microformat": {
 "address": "Blutenburgstr. 71, 80636 Munich",
 "cost": "28.20 €",
@@ -15190,6 +15658,15 @@
 "pagetitle": "Avi Avital at Prinzregententheater (08 Nov 2026)",
 "ts": 1793769395,
 "venue": "Prinzregententheater"
+},
+"https://www.songkick.com/concerts/43246071-ami-warning-at-lindenkeller-unterhaus?utm_medium=organic&utm_source=microformat": {
+"address": "Veitsmüllerweg 2, 85354 Freising",
+"cost": "39.00 €",
+"lat": 48.39768,
+"lng": 11.73775,
+"pagetitle": "AMI Warning and Jamaram at Lindenkeller - Unterhaus (12 Nov 2026)",
+"ts": 1794114753,
+"venue": "Lindenkeller - Unterhaus"
 },
 "https://www.songkick.com/concerts/43252123-nasty-at-halle-backstage?utm_medium=organic&utm_source=microformat": {
 "address": "Reitknechtstrasse 6, 80639 Munich",
@@ -15247,6 +15724,15 @@
 "ts": 1793548594,
 "venue": "Rote Sonne"
 },
+"https://www.songkick.com/concerts/43280682-boo-seeka-at-kult-9?utm_medium=organic&utm_source=microformat": {
+"address": "Blutenburgstr. 71, 80636 Munich",
+"cost": "28.20 €",
+"lat": 48.15037,
+"lng": 11.5374,
+"pagetitle": "Boo Seeka at Kult 9 (12 Nov 2026)",
+"ts": 1794114753,
+"venue": "Kult 9"
+},
 "https://www.songkick.com/concerts/43283539-clan-of-xymox-at-strom?utm_medium=organic&utm_source=microformat": {
 "address": "Lindwurmstraße 88, 80337 Munich",
 "cost": "29.37 €",
@@ -15273,6 +15759,15 @@
 "pagetitle": "The Browning, Within Destruction, and Abbie Falls at Werk, Backstage (08 Nov 2026)",
 "ts": 1793769395,
 "venue": "Werk, Backstage"
+},
+"https://www.songkick.com/concerts/43290675-joyce-at-munchner-kammerspiele?utm_medium=organic&utm_source=microformat": {
+"address": "Maximilianstraße 28, 80539 Munich",
+"cost": null,
+"lat": 48.13837,
+"lng": 11.58268,
+"pagetitle": "Joyce at Münchner Kammerspiele (12 Nov 2026)",
+"ts": 1794114753,
+"venue": "Münchner Kammerspiele"
 },
 "https://www.songkick.com/concerts/43291243-saigon-soul-revival-at-importexport?utm_medium=organic&utm_source=microformat": {
 "address": "Goethestr. 30, 80336 Munich",
@@ -15341,6 +15836,15 @@
 "pagetitle": "Converge at Halle, Backstage (12 Nov 2026)",
 "ts": 1794028178,
 "venue": "Halle, Backstage"
+},
+"https://www.songkick.com/concerts/43334192-spike-fuck-at-milla-liveclub?utm_medium=organic&utm_source=microformat": {
+"address": "Holzstraße 28, 80469 Munich",
+"cost": "23.00 €",
+"lat": 48.12887,
+"lng": 11.56794,
+"pagetitle": "Spike Fuck at Milla Live-Club (12 Nov 2026)",
+"ts": 1794114753,
+"venue": "Milla Live-Club"
 },
 "https://www.songkick.com/concerts/43347754-walls-of-jericho-at-halle-backstage?utm_medium=organic&utm_source=microformat": {
 "address": "Reitknechtstrasse 6, 80639 Munich",
@@ -16018,6 +16522,15 @@
 "ts": 1793548352,
 "venue": null
 },
+"https://www.tum.de/aktuelles/veranstaltungen/details/aha-midnightbazar-fashion-forschung-to-go": {
+"address": "Arnulfstraße 195–199, 80634 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "AHA @ Midnightbazar: Fashion-Forschung to go",
+"ts": 1794114752,
+"venue": "Pineapple Park/Alte Paketposthalle, München"
+},
 "https://www.tum.de/aktuelles/veranstaltungen/details/aktionswoche-mentale-gesundheit-im-digitalen-zeitalter": {
 "address": "Boltzmannstr. 15, 85748 Garching",
 "cost": null,
@@ -16140,6 +16653,15 @@
 "lng": null,
 "ts": 1793548400,
 "venue": "TUM Klinikum Deutsches Herzzentrum, München"
+},
+"https://www.tum.de/aktuelles/veranstaltungen/details/tanz-als-entdeckungsraum-2026": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Tanz als Entdeckungsraum",
+"ts": 1794114752,
+"venue": "Campus im Olympiapark, München"
 },
 "https://www.tum.de/aktuelles/veranstaltungen/details/tedxtum-2026-happy-accidents": {
 "address": "Arcisstr. 21, 80333 München",
@@ -16345,6 +16867,15 @@
 "lng": null,
 "pagetitle": "Unterfahrt Jam Session Programminfo",
 "ts": 1794028178,
+"venue": null
+},
+"https://www.unterfahrt.de/programm-detail.php?dateID=11697": {
+"address": null,
+"cost": "20 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Unterfahrt Jakob Maes Jazzorchester Programminfo",
+"ts": 1794114753,
 "venue": null
 },
 "https://www.unterfahrt.de/programm-detail.php?dateID=14389": {
@@ -16949,6 +17480,24 @@
 "lat": null,
 "lng": null,
 "ts": 1793548384,
+"venue": null
+},
+"https://www.vdi-sued.de/veranstaltungen/veranstaltungskalender/4346/": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Veranstaltungskalender",
+"ts": 1794114752,
+"venue": null
+},
+"https://www.vdi-sued.de/veranstaltungen/veranstaltungskalender/4347/": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Veranstaltungskalender",
+"ts": 1794114752,
 "venue": null
 },
 "https://www.vdma.eu/kalender/-/event/view/124303": {
