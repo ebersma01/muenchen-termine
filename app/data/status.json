@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-08T06:12:47+01:00",
- "total": 2101,
+ "generated": "2026-11-09T06:28:23+01:00",
+ "total": 2095,
  "sources": [
   {
    "id": "bachtrack",
@@ -155,6 +155,14 @@
    "error": "keine Termine erkannt"
   },
   {
+   "id": "ifo",
+   "name": "ifo Institut",
+   "found": 0,
+   "events": 0,
+   "ok": false,
+   "error": "keine Termine erkannt"
+  },
+  {
    "id": "ihk",
    "name": "IHK für München und Oberbayern",
    "found": 0,
@@ -165,7 +173,7 @@
   {
    "id": "in-muenchen",
    "name": "in-muenchen.de",
-   "found": 4,
+   "found": 3,
    "events": 0,
    "ok": false,
    "error": "Termine gefunden, aber keiner passt (Zeitraum/Ort/Kategorie)"
@@ -269,8 +277,8 @@
   {
    "id": "backstage",
    "name": "Backstage",
-   "found": 56,
-   "events": 48,
+   "found": 57,
+   "events": 50,
    "ok": true,
    "error": null
   },
@@ -301,7 +309,7 @@
   {
    "id": "bergson",
    "name": "Bergson Kunstkraftwerk",
-   "found": 245,
+   "found": 240,
    "events": 150,
    "ok": true,
    "error": null
@@ -333,16 +341,16 @@
   {
    "id": "deutsches-museum",
    "name": "Deutsches Museum",
-   "found": 7,
-   "events": 4,
+   "found": 6,
+   "events": 3,
    "ok": true,
    "error": null
   },
   {
    "id": "deutsches-theater",
    "name": "Deutsches Theater München",
-   "found": 112,
-   "events": 79,
+   "found": 110,
+   "events": 77,
    "ok": true,
    "error": null
   },
@@ -358,7 +366,7 @@
    "id": "erding",
    "name": "Erding",
    "found": 13,
-   "events": 1,
+   "events": 2,
    "ok": true,
    "error": null
   },
@@ -366,7 +374,7 @@
    "id": "ev-akademie-tutzing",
    "name": "Evangelische Akademie Tutzing",
    "found": 21,
-   "events": 18,
+   "events": 16,
    "ok": true,
    "error": null
   },
@@ -382,7 +390,7 @@
    "id": "feierwerk",
    "name": "Feierwerk",
    "found": 10,
-   "events": 9,
+   "events": 10,
    "ok": true,
    "error": null
   },
@@ -413,8 +421,8 @@
   {
    "id": "haus-der-kunst",
    "name": "Haus der Kunst",
-   "found": 6,
-   "events": 6,
+   "found": 5,
+   "events": 5,
    "ok": true,
    "error": null
   },
@@ -445,8 +453,8 @@
   {
    "id": "hofspielhaus",
    "name": "Hofspielhaus",
-   "found": 95,
-   "events": 95,
+   "found": 96,
+   "events": 96,
    "ok": true,
    "error": null
   },
@@ -467,18 +475,10 @@
    "error": null
   },
   {
-   "id": "ifo",
-   "name": "ifo Institut",
-   "found": 10,
-   "events": 3,
-   "ok": true,
-   "error": null
-  },
-  {
    "id": "kammerspiele",
    "name": "Münchner Kammerspiele",
-   "found": 122,
-   "events": 107,
+   "found": 121,
+   "events": 106,
    "ok": true,
    "error": null
   },
@@ -493,8 +493,8 @@
   {
    "id": "komoedie",
    "name": "Komödie im Bayerischen Hof",
-   "found": 153,
-   "events": 146,
+   "found": 152,
+   "events": 145,
    "ok": true,
    "error": null
   },
@@ -525,8 +525,8 @@
   {
    "id": "literaturhaus",
    "name": "Literaturhaus München",
-   "found": 71,
-   "events": 69,
+   "found": 70,
+   "events": 68,
    "ok": true,
    "error": null
   },
@@ -550,7 +550,7 @@
    "id": "meetup",
    "name": "Meetup München",
    "found": 10,
-   "events": 6,
+   "events": 7,
    "ok": true,
    "error": null
   },
@@ -565,8 +565,8 @@
   {
    "id": "metropoltheater",
    "name": "Metropoltheater",
-   "found": 82,
-   "events": 82,
+   "found": 81,
+   "events": 81,
    "ok": true,
    "error": null
   },
@@ -597,7 +597,7 @@
   {
    "id": "mucbook",
    "name": "Mucbook",
-   "found": 5,
+   "found": 4,
    "events": 3,
    "ok": true,
    "error": null
@@ -606,7 +606,7 @@
    "id": "muenchen-de",
    "name": "muenchen.de Veranstaltungen",
    "found": 8,
-   "events": 2,
+   "events": 3,
    "ok": true,
    "error": null
   },
@@ -621,7 +621,7 @@
   {
    "id": "muffatwerk",
    "name": "Muffatwerk",
-   "found": 224,
+   "found": 221,
    "events": 150,
    "ok": true,
    "error": null
@@ -638,7 +638,7 @@
    "id": "munich-travel",
    "name": "munich.travel Ausstellungen",
    "found": 36,
-   "events": 22,
+   "events": 21,
    "ok": true,
    "error": null
   },
@@ -654,7 +654,7 @@
    "id": "olympiapark",
    "name": "Olympiapark",
    "found": 20,
-   "events": 17,
+   "events": 16,
    "ok": true,
    "error": null
   },
@@ -685,7 +685,7 @@
   {
    "id": "prinzregententheater",
    "name": "Theaterakademie August Everding / Prinzregententheater",
-   "found": 807,
+   "found": 792,
    "events": 35,
    "ok": true,
    "error": null
@@ -693,24 +693,24 @@
   {
    "id": "rausgegangen",
    "name": "Rausgegangen München",
-   "found": 524,
-   "events": 121,
+   "found": 522,
+   "events": 131,
    "ok": true,
    "error": null
   },
   {
    "id": "residenztheater",
    "name": "Residenztheater",
-   "found": 49,
-   "events": 49,
+   "found": 47,
+   "events": 47,
    "ok": true,
    "error": null
   },
   {
    "id": "schauburg",
    "name": "Schauburg – Theater für junges Publikum",
-   "found": 147,
-   "events": 131,
+   "found": 146,
+   "events": 130,
    "ok": true,
    "error": null
   },
@@ -733,24 +733,24 @@
   {
    "id": "sternwarte",
    "name": "Volkssternwarte München",
-   "found": 11,
-   "events": 9,
+   "found": 10,
+   "events": 8,
    "ok": true,
    "error": null
   },
   {
    "id": "tams",
    "name": "TamS Theater",
-   "found": 24,
-   "events": 21,
+   "found": 22,
+   "events": 22,
    "ok": true,
    "error": null
   },
   {
    "id": "theater-fraunhofer",
    "name": "Theater im Fraunhofer",
-   "found": 89,
-   "events": 78,
+   "found": 87,
+   "events": 75,
    "ok": true,
    "error": null
   },
@@ -765,8 +765,8 @@
   {
    "id": "unibw",
    "name": "Universität der Bundeswehr München",
-   "found": 6,
-   "events": 6,
+   "found": 5,
+   "events": 5,
    "ok": true,
    "error": null
   },
@@ -821,8 +821,8 @@
   {
    "id": "volkstheater",
    "name": "Münchner Volkstheater",
-   "found": 104,
-   "events": 97,
+   "found": 101,
+   "events": 95,
    "ok": true,
    "error": null
   },
