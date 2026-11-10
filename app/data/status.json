@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-09T06:28:23+01:00",
- "total": 2095,
+ "generated": "2026-11-10T06:15:08+01:00",
+ "total": 2082,
  "sources": [
   {
    "id": "bachtrack",
@@ -21,7 +21,7 @@
   {
    "id": "bitkom",
    "name": "Bitkom",
-   "found": 17,
+   "found": 18,
    "events": 0,
    "ok": false,
    "error": "Termine gefunden, aber keiner passt (Zeitraum/Ort/Kategorie)"
@@ -203,6 +203,22 @@
    "error": "Termine gefunden, aber keiner passt (Zeitraum/Ort/Kategorie)"
   },
   {
+   "id": "mvhs-einstein28",
+   "name": "MVHS Einstein 28",
+   "found": 1,
+   "events": 0,
+   "ok": false,
+   "error": "Termine gefunden, aber keiner passt (Zeitraum/Ort/Kategorie)"
+  },
+  {
+   "id": "petra-kelly",
+   "name": "Petra-Kelly-Stiftung",
+   "found": 2,
+   "events": 0,
+   "ok": false,
+   "error": "Termine gefunden, aber keiner passt (Zeitraum/Ort/Kategorie)"
+  },
+  {
    "id": "pinakotheken",
    "name": "Pinakotheken",
    "found": 1,
@@ -229,7 +245,7 @@
   {
    "id": "stmwi",
    "name": "Bayerisches Wirtschaftsministerium",
-   "found": 22,
+   "found": 23,
    "events": 0,
    "ok": false,
    "error": "Termine gefunden, aber keiner passt (Zeitraum/Ort/Kategorie)"
@@ -254,7 +270,7 @@
    "id": "aktienclub",
    "name": "Aktienclub München",
    "found": 50,
-   "events": 5,
+   "events": 4,
    "ok": true,
    "error": null
   },
@@ -262,7 +278,7 @@
    "id": "amerikahaus",
    "name": "Amerikahaus",
    "found": 14,
-   "events": 9,
+   "events": 7,
    "ok": true,
    "error": null
   },
@@ -278,7 +294,7 @@
    "id": "backstage",
    "name": "Backstage",
    "found": 57,
-   "events": 50,
+   "events": 49,
    "ok": true,
    "error": null
   },
@@ -293,7 +309,7 @@
   {
    "id": "bayern-innovativ",
    "name": "Bayern Innovativ",
-   "found": 113,
+   "found": 114,
    "events": 3,
    "ok": true,
    "error": null
@@ -341,8 +357,8 @@
   {
    "id": "deutsches-museum",
    "name": "Deutsches Museum",
-   "found": 6,
-   "events": 3,
+   "found": 8,
+   "events": 5,
    "ok": true,
    "error": null
   },
@@ -350,7 +366,7 @@
    "id": "deutsches-theater",
    "name": "Deutsches Theater München",
    "found": 110,
-   "events": 77,
+   "events": 78,
    "ok": true,
    "error": null
   },
@@ -373,7 +389,7 @@
   {
    "id": "ev-akademie-tutzing",
    "name": "Evangelische Akademie Tutzing",
-   "found": 21,
+   "found": 19,
    "events": 16,
    "ok": true,
    "error": null
@@ -390,7 +406,7 @@
    "id": "feierwerk",
    "name": "Feierwerk",
    "found": 10,
-   "events": 10,
+   "events": 9,
    "ok": true,
    "error": null
   },
@@ -414,15 +430,15 @@
    "id": "gasteig",
    "name": "Gasteig HP8 / Isarphilharmonie",
    "found": 14,
-   "events": 9,
+   "events": 8,
    "ok": true,
    "error": null
   },
   {
    "id": "haus-der-kunst",
    "name": "Haus der Kunst",
-   "found": 5,
-   "events": 5,
+   "found": 4,
+   "events": 4,
    "ok": true,
    "error": null
   },
@@ -477,8 +493,8 @@
   {
    "id": "kammerspiele",
    "name": "Münchner Kammerspiele",
-   "found": 121,
-   "events": 106,
+   "found": 120,
+   "events": 105,
    "ok": true,
    "error": null
   },
@@ -493,15 +509,15 @@
   {
    "id": "komoedie",
    "name": "Komödie im Bayerischen Hof",
-   "found": 152,
-   "events": 145,
+   "found": 151,
+   "events": 144,
    "ok": true,
    "error": null
   },
   {
    "id": "kunsthalle",
    "name": "Kunsthalle München",
-   "found": 112,
+   "found": 111,
    "events": 33,
    "ok": true,
    "error": null
@@ -525,8 +541,8 @@
   {
    "id": "literaturhaus",
    "name": "Literaturhaus München",
-   "found": 70,
-   "events": 68,
+   "found": 68,
+   "events": 66,
    "ok": true,
    "error": null
   },
@@ -550,7 +566,7 @@
    "id": "meetup",
    "name": "Meetup München",
    "found": 10,
-   "events": 7,
+   "events": 8,
    "ok": true,
    "error": null
   },
@@ -558,15 +574,15 @@
    "id": "messe-muenchen",
    "name": "Messe München",
    "found": 10,
-   "events": 4,
+   "events": 3,
    "ok": true,
    "error": null
   },
   {
    "id": "metropoltheater",
    "name": "Metropoltheater",
-   "found": 81,
-   "events": 81,
+   "found": 80,
+   "events": 80,
    "ok": true,
    "error": null
   },
@@ -581,7 +597,7 @@
   {
    "id": "mpg",
    "name": "Max-Planck-Gesellschaft",
-   "found": 12,
+   "found": 11,
    "events": 2,
    "ok": true,
    "error": null
@@ -606,7 +622,7 @@
    "id": "muenchen-de",
    "name": "muenchen.de Veranstaltungen",
    "found": 8,
-   "events": 3,
+   "events": 2,
    "ok": true,
    "error": null
   },
@@ -621,7 +637,7 @@
   {
    "id": "muffatwerk",
    "name": "Muffatwerk",
-   "found": 221,
+   "found": 223,
    "events": 150,
    "ok": true,
    "error": null
@@ -643,14 +659,6 @@
    "error": null
   },
   {
-   "id": "mvhs-einstein28",
-   "name": "MVHS Einstein 28",
-   "found": 1,
-   "events": 1,
-   "ok": true,
-   "error": null
-  },
-  {
    "id": "olympiapark",
    "name": "Olympiapark",
    "found": 20,
@@ -667,14 +675,6 @@
    "error": null
   },
   {
-   "id": "petra-kelly",
-   "name": "Petra-Kelly-Stiftung",
-   "found": 2,
-   "events": 1,
-   "ok": true,
-   "error": null
-  },
-  {
    "id": "presseclub",
    "name": "PresseClub München",
    "found": 44,
@@ -685,7 +685,7 @@
   {
    "id": "prinzregententheater",
    "name": "Theaterakademie August Everding / Prinzregententheater",
-   "found": 792,
+   "found": 789,
    "events": 35,
    "ok": true,
    "error": null
@@ -693,24 +693,24 @@
   {
    "id": "rausgegangen",
    "name": "Rausgegangen München",
-   "found": 522,
-   "events": 131,
+   "found": 520,
+   "events": 129,
    "ok": true,
    "error": null
   },
   {
    "id": "residenztheater",
    "name": "Residenztheater",
-   "found": 47,
-   "events": 47,
+   "found": 45,
+   "events": 45,
    "ok": true,
    "error": null
   },
   {
    "id": "schauburg",
    "name": "Schauburg – Theater für junges Publikum",
-   "found": 146,
-   "events": 130,
+   "found": 151,
+   "events": 135,
    "ok": true,
    "error": null
   },
@@ -733,8 +733,8 @@
   {
    "id": "sternwarte",
    "name": "Volkssternwarte München",
-   "found": 10,
-   "events": 8,
+   "found": 11,
+   "events": 9,
    "ok": true,
    "error": null
   },
@@ -749,8 +749,8 @@
   {
    "id": "theater-fraunhofer",
    "name": "Theater im Fraunhofer",
-   "found": 87,
-   "events": 75,
+   "found": 83,
+   "events": 70,
    "ok": true,
    "error": null
   },
@@ -765,8 +765,8 @@
   {
    "id": "unibw",
    "name": "Universität der Bundeswehr München",
-   "found": 5,
-   "events": 5,
+   "found": 6,
+   "events": 6,
    "ok": true,
    "error": null
   },
@@ -821,8 +821,8 @@
   {
    "id": "volkstheater",
    "name": "Münchner Volkstheater",
-   "found": 101,
-   "events": 95,
+   "found": 99,
+   "events": 93,
    "ok": true,
    "error": null
   },

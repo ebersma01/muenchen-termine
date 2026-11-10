@@ -172,6 +172,11 @@
 "lat": 48.1483,
 "lng": 11.52387
 },
+"arnulfstr. 30, 80335 münchen": {
+"address": "30, Arnulfstraße, Marsfeld, Maxvorstadt, München, Bayern, 80335, Deutschland",
+"lat": 48.1424,
+"lng": 11.55552
+},
 "arnulfstraße 195-199, 80634 münchen": {
 "address": "Casa Padel Pineapple Park, 195-199, Arnulfstraße, Siedlung Neuhausen, Nymphenburg, Neuhausen-Nymphenburg, München, Bayern, 80634, Deutschland",
 "lat": 48.14695,
@@ -405,11 +410,17 @@
 "lat": 48.10562,
 "lng": 11.72207
 },
+"center for inequality research ohmstraße 8, 80802 münchen": null,
 "centro de arte flamenco gisa michelón, münchen": null,
 "champagne characters, münchen": {
 "address": "Champagne Characters, Alter Messeplatz, Parkstraße, Schwanthalerhöhe, München, Bayern, 80339, Deutschland",
 "lat": 48.13475,
 "lng": 11.54584
+},
+"chinesischer turm, münchen": {
+"address": "Chinesischer Turm, Englischer Garten, Kleinhesselohe, Alt-Schwabing, Altstadt-Lehel, Schwabing-Freimann, München, Bayern, 80538, Deutschland",
+"lat": 48.15255,
+"lng": 11.5921
 },
 "cinema filmtheater, münchen": {
 "address": "CINEMA Filmtheater, 31, Nymphenburger Straße, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80335, Deutschland",
@@ -612,6 +623,11 @@
 "lat": 48.14883,
 "lng": 11.58004
 },
+"fakultät für geowissenschaften luisenstraße 37, 80333 münchen": {
+"address": "Fakultät für Geowissenschaften, 37, Luisenstraße, Kunstareal, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80333, Deutschland",
+"lat": 48.1475,
+"lng": 11.5644
+},
 "familienhäuschen gabriela, münchen": null,
 "familienkreis hl. familie, münchen": null,
 "feierwerk / hansa 39, münchen": {
@@ -637,6 +653,11 @@
 "address": "Filmcasino, 8, Odeonsplatz, Schönfeldvorstadt, Maxvorstadt, München, Bayern, 80539, Deutschland",
 "lat": 48.14385,
 "lng": 11.57859
+},
+"filmmuseum, münchen": {
+"address": "Filmmuseum München, 1, Sankt-Jakobs-Platz, Angerviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
+"lat": 48.13487,
+"lng": 11.57276
 },
 "flux, münchen": null,
 "forum, münchen": {
@@ -745,6 +766,7 @@
 "lng": 11.57419
 },
 "gemeindesaal der erlöserkirche, münchen": null,
+"gemeinschaftsraum linde, münchen": null,
 "georgenstraße 63, 80799 münchen": {
 "address": "63, Georgenstraße, Am alten nördlichen Friedhof, Maxvorstadt, München, Bayern, 80799, Deutschland",
 "lat": 48.15612,
@@ -766,6 +788,11 @@
 "address": "Graf Rumford, Rumfordstraße, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80469, Deutschland",
 "lat": 48.13384,
 "lng": 11.57983
+},
+"green city e.v., münchen": {
+"address": "Green City e.V., 88, Lindwurmstraße, Am Schlachthof, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80337, Deutschland",
+"lat": 48.12508,
+"lng": 11.54855
 },
 "green munich": {
 "address": "Green Munich, 79a, Riesenfeldstraße, Am Riesenfeld, Milbertshofen-Am Hart, München, Bayern, 80809, Deutschland",
@@ -798,6 +825,7 @@
 "lat": 48.12261,
 "lng": 11.48278
 },
+"haidhauser weihnachtsmarkt am weißenburger platz, münchen": null,
 "haimhauserstraße 13a, 80802 münchen": {
 "address": "13a, Haimhauserstraße, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80802, Deutschland",
 "lat": 48.16234,
@@ -899,6 +927,7 @@
 "lat": 48.14664,
 "lng": 11.56951
 },
+"hirmer tagesbar, münchen": null,
 "hochbrüchenstrasse. 3, munich, munich": null,
 "hochschule münchen, hörsaal 1.046 (roter würfel)": null,
 "hochstr. 77, 81541 münchen": {
@@ -911,6 +940,7 @@
 "lat": 48.12236,
 "lng": 11.5777
 },
+"hofbräuhaus münchen, erkerzimmer ( 2. stock)": null,
 "hofbräuhaus münchen, festsaal 2. stock": null,
 "hofspielhaus münchen": {
 "address": "Hofspielhaus, 8, Falkenturmstraße, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
@@ -985,6 +1015,7 @@
 "lat": 48.15833,
 "lng": 11.56416
 },
+"international munich artlab (musiktheater)": null,
 "irrland 2, münchen": null,
 "isarinsel oberföhring, münchen": {
 "address": "Isarinsel Oberföhring, Oberföhring, Bogenhausen, München, Bayern, Deutschland",
@@ -1233,11 +1264,17 @@
 "lat": 48.187,
 "lng": 11.54321
 },
+"leopold kino, münchen": {
+"address": "Leopold Kinos 1+2+3, 78, Leopoldstraße, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80802, Deutschland",
+"lat": 48.1607,
+"lng": 11.58668
+},
 "leopoldstraße 13, 80802 münchen": {
 "address": "Universität München, Fakultät für Psychologie und Pädagogik, 13, Leopoldstraße, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80802, Deutschland",
 "lat": 48.15588,
 "lng": 11.58302
 },
+"leopoldstraße 17, 80802 münchen-schwabing-freimann, germany, münchen, by, münchen": null,
 "levelingstraße 2, 81673 münchen": {
 "address": "2, Levelingstraße, Baumkirchen, Berg am Laim, München, Bayern, 81673, Deutschland",
 "lat": 48.13102,
@@ -1420,6 +1457,7 @@
 "lat": 48.15787,
 "lng": 11.58445
 },
+"mittelalterlicher weihnachtsmarkt am wittelsbacher platz, münchen": null,
 "moc münchen": {
 "address": "MOC, 40, Lilienthalallee, Alt-Freimann, Freimann, Schwabing-Freimann, München, Bayern, 80939, Deutschland",
 "lat": 48.19741,
@@ -1523,6 +1561,7 @@
 "lat": 48.14818,
 "lng": 11.5568
 },
+"märchenbazar, münchen": null,
 "münchen": {
 "address": "München, Bayern, Deutschland",
 "lat": 48.13711,
@@ -1533,6 +1572,7 @@
 "lat": 48.13881,
 "lng": 11.57534
 },
+"münchen, deutschland, münchen": null,
 "münchen, karl-müller-weg": {
 "address": "Karl-Müller-Weg, Haidhausen-Süd, Au, Au-Haidhausen, München, Bayern, 81667, Deutschland",
 "lat": 48.13279,
@@ -1646,6 +1686,7 @@
 "lat": 48.1058,
 "lng": 11.59143
 },
+"nachbarschaftstreff in der au, münchen": null,
 "nachbarschaftstreff münchen süd treff und tee": null,
 "nachbarschaftstreff südpark, münchen": null,
 "nachtkantine, münchen": {
@@ -1677,6 +1718,7 @@
 "lat": 48.15838,
 "lng": 11.58753
 },
+"none, münchen": null,
 "ns-dokumentationszentrum münchen, max-mannheimer-platz 1, 80333 münchen & livestream": null,
 "ns-dokumentationszentrum, münchen": {
 "address": "NS-Dokumentationszentrum, 1, Brienner Straße, Kunstareal, Maxvorstadt, München, Bayern, 80333, Deutschland",
@@ -1827,6 +1869,12 @@
 "lat": 48.14716,
 "lng": 11.57223
 },
+"pink christmas, münchen": null,
+"platzl 9, 80331 münchen": {
+"address": "9, Platzl, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
+"lat": 48.13762,
+"lng": 11.57992
+},
 "podium @ schießstätte allach, münchen": null,
 "podium allach, schiessstätte allach, münchen": null,
 "polka bar, münchen": {
@@ -1958,6 +2006,7 @@
 "lat": 48.1395,
 "lng": 11.58065
 },
+"saffer wein gmbh, münchen": null,
 "salon luitpold, münchen": null,
 "salon pitzelberger, münchen": null,
 "salon, münchen": null,
@@ -2074,6 +2123,11 @@
 "lat": 48.13278,
 "lng": 11.56659
 },
+"sendlinger tor, münchen": {
+"address": "Sendlinger Tor, Sendlinger-Tor-Platz, Hackenviertel, Altstadt-Lehel, München, Bayern, 80336, Deutschland",
+"lat": 48.13346,
+"lng": 11.56686
+},
 "sendlinger tor, münchen, münchen": {
 "address": "Sendlinger Tor, Sendlinger-Tor-Platz, Hackenviertel, Altstadt-Lehel, München, Bayern, 80336, Deutschland",
 "lat": 48.13346,
@@ -2122,6 +2176,11 @@
 "lat": 48.14289,
 "lng": 11.56252
 },
+"spagat theater, münchen": {
+"address": "Kulturbühne Spagat, 3, Max-Bill-Straße, Domagkpark, Freimann, Schwabing-Freimann, München, Bayern, 80807, Deutschland",
+"lat": 48.18659,
+"lng": 11.59282
+},
 "spiridon-louis-ring 21, 80809 münchen": {
 "address": "Olympia-Actionsportzentrum, 21, Spiridon-Louis-Ring, Am Riesenfeld, Milbertshofen-Am Hart, München, Bayern, 80809, Deutschland",
 "lat": 48.175,
@@ -2165,6 +2224,7 @@
 "lng": 11.54017
 },
 "stiftung bayerisches amerikahaus ggmbh, münchen": null,
+"stiftung kunst und natur - nantesbuch, münchen": null,
 "strascheg center for entrepreneurship (sce), münchen": {
 "address": "SCE Strascheg Center for Entrepreneurship, 89, Heßstraße, Maßmannbergl, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80797, Deutschland",
 "lat": 48.15393,
@@ -2184,6 +2244,7 @@
 },
 "studio pokój - raum für kreative workshops, münchen": null,
 "studio tela wãve, münchen": null,
+"studio vimø (backsteinhaus / hinterhof), münchen": null,
 "studiobühne twm, münchen": {
 "address": "Studiobühne TWM, 5, Neuturmstraße, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
 "lat": 48.13822,
@@ -2270,6 +2331,11 @@
 },
 "the loft club, münchen": null,
 "the movement atelier, münchen": null,
+"the radio wunder, münchen": {
+"address": "The Wunder Munich - Act II, Radio Wunder, 189, Lindwurmstraße, Sendlinger Berg, Untersendling, Sendling, München, Bayern, 80337, Deutschland",
+"lat": 48.12264,
+"lng": 11.54581
+},
 "theater drehleier, münchen": {
 "address": "Drehleier, 123, Rosenheimer Straße, Haidhausen-Süd, Haidhausen, Au-Haidhausen, München, Bayern, 81669, Deutschland",
 "lat": 48.12605,
@@ -2380,6 +2446,11 @@
 "lat": 48.14228,
 "lng": 11.40251
 },
+"viktualienmarkt, münchen": {
+"address": "Viktualienmarkt, Angerviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
+"lat": 48.13577,
+"lng": 11.57601
+},
 "vino verde - bio weinladen, münchen": null,
 "vollaths, münchen": {
 "address": "Vollaths, 1, Thalkirchner Straße, Am Alten Südlichen Friedhof, Glockenbach, Altstadt-Lehel, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80337, Deutschland",
@@ -2392,6 +2463,7 @@
 "lng": 11.50221
 },
 "vorhoelzer forum der tum, münchen": null,
+"weihnachtsdorf im kaiserhof der residenz, münchen": null,
 "wein-moment münchen": {
 "address": "Wein Moment, 10, Ludwigstraße, Schönfeldvorstadt, Maxvorstadt, München, Bayern, 80539, Deutschland",
 "lat": 48.1459,
@@ -2421,11 +2493,18 @@
 },
 "westendstraße 68, 80339 munich, 80339 munich": null,
 "wiese an der alte pinakothek, münchen": null,
+"winterfest am nockherberg, münchen": null,
 "winterquartier, münchen": null,
+"winterzauber am viktualienmarkt, münchen": null,
 "wirtshaus zum isartal, münchen": {
 "address": "Wirtshaus zum Isartal, 2, Brudermühlstraße, Sendlinger Feld, Sendling, München, Bayern, 81371, Deutschland",
 "lat": 48.11257,
 "lng": 11.55344
+},
+"wohnheimsiedlung massmannplatz, münchen": {
+"address": "Wohnheimsiedlung Massmannplatz, St. Benno-Viertel, Maxvorstadt, München, Bayern, Deutschland",
+"lat": 48.15349,
+"lng": 11.55909
 },
 "wombats hbf, münchen": null,
 "wow museum münchen": {
@@ -2433,6 +2512,7 @@
 "lat": 48.13579,
 "lng": 11.58054
 },
+"www office, münchen": null,
 "wörthstraße 42, 81667 münchen": {
 "address": "42, Wörthstraße, Haidhausen-Nord, Haidhausen, Au-Haidhausen, München, Bayern, 81667, Deutschland",
 "lat": 48.12886,
@@ -2453,6 +2533,11 @@
 "address": "Zenith Kulturhalle, 29, Lilienthalallee, Alt-Freimann, Freimann, Schwabing-Freimann, München, Bayern, 80939, Deutschland",
 "lat": 48.19469,
 "lng": 11.60785
+},
+"zentralinstitut für kunstgeschichte, münchen": {
+"address": "Zentralinstitut für Kunstgeschichte, 10, Katharina-von-Bora-Straße, Kunstareal, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80333, Deutschland",
+"lat": 48.14429,
+"lng": 11.56648
 },
 "zentrum st. bonifaz, münchen": null,
 "zirka, münchen": {
