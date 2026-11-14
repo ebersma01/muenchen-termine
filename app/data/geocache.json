@@ -42,6 +42,7 @@
 "lng": 11.54577
 },
 "acatech forum am karolinenplatz 4!, münchen": null,
+"acatech geschäftsstelle, münchen": null,
 "adams-lehmann-straße 44, 80797 münchen-schwabing-west, germany, münchen, by, münchen": null,
 "agnes-pockels-bogen 1, 80992 münchen": {
 "address": "1, Agnes-Pockels-Bogen, Moosach, München, Bayern, 80992, Deutschland",
@@ -155,6 +156,7 @@
 "lat": 48.14702,
 "lng": 11.57592
 },
+"amano bar munich": null,
 "amano yoga studio münchen": null,
 "amiraplatz 1, münchen": {
 "address": "1, Amiraplatz, Kreuzviertel, Altstadt-Lehel, München, Bayern, 80333, Deutschland",
@@ -216,6 +218,11 @@
 "lng": 11.52335
 },
 "arnulfstraße 205, 80634 münchen, germany, münchen, by, münchen": null,
+"arnulfstraße 251, 80639 münchen": {
+"address": "251, Arnulfstraße, Am Hirschgarten, Nymphenburg, Neuhausen-Nymphenburg, München, Bayern, 80639, Deutschland",
+"lat": 48.15024,
+"lng": 11.51815
+},
 "aspekte galerie der mvhs im gasteig hp8, münchen": null,
 "aspekte galerie im einstein 28, münchen": null,
 "assoluto ristorante & vineria, münchen": null,
@@ -294,6 +301,7 @@
 "lat": 48.12227,
 "lng": 11.55484
 },
+"balanstraße 71a, 81541 münchen, germany, münchen, by, münchen": null,
 "bamberger haus, münchen": {
 "address": "Bamberger Haus, 2, Brunnerstraße, Schwabing-West, Schwabing, München, Bayern, 80804, Deutschland",
 "lat": 48.17069,
@@ -376,6 +384,11 @@
 "lat": 48.11934,
 "lng": 11.57318
 },
+"blumenstraße 21, münchen": {
+"address": "21, Blumenstraße, Angerviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
+"lat": 48.13228,
+"lng": 11.57191
+},
 "blumenstraße 7, 80331 münchen": {
 "address": "Glockenbachwerkstatt, 7, Blumenstraße, Angerviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
 "lat": 48.13352,
@@ -434,6 +447,11 @@
 "address": "Buena Vista, Am Einlaß, Angerviertel, Altstadt-Lehel, München, Bayern, 80469, Deutschland",
 "lat": 48.13375,
 "lng": 11.57454
+},
+"bundjugend bayern, münchen": {
+"address": "Landesstelle BUNDjugend Bayern, 64a, Landwehrstraße, Klinikviertel, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80336, Deutschland",
+"lat": 48.13648,
+"lng": 11.55449
 },
 "bäckerstraße 14, 81241 münchen": {
 "address": "Alten- und Service-Zentrum Pasing, 14, Bäckerstraße, Neupasing, Pasing, Pasing-Obermenzing, München, Bayern, 81241, Deutschland",
@@ -540,6 +558,7 @@
 "clubin internationaler treff, münchen": null,
 "coart academy & events, münchen": null,
 "colibris buchhandlung, münchen": null,
+"color the system, münchen": null,
 "comedy für freunde club, münchen": null,
 "corleone, münchen": {
 "address": "Corleone, 7, Sendlinger-Tor-Platz, Am Alten Südlichen Friedhof, Klinikviertel, Isarvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80336, Deutschland",
@@ -811,6 +830,11 @@
 "lat": 48.13085,
 "lng": 11.5617
 },
+"freizeitstätte hirschgarten, münchen": {
+"address": "Freizeitstätte Hirschgarten, Königbauerstraße, Am Hirschgarten, Nymphenburg, Neuhausen-Nymphenburg, München, Bayern, 80639, Deutschland",
+"lat": 48.15029,
+"lng": 11.51808
+},
 "frida - mexikanisches restaurant, münchen": null,
 "friedrich-loy-straße 16, 80796 münchen": {
 "address": "16, Friedrich-Loy-Straße, Schwabing-West, Schwabing, München, Bayern, 80796, Deutschland",
@@ -928,6 +952,7 @@
 "lat": 48.13478,
 "lng": 11.6105
 },
+"gudrunstraße 3, 80634 münchen-neuhausen-nymphenburg, germany, münchen, by, münchen": null,
 "gärtnerplatz 3, 80469 münchen": {
 "address": "Staatstheater am Gärtnerplatz, 3, Gärtnerplatz, Isarvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80469, Deutschland",
 "lat": 48.13108,
@@ -1172,6 +1197,11 @@
 "lat": 48.11144,
 "lng": 11.55369
 },
+"isartorplatz, münchen": {
+"address": "Isartorplatz, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
+"lat": 48.13489,
+"lng": 11.58212
+},
 "ismaninger straße 29, 81675 münchen": {
 "address": "Freies Musikzentrum, 29, Ismaninger Straße, Haidhausen-Nord, Haidhausen, Au-Haidhausen, München, Bayern, 81675, Deutschland",
 "lat": 48.13912,
@@ -1183,6 +1213,7 @@
 "lat": 48.1354,
 "lng": 11.60088
 },
+"johannissaal, eingang 19, münchen": null,
 "josefa karree, münchen": null,
 "josefa, münchen": {
 "address": "Josefastraße, Hollern, Unterschleißheim, Landkreis München, Bayern, 85716, Deutschland",
@@ -1312,6 +1343,7 @@
 },
 "kreativ labor stiftung pfennigparade, münchen": null,
 "kreativ raum, münchen": null,
+"kreativgarage studio ackermann, münchen": null,
 "kreativstudio münchen gmbh": null,
 "krimi-trail münchen haidhausen": null,
 "krimi-trail münchen maxvorstadt": null,
@@ -1466,6 +1498,11 @@
 "lng": 11.62394
 },
 "lia galerie, münchen": null,
+"lichtenbergstraße 6, 85748 garching bei münchen": {
+"address": "ECM, 6, Lichtenbergstraße, Hochschul- und Forschungszentrum, Garching bei München, Landkreis München, Bayern, 85748, Deutschland",
+"lat": 48.268,
+"lng": 11.66611
+},
 "lichtenbergstraße 8, 85748 garching bei münchen": {
 "address": "8, Lichtenbergstraße, Hochschul- und Forschungszentrum, Garching bei München, Landkreis München, Bayern, 85748, Deutschland",
 "lat": 48.26864,
@@ -1556,6 +1593,11 @@
 "address": "Stiftung Lyrik Kabinett, 83a, Amalienstraße, Schönfeldvorstadt, Maxvorstadt, München, Bayern, 80799, Deutschland",
 "lat": 48.15137,
 "lng": 11.57845
+},
+"löwenbräukeller, münchen": {
+"address": "Löwenbräukeller, 2, Nymphenburger Straße, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80335, Deutschland",
+"lat": 48.14811,
+"lng": 11.55832
 },
 "m1 munich medical alliance": null,
 "magic bavaria - münchens verblüffendes erlebnismuseum, münchen": null,
@@ -1649,6 +1691,7 @@
 "lat": 48.12893,
 "lng": 11.56794
 },
+"mindmove münchen": null,
 "mini pavillon am lenbachplatz, münchen": null,
 "minna thiel, münchen": {
 "address": "Minna Thiel, 1, Bernd-Eichinger-Platz, Kunstareal, Maxvorstadt, München, Bayern, 80333, Deutschland",
@@ -1665,6 +1708,11 @@
 "address": "MOC, 40, Lilienthalallee, Alt-Freimann, Freimann, Schwabing-Freimann, München, Bayern, 80939, Deutschland",
 "lat": 48.19741,
 "lng": 11.61141
+},
+"mohr-villa freimann": {
+"address": "Mohr-Villa, Situlistraße, Gartenstadt Freimann, Alt-Freimann, Freimann, Schwabing-Freimann, München, Bayern, 80939, Deutschland",
+"lat": 48.19393,
+"lng": 11.61817
 },
 "mohr-villa, münchen": {
 "address": "Mohr-Villa, Situlistraße, Gartenstadt Freimann, Alt-Freimann, Freimann, Schwabing-Freimann, München, Bayern, 80939, Deutschland",
@@ -1757,6 +1805,7 @@
 "lat": 48.10301,
 "lng": 11.60223
 },
+"mvhs am harras, münchen": null,
 "mvhs am ostbahnhof, münchen": null,
 "mvhs am scheidplatz, münchen": null,
 "mvhs einstein 28, münchen": null,
@@ -1764,6 +1813,7 @@
 "mvhs im gasteig hp8, münchen": null,
 "mvhs in allach-untermenzing, münchen": null,
 "mvhs in pasing": null,
+"mvhs ost, münchen": null,
 "myposter, münchen": {
 "address": "myposter, 12, Nymphenburger Straße, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80335, Deutschland",
 "lat": 48.14818,
@@ -1913,6 +1963,11 @@
 "lat": 48.12365,
 "lng": 11.60723
 },
+"nachtwerk club, münchen": {
+"address": "Nachtwerk Club, 185, Landsberger Straße, Neu-Friedenheim, Friedenheim, Laim, München, Bayern, 80687, Deutschland",
+"lat": 48.13962,
+"lng": 11.52293
+},
 "nadistraße 3, 80809 münchen": {
 "address": "3, Nadistraße, Olympia-Dorf, Am Riesenfeld, Milbertshofen-Am Hart, München, Bayern, 80809, Deutschland",
 "lat": 48.18148,
@@ -1974,6 +2029,11 @@
 "address": "8, Occamstraße, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80802, Deutschland",
 "lat": 48.16187,
 "lng": 11.5898
+},
+"odeonspl. 8, münchen": {
+"address": "8, Odeonsplatz, Schönfeldvorstadt, Maxvorstadt, München, Bayern, 80539, Deutschland",
+"lat": 48.14388,
+"lng": 11.57871
 },
 "odeonsplatz 1, 80539 münchen": {
 "address": "FELIX W., 1, Odeonsplatz, Maxvorstadt, München, Bayern, 80333, Deutschland",
@@ -2068,6 +2128,11 @@
 "lat": 48.14322,
 "lng": 11.44736
 },
+"paradiesstraße, 80538 münchen": {
+"address": "Paradiesstraße, Lehel, Altstadt-Lehel, München, Bayern, 80538, Deutschland",
+"lat": 48.1465,
+"lng": 11.59525
+},
 "park café münchen": {
 "address": "Park-Café, 7, Sophienstraße, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80333, Deutschland",
 "lat": 48.14233,
@@ -2115,6 +2180,11 @@
 "lng": 11.57223
 },
 "pink christmas, münchen": null,
+"platz der menschenrechte, münchen": {
+"address": "Platz der Menschenrechte, Messestadt Riem, Trudering-Riem, München, Bayern, 81829, Deutschland",
+"lat": 48.13097,
+"lng": 11.69118
+},
 "platzl 9, 80331 münchen": {
 "address": "9, Platzl, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
 "lat": 48.13762,
@@ -2150,6 +2220,11 @@
 "lat": 48.13897,
 "lng": 11.60562
 },
+"prinzregentenstr. 161, 81677 münchen": {
+"address": "Giesecke+Devrient, 161, Prinzregentenstraße, Parkstadt Bogenhausen, Bogenhausen, München, Bayern, 81677, Deutschland",
+"lat": 48.1389,
+"lng": 11.62247
+},
 "prinzregentenstraße 1, 80538 münchen": {
 "address": "P1, 1, Prinzregentenstraße, Lehel, Altstadt-Lehel, München, Bayern, 80538, Deutschland",
 "lat": 48.14444,
@@ -2175,6 +2250,7 @@
 "lat": 48.16293,
 "lng": 11.57214
 },
+"raum 009 veterinärstraße 1, 80539 münchen": null,
 "raum 2u01 leopoldstraße 13, 80802 münchen": null,
 "raum c106 luisenstraße 37, 80333 münchen": null,
 "raum g212 ludwigstraße 27, 80539 münchen": null,
@@ -2342,6 +2418,11 @@
 "lat": 48.15781,
 "lng": 11.50919
 },
+"schloß nymphenburg 1, 80638 münchen": {
+"address": "Schloss Nymphenburg, 1, Chevauleger Brücke, Nymphenburg, Neuhausen-Nymphenburg, München, Bayern, 80638, Deutschland",
+"lat": 48.15826,
+"lng": 11.5033
+},
 "schloß nymphenburg 208, 80638 münchen": null,
 "schloßstraße 18-25, 85411 hohenkammer": {
 "address": "Schloss Hohenkammer, 18-25, Schloßstraße, Untermarbach, Herschenhofen, Hohenkammer, Landkreis Freising, Bayern, 85411, Deutschland",
@@ -2461,6 +2542,7 @@
 "lat": 48.14289,
 "lng": 11.56252
 },
+"space for skate, münchen": null,
 "spagat theater, münchen": {
 "address": "Kulturbühne Spagat, 3, Max-Bill-Straße, Domagkpark, Freimann, Schwabing-Freimann, München, Bayern, 80807, Deutschland",
 "lat": 48.18659,
@@ -2575,6 +2657,11 @@
 "lng": 11.5796
 },
 "talente der hochschule für musik und theater münchen live erleben": null,
+"tante aenne, münchen": {
+"address": "Tante Aenne, 11, Watzmannstraße, Feldmüllersiedlung, Obergiesing, Obergiesing-Fasangarten, München, Bayern, 81541, Deutschland",
+"lat": 48.11758,
+"lng": 11.58436
+},
 "taubenschlag bar, münchen": {
 "address": "Taubenschlag Bar, 15, Schulstraße, St. Vinzenz-Viertel, Ebenau, Neuhausen-Nymphenburg, München, Bayern, 80634, Deutschland",
 "lat": 48.15046,
@@ -2778,6 +2865,7 @@
 "lng": 11.50221
 },
 "vorhoelzer forum der tum, münchen": null,
+"walmdachhaus münchen schwabing nord": null,
 "wasserburger landstraße 32, 81825 münchen": {
 "address": "Kulturzentrum Trudering, 32, Wasserburger Landstraße, Straßtrudering, Neutrudering, Trudering-Riem, München, Bayern, 81825, Deutschland",
 "lat": 48.11933,
@@ -2791,6 +2879,7 @@
 },
 "weinfurore vinothek, münchen": null,
 "weisses bräuhaus im tal (tal 7, 80331 münchen) *": null,
+"weiße halle, münchen": null,
 "werk 7, münchen": {
 "address": "Werk 7, Bahnbogen, Werksviertel München, Berg am Laim, München, Bayern, 81671, Deutschland",
 "lat": 48.12371,
@@ -2813,7 +2902,17 @@
 "lng": 11.63837
 },
 "westendstraße 68, 80339 munich, 80339 munich": null,
+"westendstraße 76, 80339 münchen": {
+"address": "Kulturkeller Westend, 76, Westendstraße, Theresienhöhe, Westend, Schwanthalerhöhe, München, Bayern, 80339, Deutschland",
+"lat": 48.13849,
+"lng": 11.53974
+},
 "wiese an der alte pinakothek, münchen": null,
+"wilhelmsgymnasium, münchen": {
+"address": "Staatliches Wilhelmsgymnasium, 46, Thierschstraße, Lehel, Altstadt-Lehel, München, Bayern, 80538, Deutschland",
+"lat": 48.13819,
+"lng": 11.58861
+},
 "winterfest am nockherberg, münchen": null,
 "winterquartier, münchen": null,
 "winterzauber am viktualienmarkt, münchen": null,
@@ -2861,6 +2960,7 @@
 "lat": 48.12302,
 "lng": 11.55935
 },
+"zenith (verlegt aus der olympiahalle), münchen": null,
 "zenith, münchen": {
 "address": "Zenith Kulturhalle, 29, Lilienthalallee, Alt-Freimann, Freimann, Schwabing-Freimann, München, Bayern, 80939, Deutschland",
 "lat": 48.19469,
