@@ -30,6 +30,7 @@
 "lat": 48.14293,
 "lng": 11.54077
 },
+"794club, münchen": null,
 "80333 münchen": {
 "address": "80333, Maxvorstadt, München, Bayern, Deutschland",
 "lat": 48.1452,
@@ -180,6 +181,12 @@
 "lat": 48.16492,
 "lng": 11.47399
 },
+"architekturmuseum der tum in der pinakothek der moderne, münchen": null,
+"archäologische staatssammlung, münchen": {
+"address": "Archäologische Staatssammlung, 2, Lerchenfeldstraße, Lehel, Altstadt-Lehel, München, Bayern, 80538, Deutschland",
+"lat": 48.14413,
+"lng": 11.59137
+},
 "arcisstr. 21, 80333 münchen": {
 "address": "TUM Universitätsbibliothek (Stammgelände), 21, Arcisstraße, Kunstareal, Maxvorstadt, München, Bayern, 80333, Deutschland",
 "lat": 48.14888,
@@ -231,6 +238,7 @@
 "lat": 48.1344,
 "lng": 11.57327
 },
+"atelier greenhouse, münchen": null,
 "atelier kevo, münchen": null,
 "atelier tonga, münchen": null,
 "atelierhaus baumstraße, münchen": null,
@@ -275,6 +283,7 @@
 "lat": 48.1355,
 "lng": 11.53811
 },
+"augustiner ewiges licht, münchen": null,
 "augustinum kindergarten christuskirche, münchen": null,
 "ayinger am platzl, münchen": null,
 "ayinger in der au, münchen": {
@@ -329,6 +338,11 @@
 "address": "Pinakothek der Moderne, 40, Barer Straße, Kunstareal, Maxvorstadt, München, Bayern, 80333, Deutschland",
 "lat": 48.14716,
 "lng": 11.57223
+},
+"barerstraße 70, 80799 münchen": {
+"address": "Aryatara Institut e.V., 70, Barer Straße, Am alten nördlichen Friedhof, Maxvorstadt, München, Bayern, 80799, Deutschland",
+"lat": 48.15169,
+"lng": 11.5743
 },
 "bash rooms münchen": null,
 "bayerische staatsbibliothek, münchen": {
@@ -492,6 +506,11 @@
 "lat": 48.12836,
 "lng": 11.5445
 },
+"café kustermann, münchen": {
+"address": "Kustermann, 36, Lindwurmstraße, Am Schlachthof, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80337, Deutschland",
+"lat": 48.12841,
+"lng": 11.55561
+},
 "café le hygge, münchen": null,
 "café pfefferminza, münchen": {
 "address": "Pfefferminza, 28, Soyerhofstraße, Neuharlaching, Untergiesing-Harlaching, Giesing, München, Bayern, 81547, Deutschland",
@@ -570,6 +589,11 @@
 "address": "Discothek Crash, 10, Ainmillerstraße, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80801, Deutschland",
 "lat": 48.15861,
 "lng": 11.58333
+},
+"cucina da nina, münchen": {
+"address": "Cucina da Nina, Bayerstraße, Klinikviertel, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80335, Deutschland",
+"lat": 48.13903,
+"lng": 11.55723
 },
 "cueva live club, münchen": null,
 "cup-cafe, münchen": {
@@ -786,6 +810,7 @@
 "lat": 48.13487,
 "lng": 11.57276
 },
+"filmtheater sendlingertor, münchen": null,
 "flux, münchen": null,
 "forum, münchen": {
 "address": "Forum, Sendlinger Feld, Sendling, München, Bayern, Deutschland",
@@ -835,6 +860,7 @@
 "lat": 48.15029,
 "lng": 11.51808
 },
+"fressnapf city münchen-ludwigsvorstadt": null,
 "frida - mexikanisches restaurant, münchen": null,
 "friedrich-loy-straße 16, 80796 münchen": {
 "address": "16, Friedrich-Loy-Straße, Schwabing-West, Schwabing, München, Bayern, 80796, Deutschland",
@@ -1164,6 +1190,7 @@
 "lat": 48.15946,
 "lng": 11.55013
 },
+"innenhof isartor, münchen": null,
 "innside münchen parkstadt schwabing": {
 "address": "Innside Premium Hotel, 10, Mies-van-der-Rohe-Straße, Berliner Viertel, Parkstadt Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80807, Deutschland",
 "lat": 48.17707,
@@ -1475,6 +1502,11 @@
 "lat": 48.14693,
 "lng": 11.56405
 },
+"lenbachplatz 1, 80333 münchen": {
+"address": "1, Lenbachplatz, Maxvorstadt, München, Bayern, 80333, Deutschland",
+"lat": 48.14119,
+"lng": 11.56714
+},
 "leonardo royal hotel, münchen": {
 "address": "Leonardo Royal, 90, Moosacher Straße, Am Oberwiesenfeld, Milbertshofen-Am Hart, München, Bayern, 80809, Deutschland",
 "lat": 48.187,
@@ -1492,6 +1524,11 @@
 "lng": 11.58302
 },
 "leopoldstraße 17, 80802 münchen-schwabing-freimann, germany, münchen, by, münchen": null,
+"lerchenauer straße 270, 80995 münchen": {
+"address": "270, Lerchenauer Straße, Feldmoching, Feldmoching-Hasenbergl, München, Bayern, 80995, Deutschland",
+"lat": 48.20714,
+"lng": 11.53513
+},
 "levelingstraße 2, 81673 münchen": {
 "address": "2, Levelingstraße, Baumkirchen, Berg am Laim, München, Bayern, 81673, Deutschland",
 "lat": 48.13102,
@@ -1681,6 +1718,11 @@
 "lng": 11.48367
 },
 "mia - raum für begegnung, münchen": null,
+"miesbacher straße 3, 81547 münchen": {
+"address": "3, Miesbacher Straße, Neuharlaching, Untergiesing-Harlaching, Fasangarten, München, Bayern, 81547, Deutschland",
+"lat": 48.09785,
+"lng": 11.58263
+},
 "milla club, münchen": {
 "address": "Milla Club, 28, Holzstraße, Am Alten Südlichen Friedhof, Glockenbach, Isarvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80469, Deutschland",
 "lat": 48.12893,
@@ -1748,6 +1790,11 @@
 "lat": 48.15961,
 "lng": 11.54934
 },
+"mucki, münchen": {
+"address": "Mucki & Floyd, 2, Ickstattstraße, Glockenbach, Isarvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80469, Deutschland",
+"lat": 48.12982,
+"lng": 11.57043
+},
 "muffatcafé, münchen": {
 "address": "Muffatcafe, 4, Zellstraße, Haidhausen-Süd, Au, Au-Haidhausen, München, Bayern, 81667, Deutschland",
 "lat": 48.1332,
@@ -1800,6 +1847,7 @@
 "lat": 48.16028,
 "lng": 11.50384
 },
+"musik & karaoke party, münchen": null,
 "mvg museum, münchen": {
 "address": "MVG-Museum, 20, Ständlerstraße, Ramersdorf, Ramersdorf-Perlach, München, Bayern, 81549, Deutschland",
 "lat": 48.10301,
@@ -1872,6 +1920,11 @@
 "lng": 11.58045
 },
 "münchner bildungswerk e.v., münchen": null,
+"münchner forum für islam, münchen": {
+"address": "Münchner Forum für Islam e.V., 16, Hotterstraße, Hackenviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
+"lat": 48.13635,
+"lng": 11.57014
+},
 "münchner freiheit 1, 80802 münchen": {
 "address": "Münchner Freiheit, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80802, Deutschland",
 "lat": 48.16276,
@@ -1914,6 +1967,11 @@
 "lat": 48.13037,
 "lng": 11.59078
 },
+"münchner stadtbibliothek laim": {
+"address": "Münchner Stadtbibliothek Laim, 53, Fürstenrieder Straße, Laim, München, Bayern, 80686, Deutschland",
+"lat": 48.1364,
+"lng": 11.50344
+},
 "münchner stadtbibliothek moosach": {
 "address": "Münchner Stadtbibliothek Moosach, 61a, Hanauer Straße, Alt-Moosach, Moosach, München, Bayern, 80992, Deutschland",
 "lat": 48.18172,
@@ -1933,6 +1991,11 @@
 "address": "Münchner Stadtbibliothek Riem, 19, Michael-Ende-Straße, Messestadt Riem, Trudering-Riem, München, Bayern, 81829, Deutschland",
 "lat": 48.13267,
 "lng": 11.70443
+},
+"münchner stadtbibliothek schwabing": {
+"address": "Münchner Stadtbibliothek Schwabing, 16, Hohenzollernstraße, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80801, Deutschland",
+"lat": 48.15974,
+"lng": 11.58361
 },
 "münchner stadtbibliothek sendling": {
 "address": "Münchner Stadtbibliothek Sendling, 8, Albert-Roßhaupter-Straße, Sendlinger Berg, Untersendling, Sendling, München, Bayern, 81369, Deutschland",
@@ -2245,6 +2308,7 @@
 "prinzregententheatergroßes haus, münchen": null,
 "projektraum quellenbunker, münchen": null,
 "psv e.v. – moosach": null,
+"quartierswerkstatt - kreativgarage, münchen": null,
 "rauch & könig buchladen, münchen": {
 "address": "Rauch & König, 84, Herzogstraße, Schwabing-West, Schwabing, München, Bayern, 80796, Deutschland",
 "lat": 48.16293,
@@ -2326,6 +2390,7 @@
 "lat": 48.13685,
 "lng": 11.57381
 },
+"rote fabrik events, münchen": null,
 "rote sonne, münchen": {
 "address": "Rote Sonne, 5, Maximiliansplatz, Maxvorstadt, München, Bayern, 80333, Deutschland",
 "lat": 48.14218,
@@ -2597,6 +2662,11 @@
 },
 "stiftung bayerisches amerikahaus ggmbh, münchen": null,
 "stiftung kunst und natur - nantesbuch, münchen": null,
+"stiftung lyrik kabinett, münchen": {
+"address": "Stiftung Lyrik Kabinett, 83a, Amalienstraße, Schönfeldvorstadt, Maxvorstadt, München, Bayern, 80799, Deutschland",
+"lat": 48.15137,
+"lng": 11.57845
+},
 "strascheg center for entrepreneurship (sce), münchen": {
 "address": "SCE Strascheg Center for Entrepreneurship, 89, Heßstraße, Maßmannbergl, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80797, Deutschland",
 "lat": 48.15393,
@@ -2610,6 +2680,7 @@
 },
 "studio ackermann - kreativgarage, münchen": null,
 "studio am mangfallplatz, münchen": null,
+"studio craft.art, münchen": null,
 "studio numi, münchen": {
 "address": "Studio numi, 1, Zenettiplatz, Am Schlachthof, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80337, Deutschland",
 "lat": 48.1246,
@@ -2633,6 +2704,7 @@
 "lat": 48.1415,
 "lng": 11.44726
 },
+"städtisches thomas-mann-gymnasium münchen": null,
 "sub e.v. - schwul in münchen": null,
 "substanz, münchen": {
 "address": "Substanz, 28, Ruppertstraße, Am Schlachthof, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80337, Deutschland",
@@ -2885,7 +2957,13 @@
 "lat": 48.12371,
 "lng": 11.60622
 },
+"werk3studio, münchen": null,
 "werk7 theater, münchen": null,
+"werksviertel atelier, münchen": {
+"address": "Wombat’s City Hostel Munich “Werksviertel”, 20, Atelierstraße, Werksviertel München, Berg am Laim, München, Bayern, 81671, Deutschland",
+"lat": 48.12425,
+"lng": 11.60649
+},
 "werksviertel mitte münchen": {
 "address": "Werksviertel-Mitte Kunst, 4, Atelierstraße, Werksviertel München, Berg am Laim, München, Bayern, 81671, Deutschland",
 "lat": 48.12536,
@@ -2944,6 +3022,7 @@
 "lat": 48.12886,
 "lng": 11.60224
 },
+"xolo bar, münchen": null,
 "yogastudio elisabethplatz, münchen": null,
 "z'sam, münchen": {
 "address": "z'sam, 63, Theresienstraße, Maßmannbergl, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80333, Deutschland",
