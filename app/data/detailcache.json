@@ -277,6 +277,15 @@
 "ts": 1794808238,
 "venue": "Katholische Akademie in Bayern"
 },
+"https://kath-akademie-bayern.de/veranstaltung/bitten-um-schutz/": {
+"address": "Mandlstraße 23, 80802 München",
+"cost": null,
+"lat": 48.1599958,
+"lng": 11.5912871,
+"pagetitle": "\"Bitten um Schutz\" - Katholische Akademie in Bayern",
+"ts": 1794845769,
+"venue": "Katholische Akademie in Bayern"
+},
 "https://kath-akademie-bayern.de/veranstaltung/die-katholische-kirche-und-die-radikale-rechte/": {
 "address": null,
 "cost": null,
@@ -807,6 +816,24 @@
 "lng": null,
 "pagetitle": "Spielplan",
 "ts": 1794547317,
+"venue": null
+},
+"https://pathos-muenchen.de/global/php/ics-download.php?objid=1101": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan",
+"ts": 1794845771,
+"venue": null
+},
+"https://pathos-muenchen.de/global/php/ics-download.php?objid=1102": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan",
+"ts": 1794845771,
 "venue": null
 },
 "https://pathos-muenchen.de/global/php/ics-download.php?objid=908": {
@@ -1848,6 +1875,15 @@
 "pagetitle": "DOK.fest goes schwere reiter SO IST DAS LEBEN UND NICHT ANDERS. & ÖSTERREICH IM NIEMANDSLAND – WO KOMME ICH HER? am 16.11.2026 in München",
 "ts": 1793715554,
 "venue": "Schwere Reiter – Tanz Theater Musik"
+},
+"https://rausgegangen.de/events/dominik-hartz-verstrckt-tour-2026-0/": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "37.20 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Dominik Hartz /// verstr!ckt Tour 2026 am 23.11.2026 in München",
+"ts": 1794845771,
+"venue": "Muffathalle"
 },
 "https://rausgegangen.de/events/dr-reinhards-ohrenschmaus-mini-bigband-0/": {
 "address": "Albert-Schweitzer-Straße 62, 81735 München",
@@ -3021,6 +3057,15 @@
 "lng": null,
 "ts": 1793549154,
 "venue": "City Kinos"
+},
+"https://rausgegangen.de/events/karaoke-house-party-meet-people-sing-together-1/": {
+"address": "Lindwurmstraße 189, 80337 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Karaoke × House Party: Meet People & Sing Together am 20.11.2026 in München",
+"ts": 1794845771,
+"venue": "The Radio Wunder"
 },
 "https://rausgegangen.de/events/keith-murray-live-in-munchen-club-show-party-freitag-20-nov-0/": {
 "address": "Lenbachplatz 1, 80333 München",
@@ -5661,6 +5706,15 @@
 "lng": null,
 "pagetitle": "Filmvorführung & Diskussion: \"Vivi – I’m Alive\"",
 "ts": 1794808229,
+"venue": null
+},
+"https://www.amerikahaus.de/ausstellungen-und-veranstaltungen/2026-11-20-usa-update-2026-lf": {
+"address": "Karolinenplatz 3, 80333 Munich",
+"cost": "10 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Amerikahaus Teacher Seminar: USA Update 2026 with Dr. Hünemörder",
+"ts": 1794845766,
 "venue": null
 },
 "https://www.amerikahaus.de/ausstellungen-und-veranstaltungen/ausstellung-johnny-miller-unequal-scenes-salt-works": {
@@ -9076,6 +9130,15 @@
 "ts": 1793806627,
 "venue": "Bergson Kunstkraftwerk"
 },
+"https://www.bergson.com/event/zara-mcfarlane-singt-sarah-vaughan-19-maerz-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Sarah Vaughan Tribute mit Zara McFarlane im Bergson",
+"ts": 1794845771,
+"venue": "Bergson Kunstkraftwerk"
+},
 "https://www.bergson.com/event/zum-100-geburtstag-des-monaco-franze-kinotag-im-bergson-15-november-2026": {
 "address": "Am Bergson Kunstkraftwerk 2, 81245 München",
 "cost": "56 €",
@@ -10051,6 +10114,42 @@
 "ts": 1793715559,
 "venue": "Silbersaal"
 },
+"https://www.dsw-info.de/dsw-events/anlegerforen/detail/dsw-anlegerforum-in-muenchen": {
+"address": "Albert-Roßhaupter-Straße 45, 81369 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "DSW Anlegerforum in München",
+"ts": 1794845766,
+"venue": "Holiday Inn München Westpark"
+},
+"https://www.dsw-info.de/dsw-events/anlegerforen/detail/virtuelles-dsw-anlegerforum": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "virtuelles DSW Anlegerforum",
+"ts": 1794845766,
+"venue": "Online"
+},
+"https://www.dsw-info.de/dsw-events/anlegerforen/detail/virtuelles-dsw-anlegerforum-1": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "virtuelles DSW Anlegerforum",
+"ts": 1794845766,
+"venue": "Online"
+},
+"https://www.dsw-info.de/dsw-events/anlegerforen/detail/virtuelles-dsw-anlegerforum-2": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "virtuelles DSW Anlegerforum",
+"ts": 1794845766,
+"venue": "Online"
+},
 "https://www.eatutzing.de/veranstaltung/1-kammerkonzert-des-symphonieorchesters-des-br-10/": {
 "address": null,
 "cost": "125,00 €",
@@ -10398,7 +10497,8 @@
 "cost": null,
 "lat": null,
 "lng": null,
-"ts": 1793548377,
+"pagetitle": "Zeugin ihrer Zeit – Online-Gespräch mit Charlotte Knobloch - Veranstaltungsdetails",
+"ts": 1794845769,
 "venue": null
 },
 "https://www.food-life.de/de/": {
@@ -10697,6 +10797,15 @@
 "ts": 1793715586,
 "venue": null
 },
+"https://www.fraunhofertheater.de/spielplan/cpevent/60dc6480-f23c-4ce2-914c-47b64a57eeb3": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1794845771,
+"venue": null
+},
 "https://www.fraunhofertheater.de/spielplan/cpevent/615c832e-c79e-495d-90ef-6d0647ae4237": {
 "address": "Fraunhoferstr. 9, 80469 München",
 "cost": "21 €",
@@ -10958,6 +11067,15 @@
 "ts": 1793715589,
 "venue": null
 },
+"https://www.fraunhofertheater.de/spielplan/cpevent/ba265611-b7c5-436a-9faf-4187b4902ac7": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1794845771,
+"venue": null
+},
 "https://www.fraunhofertheater.de/spielplan/cpevent/ba6754f4-2a75-40ec-ad87-5d30732b9dac": {
 "address": "Fraunhoferstr. 9, 80469 München",
 "cost": "kostenlos",
@@ -10992,6 +11110,15 @@
 "lng": null,
 "pagetitle": "Spielplan Theater im Fraunhofer",
 "ts": 1793715588,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/bef36a99-c44e-43c2-83d9-595da77168ef": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1794845771,
 "venue": null
 },
 "https://www.fraunhofertheater.de/spielplan/cpevent/c2302815-3c9a-44b4-afa5-d43dba8e172d": {
@@ -15109,6 +15236,15 @@
 "ts": 1793548407,
 "venue": "Hörsaal M 118 Geschwister-Scholl-Platz 1 80539 München"
 },
+"https://www.lmu.de/de/newsroom/veranstaltungskalender/veranstaltung/study-uk-day-acacdf20.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Study UK Day",
+"ts": 1794845769,
+"venue": "Lichthof Geschwister-Scholl-Platz 1 80539 München"
+},
 "https://www.lmu.de/de/newsroom/veranstaltungskalender/veranstaltung/survival-of-the-nettest-vernetzung-und-kooperation-als-basis-fuer-nachhaltige-entwicklung-6fec4f59.html": {
 "address": null,
 "cost": null,
@@ -15332,6 +15468,15 @@
 "ts": 1794374512,
 "venue": null
 },
+"https://www.m-k-o.eu/event-detail/3666/PdM Tabakova 26---27": {
+"address": null,
+"cost": "35 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Event-Detailseite - MKO",
+"ts": 1794845770,
+"venue": null
+},
 "https://www.m-k-o.eu/event-detail/4404/PdM Tabakova 26---27": {
 "address": null,
 "cost": "15 €",
@@ -15392,6 +15537,15 @@
 "pagetitle": "Isar - Walk and talk - 🍂 Autumn 🍁Edition, Sun, Nov 22, 2026, 12:00 PM",
 "ts": 1794460959,
 "venue": "U-Bahn Station"
+},
+"https://www.meetup.com/friending-around-munich/events/316316761/": {
+"address": "Sonnenstraße 18b ,, München, München",
+"cost": "8.99 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Speed Friending Night: Meet Locals & Expats in Munich , Sat, Nov 21, 2026, 7:00 PM",
+"ts": 1794845770,
+"venue": "Koos Hotel & Apartments"
 },
 "https://www.meetup.com/friending-around-munich/events/316316762/": {
 "address": "Sonnenstraße 18b ,, München, München",
@@ -15550,6 +15704,15 @@
 "pagetitle": "Saturday Socializing & Drinks @Winterquartier Opening, Sat, Nov 7, 2026, 8:00 PM",
 "ts": 1794028179,
 "venue": "Alter Hof"
+},
+"https://www.meetup.com/munich-social-gaming/events/313880033/": {
+"address": "Bergmannstraße 66, München, BY, München",
+"cost": "10 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Monday's Board Games at a Restaurant, Mon, Nov 16, 2026, 6:30 PM",
+"ts": 1794845770,
+"venue": "Stragula"
 },
 "https://www.meetup.com/munich-social-gaming/events/314674392/": {
 "address": "Neuschwansteinpl. 12, München, BY, München",
@@ -15755,6 +15918,15 @@
 "pagetitle": "Münchner Philharmoniker, »Frag die Profis« - Streichinstrumente, 05.12.2026 16:30h",
 "ts": 1794808276,
 "venue": "Kleiner Saal, Haus K"
+},
+"https://www.mphil.de/konzerte-und-karten/kalender/konzerte/kammerkonzert-der-orchesterakademie-2026-12-03": {
+"address": null,
+"cost": "30 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Münchner Philharmoniker, Kammerkonzert der Orchesterakademie, 03.12.2026 19:00h",
+"ts": 1794845769,
+"venue": "Erlöserkirche Schwabing"
 },
 "https://www.mphil.de/ueber-uns/musikerinnen-und-musiker/details/andris-nelsons": {
 "address": null,
@@ -17433,6 +17605,213 @@
 "ts": 1793715537,
 "venue": "19:30 Uhr Bühne 1"
 },
+"https://www.muffatwerk.de/de/events/bulgarian-cartrader-2026-11-20": {
+"address": null,
+"cost": "30 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Bulgarian Cartrader – Muffatwerk",
+"ts": 1794845769,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/caro-fux-2027-11-27": {
+"address": null,
+"cost": "34,90 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Caro Fux – Muffatwerk",
+"ts": 1794845769,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/chapo102-2026-11-27": {
+"address": null,
+"cost": "42,45 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Chapo102 – Muffatwerk",
+"ts": 1794845769,
+"venue": "Tonhalle (verlegt aus dem Backstage Werk)"
+},
+"https://www.muffatwerk.de/de/events/culcha-candela-2027-03-19": {
+"address": null,
+"cost": "58,75 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Culcha Candela – Muffatwerk",
+"ts": 1794845769,
+"venue": "Zenith"
+},
+"https://www.muffatwerk.de/de/events/doubtboy-goldy-mp3-2026-12-19": {
+"address": null,
+"cost": "30 €",
+"lat": null,
+"lng": null,
+"pagetitle": "doubtboy & goldy.mp3 – Muffatwerk",
+"ts": 1794845769,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/haus-f-2027-03-12": {
+"address": null,
+"cost": "31,90 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Haus F – Muffatwerk",
+"ts": 1794845769,
+"venue": "Strom"
+},
+"https://www.muffatwerk.de/de/events/ider-2027-04-16": {
+"address": null,
+"cost": "30 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Ider – Muffatwerk",
+"ts": 1794845769,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/josh-2027-04-24": {
+"address": null,
+"cost": "52,85 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Josh. – Muffatwerk",
+"ts": 1794845769,
+"venue": "Tonhalle"
+},
+"https://www.muffatwerk.de/de/events/jugo-uerdens-2027-02-13": {
+"address": null,
+"cost": "29,80 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Jugo Ürdens – Muffatwerk",
+"ts": 1794845769,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/kalle-nio-fernando-melo-2027-01-26": {
+"address": null,
+"cost": "24 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Kalle Nio & Fernando Melo – Muffatwerk",
+"ts": 1794845769,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/kaset-munich-2026-12-11": {
+"address": null,
+"cost": "9,50 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Kaset Munich – Muffatwerk",
+"ts": 1794845769,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/king-pigeon-2026-11-21": {
+"address": null,
+"cost": "20,50 €",
+"lat": null,
+"lng": null,
+"pagetitle": "King Pigeon – Muffatwerk",
+"ts": 1794845769,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/luna-simao-2027-04-11": {
+"address": null,
+"cost": "25 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Luna Simao – Muffatwerk",
+"ts": 1794845769,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/matt-simons-2027-05-15": {
+"address": null,
+"cost": "48,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Matt Simons – Muffatwerk",
+"ts": 1794845769,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/matze-rossi-2027-02-27": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Matze Rossi – Muffatwerk",
+"ts": 1794845769,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/mcnd-devil-youth-club-2026-12-02": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "MCND Devil Youth Club – Muffatwerk",
+"ts": 1794845769,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/moritz-ostruschnjak-2027-01-12": {
+"address": null,
+"cost": "25 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Moritz Ostruschnjak – Muffatwerk",
+"ts": 1794845769,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/muffat-winterfest-2027-01-05": {
+"address": null,
+"cost": "15,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Muffat Winterfest – Muffatwerk",
+"ts": 1794845769,
+"venue": "Muffatwerk"
+},
+"https://www.muffatwerk.de/de/events/radio-gong-ue30-party-2026-12-05": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Radio Gong Ü30 Party – Muffatwerk",
+"ts": 1794845769,
+"venue": "Muffatwerk All-Area"
+},
+"https://www.muffatwerk.de/de/events/rin-2026-11-20": {
+"address": null,
+"cost": "71,65 €",
+"lat": null,
+"lng": null,
+"pagetitle": "RIN – Muffatwerk",
+"ts": 1794845769,
+"venue": "Olympiahalle"
+},
+"https://www.muffatwerk.de/de/events/schandmaul-2027-03-20": {
+"address": null,
+"cost": "38 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Schandmaul – Muffatwerk",
+"ts": 1794845769,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/so-soon-2027-01-30": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "So Soon – Muffatwerk",
+"ts": 1794845769,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/so-soon-2027-04-13": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "So Soon – Muffatwerk",
+"ts": 1794845769,
+"venue": "Ampere"
+},
 "https://www.muffatwerk.de/de/events/view/7587/dreiviertelblut": {
 "address": null,
 "cost": "41 €",
@@ -19050,6 +19429,15 @@
 "ts": 1794808216,
 "venue": "Impact Hub München"
 },
+"https://www.munich-startup.de/events/band-deep-dive-informations-kontroll-und-haftungsfragen-wie-nah-darf-ein-angel-am-startup-sein": {
+"address": "Atelierstraße 24, 81671 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "BAND Deep Dive: Informations-, Kontroll- und Haftungsfragen: Wie nah darf ein Angel am Startup sein?",
+"ts": 1794845765,
+"venue": "Online"
+},
 "https://www.munich-startup.de/events/band-deep-dive-strukturen-verstehen-beteiligungen-tickets-und-grenzen": {
 "address": "Atelierstraße 24, 81671 München",
 "cost": null,
@@ -19709,6 +20097,24 @@
 "ts": 1794460952,
 "venue": "Online"
 },
+"https://www.munich-startup.de/events/webinar-erfolgreich-gruenden-6": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Webinar: Erfolgreich gründen",
+"ts": 1794845765,
+"venue": "Online"
+},
+"https://www.munich-startup.de/events/webinar-erfolgreich-gruenden-7": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Webinar: Erfolgreich gründen",
+"ts": 1794845765,
+"venue": "Online"
+},
 "https://www.munich-startup.de/events/webinar-finanzierung-foerderung": {
 "address": "Atelierstraße 24, 81671 München",
 "cost": null,
@@ -20060,6 +20466,15 @@
 "ts": 1793715544,
 "venue": null
 },
+"https://www.schauburg.net/de/labs/maskon-maskoff": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Mask on - mask off!",
+"ts": 1794845771,
+"venue": null
+},
 "https://www.schauburg.net/de/labs/pen-paper": {
 "address": null,
 "cost": "10 bis 150 €",
@@ -20339,6 +20754,15 @@
 "ts": 1793715540,
 "venue": null
 },
+"https://www.songkick.com/concerts/42609931-dreiviertelblut-at-muffathalle?utm_medium=organic&utm_source=microformat": {
+"address": "Zellstr. 4, 81667 Munich",
+"cost": "51.40 €",
+"lat": 48.13321,
+"lng": 11.58971,
+"pagetitle": "Dreiviertelblut at Muffathalle (21 Nov 2026)",
+"ts": 1794845769,
+"venue": "Muffathalle"
+},
 "https://www.songkick.com/concerts/42657412-mireille-mathieu-at-isarphilharmonie-im-gasteig-hp8?utm_medium=organic&utm_source=microformat": {
 "address": "Hans-Preißinger-Strasse 8, 81379 Munich",
 "cost": "67.70 – 188.40 €",
@@ -20513,6 +20937,15 @@
 "ts": 1794633198,
 "venue": "Werk, Backstage"
 },
+"https://www.songkick.com/concerts/42935951-bulgarian-cartrader-at-ampere-muffatwerk?utm_medium=organic&utm_source=microformat": {
+"address": "Zellstr. 4, 81667 Munich",
+"cost": "36.20 €",
+"lat": 48.13279,
+"lng": 11.58904,
+"pagetitle": "Bulgarian Cartrader at Ampere / Muffatwerk (20 Nov 2026)",
+"ts": 1794845769,
+"venue": "Ampere / Muffatwerk"
+},
 "https://www.songkick.com/concerts/42939412-our-promise-at-werk-backstage?utm_medium=organic&utm_source=microformat": {
 "address": "Reitknechtstrasse 6, 80639 Munich",
 "cost": "35.70 €",
@@ -20626,6 +21059,15 @@
 "ts": 1793548597,
 "venue": "Halle, Backstage"
 },
+"https://www.songkick.com/concerts/43041541-son-mieux-at-ampere?utm_medium=organic&utm_source=microformat": {
+"address": "Zellstraße 4, 81667 Munich",
+"cost": "30.60 €",
+"lat": 48.13321,
+"lng": 11.58971,
+"pagetitle": "Son Mieux at Ampere (16 Nov 2026)",
+"ts": 1794845769,
+"venue": "Ampere"
+},
 "https://www.songkick.com/concerts/43053871-steaming-satellites-at-strom?utm_medium=organic&utm_source=microformat": {
 "address": "Lindwurmstraße 88, 80337 Munich",
 "cost": "27.29 – 28.20 €",
@@ -20652,6 +21094,15 @@
 "pagetitle": "ALLT at Technikum (14 Nov 2026)",
 "ts": 1794202093,
 "venue": "Technikum"
+},
+"https://www.songkick.com/concerts/43063750-jose-gonzalez-at-muffathalle?utm_medium=organic&utm_source=microformat": {
+"address": "Zellstr. 4, 81667 Munich",
+"cost": "52.55 €",
+"lat": 48.13321,
+"lng": 11.58971,
+"pagetitle": "José González at Muffathalle (18 Nov 2026)",
+"ts": 1794845769,
+"venue": "Muffathalle"
 },
 "https://www.songkick.com/concerts/43064340-portugal-the-man-at-tonhalle-munchen?utm_medium=organic&utm_source=microformat": {
 "address": "Atelierstraße 24, 81671 Munich",
@@ -20722,6 +21173,15 @@
 "pagetitle": "Baby Lasagna at Technikum (16 Nov 2026)",
 "ts": 1794374511,
 "venue": "Technikum"
+},
+"https://www.songkick.com/concerts/43085590-arlo-parks-at-muffathalle?utm_medium=organic&utm_source=microformat": {
+"address": "Zellstr. 4, 81667 Munich",
+"cost": "49.70 €",
+"lat": 48.13321,
+"lng": 11.58971,
+"pagetitle": "Arlo Parks at Muffathalle (16 Nov 2026)",
+"ts": 1794845769,
+"venue": "Muffathalle"
 },
 "https://www.songkick.com/concerts/43086326-conny-at-halle-backstage?utm_medium=organic&utm_source=microformat": {
 "address": "Reitknechtstrasse 6, 80639 Munich",
@@ -20917,6 +21377,15 @@
 "lng": 11.57034,
 "ts": 1793548600,
 "venue": "Rote Sonne"
+},
+"https://www.songkick.com/concerts/43189296-against-the-current-at-muffathalle?utm_medium=organic&utm_source=microformat": {
+"address": "Zellstr. 4, 81667 Munich",
+"cost": "49.50 – 51.00 €",
+"lat": 48.13321,
+"lng": 11.58971,
+"pagetitle": "Against the Current at Muffathalle (17 Nov 2026)",
+"ts": 1794845769,
+"venue": "Muffathalle"
 },
 "https://www.songkick.com/concerts/43189747-noah-guthrie-at-heppel-and-ettlich?utm_medium=organic&utm_source=microformat": {
 "address": "Feilitzschstr. 12, 80802 Munich",
@@ -21137,6 +21606,15 @@
 "pagetitle": "heylucas at Kranhalle, Feierwerk (13 Nov 2026)",
 "ts": 1794202093,
 "venue": "Kranhalle, Feierwerk"
+},
+"https://www.songkick.com/concerts/43264939-saint-stacy-at-ampere?utm_medium=organic&utm_source=microformat": {
+"address": "Zellstraße 4, 81667 Munich",
+"cost": "29.30 €",
+"lat": 48.13321,
+"lng": 11.58971,
+"pagetitle": "Saint Stacy at Ampere (17 Nov 2026)",
+"ts": 1794845769,
+"venue": "Ampere"
 },
 "https://www.songkick.com/concerts/43267245-michael-schenker-at-nachtwerk-club?utm_medium=organic&utm_source=microformat": {
 "address": "Landsberger Str. 185, 80687 Munich",
@@ -22251,6 +22729,15 @@
 "ts": 1794633196,
 "venue": "Giesecke+Devrient, München"
 },
+"https://www.tum.de/aktuelles/veranstaltungen/details/fuehrung-durch-die-ausstellung-fascination-of-light": {
+"address": "Arcisstr. 21, 80333 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Führung durch die Ausstellung Fascination of Light",
+"ts": 1794845769,
+"venue": "Stammgelände München"
+},
 "https://www.tum.de/aktuelles/veranstaltungen/details/game-on-game-design-day": {
 "address": "Barerstraße 70, 80799 München",
 "cost": "kostenlos",
@@ -22292,6 +22779,15 @@
 "pagetitle": "Jubiläumskonzert: 20 Jahre Campus-Chor Garching",
 "ts": 1793942395,
 "venue": "Bürgerhaus Garching"
+},
+"https://www.tum.de/aktuelles/veranstaltungen/details/lebensmittel-selbst-fermentieren": {
+"address": "Karlstraße 32, 80333 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Lebensmittel selbst fermentieren",
+"ts": 1794845769,
+"venue": "Katholische Hochschulgemeinde, München"
 },
 "https://www.tum.de/aktuelles/veranstaltungen/details/lit-advanced-day-fuer-wissenschaftliches-arbeiten": {
 "address": null,
@@ -22449,6 +22945,15 @@
 "pagetitle": "Disaster Resilience Days 2026",
 "ts": 1794808243,
 "venue": "Residenz & Conference Centre and House of Bavarian Industry (Munich)"
+},
+"https://www.unibw.de/home/veranstaltungen/zentrale-termine/kaempfen-koennen-um-nicht-kaempfen-zu-muessen": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kämpfen können, um nicht kämpfen zu müssen",
+"ts": 1794845769,
+"venue": "Universität der Bundeswehr München, Stauffenbergsaal (Geb. 35/II)"
 },
 "https://www.unibw.de/home/veranstaltungen/zentrale-termine/m4p-showcase-the-challenge-of-digital-peace-promoting-journalism-in-a-contested-information-environment": {
 "address": null,
@@ -22826,6 +23331,15 @@
 "ts": 1794460953,
 "venue": null
 },
+"https://www.unternehmertum.de/events/start-and-spread-winter-2024-powered-by-manage-and-more/": {
+"address": "Hansastraße 19, 80686 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Start and Spread Winter 2026 - powered by Manage and More",
+"ts": 1794845766,
+"venue": "ADAC Zentrale"
+},
 "https://www.vbw-bayern.de/vbw/Termine/Amerika-hat-gewaehlt-–-Die-transatlantischen-Wirtschaftsbeziehungen-nach-den-Zwischenwahlen.jsp": {
 "address": "Max-Joseph-Straße 5 80333 München",
 "cost": "kostenlos",
@@ -22844,12 +23358,13 @@
 "venue": null
 },
 "https://www.vbw-bayern.de/vbw/Termine/Demokratie-in-Gefahr.-Mehrheitsfindung-in-Zeiten-zunehmender-Polarisierung-2.jsp": {
-"address": "Max-Joseph-Straße 5 80333 München",
-"cost": "kostenlos",
+"address": null,
+"cost": null,
 "lat": null,
 "lng": null,
-"ts": 1793548336,
-"venue": "hbw"
+"pagetitle": "Mehrheitsfindung in Zeiten zunehmender Polarisierung",
+"ts": 1794845766,
+"venue": null
 },
 "https://www.vbw-bayern.de/vbw/Termine/Demokratie-in-Gefahr.-Mehrheitsfindung-in-Zeiten-zunehmender-Polarisierung.jsp": {
 "address": "Max-Joseph-Straße 5 80333 München",
@@ -22960,7 +23475,8 @@
 "cost": "kostenlos",
 "lat": null,
 "lng": null,
-"ts": 1793548336,
+"pagetitle": "vbw und BDI diskutieren über Staatsmodernisierung und Bürokratieabbau.",
+"ts": 1794845766,
 "venue": "hbw"
 },
 "https://www.vbw-bayern.de/vbw/Themen-und-Services/Buerokratie/Impulse-fuer-den-Wohnungsbau.jsp": {
@@ -23100,6 +23616,15 @@
 "lng": null,
 "pagetitle": "Rolle der Landwirtschaft in der künftigen Energieversorgung",
 "ts": 1794460952,
+"venue": "hbw"
+},
+"https://www.vbw-bayern.de/vbw/Themen-und-Services/Infrastruktur/Wohnen/Impulse-fuer-den-Wohnungsbau.jsp": {
+"address": "Max-Joseph-Straße 5 80333 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Wohnungsbau beschleunigen: Herausforderungen für Freistaat und Bund",
+"ts": 1794845766,
 "venue": "hbw"
 },
 "https://www.vbw-bayern.de/vbw/Themen-und-Services/Innovation/XR-im-Bereich-Recruiting-Employer-Branding-Onboarding-und-Training-–-erleben-verstehen-einsetzen.jsp": {

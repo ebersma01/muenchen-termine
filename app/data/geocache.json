@@ -64,6 +64,11 @@
 "lng": 11.49403
 },
 "alazani valley, münchen": null,
+"albert-roßhaupter-straße 45, 81369 münchen": {
+"address": "Holiday Inn München - Westpark, 45, Albert-Roßhaupter-Straße, Kriegersiedlung, Sendling-Westpark, München, Bayern, 81369, Deutschland",
+"lat": 48.11659,
+"lng": 11.53128
+},
 "albert-schweitzer-straße 62, 81735 münchen": {
 "address": "62, Albert-Schweitzer-Straße, Neuperlach, Ramersdorf-Perlach, München, Bayern, 81735, Deutschland",
 "lat": 48.10727,
@@ -170,6 +175,18 @@
 "lng": 11.5752
 },
 "ampere (verlegt aus dem technikum), münchen": null,
+"ampere —di 13.04. 19:30, münchen": null,
+"ampere —fr 11.12. 21:30, münchen": null,
+"ampere —fr 16.04. 19:30, münchen": null,
+"ampere —fr 20.11. 19:30, münchen": null,
+"ampere —mi 02.12., münchen": null,
+"ampere —sa 13.02. 19:30, münchen": null,
+"ampere —sa 19.12. 19:30, münchen": null,
+"ampere —sa 21.11. 19:30, münchen": null,
+"ampere —sa 27.02. 19:30, münchen": null,
+"ampere —sa 27.11. 19:30, münchen": null,
+"ampere —sa 30.01. 19:30, münchen": null,
+"ampere —so 11.04. 19:30, münchen": null,
 "ampere, münchen": {
 "address": "Ampere im Muffatwerk, 4, Zellstraße, Haidhausen-Süd, Au, Au-Haidhausen, München, Bayern, 81667, Deutschland",
 "lat": 48.13289,
@@ -379,6 +396,11 @@
 "address": "4, Bergmannstraße, Theresienhöhe, Westend, Schwanthalerhöhe, München, Bayern, 80339, Deutschland",
 "lat": 48.13925,
 "lng": 11.53768
+},
+"bergmannstraße 66, münchen, by, münchen": {
+"address": "66, Bergmannstraße, Theresienhöhe, Westend, Schwanthalerhöhe, München, Bayern, 80339, Deutschland",
+"lat": 48.13233,
+"lng": 11.5361
 },
 "bergson gallery, münchen": null,
 "bergson kunstkraftwerk, münchen": {
@@ -757,6 +779,11 @@
 },
 "erika-mann-straße 33, 80636 münchen, germany, münchen, by, münchen": null,
 "erinnerungsort badehaus, münchen": null,
+"erlöserkirche schwabing": {
+"address": "Erlöserkirche, 13, Ungererstraße, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80802, Deutschland",
+"lat": 48.16474,
+"lng": 11.58783
+},
 "erlöserkirche schwabing (ungererstr. 13)": {
 "address": "Erlöserkirche, 13, Ungererstraße, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80802, Deutschland",
 "lat": 48.16474,
@@ -1056,6 +1083,11 @@
 "lat": 48.1295,
 "lng": 11.53344
 },
+"hansastraße 19, 80686 münchen": {
+"address": "ADAC-Zentrale, 19, Hansastraße, Sendling-Westpark, München, Bayern, 80686, Deutschland",
+"lat": 48.13361,
+"lng": 11.5281
+},
 "hansastraße 31, 81373 münchen": {
 "address": "Farbenladen, 31, Hansastraße, Hansapark, Sendling-Westpark, München, Bayern, 81373, Deutschland",
 "lat": 48.1301,
@@ -1304,6 +1336,11 @@
 "address": "Europäische Südsternwarte, 2, Karl-Schwarzschild-Straße, Hochschul- und Forschungszentrum, Garching bei München, Landkreis München, Bayern, 85748, Deutschland",
 "lat": 48.25963,
 "lng": 11.67133
+},
+"karlstraße 32, 80333 münchen": {
+"address": "Katholische Hochschulgemeinde an der TU München, 32, Karlstraße, Kunstareal, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80333, Deutschland",
+"lat": 48.14373,
+"lng": 11.56472
 },
 "karlstraße 38, 80333 münchen": {
 "address": "38, Karlstraße, Kunstareal, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80333, Deutschland",
@@ -1569,6 +1606,11 @@
 "lat": 48.39747,
 "lng": 11.73774
 },
+"lindwurmstraße 189, 80337 münchen": {
+"address": "189, Lindwurmstraße, Sendlinger Berg, Untersendling, Sendling, München, Bayern, 80337, Deutschland",
+"lat": 48.12264,
+"lng": 11.54574
+},
 "lindwurmstraße 37, 80337 münchen": {
 "address": "Cocoon Pinsa & Bar, 37, Lindwurmstraße, Am Alten Südlichen Friedhof, Klinikviertel, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80337, Deutschland",
 "lat": 48.13082,
@@ -1826,6 +1868,9 @@
 "muffathalle (verlegt aus dem ampere), münchen": null,
 "muffathalle (verlegt aus dem werk 7), münchen": null,
 "muffathalle (verlegt aus der tonhalle), münchen": null,
+"muffathalle —12.01.27 & 13.01.27, münchen": null,
+"muffathalle —sa 15.05. 19:30, münchen": null,
+"muffathalle —sa 20.03. 19:45, münchen": null,
 "muffathalle, münchen": {
 "address": "Muffathalle, 4, Zellstraße, Haidhausen-Süd, Au, Au-Haidhausen, München, Bayern, 81667, Deutschland",
 "lat": 48.13305,
@@ -2164,6 +2209,7 @@
 "lat": 48.1749,
 "lng": 11.55002
 },
+"olympiahalle —fr 20.11. 20, münchen": null,
 "olympiahalle, münchen": {
 "address": "Olympiahalle, Coubertinplatz, Am Riesenfeld, Milbertshofen-Am Hart, München, Bayern, 80809, Deutschland",
 "lat": 48.1749,
@@ -2709,6 +2755,7 @@
 "lng": 11.55772
 },
 "strom (verlegt vom ampere), münchen": null,
+"strom —fr 12.03. 19:45, münchen": null,
 "strom, münchen": {
 "address": "STROM, 88, Lindwurmstraße, Am Schlachthof, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80337, Deutschland",
 "lat": 48.12492,
@@ -2870,12 +2917,14 @@
 "lng": 11.66662
 },
 "tollwood winterfestival münchen": null,
+"tonhalle (verlegt aus dem backstage werk) —fr 27.11. 19:30, münchen": null,
 "tonhalle (verlegt aus dem backstage werk), münchen": null,
 "tonhalle münchen": {
 "address": "TonHalle, 24, Atelierstraße, Werksviertel München, Berg am Laim, München, Bayern, 81671, Deutschland",
 "lat": 48.12391,
 "lng": 11.60691
 },
+"tonhalle —sa 24.04. 19:30, münchen": null,
 "tonhalle, münchen": {
 "address": "TonHalle, 24, Atelierstraße, Werksviertel München, Berg am Laim, München, Bayern, 81671, Deutschland",
 "lat": 48.12391,
@@ -3081,6 +3130,7 @@
 "lng": 11.55935
 },
 "zenith (verlegt aus der olympiahalle), münchen": null,
+"zenith —fr 19.03. 19:30, münchen": null,
 "zenith, münchen": {
 "address": "Zenith Kulturhalle, 29, Lilienthalallee, Alt-Freimann, Freimann, Schwabing-Freimann, München, Bayern, 80939, Deutschland",
 "lat": 48.19469,
