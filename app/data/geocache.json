@@ -625,6 +625,7 @@
 },
 "dallmayr coffee club, münchen": null,
 "damarante keramik, münchen": null,
+"das metta, münchen": null,
 "das weinheim, münchen": {
 "address": "Das Weinheim, 2, Bauerstraße, Schwabing-West, Alt-Schwabing, Schwabing, München, Bayern, 80796, Deutschland",
 "lat": 48.15891,
@@ -678,6 +679,7 @@
 "lat": 48.13029,
 "lng": 11.62444
 },
+"die nachtkantine, münchen": null,
 "die weinleserin - weinhandlung & events, münchen": null,
 "dienerstraße 12, 80331 münchen": {
 "address": "MVZ Med 360 Grad, 12, Dienerstraße, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
@@ -700,6 +702,7 @@
 "lng": 11.57986
 },
 "eataly schrannenhalle, münchen": null,
+"eck - platz für dein projekt, münchen": null,
 "ecke luisenstraße /brienner straße, münchen": null,
 "eclips kantine, münchen": null,
 "edisonstraße 15, 74076 heilbronn, münchen": null,
@@ -736,6 +739,11 @@
 "lng": 11.6064
 },
 "ensider:base – coworking. event. workshops., münchen": null,
+"entenbachstraße 8, 81541 münchen": {
+"address": "8, Entenbachstraße, Nockherberg, Untere Au, Au, Au-Haidhausen, München, Bayern, 81541, Deutschland",
+"lat": 48.12443,
+"lng": 11.57918
+},
 "entkorkte kunst, münchen": null,
 "erich-kästner-straße 14, 80796 münchen": {
 "address": "14, Erich-Kästner-Straße, Schwabing-West, Schwabing, München, Bayern, 80796, Deutschland",
@@ -958,6 +966,11 @@
 "lat": 48.1295,
 "lng": 11.57001
 },
+"goethestraße 24, 80336 münchen": {
+"address": "Theatergemeinde München, 24, Goethestraße, Klinikviertel, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80336, Deutschland",
+"lat": 48.13646,
+"lng": 11.55842
+},
 "graf rumford, münchen": {
 "address": "Graf Rumford, Rumfordstraße, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80469, Deutschland",
 "lat": 48.13384,
@@ -1174,6 +1187,11 @@
 "address": "Caritas Don Bosco Schulen im Salesianum Haus 10, 19, Auerfeldstraße, Haidhausen-Süd, Au, Au-Haidhausen, München, Bayern, 81541, Deutschland",
 "lat": 48.12433,
 "lng": 11.59511
+},
+"impact hub munich": {
+"address": "Impact Hub, 8, Gotzinger Straße, Sendlinger Feld, Sendling, München, Bayern, 81371, Deutschland",
+"lat": 48.12118,
+"lng": 11.55016
 },
 "impact hub münchen": {
 "address": "Impact Hub, 8, Gotzinger Straße, Sendlinger Feld, Sendling, München, Bayern, 81371, Deutschland",
@@ -1706,6 +1724,11 @@
 "lat": 48.13825,
 "lng": 11.58448
 },
+"maximiliansplatz 5, 80333 münchen": {
+"address": "Rote Sonne, 5, Maximiliansplatz, Maxvorstadt, München, Bayern, 80333, Deutschland",
+"lat": 48.14218,
+"lng": 11.57014
+},
 "mehrzweckhalle, an der georg-zech-allee 15-17, 80995 münchen": null,
 "mensa leopoldstraße leopoldstraße 13a, 80802 münchen": {
 "address": "Mensa Leopoldstraße, 13a, Leopoldstraße, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80802, Deutschland",
@@ -1860,6 +1883,7 @@
 "mvhs im einstein 28, münchen": null,
 "mvhs im gasteig hp8, münchen": null,
 "mvhs in allach-untermenzing, münchen": null,
+"mvhs in neuhausen": null,
 "mvhs in pasing": null,
 "mvhs ost, münchen": null,
 "myposter, münchen": {
@@ -1935,6 +1959,7 @@
 "lat": 48.1384,
 "lng": 11.58247
 },
+"münchner kreis für volksmusik, lied und tanz e.v., münchen": null,
 "münchner künstlerhaus, münchen": {
 "address": "little ART - Münchner Künstlerhaus, 8, Lenbachplatz, Kreuzviertel, Altstadt-Lehel, München, Bayern, 80333, Deutschland",
 "lat": 48.14012,
@@ -1942,6 +1967,11 @@
 },
 "münchner lustspielhaus, münchen": null,
 "münchner residenz, münchen": null,
+"münchner stadtbibliothek allach-untermenzing, münchen": {
+"address": "Münchner Stadtbibliothek Allach-Untermenzing, 1, Pfarrer-Grimm-Straße, Untermenzing, Allach-Untermenzing, München, Bayern, 80999, Deutschland",
+"lat": 48.17957,
+"lng": 11.46392
+},
 "münchner stadtbibliothek bogenhausen": {
 "address": "Münchner Stadtbibliothek Bogenhausen, 16, Rosenkavalierplatz, Arabellapark, Priel, Bogenhausen, München, Bayern, 81925, Deutschland",
 "lat": 48.1517,
@@ -2077,6 +2107,11 @@
 "address": "St. Vinzenz-Haus, 5, Nußbaumstraße, Am Alten Südlichen Friedhof, Klinikviertel, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80336, Deutschland",
 "lat": 48.13202,
 "lng": 11.56043
+},
+"nymphenburger straße 171 b, 80634 münchen": {
+"address": "Münchner Stadtbibliothek Neuhausen, 171b, Nymphenburger Straße, Gern, Neuhausen-Nymphenburg, München, Bayern, 80634, Deutschland",
+"lat": 48.15537,
+"lng": 11.53199
 },
 "oberpollinger, münchen": {
 "address": "Oberpollinger, 18, Neuhauser Straße, Hackenviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
@@ -2619,6 +2654,7 @@
 "lng": 11.5572
 },
 "spiritual touch, münchen": null,
+"spotlight studios, münchen": null,
 "st. hildegard - pasing": {
 "address": "St. Hildegard, Omptedastraße, Waldkolonie Pasing, Pasing, Pasing-Obermenzing, München, Bayern, 81243, Deutschland",
 "lat": 48.1429,
@@ -2938,6 +2974,11 @@
 },
 "vorhoelzer forum der tum, münchen": null,
 "walmdachhaus münchen schwabing nord": null,
+"walter storms galerie, münchen": {
+"address": "Walter Storms Galerie S48, 48, Schellingstraße, Kunstareal, Maxvorstadt, München, Bayern, 80799, Deutschland",
+"lat": 48.15098,
+"lng": 11.57406
+},
 "wasserburger landstraße 32, 81825 münchen": {
 "address": "Kulturzentrum Trudering, 32, Wasserburger Landstraße, Straßtrudering, Neutrudering, Trudering-Riem, München, Bayern, 81825, Deutschland",
 "lat": 48.11933,
