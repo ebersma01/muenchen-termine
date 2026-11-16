@@ -281,7 +281,7 @@
  {
   "id": "dsw",
   "name": "DSW (Aktionärsschutz)",
-  "url": "https://www.dsw-info.de/veranstaltungen/anlegerforen/",
+  "url": "https://www.dsw-info.de/dsw-events/anlegerforen",
   "categories": [
    "wirtschaft"
   ],
@@ -290,7 +290,7 @@
   "builtin": true,
   "fetch": {
    "scope": "filter",
-   "titlePrefix": "DSW-Anlegerforum "
+   "keepOnline": true
   }
  },
  {

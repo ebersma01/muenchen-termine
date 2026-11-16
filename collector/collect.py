@@ -311,7 +311,9 @@ def finish(ev, src, cats, geocoder, today):
     loc_text = " ".join(x for x in [v.get("name"), v.get("address")] if x)
     scope = f.get("scope", "local")
     online = bool(ev.get("online")) and not loc_text
-    if scope == "filter":
+    if scope == "filter" and online and f.get("keepOnline"):
+        pass  # Online-Termine dieser Quelle immer behalten
+    elif scope == "filter":
         if not (mentions_mvv(loc_text or blob) or (v.get("lat") and km((v["lat"], v["lng"]), MARIENPLATZ) < MAX_KM)):
             return None
     else:

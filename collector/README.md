@@ -58,6 +58,7 @@ Jede Quelle ist ein Eintrag in `app/data/sources.json`:
 | `titleRegex`, `titlePrefix`, `locationRegex`, `titleStrip` | Feinkorrekturen für Titel und Ort |
 | `detail` | Detailseiten der Termine öffnen, um Uhrzeit und Ort zu ergänzen |
 | `maxEvents` | höchstens so viele Termine dieser Quelle |
+| `keepOnline` | bei `scope: filter` Online-Termine trotzdem behalten |
 | `noDetail` | Detailseiten dieser Quelle nicht öffnen |
 | `monthHeader`, `dayHeader` | Spielpläne mit Monatsüberschrift („November 2026“) und nur Tageszahl: Selektoren für Monats- und Tageskopf |
 | `tags` | Selektor für Rubriken/Hashtags der Karte; sie werden an die Beschreibung gehängt und zählen für die Kategorie |
