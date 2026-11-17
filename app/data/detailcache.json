@@ -917,6 +917,15 @@
 "ts": 1794808286,
 "venue": "Theatiner Film"
 },
+"https://rausgegangen.de/events/40-griechische-filmwoche-munchen-4/": {
+"address": "Hans-Preißinger-Straße 8, 81379 München",
+"cost": "11.00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "40. Griechische Filmwoche München am 17.11.2026 in München",
+"ts": 1794892643,
+"venue": "Gasteig HP8"
+},
 "https://rausgegangen.de/events/5ndreas-postrock-festival-0/": {
 "address": "Hansastr. 39, 81373 München",
 "cost": "50 €",
@@ -1219,6 +1228,15 @@
 "ts": 1794808282,
 "venue": "MVHS in Allach-Untermenzing"
 },
+"https://rausgegangen.de/events/ausstellung-rebellinnen-frauen-verandern-die-welt-10-novembe-5/": {
+"address": "Oertelplatz 11, 80999 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Ausstellung: Rebellinnen – Frauen verändern die Welt 10. November 2026 bis 31. Januar 2027 am 17.11.2026 in München",
+"ts": 1794892640,
+"venue": "MVHS in Allach-Untermenzing"
+},
 "https://rausgegangen.de/events/autumn-vibes-ludwigsfelder-chor-groove-garden-0/": {
 "address": "Ruth-Drexel-Straße, 81927 München",
 "cost": "3.00 €",
@@ -1245,6 +1263,24 @@
 "pagetitle": "beisl Comedy | Open Mic | Stand-Up Comedy Show am 04.11.2026 in München",
 "ts": 1793715520,
 "venue": "beisl bar & café"
+},
+"https://rausgegangen.de/events/beisl-comedy-open-mic-stand-up-comedy-show-2/": {
+"address": "Utzschneiderstraße 8, 80469 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "beisl Comedy | Open Mic | Stand-Up Comedy Show am 18.11.2026 in München",
+"ts": 1794892643,
+"venue": "beisl bar & café"
+},
+"https://rausgegangen.de/events/berq-tour-2026-8/": {
+"address": "Lilienthalallee 29, 80939 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Berq • Tour 2026 am 24.11.2026 in München",
+"ts": 1794892637,
+"venue": "Zenith"
 },
 "https://rausgegangen.de/events/besichtigung-marstallmuseum-mit-museum-nymphenburger-porzell-830/": {
 "address": "Schloß Nymphenburg 208, 80638 München",
@@ -1385,6 +1421,15 @@
 "lng": null,
 "pagetitle": "Besichtigung Marstallmuseum mit Museum \"Nymphenburger Porzellan\" am 16.11.2026 in München",
 "ts": 1794808286,
+"venue": "Marstallmuseum und Museum \"Nymphenburger Porzellan\" in Schloss Nymphenburg"
+},
+"https://rausgegangen.de/events/besichtigung-marstallmuseum-mit-museum-nymphenburger-porzell-846/": {
+"address": "Schloß Nymphenburg 208, 80638 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Besichtigung Marstallmuseum mit Museum \"Nymphenburger Porzellan\" am 17.11.2026 in München",
+"ts": 1794892643,
 "venue": "Marstallmuseum und Museum \"Nymphenburger Porzellan\" in Schloss Nymphenburg"
 },
 "https://rausgegangen.de/events/billie-bird-soledad-tour-2026-2/": {
@@ -1627,6 +1672,15 @@
 "lng": null,
 "pagetitle": "Comedy für Freunde - Profi-Testbühne am 07.11.2026 in München",
 "ts": 1793769396,
+"venue": "Comedy für Freunde Club"
+},
+"https://rausgegangen.de/events/comedy-fur-freunde-profi-testbuhne-177/": {
+"address": "Candidplatz 9, 81543 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Comedy für Freunde - Profi-Testbühne am 21.11.2026 in München",
+"ts": 1794892637,
 "venue": "Comedy für Freunde Club"
 },
 "https://rausgegangen.de/events/comedy-fur-freunde-profi-testbuhne-187/": {
@@ -2105,6 +2159,15 @@
 "ts": 1794808297,
 "venue": null
 },
+"https://rausgegangen.de/events/escape-the-city-munchen-die-vermisste-opernsangerin-mit-echt-98/": {
+"address": "Max-Joseph-Platz, 80539 München",
+"cost": "79.90 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Escape the City München: Die vermisste Opernsängerin mit echtem Spielpaket am 18.11.2026 in München",
+"ts": 1794892645,
+"venue": null
+},
 "https://rausgegangen.de/events/european-django-band-0/": {
 "address": "August-Exter-Straße 1, 81245 München",
 "cost": "kostenlos",
@@ -2130,6 +2193,15 @@
 "pagetitle": "EX YU POP & ROCK PARTY / SJECAS LI SE DOLLY BELL am 14.11.2026 in München",
 "ts": 1794374513,
 "venue": "PALAIS Club"
+},
+"https://rausgegangen.de/events/feierwerk-sessions-nr-29-mit-kiiwi-diego-and-the-moon-und-te-0/": {
+"address": "Hansastraße 39-41, 81373 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "FEIERWERK SESSIONS NR. 29 mit KIIWI, DIEGO AND THE MOON und TEMERE am 21.11.2026 in München",
+"ts": 1794892638,
+"venue": "Feierwerk"
 },
 "https://rausgegangen.de/events/feministischer-chor-munchen-0/": {
 "address": "Zenettistraße 2, 80337 München",
@@ -2325,6 +2397,15 @@
 "ts": 1794808286,
 "venue": "Paketposthalle München Pineapple Park"
 },
+"https://rausgegangen.de/events/formula1-ausstellung-munchen-172/": {
+"address": "Arnulfstr. 195, 80335 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "FORMULA1® Ausstellung München am 17.11.2026 in München",
+"ts": 1794892643,
+"venue": "Paketposthalle München Pineapple Park"
+},
 "https://rausgegangen.de/events/franzosische-filmwoche-2026-0/": {
 "address": "Theatinerstraße 32, 80333 München",
 "cost": "kostenlos",
@@ -2377,6 +2458,15 @@
 "pagetitle": "FÜHRUNG DURCH DAS NATIONALTHEATER am 15.11.2026 in München",
 "ts": 1794633201,
 "venue": "Nationaltheater München - Bayerische Staatsoper"
+},
+"https://rausgegangen.de/events/gaga-comedy-5/": {
+"address": "Müllerstraße 41, 80469 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Gaga Comedy #5 am 18.11.2026 in München",
+"ts": 1794892638,
+"venue": "The Hedgehog"
 },
 "https://rausgegangen.de/events/geistesblitz-comedy-open-mic-218/": {
 "address": "Erich-Kästner-Straße 14, 80796 München",
@@ -2546,6 +2636,15 @@
 "ts": 1794808296,
 "venue": "Odeonsplatz"
 },
+"https://rausgegangen.de/events/geschichte-live-erleben-mit-historischer-stadtfuhrung-munche-199/": {
+"address": "Odeonsplatz 1, 80539 München",
+"cost": "25.00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Geschichte live erleben mit historischer Stadtführung München am 17.11.2026 in München",
+"ts": 1794892643,
+"venue": "Odeonsplatz"
+},
 "https://rausgegangen.de/events/glaube-370/": {
 "address": "Sonnenstraße 12a, 80331 München",
 "cost": "kostenlos",
@@ -2596,6 +2695,15 @@
 "pagetitle": "GO SING CHOIR in der Backstage Arena, München (15.11.) am 15.11.2026 in München",
 "ts": 1794460959,
 "venue": "Backstage Arena"
+},
+"https://rausgegangen.de/events/grond-x-hollinger-dual-currents-kontai-0/": {
+"address": "Schwere Reiter Str. 2h, 80797 München",
+"cost": "14.15 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Grond x Hollinger: Dual Currents + Kontai am 18.11.2026 in München",
+"ts": 1794892639,
+"venue": "Import Export München"
 },
 "https://rausgegangen.de/events/groove-sistaz-munchens-frauen-bigband-live-auf-dem-schwabing-0/": {
 "address": null,
@@ -2800,6 +2908,24 @@
 "ts": 1794808297,
 "venue": "München, Schleißheimer Straße"
 },
+"https://rausgegangen.de/events/hippes-historisches-munchen-schwabing-stadtfuhrung-mit-deine-1035/": {
+"address": "Schleißheimer Straße 144, 80797 München",
+"cost": "15.00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Hippes & historisches München Schwabing - Stadtführung mit deinem Smartphone am 18.11.2026 in München",
+"ts": 1794892645,
+"venue": "München, Schleißheimer Straße"
+},
+"https://rausgegangen.de/events/historischer-rundgang-im-ehemaligen-zwangsarbeiterinnenlager-2/": {
+"address": "Ehrenbürgstraße 9, 81249 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Historischer Rundgang im ehemaligen Zwangsarbeiter*innenlager an der Ehrenbürgstraße am 18.11.2026 in München",
+"ts": 1794892643,
+"venue": "Ehem. Zwangsarbeiter*innenlager an der Ehrenbürgstraße"
+},
 "https://rausgegangen.de/events/honeyball-club-14/": {
 "address": "Feilitzschstraße 12, 80802 München",
 "cost": "kostenlos",
@@ -2924,6 +3050,15 @@
 "lng": null,
 "pagetitle": "Installation & Intervention: „The Incautious Gaze“. Klangskulptur von Orkan Aydin, Doğukan Pahsa und Perfin Hozatlıoğlu am 16.11.2026 in München",
 "ts": 1794808279,
+"venue": "Careteria"
+},
+"https://rausgegangen.de/events/installation-intervention-the-incautious-gaze-klangskulptur--1/": {
+"address": "Goethestraße 24, 80336 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Installation & Intervention: „The Incautious Gaze“. Klangskulptur von Orkan Aydin, Doğukan Pahsa und Perfin Hozatlıoğlu am 17.11.2026 in München",
+"ts": 1794892639,
 "venue": "Careteria"
 },
 "https://rausgegangen.de/events/interdisciplinary-improvisation-laboratory-cross-modal-trans-0/": {
@@ -3215,6 +3350,15 @@
 "ts": 1794202097,
 "venue": null
 },
+"https://rausgegangen.de/events/kosk-chor-75/": {
+"address": "Zenettistraße 2, 80337 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "KÖŞK CHOR am 17.11.2026 in München",
+"ts": 1794892643,
+"venue": "Köşk München"
+},
 "https://rausgegangen.de/events/kostenfreier-ferienworkshop-im-tuftellab-robotik-0/": {
 "address": "Freddie-Mercury-Straße 5, 80797 München",
 "cost": "kostenlos",
@@ -3361,6 +3505,15 @@
 "lng": null,
 "pagetitle": "Krimi-Trail München Maxvorstadt: Spektakulärer Kunstraub am 16.11.2026 in München",
 "ts": 1794808286,
+"venue": "Krimi-Trail München Maxvorstadt"
+},
+"https://rausgegangen.de/events/krimi-trail-munchen-maxvorstadt-spektakularer-kunstraub-232/": {
+"address": "Königsplatz, 80333 München",
+"cost": "7.80 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Krimi-Trail München Maxvorstadt: Spektakulärer Kunstraub am 17.11.2026 in München",
+"ts": 1794892643,
 "venue": "Krimi-Trail München Maxvorstadt"
 },
 "https://rausgegangen.de/events/kuku-schrapnell-liest-gender-punks-0/": {
@@ -3511,6 +3664,15 @@
 "lng": null,
 "pagetitle": "Kulinarische Stadtführung - Kultur & Kulinarik neu entdecken am 16.11.2026 in München",
 "ts": 1794808296,
+"venue": "Altstadt München"
+},
+"https://rausgegangen.de/events/kulinarische-stadtfuhrung-kultur-kulinarik-neu-entdecken-162/": {
+"address": "Konigsplatz 1, 80333 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Kulinarische Stadtführung - Kultur & Kulinarik neu entdecken am 17.11.2026 in München",
+"ts": 1794892643,
 "venue": "Altstadt München"
 },
 "https://rausgegangen.de/events/kunstharz-jesmonite-basic-workshop-in-munchen-4/": {
@@ -3822,6 +3984,15 @@
 "ts": 1794114755,
 "venue": "Die Macherei"
 },
+"https://rausgegangen.de/events/neuperlacher-gesprach-burgerschaftliches-engagement-0/": {
+"address": "Albert-Schweitzer-Straße 62, 81735 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Neuperlacher Gespräch: bürgerschaftliches Engagement am 18.11.2026 in München",
+"ts": 1794892643,
+"venue": "KulturBuntNeuperlach"
+},
 "https://rausgegangen.de/events/nichtschwimmer-comedy-37/": {
 "address": "Lindwurmstraße 37, 80337 München",
 "cost": "kostenlos",
@@ -3927,6 +4098,15 @@
 "lng": null,
 "ts": 1794114759,
 "venue": null
+},
+"https://rausgegangen.de/events/public-health-filmfestival-cycling-cities-thema-unsere-stadt-0/": {
+"address": "Bernd-Eichinger-Platz 1, 80333 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Public Health Filmfestival - Cycling Cities, Thema: Unsere Stadt von morgen beginnt heute am 24.11.2026 in München",
+"ts": 1794892643,
+"venue": "HFF - Hochschule für Fernsehen und Film"
 },
 "https://rausgegangen.de/events/public-health-filmfestival-the-end-we-start-from-ov-thema-zu-0/": {
 "address": "Leopoldstraße 78, 80802 München",
@@ -4826,6 +5006,15 @@
 "lng": null,
 "pagetitle": "Werkausstellung Aquarell: Magie des Wassers 15. Oktober bis 25. November 2026 am 16.11.2026 in München",
 "ts": 1794808279,
+"venue": "MVHS in Pasing"
+},
+"https://rausgegangen.de/events/werkausstellung-aquarell-magie-des-wassers-15-oktober-bis-25-34/": {
+"address": "Bäckerstraße 14, 81241 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Werkausstellung Aquarell: Magie des Wassers 15. Oktober bis 25. November 2026 am 17.11.2026 in München",
+"ts": 1794892639,
 "venue": "MVHS in Pasing"
 },
 "https://rausgegangen.de/events/workshop-live-visual-performance-and-introduction-to-touchde-0/": {
@@ -7079,7 +7268,8 @@
 "cost": null,
 "lat": null,
 "lng": null,
-"ts": 1793682786,
+"pagetitle": "Forum Energie, Umwelt und Klima 2/2026: Last- und Einspeisemanagement",
+"ts": 1794892631,
 "venue": null
 },
 "https://www.baymevbm.de/baymevbm/ServiceCenter/Nachhaltigkeit/Klima/Sustainable-Finance-–-Anforderungen-im-Status-Quo.jsp": {
@@ -7289,7 +7479,8 @@
 "cost": null,
 "lat": null,
 "lng": null,
-"ts": 1793682786,
+"pagetitle": "bayme vbm Training: ERA-Eingruppierung – Vertiefung für HR",
+"ts": 1794892631,
 "venue": null
 },
 "https://www.baymevbm.de/baymevbm/ServiceCenter/Tarif/M-E-Flächentarifverträge/Tarif-Vergütung/Eingruppierung-nach-dem-ERA-TV-digital-5-2026.jsp": {
@@ -9232,7 +9423,8 @@
 "cost": null,
 "lat": null,
 "lng": null,
-"ts": 1793682788,
+"pagetitle": "Freie Maschinen",
+"ts": 1794892631,
 "venue": null
 },
 "https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/kaengurufuehrung-energie-motoren": {
@@ -10172,7 +10364,8 @@
 "cost": null,
 "lat": null,
 "lng": null,
-"ts": 1793682788,
+"pagetitle": "\"Die Anstalt\" - Politische Satire im Schloss - Evangelische Akademie Tutzing",
+"ts": 1794892631,
 "venue": null
 },
 "https://www.eatutzing.de/veranstaltung/die-anstalt-politische-satire-im-schloss-40/": {
@@ -10180,7 +10373,8 @@
 "cost": null,
 "lat": null,
 "lng": null,
-"ts": 1793682788,
+"pagetitle": "\"Die Anstalt\" - Politische Satire im Schloss - Evangelische Akademie Tutzing",
+"ts": 1794892631,
 "venue": null
 },
 "https://www.eatutzing.de/veranstaltung/die-zukunft-des-protestantismus/": {
@@ -10222,7 +10416,8 @@
 "cost": "kostenlos",
 "lat": null,
 "lng": null,
-"ts": 1793682788,
+"pagetitle": "Generationengespräche - Was uns verbindet - Evangelische Akademie Tutzing",
+"ts": 1794892631,
 "venue": "Kontakt"
 },
 "https://www.eatutzing.de/veranstaltung/herbsttagung-des-politischen-clubs-2/": {
@@ -10298,16 +10493,18 @@
 "cost": "90,00 €",
 "lat": null,
 "lng": null,
-"ts": 1793682788,
+"pagetitle": "Seid unverzagt - Evangelische Akademie Tutzing",
+"ts": 1794892631,
 "venue": "Kontakt"
 },
 "https://www.eatutzing.de/veranstaltung/teilhabe-im-film-vol-3/": {
-"address": null,
-"cost": null,
+"address": "Schlossstraße 2+4, 82327 Tutzing",
+"cost": "70,00 €",
 "lat": null,
 "lng": null,
-"ts": 1793682788,
-"venue": null
+"pagetitle": "Teilhabe im Film (Vol. 3) - Evangelische Akademie Tutzing",
+"ts": 1794892631,
+"venue": "Kontakt"
 },
 "https://www.econ.lmu.de/de/aktuelles/veranstaltung/munich-lectures-in-economics-2026-d4533d3e.html": {
 "address": null,
@@ -15722,6 +15919,15 @@
 "ts": 1793596991,
 "venue": null
 },
+"https://www.meetup.com/munich-social-gaming/events/315320434/": {
+"address": "Neuschwansteinpl. 12, München, BY, München",
+"cost": "150.00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Friday Board Games, Fri, Nov 20, 2026, 6:30 PM",
+"ts": 1794892636,
+"venue": null
+},
 "https://www.meetup.com/munich-social-gaming/events/317366020/": {
 "address": "Hans-Preißinger-Straße 8, 81379 München, Germany, Gasteig HP8 +49 89 480980 https://goo.gl/maps/J2oGrgZ2WBRNFd9E6, München, München",
 "cost": "150.00 €",
@@ -16002,7 +16208,8 @@
 "cost": "kostenlos",
 "lat": null,
 "lng": null,
-"ts": 1793682795,
+"pagetitle": "Spaziergänge - Hot Spots of Art - MUCBOOK",
+"ts": 1794892645,
 "venue": "irrland 2"
 },
 "https://www.muenchen.de/veranstaltungen/allerheiligen": {
@@ -16158,7 +16365,8 @@
 "cost": "Ab 18 €",
 "lat": null,
 "lng": null,
-"ts": 1793682788,
+"pagetitle": "Mephisto - Programm - Kammerspiele",
+"ts": 1794892633,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/32919-mephisto?activity=54642": {
@@ -16166,7 +16374,8 @@
 "cost": "Ab 18 €",
 "lat": null,
 "lng": null,
-"ts": 1793682789,
+"pagetitle": "Mephisto - Programm - Kammerspiele",
+"ts": 1794892634,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/32923-was-ihr-wollt": {
@@ -16190,7 +16399,8 @@
 "cost": "6 €",
 "lat": null,
 "lng": null,
-"ts": 1793682789,
+"pagetitle": "Was ihr wollt - Programm - Kammerspiele",
+"ts": 1794892634,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/32924-sauhund": {
@@ -16214,7 +16424,8 @@
 "cost": "Ab 18 €",
 "lat": null,
 "lng": null,
-"ts": 1793682788,
+"pagetitle": "Sauhund - Programm - Kammerspiele",
+"ts": 1794892632,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/42815-wallenstein?activity=53858": {
@@ -16310,7 +16521,8 @@
 "cost": "15 €",
 "lat": null,
 "lng": null,
-"ts": 1793682789,
+"pagetitle": "Play Auerbach! - Programm - Kammerspiele",
+"ts": 1794892635,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/42853-love-me-tender": {
@@ -16326,7 +16538,8 @@
 "cost": "30 €",
 "lat": null,
 "lng": null,
-"ts": 1793682789,
+"pagetitle": "Love me tender - Programm - Kammerspiele",
+"ts": 1794892635,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/42857-anna-mascha-und-julia?activity=53626": {
@@ -16368,7 +16581,8 @@
 "cost": "Ab 18 €",
 "lat": null,
 "lng": null,
-"ts": 1793682789,
+"pagetitle": "Meister und Margarita - Programm - Kammerspiele",
+"ts": 1794892634,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/42863-wokey-wokey": {
@@ -16381,10 +16595,11 @@
 },
 "https://www.muenchner-kammerspiele.de/de/programm/42863-wokey-wokey?activity=54647": {
 "address": null,
-"cost": "6 €",
+"cost": "Ab 18 €",
 "lat": null,
 "lng": null,
-"ts": 1793682789,
+"pagetitle": "Wokey Wokey - Programm - Kammerspiele",
+"ts": 1794892633,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/42871-mein-kleines-prachttier": {
@@ -16417,7 +16632,8 @@
 "cost": "Ab 18 €",
 "lat": null,
 "lng": null,
-"ts": 1793682788,
+"pagetitle": "Mein kleines Prachttier - Programm - Kammerspiele",
+"ts": 1794892633,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/42871-mein-kleines-prachttier?activity=54639": {
@@ -16425,7 +16641,8 @@
 "cost": "Ab 18 €",
 "lat": null,
 "lng": null,
-"ts": 1793682789,
+"pagetitle": "Mein kleines Prachttier - Programm - Kammerspiele",
+"ts": 1794892634,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/48737-alfons-jetzt-noch-deutscherer?activity=48741": {
@@ -16573,7 +16790,8 @@
 "cost": "15 €",
 "lat": null,
 "lng": null,
-"ts": 1793682788,
+"pagetitle": "Jugend ohne Gott - Programm - Kammerspiele",
+"ts": 1794892633,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/51771-jugend-ohne-gott?activity=52290": {
@@ -16581,7 +16799,8 @@
 "cost": "15 €",
 "lat": null,
 "lng": null,
-"ts": 1793682789,
+"pagetitle": "Jugend ohne Gott - Programm - Kammerspiele",
+"ts": 1794892633,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/51771-jugend-ohne-gott?activity=53633": {
@@ -16597,7 +16816,8 @@
 "cost": "15 €",
 "lat": null,
 "lng": null,
-"ts": 1793682789,
+"pagetitle": "Jugend ohne Gott - Programm - Kammerspiele",
+"ts": 1794892634,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/51812-schubert-in-paradise?activity=53907": {
@@ -16639,7 +16859,8 @@
 "cost": "Ab 12 €",
 "lat": null,
 "lng": null,
-"ts": 1793682788,
+"pagetitle": "The truest True Crime - Programm - Kammerspiele",
+"ts": 1794892632,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/51824-the-truest-true-crime?activity=52275": {
@@ -16647,7 +16868,8 @@
 "cost": "Ab 12 €",
 "lat": null,
 "lng": null,
-"ts": 1793682788,
+"pagetitle": "The truest True Crime - Programm - Kammerspiele",
+"ts": 1794892633,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/51824-the-truest-true-crime?activity=52276": {
@@ -16655,7 +16877,8 @@
 "cost": "Ab 12 €",
 "lat": null,
 "lng": null,
-"ts": 1793682788,
+"pagetitle": "The truest True Crime - Programm - Kammerspiele",
+"ts": 1794892633,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/51824-the-truest-true-crime?activity=52277": {
@@ -16663,7 +16886,8 @@
 "cost": "Ab 12 €",
 "lat": null,
 "lng": null,
-"ts": 1793682789,
+"pagetitle": "The truest True Crime - Programm - Kammerspiele",
+"ts": 1794892634,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/51824-the-truest-true-crime?activity=54637": {
@@ -16671,7 +16895,8 @@
 "cost": "Ab 12 €",
 "lat": null,
 "lng": null,
-"ts": 1793682788,
+"pagetitle": "The truest True Crime - Programm - Kammerspiele",
+"ts": 1794892632,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/51838-limina": {
@@ -16922,7 +17147,8 @@
 "cost": "Ab 18 €",
 "lat": null,
 "lng": null,
-"ts": 1793682788,
+"pagetitle": "Jeeps - Programm - Kammerspiele",
+"ts": 1794892633,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/55006-michel-friedman-spricht-mit-melanie-amann?activity=55009": {
@@ -16947,7 +17173,8 @@
 "cost": "25 €",
 "lat": null,
 "lng": null,
-"ts": 1793682789,
+"pagetitle": "Michel Friedman spricht mit Carolin Amlinger - Programm - Kammerspiele",
+"ts": 1794892635,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/55020-michel-friedman-spricht-mit-jovana-reisinger": {
@@ -16963,7 +17190,8 @@
 "cost": "25 €",
 "lat": null,
 "lng": null,
-"ts": 1793682789,
+"pagetitle": "Michel Friedman spricht mit Jovana Reisinger - Programm - Kammerspiele",
+"ts": 1794892635,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/55026-michel-friedman-spricht-mit-joschka-fischer": {
@@ -16979,7 +17207,8 @@
 "cost": "25 €",
 "lat": null,
 "lng": null,
-"ts": 1793682788,
+"pagetitle": "Michel Friedman spricht mit Joschka Fischer - Programm - Kammerspiele",
+"ts": 1794892632,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/55043-uberlegenheitsfantasien": {
@@ -16995,7 +17224,8 @@
 "cost": "15 €",
 "lat": null,
 "lng": null,
-"ts": 1793682788,
+"pagetitle": "Überlegenheitsfantasien - Programm - Kammerspiele",
+"ts": 1794892632,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/55058-mit-mannern-leben": {
@@ -17027,7 +17257,8 @@
 "cost": "25 €",
 "lat": null,
 "lng": null,
-"ts": 1793682788,
+"pagetitle": "„Justitias Töchter“ live - Programm - Kammerspiele",
+"ts": 1794892633,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/55183-sjaella-fallwander-each-of-us-like-you?activity=55185": {
@@ -19530,7 +19761,8 @@
 "cost": null,
 "lat": null,
 "lng": null,
-"ts": 1793682785,
+"pagetitle": "gate-Network: Female Founders Breakfast",
+"ts": 1794892630,
 "venue": "gate – Garchinger Technologie- und Gründerzentrum GmbH"
 },
 "https://www.munich-startup.de/events/healthcare-happy-hour-hhh-0127": {
@@ -19660,7 +19892,8 @@
 "cost": null,
 "lat": null,
 "lng": null,
-"ts": 1793682785,
+"pagetitle": "MunichTech EXPO Conference",
+"ts": 1794892631,
 "venue": "Alte Kongresshalle"
 },
 "https://www.munich-startup.de/events/one-startup-one-europe-eu-inc-erklaert": {
@@ -20211,6 +20444,15 @@
 "lng": null,
 "ts": 1793548377,
 "venue": "Amerikahaus Karolinenpl. 3 80333 MÜNCHEN"
+},
+"https://www.petrakellystiftung.de/de/afar/event/klimaschutz-klimaanpassung-energiewenden": {
+"address": "GLS-Gemeinschaftsbank Bruderstr. 5a, 80538 MÜNCHEN",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "| Petra-Kelly-Stiftung",
+"ts": 1794892631,
+"venue": null
 },
 "https://www.petrakellystiftung.de/de/afar/event/nasser-klimaschuetzer-das-murnauer-moos": {
 "address": "Schumannstraße 8, 10117 Berlin",
@@ -21378,6 +21620,15 @@
 "ts": 1793548600,
 "venue": "Rote Sonne"
 },
+"https://www.songkick.com/concerts/43184546-king-pigeon-at-ampere-muffatwerk?utm_medium=organic&utm_source=microformat": {
+"address": "Zellstr. 4, 81667 Munich",
+"cost": "20.50 €",
+"lat": 48.13279,
+"lng": 11.58904,
+"pagetitle": "King Pigeon at Ampere / Muffatwerk (21 Nov 2026)",
+"ts": 1794892636,
+"venue": "Ampere / Muffatwerk"
+},
 "https://www.songkick.com/concerts/43189296-against-the-current-at-muffathalle?utm_medium=organic&utm_source=microformat": {
 "address": "Zellstr. 4, 81667 Munich",
 "cost": "49.50 – 51.00 €",
@@ -21448,6 +21699,15 @@
 "ts": 1794633198,
 "venue": "Strom"
 },
+"https://www.songkick.com/concerts/43223749-leap-at-muffathalle?utm_medium=organic&utm_source=microformat": {
+"address": "Zellstr. 4, 81667 Munich",
+"cost": "34.90 €",
+"lat": 48.13321,
+"lng": 11.58971,
+"pagetitle": "Leap at Muffathalle (22 Nov 2026)",
+"ts": 1794892636,
+"venue": "Muffathalle"
+},
 "https://www.songkick.com/concerts/43225998-magla-bend-at-park-palast-event-center?utm_medium=organic&utm_source=microformat": {
 "address": "Munich",
 "cost": "35.00 €",
@@ -21500,6 +21760,15 @@
 "pagetitle": "Black Elephant Band at Gans Woanders (16 Nov 2026)",
 "ts": 1794374511,
 "venue": "Gans Woanders"
+},
+"https://www.songkick.com/concerts/43239165-script-at-zenith-die-kulturhalle?utm_medium=organic&utm_source=microformat": {
+"address": "Lilienthalallee 29, 80939 Munich",
+"cost": null,
+"lat": 48.19464,
+"lng": 11.60865,
+"pagetitle": "The Script at Zenith, die Kulturhalle (23 Nov 2026)",
+"ts": 1794892636,
+"venue": "Zenith, die Kulturhalle"
 },
 "https://www.songkick.com/concerts/43241104-shearwater-at-ampere-muffatwerk?utm_medium=organic&utm_source=microformat": {
 "address": "Zellstr. 4, 81667 Munich",
@@ -21802,7 +22071,8 @@
 "cost": "39.00 €",
 "lat": 48.14124,
 "lng": 11.57909,
-"ts": 1793682790,
+"pagetitle": "The Munich Philharmonic Orchestra and Bavarian Radio Symphony Orchestra at Residenz Serenade (19 Nov 2026)",
+"ts": 1794892636,
 "venue": "Residenz Serenade"
 },
 "https://www.songkick.com/concerts/43303351-king-noone-at-kranhalle-feierwerk?utm_medium=organic&utm_source=microformat": {
@@ -21944,6 +22214,15 @@
 "ts": 1793548597,
 "venue": "Glockenbachwerkstatt"
 },
+"https://www.songkick.com/concerts/43400621-home-front-at-kafe-kult?utm_medium=organic&utm_source=microformat": {
+"address": "Oberföhringer Straße 156, 81925 Munich",
+"cost": "25.96 €",
+"lat": 48.166,
+"lng": 11.6234,
+"pagetitle": "The Home Front at Kafe Kult (22 Nov 2026)",
+"ts": 1794892636,
+"venue": "Kafe Kult"
+},
 "https://www.songkick.com/concerts/43406822-cage-the-elephant-at-allianz-arena?utm_medium=organic&utm_source=microformat": {
 "address": "Franz-Beckenbeuer-Platz 5, 80939 Munich",
 "cost": null,
@@ -21960,6 +22239,15 @@
 "lng": 11.56791,
 "ts": 1793548593,
 "venue": "Milla Club"
+},
+"https://www.songkick.com/concerts/43460628-marialy-pacheco-at-bergson-kunstkraftwerk?utm_medium=organic&utm_source=microformat": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 Munich",
+"cost": null,
+"lat": 48.16266,
+"lng": 11.42499,
+"pagetitle": "Marialy Pacheco at Bergson Kunstkraftwerk (21 Nov 2026)",
+"ts": 1794892636,
+"venue": "Bergson Kunstkraftwerk"
 },
 "https://www.songkick.com/concerts/43461907-yll-limani-at-zenith-die-kulturhalle?utm_medium=organic&utm_source=microformat": {
 "address": "Lilienthalallee 29, 80939 Munich",
@@ -22004,6 +22292,15 @@
 "ts": 1793855925,
 "venue": "Backstage"
 },
+"https://www.songkick.com/concerts/43469690-king-father-baboon-at-subkultur-ev?utm_medium=organic&utm_source=microformat": {
+"address": "Auf Der Lande 7, 82256 Fürstenfeldbruck",
+"cost": "7,00 €",
+"lat": 48.17537,
+"lng": 11.2505,
+"pagetitle": "King Father Baboon at Subkultur e.V. (21 Nov 2026)",
+"ts": 1794892636,
+"venue": "Subkultur e.V."
+},
 "https://www.songkick.com/concerts/43477996-not-scientists-at-xbar?utm_medium=organic&utm_source=microformat": {
 "address": "Sternstraße 20, 80538 Munich",
 "cost": "23.90 €",
@@ -22038,6 +22335,15 @@
 "ts": 1793682790,
 "venue": "Kafe Marat"
 },
+"https://www.songkick.com/concerts/43497042-r-and-b-at-hotel-bayerischer-hof?utm_medium=organic&utm_source=microformat": {
+"address": "Promenadeplatz 2, 80333 Munich",
+"cost": "43.72 €",
+"lat": 48.14028,
+"lng": 11.57354,
+"pagetitle": "R&B at Hotel Bayerischer Hof (21 Nov 2026)",
+"ts": 1794892636,
+"venue": "Hotel Bayerischer Hof"
+},
 "https://www.songkick.com/concerts/43498031-petros-klampanis-at-bergson-kunstkraftwerk?utm_medium=organic&utm_source=microformat": {
 "address": "Am Bergson Kunstkraftwerk 2, 81245 Munich",
 "cost": null,
@@ -22047,12 +22353,30 @@
 "ts": 1793806619,
 "venue": "Bergson Kunstkraftwerk"
 },
+"https://www.songkick.com/concerts/43498656-indira-radic-at-der-balkon?utm_medium=organic&utm_source=microformat": {
+"address": "Munich",
+"cost": "25.00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Indira Radić at Der Balkon (21 Nov 2026)",
+"ts": 1794892636,
+"venue": "Der Balkon"
+},
 "https://www.songkick.com/festivals/2585169-katzenclub/id/43026677-katzenclub-festival-2026?utm_medium=organic&utm_source=microformat": {
 "address": "Hansastraße 39, 81373 Munich",
 "cost": "48.35 €",
 "lat": 48.12875,
 "lng": 11.53441,
 "ts": 1793682790,
+"venue": "Feierwerk"
+},
+"https://www.songkick.com/festivals/3792291-black-mantra/id/43282333-black-mantra-festival-2026?utm_medium=organic&utm_source=microformat": {
+"address": "Hansastraße 39, 81373 Munich",
+"cost": "35.00 €",
+"lat": 48.12875,
+"lng": 11.53441,
+"pagetitle": "Black Mantra Festival 2026",
+"ts": 1794892636,
 "venue": "Feierwerk"
 },
 "https://www.songkick.com/festivals/3795380-wunderpunktfestival/id/43316199-wunderpunktfestival-2026?utm_medium=organic&utm_source=microformat": {
@@ -22077,7 +22401,7 @@
 "failed": true,
 "lat": null,
 "lng": null,
-"ts": 1793551681,
+"ts": 1794892632,
 "venue": null
 },
 "https://www.staatsoper.de/stuecke/2-kammerkonzert-2026-27-blaeserklaenge/2026-11-22-1100-16143": {
@@ -22086,7 +22410,7 @@
 "failed": true,
 "lat": null,
 "lng": null,
-"ts": 1793551681,
+"ts": 1794892632,
 "venue": null
 },
 "https://www.staatsoper.de/stuecke/apollon-foyers/2026-11-06-1100-16694": {
@@ -22113,7 +22437,7 @@
 "failed": true,
 "lat": null,
 "lng": null,
-"ts": 1793551681,
+"ts": 1794892632,
 "venue": null
 },
 "https://www.staatsoper.de/stuecke/apollon-foyers/2026-11-27-1100-16697": {
@@ -22122,7 +22446,7 @@
 "failed": true,
 "lat": null,
 "lng": null,
-"ts": 1793551681,
+"ts": 1794892632,
 "venue": null
 },
 "https://www.staatsoper.de/stuecke/attacca-konzert/2026-11-30-1900-16151": {
@@ -22131,7 +22455,7 @@
 "failed": true,
 "lat": null,
 "lng": null,
-"ts": 1793548613,
+"ts": 1794892632,
 "venue": null
 },
 "https://www.staatsoper.de/stuecke/ballett-extra/2026-11-10-1900-16554": {
@@ -22149,7 +22473,7 @@
 "failed": true,
 "lat": null,
 "lng": null,
-"ts": 1793551681,
+"ts": 1794892632,
 "venue": null
 },
 "https://www.staatsoper.de/stuecke/ballett-fuehrung/2026-11-17-1400-16673": {
@@ -22158,7 +22482,7 @@
 "failed": true,
 "lat": null,
 "lng": null,
-"ts": 1793551681,
+"ts": 1794892632,
 "venue": null
 },
 "https://www.staatsoper.de/stuecke/c-a-r-p-a-t-h-i-a-der-mythos-der-untoten/2026-11-25-1930-16147": {
@@ -22167,7 +22491,7 @@
 "failed": true,
 "lat": null,
 "lng": null,
-"ts": 1793551681,
+"ts": 1794892632,
 "venue": null
 },
 "https://www.staatsoper.de/stuecke/c-a-r-p-a-t-h-i-a-der-mythos-der-untoten/2026-11-28-1930-16149": {
@@ -22176,7 +22500,7 @@
 "failed": true,
 "lat": null,
 "lng": null,
-"ts": 1793551681,
+"ts": 1794892632,
 "venue": null
 },
 "https://www.staatsoper.de/stuecke/common-ground/2026-11-08-1930-16132": {
@@ -22203,7 +22527,7 @@
 "failed": true,
 "lat": null,
 "lng": null,
-"ts": 1793551681,
+"ts": 1794892632,
 "venue": null
 },
 "https://www.staatsoper.de/stuecke/die-zauberfloete/2026-11-22-1900-16145": {
@@ -22212,7 +22536,7 @@
 "failed": true,
 "lat": null,
 "lng": null,
-"ts": 1793551681,
+"ts": 1794892632,
 "venue": null
 },
 "https://www.staatsoper.de/stuecke/die-zauberfloete/2026-11-27-1800-16148": {
@@ -22221,7 +22545,7 @@
 "failed": true,
 "lat": null,
 "lng": null,
-"ts": 1793551681,
+"ts": 1794892632,
 "venue": null
 },
 "https://www.staatsoper.de/stuecke/die-zauberfloete/2026-11-29-1700-16150": {
@@ -22230,7 +22554,7 @@
 "failed": true,
 "lat": null,
 "lng": null,
-"ts": 1793551681,
+"ts": 1794892632,
 "venue": null
 },
 "https://www.staatsoper.de/stuecke/einfuehrungsmatinee-1/2026-11-22-1100-16144": {
@@ -22239,7 +22563,7 @@
 "failed": true,
 "lat": null,
 "lng": null,
-"ts": 1793551681,
+"ts": 1794892632,
 "venue": null
 },
 "https://www.staatsoper.de/stuecke/einfuehrungsworkshop/2026-11-08-1400-16398": {
@@ -22266,7 +22590,7 @@
 "failed": true,
 "lat": null,
 "lng": null,
-"ts": 1793551681,
+"ts": 1794892632,
 "venue": null
 },
 "https://www.staatsoper.de/stuecke/fuehrung/2026-11-03-1400-16665": {
@@ -22311,7 +22635,7 @@
 "failed": true,
 "lat": null,
 "lng": null,
-"ts": 1793551681,
+"ts": 1794892632,
 "venue": null
 },
 "https://www.staatsoper.de/stuecke/herbst-matinee-der-heinz-bosl-stiftung/2026-11-08-1100-16131": {
@@ -22356,7 +22680,7 @@
 "failed": true,
 "lat": null,
 "lng": null,
-"ts": 1793551681,
+"ts": 1794892632,
 "venue": null
 },
 "https://www.staatsoper.de/stuecke/kinderfuehrung-durch-das-nationaltheater-abenteuer-oper/2026-11-08-1400-16659": {
@@ -22383,7 +22707,7 @@
 "failed": true,
 "lat": null,
 "lng": null,
-"ts": 1793551681,
+"ts": 1794892632,
 "venue": null
 },
 "https://www.staatsoper.de/stuecke/kinderkonzert-die-spielzeugschachtel-1/2026-11-18-1100-16775": {
@@ -22419,7 +22743,7 @@
 "failed": true,
 "lat": null,
 "lng": null,
-"ts": 1793551681,
+"ts": 1794892632,
 "venue": null
 },
 "https://www.staatsoper.de/stuecke/kinderkonzert-die-weltraum-oma/2026-11-21-1100-16404": {
@@ -22428,7 +22752,7 @@
 "failed": true,
 "lat": null,
 "lng": null,
-"ts": 1793551681,
+"ts": 1794892632,
 "venue": null
 },
 "https://www.staatsoper.de/stuecke/kinderkonzert-die-weltraum-oma/2026-11-21-1400-16383": {
@@ -22437,7 +22761,7 @@
 "failed": true,
 "lat": null,
 "lng": null,
-"ts": 1793551681,
+"ts": 1794892632,
 "venue": null
 },
 "https://www.staatsoper.de/stuecke/koeniginnen/2026-11-18-2000-16461": {
@@ -22446,7 +22770,7 @@
 "failed": true,
 "lat": null,
 "lng": null,
-"ts": 1793551681,
+"ts": 1794892632,
 "venue": null
 },
 "https://www.staatsoper.de/stuecke/koeniginnen/2026-11-26-2000-16462": {
@@ -22455,7 +22779,7 @@
 "failed": true,
 "lat": null,
 "lng": null,
-"ts": 1793551681,
+"ts": 1794892632,
 "venue": null
 },
 "https://www.staatsoper.de/stuecke/la-boheme/2026-11-13-1900-16136": {
@@ -22482,7 +22806,7 @@
 "failed": true,
 "lat": null,
 "lng": null,
-"ts": 1793551681,
+"ts": 1794892632,
 "venue": null
 },
 "https://www.staatsoper.de/stuecke/la-boheme/2026-11-21-1800-16142": {
@@ -22491,7 +22815,7 @@
 "failed": true,
 "lat": null,
 "lng": null,
-"ts": 1793551681,
+"ts": 1794892632,
 "venue": null
 },
 "https://www.staatsoper.de/stuecke/la-boheme/2026-11-24-1900-16146": {
@@ -22500,7 +22824,7 @@
 "failed": true,
 "lat": null,
 "lng": null,
-"ts": 1793551681,
+"ts": 1794892632,
 "venue": null
 },
 "https://www.staatsoper.de/stuecke/siegfried/2026-11-01-1600-16126": {
@@ -22691,7 +23015,8 @@
 "cost": null,
 "lat": null,
 "lng": null,
-"ts": 1793682788,
+"pagetitle": "Bewerbungszeitraum European Talent Academy",
+"ts": 1794892632,
 "venue": "Online"
 },
 "https://www.tum.de/aktuelles/veranstaltungen/details/doppelausstellung-thomas-mann-und-ai-to-eye": {
@@ -23183,6 +23508,24 @@
 "lng": null,
 "pagetitle": "Unterfahrt Scott Kinsey Programminfo",
 "ts": 1794808274,
+"venue": null
+},
+"https://www.unterfahrt.de/programm-detail.php?dateID=11706": {
+"address": null,
+"cost": "24 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Unterfahrt Wide Angles Programminfo",
+"ts": 1794892636,
+"venue": null
+},
+"https://www.unterfahrt.de/programm-detail.php?dateID=11707": {
+"address": null,
+"cost": "24 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Unterfahrt /inshi/ Kateryna Kravchenko & Béla Bluche Programminfo",
+"ts": 1794892636,
 "venue": null
 },
 "https://www.unterfahrt.de/programm-detail.php?dateID=14382": {

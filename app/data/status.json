@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-16T17:16:15+01:00",
- "total": 1910,
+ "generated": "2026-11-17T06:17:27+01:00",
+ "total": 1926,
  "sources": [
   {
    "id": "bachtrack",
@@ -101,7 +101,7 @@
   {
    "id": "dlr",
    "name": "DLR Oberpfaffenhofen",
-   "found": 18,
+   "found": 19,
    "events": 0,
    "ok": false,
    "error": "Termine gefunden, aber keiner passt (Zeitraum/Ort/Kategorie)"
@@ -160,15 +160,7 @@
    "found": 0,
    "events": 0,
    "ok": false,
-   "error": "Error: Page.content: Unable to retrieve content because the page is navigating and changing the content."
-  },
-  {
-   "id": "haus-der-kunst",
-   "name": "Haus der Kunst",
-   "found": 0,
-   "events": 0,
-   "ok": false,
-   "error": "ReadTimeout: HTTPSConnectionPool(host='www.hausderkunst.de', port=443): Read timed out. (read timeout=40)"
+   "error": "keine Termine erkannt"
   },
   {
    "id": "hfp-tum",
@@ -181,14 +173,6 @@
   {
    "id": "hm",
    "name": "Hochschule München",
-   "found": 0,
-   "events": 0,
-   "ok": false,
-   "error": "keine Termine erkannt"
-  },
-  {
-   "id": "ifo",
-   "name": "ifo Institut",
    "found": 0,
    "events": 0,
    "ok": false,
@@ -249,14 +233,6 @@
    "events": 0,
    "ok": false,
    "error": "Termine gefunden, aber keiner passt (Zeitraum/Ort/Kategorie)"
-  },
-  {
-   "id": "staatsoper",
-   "name": "Bayerische Staatsoper",
-   "found": 0,
-   "events": 0,
-   "ok": false,
-   "error": "keine Termine erkannt"
   },
   {
    "id": "starnberg",
@@ -326,15 +302,15 @@
    "id": "backstage",
    "name": "Backstage",
    "found": 58,
-   "events": 49,
+   "events": 46,
    "ok": true,
    "error": null
   },
   {
    "id": "badw",
    "name": "Bayerische Akademie der Wissenschaften",
-   "found": 4,
-   "events": 4,
+   "found": 3,
+   "events": 3,
    "ok": true,
    "error": null
   },
@@ -349,7 +325,7 @@
   {
    "id": "baymevbm",
    "name": "bayme vbm",
-   "found": 314,
+   "found": 313,
    "events": 60,
    "ok": true,
    "error": null
@@ -382,7 +358,7 @@
    "id": "deutsches-theater",
    "name": "Deutsches Theater München",
    "found": 110,
-   "events": 81,
+   "events": 80,
    "ok": true,
    "error": null
   },
@@ -397,8 +373,8 @@
   {
    "id": "dsw",
    "name": "DSW (Aktionärsschutz)",
-   "found": 10,
-   "events": 4,
+   "found": 8,
+   "events": 3,
    "ok": true,
    "error": null
   },
@@ -406,7 +382,7 @@
    "id": "erding",
    "name": "Erding",
    "found": 6,
-   "events": 2,
+   "events": 1,
    "ok": true,
    "error": null
   },
@@ -451,6 +427,14 @@
    "error": null
   },
   {
+   "id": "haus-der-kunst",
+   "name": "Haus der Kunst",
+   "found": 5,
+   "events": 5,
+   "ok": true,
+   "error": null
+  },
+  {
    "id": "helmholtz",
    "name": "Helmholtz Munich",
    "found": 18,
@@ -491,26 +475,34 @@
    "error": null
   },
   {
+   "id": "ifo",
+   "name": "ifo Institut",
+   "found": 10,
+   "events": 2,
+   "ok": true,
+   "error": null
+  },
+  {
    "id": "kammerspiele",
    "name": "Münchner Kammerspiele",
-   "found": 115,
-   "events": 102,
+   "found": 114,
+   "events": 101,
    "ok": true,
    "error": null
   },
   {
    "id": "kath-akademie",
    "name": "Katholische Akademie in Bayern",
-   "found": 25,
-   "events": 15,
+   "found": 24,
+   "events": 14,
    "ok": true,
    "error": null
   },
   {
    "id": "komoedie",
    "name": "Komödie im Bayerischen Hof",
-   "found": 145,
-   "events": 138,
+   "found": 144,
+   "events": 137,
    "ok": true,
    "error": null
   },
@@ -533,8 +525,8 @@
   {
    "id": "literaturhaus",
    "name": "Literaturhaus München",
-   "found": 67,
-   "events": 66,
+   "found": 66,
+   "events": 65,
    "ok": true,
    "error": null
   },
@@ -557,7 +549,7 @@
   {
    "id": "meetup",
    "name": "Meetup München",
-   "found": 11,
+   "found": 12,
    "events": 9,
    "ok": true,
    "error": null
@@ -589,8 +581,8 @@
   {
    "id": "mpg",
    "name": "Max-Planck-Gesellschaft",
-   "found": 10,
-   "events": 2,
+   "found": 9,
+   "events": 1,
    "ok": true,
    "error": null
   },
@@ -598,7 +590,7 @@
    "id": "mphil",
    "name": "Münchner Philharmoniker",
    "found": 30,
-   "events": 16,
+   "events": 18,
    "ok": true,
    "error": null
   },
@@ -629,7 +621,7 @@
   {
    "id": "muffatwerk",
    "name": "Muffatwerk",
-   "found": 220,
+   "found": 218,
    "events": 27,
    "ok": true,
    "error": null
@@ -662,15 +654,15 @@
    "id": "olympiapark",
    "name": "Olympiapark",
    "found": 20,
-   "events": 15,
+   "events": 14,
    "ok": true,
    "error": null
   },
   {
    "id": "pathos",
    "name": "Pathos Theater",
-   "found": 58,
-   "events": 51,
+   "found": 57,
+   "events": 50,
    "ok": true,
    "error": null
   },
@@ -701,16 +693,16 @@
   {
    "id": "rausgegangen",
    "name": "Rausgegangen München",
-   "found": 520,
-   "events": 137,
+   "found": 525,
+   "events": 132,
    "ok": true,
    "error": null
   },
   {
    "id": "residenztheater",
    "name": "Residenztheater",
-   "found": 32,
-   "events": 32,
+   "found": 30,
+   "events": 30,
    "ok": true,
    "error": null
   },
@@ -731,6 +723,14 @@
    "error": null
   },
   {
+   "id": "staatsoper",
+   "name": "Bayerische Staatsoper",
+   "found": 31,
+   "events": 29,
+   "ok": true,
+   "error": null
+  },
+  {
    "id": "stadt-muenchen",
    "name": "Stadt München, Bürgerversammlungen",
    "found": 30,
@@ -741,8 +741,8 @@
   {
    "id": "sternwarte",
    "name": "Volkssternwarte München",
-   "found": 10,
-   "events": 8,
+   "found": 9,
+   "events": 7,
    "ok": true,
    "error": null
   },
@@ -765,8 +765,8 @@
   {
    "id": "theater-fraunhofer",
    "name": "Theater im Fraunhofer",
-   "found": 70,
-   "events": 62,
+   "found": 69,
+   "events": 61,
    "ok": true,
    "error": null
   },
@@ -805,8 +805,8 @@
   {
    "id": "vbw",
    "name": "vbw – Vereinigung der Bayerischen Wirtschaft",
-   "found": 40,
-   "events": 31,
+   "found": 39,
+   "events": 30,
    "ok": true,
    "error": null
   },
@@ -830,15 +830,15 @@
    "id": "volkstheater",
    "name": "Münchner Volkstheater",
    "found": 88,
-   "events": 82,
+   "events": 81,
    "ok": true,
    "error": null
   },
   {
    "id": "wj-muenchen",
    "name": "Wirtschaftsjunioren München",
-   "found": 228,
-   "events": 13,
+   "found": 227,
+   "events": 12,
    "ok": true,
    "error": null
   }

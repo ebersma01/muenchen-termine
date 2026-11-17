@@ -728,6 +728,12 @@
 "ecke luisenstraße /brienner straße, münchen": null,
 "eclips kantine, münchen": null,
 "edisonstraße 15, 74076 heilbronn, münchen": null,
+"ehem. zwangsarbeiter*innenlager an der ehrenbürgstraße, münchen": null,
+"ehrenbürgstraße 9, 81249 münchen": {
+"address": "Kindergarten & Kinderkrippe Elterninitiative \"Die Ehrenbürger\" e.V., 9, Ehrenbürgstraße, Siedlung am Gößweinsteinplatz, Neuaubing, Freiham, Aubing-Lochhausen-Langwied, München, Bayern, 81249, Deutschland",
+"lat": 48.14254,
+"lng": 11.41319
+},
 "ehrengutstraße 6, münchen, münchen": {
 "address": "6, Ehrengutstraße, Am Schlachthof, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80469, Deutschland",
 "lat": 48.12121,
@@ -811,6 +817,11 @@
 },
 "familienhäuschen gabriela, münchen": null,
 "familienkreis hl. familie, münchen": null,
+"favorit bar, münchen": {
+"address": "Favorit Bar, 12, Damenstiftstraße, Hackenviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
+"lat": 48.13671,
+"lng": 11.56849
+},
 "feder bar, münchen": {
 "address": "Feder Bar, 22, Volkartstraße, Ebenau, Neuhausen-Nymphenburg, München, Bayern, 80634, Deutschland",
 "lat": 48.15552,
@@ -993,6 +1004,7 @@
 "lat": 48.1295,
 "lng": 11.57001
 },
+"gls-gemeinschaftsbank bruderstr. 5a, 80538 münchen": null,
 "goethestraße 24, 80336 münchen": {
 "address": "Theatergemeinde München, 24, Goethestraße, Klinikviertel, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80336, Deutschland",
 "lat": 48.13646,
@@ -1381,6 +1393,7 @@
 "lng": 11.56791
 },
 "kitchenhub von über den tellerrand münchen e.v.": null,
+"klangbüro, münchen": null,
 "kleine olympiahalle, münchen": {
 "address": "Kleine Olympiahalle, 5, Spiridon-Louis-Ring, Am Riesenfeld, Milbertshofen-Am Hart, München, Bayern, 80809, Deutschland",
 "lat": 48.17466,
@@ -1443,6 +1456,7 @@
 "lng": 11.5312
 },
 "kultur- und bürgerhaus pelkovenschlössl, münchen": null,
+"kulturbuntneuperlach, münchen": null,
 "kulturbühne silbersaal, münchen": null,
 "kulturetage, münchen": null,
 "kulturhaus milbertshofen, münchen": {
@@ -1869,6 +1883,7 @@
 "muffathalle (verlegt aus dem werk 7), münchen": null,
 "muffathalle (verlegt aus der tonhalle), münchen": null,
 "muffathalle —12.01.27 & 13.01.27, münchen": null,
+"muffathalle —26.01.27 & 27.01.27, münchen": null,
 "muffathalle —sa 15.05. 19:30, münchen": null,
 "muffathalle —sa 20.03. 19:45, münchen": null,
 "muffathalle, münchen": {
@@ -1937,6 +1952,11 @@
 "lng": 11.5568
 },
 "märchenbazar, münchen": null,
+"müllerstraße 41, 80469 münchen": {
+"address": "41, Müllerstraße, Am Alten Südlichen Friedhof, Glockenbach, Isarvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80469, Deutschland",
+"lat": 48.13116,
+"lng": 11.56861
+},
 "münchen": {
 "address": "München, Bayern, Deutschland",
 "lat": 48.13711,
@@ -2016,6 +2036,11 @@
 "address": "Münchner Stadtbibliothek Allach-Untermenzing, 1, Pfarrer-Grimm-Straße, Untermenzing, Allach-Untermenzing, München, Bayern, 80999, Deutschland",
 "lat": 48.17957,
 "lng": 11.46392
+},
+"münchner stadtbibliothek am westkreuz, münchen": {
+"address": "Münchner Stadtbibliothek Am Westkreuz, 13, Radolfzeller Straße, Westkreuz, Aubing, Aubing-Lochhausen-Langwied, München, Bayern, 81243, Deutschland",
+"lat": 48.14931,
+"lng": 11.43526
 },
 "münchner stadtbibliothek bogenhausen": {
 "address": "Münchner Stadtbibliothek Bogenhausen, 16, Rosenkavalierplatz, Arabellapark, Priel, Bogenhausen, München, Bayern, 81925, Deutschland",
@@ -2323,6 +2348,11 @@
 "lat": 48.14716,
 "lng": 11.57223
 },
+"pineapple park, münchen": {
+"address": "Casa Padel Pineapple Park, 195-199, Arnulfstraße, Siedlung Neuhausen, Nymphenburg, Neuhausen-Nymphenburg, München, Bayern, 80634, Deutschland",
+"lat": 48.14695,
+"lng": 11.52335
+},
 "pink christmas, münchen": null,
 "platz der menschenrechte, münchen": {
 "address": "Platz der Menschenrechte, Messestadt Riem, Trudering-Riem, München, Bayern, 81829, Deutschland",
@@ -2591,6 +2621,7 @@
 "lat": 48.1718,
 "lng": 11.58673
 },
+"schwabinger weihnachtsmarkt an der münchner freiheit, münchen": null,
 "schwabinger weihnachtsmarkt, münchen": null,
 "schwanthalerstraße 13, 80336 münchen": {
 "address": "Deutsches Theater München, 13, Schwanthalerstraße, Klinikviertel, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80336, Deutschland",
@@ -2651,6 +2682,11 @@
 "lng": 11.45609
 },
 "seven bistro bar club, münchen": null,
+"shamrock munich": {
+"address": "Shamrock, 6, Trautenwolfstraße, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80802, Deutschland",
+"lat": 48.15763,
+"lng": 11.58616
+},
 "showpalast eventpark, münchen": null,
 "showpalast, münchen": {
 "address": "Parkplatz - Showpalast & Cavalluna, Maria-Goeppert-Mayer-Straße, Großlappen, Freimann, Schwabing-Freimann, München, Bayern, 80939, Deutschland",
@@ -2877,6 +2913,7 @@
 "lng": 11.56988
 },
 "the collective flow, münchen": null,
+"the hedgehog, münchen": null,
 "the jungle comedy club, münchen": null,
 "the keg bar, münchen": {
 "address": "The Keg, 1, Trautenwolfstraße, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80802, Deutschland",
@@ -3114,6 +3151,7 @@
 },
 "xolo bar, münchen": null,
 "yogastudio elisabethplatz, münchen": null,
+"yours club of wine, münchen": null,
 "z'sam, münchen": {
 "address": "z'sam, 63, Theresienstraße, Maßmannbergl, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80333, Deutschland",
 "lat": 48.15116,
