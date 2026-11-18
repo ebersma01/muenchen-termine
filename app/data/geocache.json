@@ -257,6 +257,7 @@
 },
 "atelier greenhouse, münchen": null,
 "atelier kevo, münchen": null,
+"atelier mark + mieze, münchen": null,
 "atelier tonga, münchen": null,
 "atelierhaus baumstraße, münchen": null,
 "atelierloft machwerk ev, münchen": null,
@@ -380,6 +381,11 @@
 "bayerstraße 3-5, 80335 münchen, germany, münchen, by, münchen": null,
 "baystartup office im mtz münchen obergeschoss, e1, agnes-pockels-bogen 1 80992 münchen": null,
 "baystartup, münchen": null,
+"beachdome, münchen": {
+"address": "Beachdome, 21, Margarethe-Danzi-Straße, Nymphenburg Süd, Nymphenburg, Neuhausen-Nymphenburg, München, Bayern, 80639, Deutschland",
+"lat": 48.14689,
+"lng": 11.49663
+},
 "beim sedlmayr, münchen": {
 "address": "Beim Sedlmayr, 14, Westenriederstraße, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
 "lat": 48.13495,
@@ -415,6 +421,11 @@
 },
 "biom biotech cluster development gmbh, martinsried": null,
 "blackbox i alexander tutsek-stiftung, münchen": null,
+"blodigstraße 4, 80933 münchen": {
+"address": "4, Blodigstraße, Hasenbergl-Süd, Hasenbergl, Feldmoching-Hasenbergl, München, Bayern, 80933, Deutschland",
+"lat": 48.21352,
+"lng": 11.55735
+},
 "bloomergym, münchen": {
 "address": "Bloomergym, 13a, Oefelestraße, Untergiesing-Harlaching, Giesing, München, Bayern, 81543, Deutschland",
 "lat": 48.11934,
@@ -761,6 +772,11 @@
 "lat": 48.15652,
 "lng": 11.57495
 },
+"englischer garten 3, 80634 münchen": {
+"address": "Biergarten am Chinesischen Turm, 3, Englischer Garten, Kleinhesselohe, Alt-Schwabing, Altstadt-Lehel, Schwabing-Freimann, München, Bayern, 80538, Deutschland",
+"lat": 48.15244,
+"lng": 11.59236
+},
 "englischer garten, münchen": {
 "address": "Englischer Garten, Schwabing-Freimann, München, Bayern, 80538, Deutschland",
 "lat": 48.16486,
@@ -875,6 +891,11 @@
 "lng": 11.58075
 },
 "fraunhofer wirtshaus & theater, münchen": null,
+"fraunhoferstraße 11, 80469 münchen": {
+"address": "Yuyumi, 11, Fraunhoferstraße, Glockenbach, Isarvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80469, Deutschland",
+"lat": 48.1306,
+"lng": 11.57275
+},
 "freddie-mercury straße 5, 80797 münchen": {
 "address": "EIT Urban Mobility Innovation Hub Central, 5, Freddie-Mercury-Straße, Kasernenviertel, Ebenau, Neuhausen-Nymphenburg, München, Bayern, 80797, Deutschland",
 "lat": 48.157,
@@ -1010,6 +1031,7 @@
 "lat": 48.13646,
 "lng": 11.55842
 },
+"goldberg studios, münchen": null,
 "graf rumford, münchen": {
 "address": "Graf Rumford, Rumfordstraße, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80469, Deutschland",
 "lat": 48.13384,
@@ -1154,6 +1176,7 @@
 "lat": 48.13597,
 "lng": 11.5785
 },
+"herspace, münchen": null,
 "herzog, münchen": {
 "address": "Herzog, 4, Maxburgstraße, Kreuzviertel, Altstadt-Lehel, München, Bayern, 80333, Deutschland",
 "lat": 48.14031,
@@ -1276,6 +1299,7 @@
 },
 "international munich artlab (musiktheater)": null,
 "irrland 2, münchen": null,
+"irrland2, münchen": null,
 "isarinsel oberföhring, münchen": {
 "address": "Isarinsel Oberföhring, Oberföhring, Bogenhausen, München, Bayern, Deutschland",
 "lat": 48.1739,
@@ -1291,6 +1315,7 @@
 "lat": 48.13489,
 "lng": 11.58212
 },
+"ismaninger str. 116, münchen-bogenhausen, deutschland, 81675 münchen": null,
 "ismaninger straße 29, 81675 münchen": {
 "address": "Freies Musikzentrum, 29, Ismaninger Straße, Haidhausen-Nord, Haidhausen, Au-Haidhausen, München, Bayern, 81675, Deutschland",
 "lat": 48.13912,
@@ -1496,6 +1521,7 @@
 "lat": 48.11978,
 "lng": 11.67082
 },
+"kulturzentrum ubo9, münchen": null,
 "kunstareal - luisenstraße 33, 80333 münchen": null,
 "kunsthalle münchen": {
 "address": "KUNSTHALLE MÜNCHEN, 8, Theatinerstraße, Kreuzviertel, Altstadt-Lehel, München, Bayern, 80333, Deutschland",
@@ -1507,6 +1533,7 @@
 "lat": 48.15085,
 "lng": 11.55859
 },
+"kunstpavillon im alten botanischen garten, münchen": null,
 "kölner platz 1, 80804 münchen": {
 "address": "München Klinik Schwabing, 1, Kölner Platz, Schwabing-West, Schwabing, München, Bayern, 80804, Deutschland",
 "lat": 48.17195,
@@ -1528,6 +1555,7 @@
 "lng": 11.56429
 },
 "köşk münchen": null,
+"künstlerhaus am lenbachplatz, münchen": null,
 "kür kunstübungsraum milbertshofen, münchen": null,
 "la cantina, münchen": {
 "address": "La Cantina, Cosimastraße, Sankt Emmeram, Oberföhring, Bogenhausen, München, Bayern, 81925, Deutschland",
@@ -1543,6 +1571,7 @@
 },
 "lach- und schießgesellschaft im tams, münchen": null,
 "laikey teehaus munich social circle": null,
+"laim_up, münchen": null,
 "landsberger straße 212, 80687 münchen": {
 "address": "Machwerk AtelierWerkstatt, 212, Landsberger Straße, Neu-Friedenheim, Friedenheim, Laim, München, Bayern, 80687, Deutschland",
 "lat": 48.14198,
@@ -1603,6 +1632,7 @@
 "lat": 48.13102,
 "lng": 11.62394
 },
+"lewis barclub, münchen": null,
 "lia galerie, münchen": null,
 "lichtenbergstraße 6, 85748 garching bei münchen": {
 "address": "ECM, 6, Lichtenbergstraße, Hochschul- und Forschungszentrum, Garching bei München, Landkreis München, Bayern, 85748, Deutschland",
@@ -1943,6 +1973,7 @@
 "mvhs im einstein 28, münchen": null,
 "mvhs im gasteig hp8, münchen": null,
 "mvhs in allach-untermenzing, münchen": null,
+"mvhs in laim": null,
 "mvhs in neuhausen": null,
 "mvhs in pasing": null,
 "mvhs ost, münchen": null,
@@ -2165,6 +2196,7 @@
 "lat": 48.15838,
 "lng": 11.58753
 },
+"ninos pizza lounge, münchen": null,
 "none, münchen": null,
 "ns-dokumentationszentrum münchen, max-mannheimer-platz 1, 80333 münchen & livestream": null,
 "ns-dokumentationszentrum, münchen": {
@@ -2268,6 +2300,11 @@
 "lat": 48.1243,
 "lng": 11.59773
 },
+"orno café, münchen": {
+"address": "Orno, Fraunhoferstraße, Glockenbach, Isarvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80469, Deutschland",
+"lat": 48.13064,
+"lng": 11.57269
+},
 "otium concept, münchen": null,
 "otto-meitinger-str. 2, münchen": {
 "address": "2, Otto-Meitinger-Straße, Freiham-Nord, Freiham, Aubing-Lochhausen-Langwied, München, Bayern, 81248, Deutschland",
@@ -2354,6 +2391,7 @@
 "lng": 11.52335
 },
 "pink christmas, münchen": null,
+"pinokiothek der moderne, münchen": null,
 "platz der menschenrechte, münchen": {
 "address": "Platz der Menschenrechte, Messestadt Riem, Trudering-Riem, München, Bayern, 81829, Deutschland",
 "lat": 48.13097,
@@ -2547,6 +2585,7 @@
 "lat": 48.14186,
 "lng": 11.5748
 },
+"sammlung goetz /schaufenster, münchen": null,
 "sap garden, münchen": {
 "address": "SAP Garden, 4, Toni-Merkens-Weg, Milbertshofen-Am Hart, München, Bayern, 80809, Deutschland",
 "lat": 48.16987,
@@ -2633,6 +2672,11 @@
 "lat": 48.13793,
 "lng": 11.55293
 },
+"schwanthalerstraße 91, 80336 münchen": {
+"address": "91, Schwanthalerstraße, Klinikviertel, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80336, Deutschland",
+"lat": 48.13733,
+"lng": 11.55195
+},
 "schwere reiter – tanz theater musik, münchen": null,
 "seestraße 13, 80802 münchen": {
 "address": "Center for Advanced Studies LMU, 13, Seestraße, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80802, Deutschland",
@@ -2680,6 +2724,11 @@
 "address": "Gaststätte zur Allacher Schießstätte, 1, Servetstraße, Allach, Allach-Untermenzing, München, Bayern, 80999, Deutschland",
 "lat": 48.19549,
 "lng": 11.45609
+},
+"servus bar, münchen": {
+"address": "Servus Bar, Jägerwirtstraße, Sendlinger Berg, Untersendling, Sendling, München, Bayern, 81373, Deutschland",
+"lat": 48.12174,
+"lng": 11.54079
 },
 "seven bistro bar club, münchen": null,
 "shamrock munich": {
@@ -2762,6 +2811,7 @@
 "lat": 48.13645,
 "lng": 11.54488
 },
+"stadtteilkultur 2411 e.v., münchen": null,
 "stbt, münchen": null,
 "steinsdorfstraße 22, 80538 münchen": {
 "address": "22, Steinsdorfstraße, Lehel, Altstadt-Lehel, München, Bayern, 80538, Deutschland",
@@ -2901,6 +2951,7 @@
 "lat": 48.13242,
 "lng": 11.56623
 },
+"that's amore tagesbar, münchen": null,
 "the art session im kunstlabor 2 (raum 323, 3.og), münchen": null,
 "the bali space, münchen": {
 "address": "The Bali Space, 198, Englschalkinger Straße, Cosimapark, Priel, Englschalking, Bogenhausen, München, Bayern, 81927, Deutschland",
@@ -3150,6 +3201,7 @@
 "lng": 11.60224
 },
 "xolo bar, münchen": null,
+"yogaraum pasing": null,
 "yogastudio elisabethplatz, münchen": null,
 "yours club of wine, münchen": null,
 "z'sam, münchen": {
