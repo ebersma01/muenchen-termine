@@ -119,6 +119,15 @@
 "ts": 1793548386,
 "venue": null
 },
+"https://dev.events/conferences/dev-fest-munich-2026-g8hvwfgi": {
+"address": "Munich",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "DevFest Munich 2026",
+"ts": 1795066134,
+"venue": null
+},
 "https://dev.events/conferences/dev-ops-con-munich-2026-lt81zyfa": {
 "address": "Munich",
 "cost": null,
@@ -188,6 +197,15 @@
 "lat": null,
 "lng": null,
 "ts": 1793548611,
+"venue": null
+},
+"https://eveeno.com/irgclosing?utm_source=newsletter&utm_medium=email&utm_term=2026-11-17&utm_campaign=Join+us+for+upcoming+events+before+the+year+ends+": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Closing the Chapter, not the Book - Immersive Realities Working Group",
+"ts": 1795066134,
 "venue": null
 },
 "https://event.dlr.de/event/dlr-auf-der-hochschulkontaktmesse-in-muenchen-2026/": {
@@ -944,6 +962,15 @@
 "ts": 1794892643,
 "venue": "Gasteig HP8"
 },
+"https://rausgegangen.de/events/40-griechische-filmwoche-munchen-6/": {
+"address": "Hans-Preißinger-Straße 8, 81379 München",
+"cost": "11.00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "40. Griechische Filmwoche München am 19.11.2026 in München",
+"ts": 1795066144,
+"venue": "Gasteig HP8"
+},
 "https://rausgegangen.de/events/5ndreas-postrock-festival-0/": {
 "address": "Hansastr. 39, 81373 München",
 "cost": "50 €",
@@ -1273,6 +1300,15 @@
 "ts": 1794979408,
 "venue": "MVHS in Allach-Untermenzing"
 },
+"https://rausgegangen.de/events/ausstellung-rebellinnen-frauen-verandern-die-welt-10-novembe-7/": {
+"address": "Oertelplatz 11, 80999 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Ausstellung: Rebellinnen – Frauen verändern die Welt 10. November 2026 bis 31. Januar 2027 am 19.11.2026 in München",
+"ts": 1795066140,
+"venue": "MVHS in Allach-Untermenzing"
+},
 "https://rausgegangen.de/events/autumn-vibes-ludwigsfelder-chor-groove-garden-0/": {
 "address": "Ruth-Drexel-Straße, 81927 München",
 "cost": "3.00 €",
@@ -1486,6 +1522,15 @@
 "ts": 1794979410,
 "venue": "Marstallmuseum und Museum \"Nymphenburger Porzellan\" in Schloss Nymphenburg"
 },
+"https://rausgegangen.de/events/besichtigung-marstallmuseum-mit-museum-nymphenburger-porzell-848/": {
+"address": "Schloß Nymphenburg 208, 80638 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Besichtigung Marstallmuseum mit Museum \"Nymphenburger Porzellan\" am 19.11.2026 in München",
+"ts": 1795066144,
+"venue": "Marstallmuseum und Museum \"Nymphenburger Porzellan\" in Schloss Nymphenburg"
+},
 "https://rausgegangen.de/events/billie-bird-soledad-tour-2026-2/": {
 "address": "Holzstraße 28, 80469 München",
 "cost": "24.00 €",
@@ -1618,6 +1663,15 @@
 "lng": null,
 "pagetitle": "Cantina Comedy am 12.11.2026 in München",
 "ts": 1794374519,
+"venue": "La Cantina"
+},
+"https://rausgegangen.de/events/cantina-comedy-74/": {
+"address": "München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Cantina Comedy am 19.11.2026 in München",
+"ts": 1795066144,
 "venue": "La Cantina"
 },
 "https://rausgegangen.de/events/chaos-blast-zone-mit-distaste-digest-und-propagrinder-0/": {
@@ -1862,6 +1916,15 @@
 "ts": 1794374519,
 "venue": "Dubliner Irish Pub"
 },
+"https://rausgegangen.de/events/crafty-club-20-project-c-x-ludwig-beck-0/": {
+"address": "Burgstraße 7, 80331 München",
+"cost": "18.62 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Crafty Club 2.0: Project C. x LUDWIG BECK am 19.11.2026 in München",
+"ts": 1795066138,
+"venue": "LUDWIG BECK Kurzwaren & Wolle"
+},
 "https://rausgegangen.de/events/crash-metal-4/": {
 "address": "Ainmillerstraße 10, 80801 München",
 "cost": "kostenlos",
@@ -1939,6 +2002,15 @@
 "pagetitle": "Definitely Soul live auf dem Schwabinger Weihnachtsmarkt am 12.12.2026 in München",
 "ts": 1794114759,
 "venue": "Schwabinger Weihnachtsmarkt"
+},
+"https://rausgegangen.de/events/devils-brew-live-blues-bs-0/": {
+"address": "Herzog-Heinrich-Straße 38, 80336 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Devil's Brew Live Blues @ B's am 19.11.2026 in München",
+"ts": 1795066138,
+"venue": "Mister Bs"
 },
 "https://rausgegangen.de/events/dia-de-los-muertos-community-treffen-0/": {
 "address": "Leopoldstraße 13, 80802 München",
@@ -2089,6 +2161,15 @@
 "pagetitle": "English Comedy Mixed Show @IMAL (Sendling) am 13.11.2026 in München",
 "ts": 1794287697,
 "venue": "International Munich ArtLab (Musiktheater)"
+},
+"https://rausgegangen.de/events/escape-the-city-munchen-die-vermisste-opernsangerin-mit-echt-100/": {
+"address": "Max-Joseph-Platz, 80539 München",
+"cost": "79.90 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Escape the City München: Die vermisste Opernsängerin mit echtem Spielpaket am 20.11.2026 in München",
+"ts": 1795066149,
+"venue": null
 },
 "https://rausgegangen.de/events/escape-the-city-munchen-die-vermisste-opernsangerin-mit-echt-82/": {
 "address": "Max-Joseph-Platz, 80539 München",
@@ -2496,6 +2577,15 @@
 "ts": 1794979410,
 "venue": "Paketposthalle München Pineapple Park"
 },
+"https://rausgegangen.de/events/formula1-ausstellung-munchen-174/": {
+"address": "Arnulfstr. 195, 80335 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "FORMULA1® Ausstellung München am 19.11.2026 in München",
+"ts": 1795066144,
+"venue": "Paketposthalle München Pineapple Park"
+},
 "https://rausgegangen.de/events/franzosische-filmwoche-2026-0/": {
 "address": "Theatinerstraße 32, 80333 München",
 "cost": "kostenlos",
@@ -2753,6 +2843,24 @@
 "ts": 1794979410,
 "venue": null
 },
+"https://rausgegangen.de/events/geschichte-live-erleben-mit-historischer-stadtfuhrung-munche-201/": {
+"address": "Odeonsplatz 1, 80539 München",
+"cost": "25.00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Geschichte live erleben mit historischer Stadtführung München am 19.11.2026 in München",
+"ts": 1795066148,
+"venue": "Odeonsplatz"
+},
+"https://rausgegangen.de/events/ginas-christmas-comedy-show-live-3/": {
+"address": "Schwanthalerstraße 13, 80336 München",
+"cost": "42.00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Gina’s Christmas Comedy Show – Live! am 20.11.2026 in München",
+"ts": 1795066139,
+"venue": "Kulturbühne Silbersaal"
+},
 "https://rausgegangen.de/events/glaube-370/": {
 "address": "Sonnenstraße 12a, 80331 München",
 "cost": "kostenlos",
@@ -2858,6 +2966,15 @@
 "ts": 1794979410,
 "venue": "Zenith"
 },
+"https://rausgegangen.de/events/heilig-und-burgerlich-aaron-kleemann-noah-nemeth-0/": {
+"address": "Candidplatz 9, 81543 München",
+"cost": "19.99 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Heilig und Bürgerlich - Aaron Kleemann & Noah Nemeth am 23.11.2026 in München",
+"ts": 1795066138,
+"venue": "Comedy für Freunde Club"
+},
 "https://rausgegangen.de/events/helene-bracht-und-ihr-roman-irma-tanzt-0/": {
 "address": "Prinzregentenstraße 1, 80538 München",
 "cost": "16.00 €",
@@ -2866,6 +2983,15 @@
 "pagetitle": "HELENE BRACHT UND IHR ROMAN „IRMA TANZT“ am 13.11.2026 in München",
 "ts": 1794460960,
 "venue": "Haus der Kunst"
+},
+"https://rausgegangen.de/events/herbert-771/ ": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1795066149,
+"venue": null
 },
 "https://rausgegangen.de/events/herbst-tanzfest-2026-0/": {
 "address": "Curt Mezger Platz 1, 80809 München",
@@ -3033,6 +3159,15 @@
 "lng": null,
 "ts": 1794979410,
 "venue": null
+},
+"https://rausgegangen.de/events/hippes-historisches-munchen-schwabing-stadtfuhrung-mit-deine-1037/": {
+"address": "Schleißheimer Straße 144, 80797 München",
+"cost": "15.00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Hippes & historisches München Schwabing - Stadtführung mit deinem Smartphone am 20.11.2026 in München",
+"ts": 1795066149,
+"venue": "München, Schleißheimer Straße"
 },
 "https://rausgegangen.de/events/historischer-rundgang-im-ehemaligen-zwangsarbeiterinnenlager-2/": {
 "address": "Ehrenbürgstraße 9, 81249 München",
@@ -3248,6 +3383,15 @@
 "ts": 1793548622,
 "venue": "Circus Krone München"
 },
+"https://rausgegangen.de/events/juebes-latin-thursdays-reggaeton-latin-party-munich-0/": {
+"address": "Dachauer Straße 14, 80335 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "JUEBES – Latin Thursdays",
+"ts": 1795066138,
+"venue": "Hidden Backroom of Prygoshin"
+},
 "https://rausgegangen.de/events/julia-meladin-im-herbst-wieder-auf-tour-rosarote-mauer-der-b-6/": {
 "address": "Reitknechtstraße 6, 80639 München",
 "cost": "44.10 €",
@@ -3300,6 +3444,15 @@
 "lng": null,
 "pagetitle": "Jungle Jam: English Premium Stand-up Open Mic am 16.11.2026 in München",
 "ts": 1794547317,
+"venue": "The Jungle Comedy Club"
+},
+"https://rausgegangen.de/events/jungle-jam-english-premium-stand-up-open-mic-4/": {
+"address": "Arnulfstraße 195-199, 80634 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Jungle Jam: English Premium Stand-up Open Mic am 23.11.2026 in München",
+"ts": 1795066138,
 "venue": "The Jungle Comedy Club"
 },
 "https://rausgegangen.de/events/jungle-jar-problem-solving-comedy-therapy-but-funny-1/": {
@@ -3396,6 +3549,15 @@
 "lng": null,
 "pagetitle": "Kindertheater in München - Kleines Theater im Pförtnerhaus am 15.11.2026 in München",
 "ts": 1794460964,
+"venue": "Kleines Theater im Pförtnerhaus"
+},
+"https://rausgegangen.de/events/kindertheater-in-munchen-kleines-theater-im-pfortnerhaus-508/": {
+"address": "Oberföhringer Straße 156, 81925 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Kindertheater in München - Kleines Theater im Pförtnerhaus am 22.11.2026 in München",
+"ts": 1795066148,
 "venue": "Kleines Theater im Pförtnerhaus"
 },
 "https://rausgegangen.de/events/kinky-party-kinky-karneval-festival-edition-20112026-liebers-0/": {
@@ -3651,6 +3813,15 @@
 "ts": 1794979410,
 "venue": "Krimi-Trail München Maxvorstadt"
 },
+"https://rausgegangen.de/events/krimi-trail-munchen-maxvorstadt-spektakularer-kunstraub-234/": {
+"address": "Königsplatz, 80333 München",
+"cost": "7.80 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Krimi-Trail München Maxvorstadt: Spektakulärer Kunstraub am 19.11.2026 in München",
+"ts": 1795066144,
+"venue": "Krimi-Trail München Maxvorstadt"
+},
 "https://rausgegangen.de/events/kuku-schrapnell-liest-gender-punks-0/": {
 "address": "Hans-Preißinger-Straße 8, 81379 München",
 "cost": "6.00 €",
@@ -3818,6 +3989,15 @@
 "lng": null,
 "ts": 1794979410,
 "venue": null
+},
+"https://rausgegangen.de/events/kulinarische-stadtfuhrung-kultur-kulinarik-neu-entdecken-164/": {
+"address": "Konigsplatz 1, 80333 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Kulinarische Stadtführung - Kultur & Kulinarik neu entdecken am 19.11.2026 in München",
+"ts": 1795066148,
+"venue": "Altstadt München"
 },
 "https://rausgegangen.de/events/kunstharz-jesmonite-basic-workshop-in-munchen-4/": {
 "address": "Miesbacher Straße 3, 81547 München",
@@ -4120,6 +4300,15 @@
 "ts": 1794719742,
 "venue": "Musik & Karaoke Party"
 },
+"https://rausgegangen.de/events/nachtflohmarkt-live-musik-streetfood-33/": {
+"address": "Arnulfstraße 195-199, 80634 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Nachtflohmarkt, Live Musik & Streetfood am 21.11.2026 in München",
+"ts": 1795066138,
+"venue": "Alte Paketposthalle"
+},
 "https://rausgegangen.de/events/nachtflohmarkt-live-musik-streetfood-34/": {
 "address": "Arnulfstr. 195, 80335 München",
 "cost": "kostenlos",
@@ -4145,6 +4334,15 @@
 "pagetitle": "Networking & Afterwork Weihnachts-Special am 12.11.2026 in München",
 "ts": 1794114755,
 "venue": "Die Macherei"
+},
+"https://rausgegangen.de/events/neuhausenslammed-der-poetry-slam-in-neuhausen-nymphenburg-2/": {
+"address": "Nymphenburger Straße 171a, 80634 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Neuhausenslammed! Der Poetry Slam in Neuhausen-Nymphenburg am 19.11.2026 in München",
+"ts": 1795066144,
+"venue": "KULTUR IM TRAFO"
 },
 "https://rausgegangen.de/events/neuperlacher-gesprach-burgerschaftliches-engagement-0/": {
 "address": "Albert-Schweitzer-Straße 62, 81735 München",
@@ -4181,6 +4379,15 @@
 "ts": 1793548615,
 "venue": "Bürgerhaus Glockenbachwerkstatt"
 },
+"https://rausgegangen.de/events/nothhingspecial-back-to-my-dreams-tour-munchen-0/": {
+"address": "Reitknechtstraße 6, 80639 München",
+"cost": "32.50 €",
+"lat": null,
+"lng": null,
+"pagetitle": "nothhingspecial - Back To My Dreams Tour",
+"ts": 1795066138,
+"venue": "BACKSTAGE Kultur- und Veranstaltungszentrum"
+},
 "https://rausgegangen.de/events/o-werkstatten-spezial-deaf-community-only-0/": {
 "address": "Claude-Lorrain-Str. 25, 81543 München",
 "cost": "kostenlos",
@@ -4197,6 +4404,15 @@
 "lng": null,
 "pagetitle": "Open Creative Evening des Turtle Collective (de/en) am 09.11.2026 in München",
 "ts": 1794202097,
+"venue": "Feierwerk Farbenladen"
+},
+"https://rausgegangen.de/events/open-creative-evening-des-turtle-collective-deen-0/": {
+"address": "Hansastraße 31, 81373 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Open Creative Evening des Turtle Collective (de/en) am 19.11.2026 in München",
+"ts": 1795066144,
 "venue": "Feierwerk Farbenladen"
 },
 "https://rausgegangen.de/events/operation-schneeschmelze-bayerns-spektakularster-kokainschmu-0/": {
@@ -4427,6 +4643,15 @@
 "lng": null,
 "pagetitle": "Saturday Tea Book Club",
 "ts": 1794460960,
+"venue": "Laikey Teehaus Munich Social Circle"
+},
+"https://rausgegangen.de/events/saturday-tea-book-club-munich-social-circle-1/": {
+"address": "St.-Anna-Straße 31, 80538 München",
+"cost": "4.00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Saturday Tea Book Club",
+"ts": 1795066144,
 "venue": "Laikey Teehaus Munich Social Circle"
 },
 "https://rausgegangen.de/events/schreibwerkstatt-giesinger-bahnhof-friends-present-gesprachs-0/": {
@@ -4703,6 +4928,15 @@
 "ts": 1794633199,
 "venue": "Kulturhaus Neuperlach"
 },
+"https://rausgegangen.de/events/tanzen-fur-alle-11/": {
+"address": "Ruppertstraße 5, 80337 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Tanzen für alle am 21.11.2026 in München",
+"ts": 1795066144,
+"venue": "LUISE Kulturzentrum"
+},
 "https://rausgegangen.de/events/tanzworkshop-lady-style-fur-frauen-0/": {
 "address": "Friedrich-Loy-Straße 16, 80796 München",
 "cost": "kostenlos",
@@ -4977,6 +5211,15 @@
 "ts": 1793942400,
 "venue": "Muffathalle"
 },
+"https://rausgegangen.de/events/ulle-rick-live-auf-tour-2026-6/": {
+"address": "Hans-Preißinger-Straße 8, 81379 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Ulle & Rick - Live auf Tour 2026 am 19.11.2026 in München",
+"ts": 1795066144,
+"venue": "Isarphilharmonie"
+},
 "https://rausgegangen.de/events/undacava-2/": {
 "address": "Reitknechtstr.6, 80639 München",
 "cost": "36.00 €",
@@ -4993,6 +5236,15 @@
 "lng": null,
 "pagetitle": "Urban Comedy Open Mic Stand Up am 13.11.2026 in München",
 "ts": 1794547317,
+"venue": "Alte Paketposthalle"
+},
+"https://rausgegangen.de/events/urban-comedy-open-mic-stand-up-2/": {
+"address": "Arnulfstraße 195-199, 80634 München",
+"cost": "14.00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Urban Comedy Open Mic Stand Up am 20.11.2026 in München",
+"ts": 1795066138,
 "venue": "Alte Paketposthalle"
 },
 "https://rausgegangen.de/events/urban-comedy-stand-up-open-mic-0/": {
@@ -5020,6 +5272,15 @@
 "lng": null,
 "pagetitle": "Urban Comedy Stand-Up Open-Mic am 13.11.2026 in München",
 "ts": 1794374514,
+"venue": "Urban Comedy Club"
+},
+"https://rausgegangen.de/events/urban-comedy-stand-up-open-mic-6/": {
+"address": "Arnulfstraße 195–199, 80634 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Urban Comedy Stand-Up Open-Mic am 20.11.2026 in München",
+"ts": 1795066138,
 "venue": "Urban Comedy Club"
 },
 "https://rausgegangen.de/events/vernissage-1-des-turtle-collective-haunted-0/": {
@@ -5242,6 +5503,24 @@
 "ts": 1794979406,
 "venue": "MVHS in Pasing"
 },
+"https://rausgegangen.de/events/werkausstellung-aquarell-magie-des-wassers-15-oktober-bis-25-36/": {
+"address": "Bäckerstraße 14, 81241 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Werkausstellung Aquarell: Magie des Wassers 15. Oktober bis 25. November 2026 am 19.11.2026 in München",
+"ts": 1795066139,
+"venue": "MVHS in Pasing"
+},
+"https://rausgegangen.de/events/wiener-blues-the-loneliest-man-in-town-7/": {
+"address": "Sonnenstraße 12a, 80331 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Wiener Blues – The Loneliest Man in Town am 19.11.2026 in München",
+"ts": 1795066144,
+"venue": "City Kinos"
+},
 "https://rausgegangen.de/events/workshop-live-visual-performance-and-introduction-to-touchde-0/": {
 "address": null,
 "cost": null,
@@ -5436,6 +5715,15 @@
 "ts": 1793548380,
 "venue": null
 },
+"https://t.rausgegangen.de/tickets/shop/p-fashion-liesl ": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1795066149,
+"venue": null
+},
 "https://t.rausgegangen.de/tickets/shop/p-fuchsteufelswild": {
 "address": null,
 "cost": "ab 8,00 €",
@@ -5472,6 +5760,15 @@
 "ts": 1794460965,
 "venue": null
 },
+"https://t.rausgegangen.de/tickets/shop/p-ludwig-20-ceo-von-gottes-gnaden": {
+"address": null,
+"cost": "ab 8,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Ludwig 2.0 – CEO von Gottes Gnaden Ticketshop",
+"ts": 1795066149,
+"venue": null
+},
 "https://t.rausgegangen.de/tickets/shop/p-matea-otto-und-die-buchstaben": {
 "address": null,
 "cost": "ab 5,00 €",
@@ -5481,6 +5778,15 @@
 "ts": 1794979437,
 "venue": null
 },
+"https://t.rausgegangen.de/tickets/shop/p-triggerland ": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1795066149,
+"venue": null
+},
 "https://t.rausgegangen.de/tickets/shop/p-wg-gesucht": {
 "address": null,
 "cost": "ab 8,00 €",
@@ -5488,6 +5794,15 @@
 "lng": null,
 "pagetitle": "WG GESUCHT! Ticketshop",
 "ts": 1794979437,
+"venue": null
+},
+"https://t.rausgegangen.de/tickets/shop/p-wurdest-du-lieber-1": {
+"address": null,
+"cost": "ab 8,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Würdest du lieber...? Ticketshop",
+"ts": 1795066149,
 "venue": null
 },
 "https://theater-hochx.de/veranstaltung/aus-heiterem-himmel-6/2026-12-10/2/": {
@@ -5544,6 +5859,15 @@
 "ts": 1794633209,
 "venue": null
 },
+"https://theater-hochx.de/veranstaltung/der-wal-im-garten/": {
+"address": null,
+"cost": "6 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Der Wal im Garten – HochX Theater und Live Art",
+"ts": 1795066149,
+"venue": null
+},
 "https://theater-hochx.de/veranstaltung/die-prinzessin-kommt-um-vier/2026-12-09/2/": {
 "address": null,
 "cost": null,
@@ -5587,6 +5911,15 @@
 "lng": null,
 "pagetitle": "Im Glück – HochX Theater und Live Art",
 "ts": 1794979431,
+"venue": null
+},
+"https://theater-hochx.de/veranstaltung/kinder-comic-festival/": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kinder Comic Festival – HochX Theater und Live Art",
+"ts": 1795066149,
 "venue": null
 },
 "https://theater-hochx.de/veranstaltung/lix-33/": {
@@ -5982,6 +6315,15 @@
 "ts": 1793548615,
 "venue": null
 },
+"https://tumthinktank.de/event/democratic-innovations-lab-conversations-i/?utm_source=newsletter&utm_medium=email&utm_term=2026-11-17&utm_campaign=Join+us+for+upcoming+events+before+the+year+ends+": {
+"address": "Richard Wagner Str.1",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Democratic Innovations Lab Conversations",
+"ts": 1795066134,
+"venue": null
+},
 "https://versicherungskammer-kulturstiftung.de/en/kunstfoyer/preview/fashion-br-bruce-gilden-br-martin-parr/": {
 "address": null,
 "cost": null,
@@ -6147,6 +6489,15 @@
 "lng": null,
 "pagetitle": "Amerikahaus Teacher Seminar: USA Update 2026 with Dr. Hünemörder",
 "ts": 1794845766,
+"venue": null
+},
+"https://www.amerikahaus.de/ausstellungen-und-veranstaltungen/2026-11-21-8-grosses-solidaritaetskonzert-lateinamerikas?appointment=1455": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1795066134,
 "venue": null
 },
 "https://www.amerikahaus.de/ausstellungen-und-veranstaltungen/ausstellung-johnny-miller-unequal-scenes-salt-works": {
@@ -6679,13 +7030,13 @@
 "venue": "Akademie für Politische Bildung Tutzing"
 },
 "https://www.apb-tutzing.de/programm/tagung/49-5-26": {
-"address": null,
+"address": "Buchensee 1, 82327 Tutzing",
 "cost": null,
-"lat": null,
-"lng": null,
+"lat": 47.917473,
+"lng": 11.286791,
 "pagetitle": "Akademiegespräch am See: Deutschlands strategische Verantwortung in einer neuen Sicherheitsordnung",
-"ts": 1793855924,
-"venue": null
+"ts": 1795066134,
+"venue": "Akademie für Politische Bildung Tutzing"
 },
 "https://www.apb-tutzing.de/programm/tagung/5-1-27": {
 "address": "Buchensee 1, 82327 Tutzing",
@@ -7147,6 +7498,15 @@
 "ts": 1793548459,
 "venue": null
 },
+"https://www.backstage.eu/event/7f832c9d-e8ac-4438-8e80-a49312b09258": {
+"address": null,
+"cost": "ab 23.00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Website",
+"ts": 1795066135,
+"venue": null
+},
 "https://www.backstage.eu/event/90d39d6b-4890-4eab-9783-90e2092ea305": {
 "address": null,
 "cost": "ab 49.99 €",
@@ -7410,6 +7770,15 @@
 "ts": 1794808226,
 "venue": null
 },
+"https://www.baymevbm.de/baymevbm/ServiceCenter/Ausbildung-PE/Ausbildung/Nachwuchs-ausbilden/Basiswissen-fuer-Ausbildungsbeaufragte.jsp": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Bayme vbm-Workshop zum Thema „Basiswissen für Ausbildungsbeauftragte“",
+"ts": 1795066133,
+"venue": null
+},
 "https://www.baymevbm.de/baymevbm/ServiceCenter/Ausbildung-PE/Ausbildung/Nachwuchs-ausbilden/Demokratische-Resilienz.jsp": {
 "address": null,
 "cost": null,
@@ -7612,6 +7981,15 @@
 "ts": 1794808225,
 "venue": null
 },
+"https://www.baymevbm.de/baymevbm/ServiceCenter/Personal/Entgelt-Leistungen/Entgelt/Leistungsbeurteilung-nach-dem-ERA-TV-–-Vertiefung-fuer-HR-und-Management-digital-1-2027.jsp": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Leistungsbeurteilung nach dem ERA-TV – Vertiefung für HR + Management",
+"ts": 1795066132,
+"venue": null
+},
 "https://www.baymevbm.de/baymevbm/ServiceCenter/Personal/Entgelt-Leistungen/Entgelt/Mit-Tarifbindung/Die-Digitalisierung-der-tariflichen-Leistungsbeurteilung-mit-SAP-bei-der-Fa.-Diehl.jsp": {
 "address": null,
 "cost": null,
@@ -7727,6 +8105,15 @@
 "ts": 1794547317,
 "venue": null
 },
+"https://www.baymevbm.de/baymevbm/ServiceCenter/Tarif/M-E-Flächentarifverträge/Tarif-Vergütung/Die-Digitalisierung-der-tariflichen-Leistungsbeurteilung-mit-SAP-bei-der-Fa.-Diehl.jsp": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Digitalisierung der tariflichen Leistungsbeurteilung mit SAP",
+"ts": 1795066132,
+"venue": null
+},
 "https://www.baymevbm.de/baymevbm/ServiceCenter/Tarif/M-E-Flächentarifverträge/Tarif-Vergütung/ERA-Eingruppierung-–-Vertiefung-für-HR-Süd-2026.jsp": {
 "address": null,
 "cost": null,
@@ -7823,6 +8210,15 @@
 "ts": 1794808225,
 "venue": null
 },
+"https://www.baymevbm.de/baymevbm/Termine-Veranstaltungen/Psychologische-Grundlagen-fuer-Fuehrungskraefte.jsp": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Workshop",
+"ts": 1795066132,
+"venue": null
+},
 "https://www.baymevbm.de/baymevbm/Termine-Veranstaltungen/Treffpunkt-Arbeitsrecht-85.jsp": {
 "address": null,
 "cost": null,
@@ -7872,7 +8268,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Treffpunkt Arbeitsrecht München-Oberbayern",
-"ts": 1793806618,
+"ts": 1795066132,
 "venue": null
 },
 "https://www.baymevbm.de/baymevbm/Termine-Veranstaltungen/bayme-vbm-Regionalversammlungen-Muenchen-Oberbayern-2-2026.jsp": {
@@ -7978,7 +8374,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "20 Jahre ODEON Jugendsinfonieorchester  -  Bergson",
-"ts": 1793806634,
+"ts": 1795066169,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/5-000-jahre-weihnachten-13-dezember-2026": {
@@ -7987,7 +8383,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Weihnachten zwischen Christbaum, Glühwein und alten Bräuchen  -  Bergson",
-"ts": 1793806628,
+"ts": 1795066160,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/80er-party-05-dezember-2026": {
@@ -7996,7 +8392,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "80er Party im Bergson München: Eurodance, Britpop & Hip-Hop in der Barbastelle  -  Bergson",
-"ts": 1793806626,
+"ts": 1795066158,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/80er-party-06-november-2026": {
@@ -8023,7 +8419,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Mit Genuss durch die Adventszeit  -  Bergson",
-"ts": 1793806626,
+"ts": 1795066158,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/adventsbrunch-im-bergson-06-dezember-2026": {
@@ -8032,7 +8428,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Mit Genuss durch die Adventszeit  -  Bergson",
-"ts": 1793806626,
+"ts": 1795066158,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/adventsbrunch-im-bergson-12-dezember-2026": {
@@ -8041,7 +8437,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Mit Genuss durch die Adventszeit  -  Bergson",
-"ts": 1793806627,
+"ts": 1795066160,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/adventsbrunch-im-bergson-19-dezember-2026": {
@@ -8050,7 +8446,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Mit Genuss durch die Adventszeit  -  Bergson",
-"ts": 1793806628,
+"ts": 1795066161,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/adventsbrunch-im-bergson-20-dezember-2026": {
@@ -8059,7 +8455,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Mit Genuss durch die Adventszeit  -  Bergson",
-"ts": 1793806629,
+"ts": 1795066162,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/adventsbrunch-im-bergson-29-november-2026": {
@@ -8068,7 +8464,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Mit Genuss durch die Adventszeit  -  Bergson",
-"ts": 1793806625,
+"ts": 1795066156,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/aladdin-jameel-live-on-tour": {
@@ -8077,7 +8473,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Aladdin Jameel: Stand-up-Comedy im Bergson",
-"ts": 1793806624,
+"ts": 1795066155,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/alessandro-capasso-03-dezember-2026": {
@@ -8086,7 +8482,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Alessandro Capasso: „Der Münchner LIVE“ im Bergson",
-"ts": 1793806625,
+"ts": 1795066157,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/alle-beethoven-symphonien-von-franz-liszt": {
@@ -8095,7 +8491,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Steinway Prizewinner Jiaxin Min im Bergson",
-"ts": 1793855937,
+"ts": 1795066170,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/alle-beethoven-symphonien-von-franz-liszt-2": {
@@ -8122,7 +8518,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Jazzrausch Bigband: Am Weihnachtsabend  -  Bergson",
-"ts": 1793806627,
+"ts": 1795066160,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/am-weihnachtsabend-13-12-26-2": {
@@ -8131,7 +8527,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Jazzrausch Bigband: Am Weihnachtsabend  -  Bergson",
-"ts": 1793806627,
+"ts": 1795066160,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/amelie-diana-andreas-bittl-a-weihnachtsgschicht": {
@@ -8140,7 +8536,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Kabarett im Bergson Kunstkraftwerk - Amelie Diana & Andreas Bittl. „A  Weihnachtsgschicht“  -  Bergson",
-"ts": 1793806628,
+"ts": 1795066160,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/angelina-boerger-kirmes-im-kopf-04-11-26": {
@@ -8158,7 +8554,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "„Kopftuchmädchen“ im Bergson: Ein Abend mit Anissa Loucif  -  Bergson",
-"ts": 1793806627,
+"ts": 1795066159,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/bad-meditators-club-live-22-januar-2027": {
@@ -8167,7 +8563,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "BAD MEDITATORS CLUB LIVE - Ein Abend mit Michael „Curse“ Kurth, DJ Kool GQ & Gästen  -  Bergson",
-"ts": 1793806633,
+"ts": 1795066167,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/balduin-und-der-jazz-14-maerz-2027": {
@@ -8185,7 +8581,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Mitmach-Kinderkonzert: Eine turbulente Reise durch die Welt des Jazz  -  Bergson",
-"ts": 1793806624,
+"ts": 1795066154,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/balduin-und-die-klassik-07-maerz-2027": {
@@ -8203,7 +8599,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Familienkonzert im Bergson: Ein musikalisches Abenteuer mit Beethoven für Kinder  -  Bergson",
-"ts": 1793806633,
+"ts": 1795066167,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/bergson-curators-dinner-03-dezember-2026": {
@@ -8212,7 +8608,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Kunst und Kulinarik beim Curators’ Dinner im Bergson",
-"ts": 1793806625,
+"ts": 1795066157,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/bergson-curators-dinner-04-november-2026": {
@@ -8266,7 +8662,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Kunstführung durch SUPERMARK€T in der Bergson Gallery  -  Bergson",
-"ts": 1793806623,
+"ts": 1795066154,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/bergson-gallery-fuehrung-22-november-2026": {
@@ -8275,7 +8671,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Kunstführung durch SUPERMARK€T & I’LL SEE IT THROUGH THE CHERRY PIE  -  Bergson",
-"ts": 1793806624,
+"ts": 1795066155,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/bergson-gallery-fuehrung-28-november-2026": {
@@ -8284,7 +8680,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Kunstführung durch SUPERMARK€T & I’LL SEE IT THROUGH THE CHERRY PIE  -  Bergson",
-"ts": 1793806624,
+"ts": 1795066156,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/bergson-gallery-fuehrung-29-november-2026": {
@@ -8293,7 +8689,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Kunstführung durch SUPERMARK€T & I’LL SEE IT THROUGH THE CHERRY PIE  -  Bergson",
-"ts": 1793806625,
+"ts": 1795066156,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/bergson-gallery-praesentiert-monaco-franze-100-07-november-2026": {
@@ -8320,7 +8716,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Open Stage im Bergson: Deine Bühne in der Barbastelle  -  Bergson",
-"ts": 1793806635,
+"ts": 1795066169,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/bergson-open-stage-night-29-november-2026": {
@@ -8329,7 +8725,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Bergson Open Stage Night  -  Bergson",
-"ts": 1793806625,
+"ts": 1795066157,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/bergson-s-rise-05-12-26": {
@@ -8338,7 +8734,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Bergson's Rise  -  Bergson",
-"ts": 1793806626,
+"ts": 1795066158,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/bergson-s-rise-3": {
@@ -8347,7 +8743,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Bergson's Rise  -  Bergson",
-"ts": 1793806630,
+"ts": 1795066163,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/bergson-schaulager-x-jan-kuck": {
@@ -8365,7 +8761,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Bergson Silvesterdinner: Vier-Gänge-Menü & Party mit Live-Musik  -  Bergson",
-"ts": 1793806630,
+"ts": 1795066164,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/bergson-silvesterparty": {
@@ -8374,7 +8770,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Bergson Silvesterparty: Die Tanzfläche ruft: DJ, Live-Musik & die größten Hits der 80er bis 2000er!  -  Bergson",
-"ts": 1793806630,
+"ts": 1795066164,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/bergson-voices-musik-des-krieges-24-januar-2027": {
@@ -8383,7 +8779,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Musik des Krieges: Strawinsky & Beethoven im Bergson",
-"ts": 1793806633,
+"ts": 1795066167,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/bergsons-rise-30-januar-2027": {
@@ -8392,7 +8788,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Jazzrausch Bigband Bergson’s Rise und Euphoria  -  Bergson",
-"ts": 1793806634,
+"ts": 1795066168,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/bergsons-rise-euphoria-13-februar-2027": {
@@ -8401,7 +8797,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Jazzrausch Bigband Bergson’s Rise und Euphoria  -  Bergson",
-"ts": 1793806634,
+"ts": 1795066169,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/botticelli-baby-13-11-26": {
@@ -8431,6 +8827,15 @@
 "ts": 1793806621,
 "venue": "Bergson Kunstkraftwerk"
 },
+"https://www.bergson.com/event/brunch-im-bergson-10-januar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "49 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Sonntags die Seele baumeln lassen  -  Bergson",
+"ts": 1795066165,
+"venue": "Bergson Kunstkraftwerk"
+},
 "https://www.bergson.com/event/brunch-im-bergson-15-november-2026": {
 "address": "Am Bergson Kunstkraftwerk 2, 81245 München",
 "cost": "24,50 €",
@@ -8446,7 +8851,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Brunch im Bergson",
-"ts": 1793806624,
+"ts": 1795066154,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/buena-vista-night-28-februar-2027": {
@@ -8464,7 +8869,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Champagner und Kulinarik mit Taittinger erleben  -  Bergson",
-"ts": 1793806635,
+"ts": 1795066170,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/das-bergson-pubquiz-06-dezember-2026": {
@@ -8473,7 +8878,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Das Bergson Pubquiz  -  Bergson",
-"ts": 1793806626,
+"ts": 1795066159,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/das-bergson-pubquiz-07-februar-2027": {
@@ -8482,7 +8887,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Das Bergson Pubquiz  -  Bergson",
-"ts": 1793806634,
+"ts": 1795066168,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/das-bergson-pubquiz-10-januar-2027": {
@@ -8491,7 +8896,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Das Bergson Pubquiz  -  Bergson",
-"ts": 1793806631,
+"ts": 1795066165,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/der-bunte-knall-19-dezember-2026": {
@@ -8500,7 +8905,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Klangzauber im Bergson – Ein Kinderkonzert zum Mitmachen  -  Bergson",
-"ts": 1793806629,
+"ts": 1795066161,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/der-bunte-knall-20-dezember-2026": {
@@ -8509,7 +8914,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Klangzauber im Bergson – Ein Kinderkonzert zum Mitmachen  -  Bergson",
-"ts": 1793806629,
+"ts": 1795066162,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/der-bunte-knall-27-dezember-2026": {
@@ -8518,7 +8923,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Klangzauber im Bergson – Ein Kinderkonzert zum Mitmachen  -  Bergson",
-"ts": 1793806629,
+"ts": 1795066162,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/die-bergson-story-04-dezember-2026": {
@@ -8527,7 +8932,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Die Bergson Story - Eine audio-visuelle Führung in Europas klügstem Konzertsaal  -  Bergson",
-"ts": 1793806626,
+"ts": 1795066157,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/die-bergson-story-06-november-2026": {
@@ -8545,7 +8950,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Die Bergson Story - Eine audio-visuelle Führung in Europas klügstem Konzertsaal  -  Bergson",
-"ts": 1793806628,
+"ts": 1795066161,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/die-bergson-story-20-dezember-2026": {
@@ -8554,7 +8959,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Die Bergson Story - Eine audio-visuelle Führung in Europas klügstem Konzertsaal  -  Bergson",
-"ts": 1793806629,
+"ts": 1795066162,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/die-bergson-story-20-november-2026": {
@@ -8563,7 +8968,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Die Bergson Story - Eine audio-visuelle Führung in Europas klügstem Konzertsaal  -  Bergson",
-"ts": 1793806623,
+"ts": 1795066153,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/die-brandenburgischen-konzerte-i-23-januar-2027": {
@@ -8572,7 +8977,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Balthasar-Neumann-Orchester im Bergson: Bachs Brandenburgische Konzerte  -  Bergson",
-"ts": 1793806633,
+"ts": 1795066167,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/die-brandenburgischen-konzerte-ii-23-januar-2027": {
@@ -8581,7 +8986,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Balthasar-Neumann-Orchester im Bergson: Bachs Brandenburgische Konzerte  -  Bergson",
-"ts": 1793806633,
+"ts": 1795066167,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/die-digitale-festung-wie-man-daten-wirklich-schuetzt-26-november-2026": {
@@ -8590,7 +8995,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Datenschutz im Fokus: Cybersecurity-Abend im Bergson",
-"ts": 1793806624,
+"ts": 1795066156,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/die-natur-ist-kein-parteimitglied-10-maerz-2027": {
@@ -8611,6 +9016,15 @@
 "ts": 1793806620,
 "venue": "Bergson Kunstkraftwerk"
 },
+"https://www.bergson.com/event/die-verlorene-ehre-der-elly-ney-08-maerz-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Eine Live-Sendung mit Podiumsdiskussion  -  Bergson",
+"ts": 1795066170,
+"venue": "Bergson Kunstkraftwerk"
+},
 "https://www.bergson.com/event/dr-manfred-luetz-wie-du-unvermeidlich-gluecklich-wirst-05-maerz-2027": {
 "address": "Am Bergson Kunstkraftwerk 2, 81245 München",
 "cost": null,
@@ -8626,7 +9040,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Kuna und Elli auf einer musikalischen Reise um die Welt  -  Bergson",
-"ts": 1793806632,
+"ts": 1795066166,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/ensemble-interchange-sweet-was-the-song-20-dezember-2026": {
@@ -8644,7 +9058,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Erbschaftsteuer auf dem Prüfstand: Was sich jetzt ändern könnte  -  Bergson",
-"ts": 1793806633,
+"ts": 1795066168,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/eva-karl-faltermeier-ding-dong": {
@@ -8653,7 +9067,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Kabarett im Bergson Kunstkraftwerk - Eva Karl Faltermeier. „Ding Dong“  -  Bergson",
-"ts": 1793806623,
+"ts": 1795066153,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/eva-umlauf-genau-so-faengt-es-an-04-februar-2027": {
@@ -8662,7 +9076,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Eva Umlauf im Bergson – Was Erinnerung heute bedeutet  -  Bergson",
-"ts": 1793806634,
+"ts": 1795066168,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/fabian-lampert-einer-dieser-abende-23-januar-2027": {
@@ -8671,7 +9085,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Stand-up-Comedy im Bergson: Fabian Lampert mit „Einer dieser Abende“  -  Bergson",
-"ts": 1793806633,
+"ts": 1795066167,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/fatih-cevikkollu-ki-kritische-intelligenz": {
@@ -8680,7 +9094,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Fatih Çevikkollu: KI - Kritische Intelligenz  -  Bergson",
-"ts": 1793855937,
+"ts": 1795066170,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/for-heavens-sake-12-maerz-2027": {
@@ -8698,7 +9112,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Mutterschaft im Wandel: Franca Lehfeldt live im Bergson",
-"ts": 1793806633,
+"ts": 1795066168,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/franziska-wanninger-wenn-du-wen-brauchst-ruf-mich-nicht-an": {
@@ -8707,7 +9121,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Franziska Wanninger: Wenn du wen brauchst, ruf mich nicht an  -  Bergson",
-"ts": 1793806632,
+"ts": 1795066166,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/gravity-die-anziehungskraft-der-musik-29-januar-2027": {
@@ -8725,7 +9139,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Greatest Hits Party mit der Bergson Party Band  -  Bergson",
-"ts": 1793806629,
+"ts": 1795066162,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/gregor-haegele-17-dezember-2026": {
@@ -8734,7 +9148,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Gregor Hägele bringt seine Weihnachtsshow ins Bergson",
-"ts": 1793806628,
+"ts": 1795066161,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/grosser-musikalischer-adventsbrunch-im-atrium-13-dezember-2026": {
@@ -8743,7 +9157,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Adventsbrunch im Bergson mit Klassik und Jazz  -  Bergson",
-"ts": 1793806628,
+"ts": 1795066160,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/health-n-harmony-03-january-2027": {
@@ -8752,7 +9166,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Mit Yoga Flow Dance in Bewegung kommen und den Alltag loslassen  -  Bergson",
-"ts": 1793806631,
+"ts": 1795066164,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/health-n-harmony-05-november-2026": {
@@ -8770,7 +9184,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Health ’n’ Harmony im Bergson: Yoga zu Live-Musik  -  Bergson",
-"ts": 1793806626,
+"ts": 1795066158,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/health-n-harmony-08-november-2026": {
@@ -8788,7 +9202,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Health ’n’ Harmony im Bergson: Yoga zu Live-Musik  -  Bergson",
-"ts": 1793806627,
+"ts": 1795066159,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/health-n-harmony-11-maerz-2027": {
@@ -8806,7 +9220,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Health ’n’ Harmony im Bergson: Yoga zu Live-Musik  -  Bergson",
-"ts": 1793806631,
+"ts": 1795066165,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/health-n-harmony-18-februar-2027": {
@@ -8815,7 +9229,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Health ’n’ Harmony im Bergson: Yoga zu Live-Musik  -  Bergson",
-"ts": 1793806635,
+"ts": 1795066170,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/health-n-harmony-20-dezember-2026": {
@@ -8824,7 +9238,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Health ’n’ Harmony im Bergson: Yoga zu Live-Musik  -  Bergson",
-"ts": 1793806629,
+"ts": 1795066162,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/health-n-harmony-festival-22-november-2026": {
@@ -8842,7 +9256,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Yoga für Groß und Klein im Bergson",
-"ts": 1793806627,
+"ts": 1795066160,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/health-n-harmony-for-families-28-november-2026": {
@@ -8851,7 +9265,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Yoga für Groß und Klein im Bergson",
-"ts": 1793806624,
+"ts": 1795066156,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/hilde-timbre-12-maerz-2027": {
@@ -8869,7 +9283,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Bergson Phil’: Ein Abend voller Humor  -  Bergson",
-"ts": 1793806634,
+"ts": 1795066168,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/humorkonzert-27-november-2026": {
@@ -8878,7 +9292,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Bergson Phil’: Ein Abend voller Humor  -  Bergson",
-"ts": 1793806624,
+"ts": 1795066156,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/interplay-johanna-summer-franziska-hoelscher-15-januar-2027": {
@@ -8887,7 +9301,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Johanna Summer und Franziska Hölscher verbinden Jazz und Klassik  -  Bergson",
-"ts": 1793806632,
+"ts": 1795066166,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/jazz-dinner-in-der-barbastelle-11-dezember-2026": {
@@ -8896,7 +9310,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Jazz Dinner in der Barbastelle: Live-Musik trifft im Bergson auf Kulinarik  -  Bergson",
-"ts": 1793806627,
+"ts": 1795066159,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/jazz-dinner-in-der-barbastelle-12-maerz-2027": {
@@ -8914,7 +9328,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Jazz Dinner in der Barbastelle: Live-Musik trifft im Bergson auf Kulinarik  -  Bergson",
-"ts": 1793806634,
+"ts": 1795066169,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/jazz-dinner-in-der-barbastelle-14-november-2026": {
@@ -8932,7 +9346,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Jazz Dinner im Bergson – Musik und Genuss in der Barbastelle  -  Bergson",
-"ts": 1793806632,
+"ts": 1795066166,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/jazzrausch-bigband-bergson-phil-eine-technosinfonie-06-maerz-2027-1": {
@@ -8959,7 +9373,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Jazzrausch Bigband & Bergson Phil’: Eine Technosinfonie  -  Bergson",
-"ts": 1793806631,
+"ts": 1795066164,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/jazzrausch-bigband-das-1000-konzert-13-maerz-2027": {
@@ -8977,7 +9391,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Clubshows zum Album-Release  -  Bergson",
-"ts": 1793806631,
+"ts": 1795066164,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/jazzrausch-bigband-euphoria-10-21-november-2026": {
@@ -8986,7 +9400,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Clubshows zum Album-Release  -  Bergson",
-"ts": 1793806623,
+"ts": 1795066154,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/jazzrausch-bigband-euphoria-13-20-november-2026": {
@@ -8995,7 +9409,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Clubshows zum Album-Release  -  Bergson",
-"ts": 1793806623,
+"ts": 1795066154,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/jazzrausch-bigband-muenchner-symphoniker-18-12-26-1": {
@@ -9004,7 +9418,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Jazzrausch Bigband × Münchner Symphoniker - Christmas Sound im Stile großer Tanzorchester mit neuen Stücken  -  Bergson",
-"ts": 1793806628,
+"ts": 1795066161,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/jazzrausch-bigband-muenchner-symphoniker-19-12-26-2": {
@@ -9013,7 +9427,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Jazzrausch Bigband × Münchner Symphoniker - Christmas Sound im Stile großer Tanzorchester  -  Bergson",
-"ts": 1793806629,
+"ts": 1795066161,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/jazzrausch-bigband-muenchner-symphoniker-4-20-dezember-2026": {
@@ -9022,7 +9436,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Jazzrausch Bigband trifft Münchner Symphoniker  -  Bergson",
-"ts": 1793806629,
+"ts": 1795066162,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/joachim-gauck-ueber-demokratie-und-freiheit-03-dezember-2026": {
@@ -9031,7 +9445,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Joachim Gauck im Bergson: Die Zukunft unserer Demokratie  -  Bergson",
-"ts": 1793806625,
+"ts": 1795066157,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/kammermusik-mit-vladimir-jurowski-16-januar-2027": {
@@ -9040,7 +9454,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Vladimir Jurowski spielt Mozart und Poulenc im Bergson",
-"ts": 1793806632,
+"ts": 1795066166,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/katja-eichinger-geld-21-januar-2027": {
@@ -9049,7 +9463,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Katja Eichinger präsentiert „Geld“ im Bergson: Krimi voller Macht und Geheimnisse  -  Bergson",
-"ts": 1793806632,
+"ts": 1795066166,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/katrin-eigendorf-erzaehlen-was-ist-04-maerz-2027": {
@@ -9076,7 +9490,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Familienkonzert im Bergson: Sarah und das Nix  -  Bergson",
-"ts": 1793806634,
+"ts": 1795066168,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/kinderkonzert-sarah-und-die-fledermaus-10-januar-2027": {
@@ -9085,7 +9499,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Familienkonzert im Bergson: Sarah und die Fledermaus  -  Bergson",
-"ts": 1793806631,
+"ts": 1795066165,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/kiosk61-praesentiert-debuet-album-28-november-2026": {
@@ -9094,7 +9508,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "KIOSK61 live im Bergson: Das München-Debüt der Leipziger Band  -  Bergson",
-"ts": 1793806625,
+"ts": 1795066156,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/klimawandel-in-muenchen-18-februar-2027": {
@@ -9103,7 +9517,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Was der Klimawandel für München bedeutet  -  Bergson",
-"ts": 1793806635,
+"ts": 1795066170,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/koennen-wir-die-welt-retten-8-dezember-2026": {
@@ -9112,7 +9526,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Können wir die Welt retten? - Dirk Steffens und Marc Elsberg im Gespräch  -  Bergson",
-"ts": 1793806627,
+"ts": 1795066159,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/kunstfaelscher-innen-auf-der-spur-18-maerz-2027": {
@@ -9130,7 +9544,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Navid Kermani im Bergson: Liebe  -  Bergson",
-"ts": 1793806635,
+"ts": 1795066169,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/light-in-music-music-in-light-06-dezember-2026": {
@@ -9139,7 +9553,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Vivien Walser & Ligyung: Ein Abend zwischen Licht und Musik  -  Bergson",
-"ts": 1793806627,
+"ts": 1795066159,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/luca-kieser-simsalabim-simon-brenner-20-november-2026": {
@@ -9157,7 +9571,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Lucky Punch Comedy Club im Bergson Kunstkraftwerk  -  Bergson",
-"ts": 1793806624,
+"ts": 1795066155,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/lucky-punch-27-dezember-2026-1": {
@@ -9166,7 +9580,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Lucky Punch Comedy Club im Bergson Kunstkraftwerk  -  Bergson",
-"ts": 1793806630,
+"ts": 1795066163,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/marialy-pacheco-reload": {
@@ -9175,7 +9589,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Marialy Pacheco: „Reload“ - Erlebe die kubanische Starpianistin live  -  Bergson",
-"ts": 1793806623,
+"ts": 1795066154,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/martin-kaelberer-meets-tommy-baldu-deep-29-januar-2027": {
@@ -9184,7 +9598,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Martin Kälberer ist zurück im Elektra Tonquartier!  -  Bergson",
-"ts": 1793806633,
+"ts": 1795066168,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/meister-bumeder": {
@@ -9202,7 +9616,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Melanie Raabe im Bergson: Thriller-Lesung zu „DAISY“  -  Bergson",
-"ts": 1793806631,
+"ts": 1795066165,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/mustafa-algiyadi-almost-legal-alien-13-dezember-2026": {
@@ -9211,7 +9625,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Live-Stand-up-Comedy von Münchens mehrfach ausgezeichnetem Comedian  -  Bergson",
-"ts": 1793806628,
+"ts": 1795066160,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/neujahrskonzert-der-bergson-phil-mit-neuem-programm": {
@@ -9220,7 +9634,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Neujahrskonzert der Bergson Phil’ mit neuem Programm  -  Bergson",
-"ts": 1793806631,
+"ts": 1795066164,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/neujahrskonzert-der-bergson-phil-mit-neuem-programm-02-01-27": {
@@ -9229,7 +9643,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Neujahrskonzert der Bergson Phil’ mit neuem Programm  -  Bergson",
-"ts": 1793806631,
+"ts": 1795066164,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/neujahrskonzert-der-bergson-phil-mit-neuem-programm-03-01-27": {
@@ -9238,7 +9652,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Neujahrskonzert der Bergson Phil’ mit neuem Programm  -  Bergson",
-"ts": 1793806631,
+"ts": 1795066164,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/neujahrskonzert-der-bergson-phil-mit-neuem-programm-05-01-27": {
@@ -9247,7 +9661,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Neujahrskonzert der Bergson Phil’ mit neuem Programm  -  Bergson",
-"ts": 1793806631,
+"ts": 1795066164,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/neujahrskonzert-der-bergson-phil-mit-neuem-programm-06-01-27-1": {
@@ -9256,7 +9670,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Neujahrskonzert der Bergson Phil’ mit neuem Programm  -  Bergson",
-"ts": 1793806631,
+"ts": 1795066164,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/noten-neuronen-08-november-2026-1": {
@@ -9283,7 +9697,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Ola Onabulé live: Ein besonderer Konzertabend mit dem Bergson Jazz Orchestra  -  Bergson",
-"ts": 1793806632,
+"ts": 1795066166,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/orgelsound-360-glanz-und-gloria-07-maerz-2027": {
@@ -9301,7 +9715,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Im Bergson: Orgelsound 360° Weihnachtsspecial mit klassischen Weihnachtsmelodien  -  Bergson",
-"ts": 1793806625,
+"ts": 1795066156,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/peterchens-mondfahrt-06-dezember-2026": {
@@ -9310,7 +9724,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Peterchens Mondfahrt – Ein Kinderkonzert der Bergson Artists  -  Bergson",
-"ts": 1793806626,
+"ts": 1795066158,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/peterchens-mondfahrt-13-dezember-2026": {
@@ -9319,7 +9733,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Peterchens Mondfahrt – Ein Kinderkonzert der Bergson Artists  -  Bergson",
-"ts": 1793806627,
+"ts": 1795066160,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/peterchens-mondfahrt-28-februar-2027": {
@@ -9337,7 +9751,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Peterchens Mondfahrt – Ein Kinderkonzert der Bergson Artists  -  Bergson",
-"ts": 1793806625,
+"ts": 1795066156,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/philipp-hochmair-kurt-razelli-schiller-remix-25-februar-2027": {
@@ -9346,7 +9760,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Philipp Hochmair & Kurt Razelli im Bergson: Schiller Remix  -  Bergson",
-"ts": 1793855937,
+"ts": 1795066170,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/prizewinners-in-concert-05-maerz-2027": {
@@ -9364,7 +9778,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Im Bergson: Musikhistorie meets Future, Grammy-Gewinner trifft auf Rising Star  -  Bergson",
-"ts": 1793806626,
+"ts": 1795066158,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/raum-und-zeit-7-maerz-2027": {
@@ -9382,7 +9796,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "RENNER: Jazz-Trio im Bergson",
-"ts": 1793806633,
+"ts": 1795066167,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/richard-wagner-das-rheingold-26-februar-2026": {
@@ -9409,7 +9823,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Samuel & der bunte Knall: Silvesterkonzert für Kinder  -  Bergson",
-"ts": 1793806630,
+"ts": 1795066163,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/sasa-hanten-talent-zum-glueck-17-dezember-2026": {
@@ -9418,7 +9832,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Zwischen Kunst und Literatur: Sasa Hanten im Bergson",
-"ts": 1793806628,
+"ts": 1795066161,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/silo-west-trance-bounce-day-rave-21-november-2026": {
@@ -9436,7 +9850,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Genussvoll ins neue Jahr mit unserem Silvesterbrunch  -  Bergson",
-"ts": 1793806630,
+"ts": 1795066163,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/silvesterkonzert-bergson-jazz-orchestra": {
@@ -9445,7 +9859,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "The Music of Glenn Miller: Großes Silvesterkonzert mit dem  Bergson Jazz Orchestra  -  Bergson",
-"ts": 1793806630,
+"ts": 1795066163,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/simon-pierro-magie-mit-ki-27-dezember-2026-1": {
@@ -9454,7 +9868,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Simon Pierro im Bergson: Magie mit KI live im Elektra Tonquartier  -  Bergson",
-"ts": 1793806630,
+"ts": 1795066163,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/sirius-quartet-incantations-20-november-26": {
@@ -9463,7 +9877,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Sirius Quartet: “Incantations”  -  Bergson",
-"ts": 1793806623,
+"ts": 1795066153,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/star-gastpiel-lakecia-benjamin-we-dream-22-november-2026": {
@@ -9472,7 +9886,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Lakecia Benjamin “We Dream” – Eine der gefeiertsten Jazz-Musikerinnen der Gegenwart  -  Bergson",
-"ts": 1793806624,
+"ts": 1795066155,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/stephanie-lottermoser-14-november-2026": {
@@ -9490,7 +9904,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "The Bassmonsters: Rock trifft Klassik im Bergson",
-"ts": 1793806634,
+"ts": 1795066168,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/theologe-manfred-luetz-im-bergson-kunstkraftwerk-11-november-2026": {
@@ -9517,7 +9931,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Tingvall Trio: „Pax“  -  Bergson",
-"ts": 1793806626,
+"ts": 1795066157,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/tobias-haberl-mut-ein-weckruf-in-bangen-zeiten-13-november-2026": {
@@ -9535,7 +9949,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Die Trompetenklasse der HMTM bringt festliche Klänge ins Bergson",
-"ts": 1793806628,
+"ts": 1795066160,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/true-crime-in-music-12-februar-2027": {
@@ -9544,7 +9958,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Der rätselhafte Tod des Tschaikowsky mit der Bergson Phil’  -  Bergson",
-"ts": 1793806634,
+"ts": 1795066168,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/true-crime-in-music-22-januar-2027": {
@@ -9553,7 +9967,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Der rätselhafte Tod des Tschaikowsky mit der Bergson Phil’  -  Bergson",
-"ts": 1793806632,
+"ts": 1795066167,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/weihnachtskonzert-der-bergson-voices-29-november-2026": {
@@ -9562,7 +9976,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Weihnachtskonzert mit den Bergson Voices: Benjamin Brittens \"Ceremony of Carols\"  -  Bergson",
-"ts": 1793806625,
+"ts": 1795066156,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/wine-and-dine-09-dezember-2026": {
@@ -9571,7 +9985,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Wine & Dine mit der Domäne Wachau  -  Bergson",
-"ts": 1793806627,
+"ts": 1795066159,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/zara-mcfarlane-singt-sarah-vaughan-19-maerz-2027": {
@@ -9635,6 +10049,15 @@
 "ts": 1794460953,
 "venue": "München"
 },
+"https://www.bundesbank.de/de/service/termine/ausbildungsmesse-einstieg-muenchen-in-der-moc-muenchen-634556": {
+"address": "Event Center Messe München Lilienthalallee 40, 80939 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Ausbildungsmesse Einstieg München in der MOC München",
+"ts": 1795066134,
+"venue": "MOC"
+},
 "https://www.cap-lmu.de/aktuell/meldungen/2026/monacensia.php": {
 "address": null,
 "cost": "kostenlos",
@@ -9652,6 +10075,15 @@
 "pagetitle": "Home –  Cell Press Symposia: Decoding Cellular Complexity: Single Cell Biology in the Era of AI",
 "ts": 1794808243,
 "venue": null
+},
+"https://www.deutsches-museum.de/museumsinsel/besuch": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Besuch - Deutsches Museum",
+"ts": 1795066134,
+"venue": "Anschrift Museumsinsel 1 80538 München Telefon +49 89 2179 333 E-Mail besucherservice@deutsches-muse"
 },
 "https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/aktionstag-im-zeichen-der-inklusion": {
 "address": null,
@@ -9962,7 +10394,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Der Münchner LIVE",
-"ts": 1793806619,
+"ts": 1795066149,
 "venue": "Silbersaal"
 },
 "https://www.deutsches-theater.de/der-muenchner-live/": {
@@ -10385,7 +10817,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Die musikalische Bühnenshow: „Von der Made bis das weiße Rössl“",
-"ts": 1793855937,
+"ts": 1795066149,
 "venue": "Silbersaal"
 },
 "https://www.deutsches-theater.de/rapunzel/": {
@@ -11864,7 +12296,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "LAFITA – Lateinamerikanische Filmtage 2026 - Gasteig München",
-"ts": 1793806619,
+"ts": 1795066136,
 "venue": "Gasteig HP8"
 },
 "https://www.gasteig.de/festivals/queeres-literaturfestival-muenchen-2/": {
@@ -11889,6 +12321,15 @@
 "lat": null,
 "lng": null,
 "ts": 1793596991,
+"venue": null
+},
+"https://www.gasteig.de/veranstaltungen/movie-night-2026/": {
+"address": null,
+"cost": "31 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Filmfoniker Movie Night 2026 - Gasteig München",
+"ts": 1795066136,
 "venue": null
 },
 "https://www.gasteig.de/veranstaltungen/olli-schulz/": {
@@ -12098,6 +12539,15 @@
 "ts": 1794719736,
 "venue": null
 },
+"https://www.hausderkunst.de/veranstaltungen/open-atelier-solar-283832": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "25.11.2026, 14:00 — Open Atelier. Solar",
+"ts": 1795066135,
+"venue": null
+},
 "https://www.hausderkunst.de/veranstaltungen/open-atelier-solar-283853": {
 "address": null,
 "cost": "kostenlos",
@@ -12132,6 +12582,15 @@
 "ts": 1793548414,
 "venue": null
 },
+"https://www.hfp.tum.de/en/theory/news/": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "News",
+"ts": 1795066134,
+"venue": null
+},
 "https://www.hfp.tum.de/hfp/aktuelles/veranstaltungen/veranstaltungsdetails/article/the-confidence-trap-how-advisors-gain-and-lose-credibility-at-war-wendy-he-university-of-tuebingen/": {
 "address": null,
 "cost": null,
@@ -12155,7 +12614,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Beatles go Christmas - Hofspielhaus München",
-"ts": 1793715577,
+"ts": 1795066149,
 "venue": null
 },
 "https://www.hofspielhaus.de/stuecke/christian-christl-bayoogie-masters/": {
@@ -12164,7 +12623,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Christian Christl - Bayoogie Masters - Hofspielhaus München",
-"ts": 1793715581,
+"ts": 1795066153,
 "venue": null
 },
 "https://www.hofspielhaus.de/stuecke/das-zauberfloetchen/": {
@@ -12173,7 +12632,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Das Zauberflötchen - Hofspielhaus München",
-"ts": 1793715577,
+"ts": 1795066150,
 "venue": null
 },
 "https://www.hofspielhaus.de/stuecke/der-kleine-prinz/": {
@@ -12182,7 +12641,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Der Kleine Prinz - Hofspielhaus München",
-"ts": 1793715580,
+"ts": 1795066150,
 "venue": null
 },
 "https://www.hofspielhaus.de/stuecke/der-kontrabass/": {
@@ -12191,7 +12650,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "DER KONTRABASS - Hofspielhaus München",
-"ts": 1793715580,
+"ts": 1795066151,
 "venue": null
 },
 "https://www.hofspielhaus.de/stuecke/der-saengerkrieg-der-heidehasen/": {
@@ -12200,7 +12659,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Der Sängerkrieg der Heidehasen - Hofspielhaus München",
-"ts": 1793715577,
+"ts": 1795066149,
 "venue": null
 },
 "https://www.hofspielhaus.de/stuecke/der-tatortreiniger/": {
@@ -12209,7 +12668,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Der Tatortreiniger - Hofspielhaus München",
-"ts": 1793715580,
+"ts": 1795066152,
 "venue": null
 },
 "https://www.hofspielhaus.de/stuecke/female-instincts-katrin-avisontizian-jost/": {
@@ -12218,7 +12677,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "FEMALE INSTINCTS KATRIN AVISON und TIZIAN JOST - Hofspielhaus München",
-"ts": 1793715580,
+"ts": 1795066153,
 "venue": null
 },
 "https://www.hofspielhaus.de/stuecke/giesing-mountain/": {
@@ -12227,7 +12686,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Giesing Mountain - Hofspielhaus München",
-"ts": 1793715579,
+"ts": 1795066150,
 "venue": null
 },
 "https://www.hofspielhaus.de/stuecke/hannah-ahrendt-und-mary-mccarthy-warum-sollte-ich-meine-grossmutter-nicht-umbringen-wenn-ich-das-will/": {
@@ -12236,7 +12695,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Hannah Ahrendt und Mary Mccarthy - Hofspielhaus München",
-"ts": 1793715581,
+"ts": 1795066153,
 "venue": null
 },
 "https://www.hofspielhaus.de/stuecke/kaltgestellt/": {
@@ -12245,7 +12704,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Kaltgestellt - Hofspielhaus München",
-"ts": 1793715577,
+"ts": 1795066149,
 "venue": null
 },
 "https://www.hofspielhaus.de/stuecke/kunst/": {
@@ -12254,7 +12713,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Kunst - Hofspielhaus München",
-"ts": 1793715579,
+"ts": 1795066150,
 "venue": null
 },
 "https://www.hofspielhaus.de/stuecke/loriots-dramatische-werke/": {
@@ -12263,7 +12722,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Loriots dramatische Werke - Hofspielhaus München",
-"ts": 1793715580,
+"ts": 1795066151,
 "venue": null
 },
 "https://www.hofspielhaus.de/stuecke/max-tiller-quartett-modern-jazz/": {
@@ -12281,7 +12740,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Oh Mein Gott! - Hofspielhaus München",
-"ts": 1793715577,
+"ts": 1795066149,
 "venue": null
 },
 "https://www.hofspielhaus.de/stuecke/omi-alarm/": {
@@ -12290,7 +12749,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Omi-Alarm - Hofspielhaus München",
-"ts": 1793715582,
+"ts": 1795066153,
 "venue": null
 },
 "https://www.hofspielhaus.de/stuecke/penthesilea/": {
@@ -12299,7 +12758,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Penthesilea - Hofspielhaus München",
-"ts": 1793715582,
+"ts": 1795066153,
 "venue": null
 },
 "https://www.hofspielhaus.de/stuecke/schrecklich-amuesant-aber-in-zukunft-ohne-mich/": {
@@ -12308,7 +12767,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Schrecklich amüsant - aber in Zukunft ohne mich - Hofspielhaus München",
-"ts": 1793715577,
+"ts": 1795066149,
 "venue": null
 },
 "https://www.hofspielhaus.de/stuecke/shakespeares-saemtliche-werke-leicht-gekuerzt/": {
@@ -12317,7 +12776,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Shakespeares sämtliche Werke (leicht gekürzt) - Hofspielhaus München",
-"ts": 1793715579,
+"ts": 1795066150,
 "venue": null
 },
 "https://www.hofspielhaus.de/stuecke/silvestershow-sinatra-perfectly-frank/": {
@@ -12326,7 +12785,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Silvestershow: Sinatra: Perfectly Frank! - Hofspielhaus München",
-"ts": 1793715580,
+"ts": 1795066152,
 "venue": null
 },
 "https://www.hofspielhaus.de/stuecke/sinatra-perfecly-frank/": {
@@ -12335,7 +12794,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Sinatra: Perfectly Frank! - Hofspielhaus München",
-"ts": 1793715577,
+"ts": 1795066149,
 "venue": null
 },
 "https://www.hofspielhaus.de/stuecke/so-schoen-und-so-bloed-dazu/": {
@@ -12353,7 +12812,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Studio Eisbach - Hofspielhaus München",
-"ts": 1793806620,
+"ts": 1795066153,
 "venue": null
 },
 "https://www.hofspielhaus.de/stuecke/the-rick-hollander-quartett/": {
@@ -12362,7 +12821,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "The Rick Hollander Quartett - Hofspielhaus München",
-"ts": 1793715581,
+"ts": 1795066153,
 "venue": null
 },
 "https://www.hofspielhaus.de/stuecke/und-morgen-kommt-der-hartmann/": {
@@ -12371,7 +12830,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Und morgen kommt der Hartmann - Hofspielhaus München",
-"ts": 1793715580,
+"ts": 1795066151,
 "venue": null
 },
 "https://www.hofspielhaus.de/stuecke/weihnachtsjazz-mit-alma-naidu/": {
@@ -12380,7 +12839,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Alma Naidu - Voice & Piano - Hofspielhaus München",
-"ts": 1793715577,
+"ts": 1795066150,
 "venue": null
 },
 "https://www.hss.de/veranstaltungen/250-jahre-wohlstand-der-nationen-zur-relevanz-von-adam-smith-heute-3260302410/": {
@@ -12519,6 +12978,15 @@
 "lng": null,
 "pagetitle": "Webinar: Cybercrime und KI - Angriff und Verteidigung (Teil 1)",
 "ts": 1793855924,
+"venue": "Online"
+},
+"https://www.hwk-muenchen.de/termine/webinar-cybercrime-und-ki-angriff-und-verteidigung-teil-2-74,0,evedetail.html?eve=5210": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Webinar: Cybercrime und KI - Angriff und Verteidigung (Teil 2)",
+"ts": 1795066132,
 "venue": "Online"
 },
 "https://www.in-muenchen.de/gastro/weinfeste-in-muenchen.html": {
@@ -13996,6 +14464,15 @@
 "ts": 1794719736,
 "venue": "Lenbachhaus München"
 },
+"https://www.lenbachhaus.de/besuchen/kalender/termin/cultureclubbing-goes-lenbachhaus-19138": {
+"address": "Luisenstrasse 33, 80333 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Exklusive Öffnung nur für Studierende",
+"ts": 1795066135,
+"venue": "Lenbachhaus München"
+},
 "https://www.lenbachhaus.de/besuchen/kalender/termin/die-arisierung-der-galerie-hugo-helbing-ein-provenienzforschungsprojekt-am-lenbachhaus-19129": {
 "address": "Luisenstrasse 33, 80333 München",
 "cost": null,
@@ -15439,6 +15916,15 @@
 "ts": 1794287693,
 "venue": "ISI Munich International Stone"
 },
+"https://www.lmu.de/de/newsroom/veranstaltungskalender/veranstaltung/lyrik-kabinett-35-jahre-das-gedicht-festlesung-mit-anton-g-leitner-54bf8bed.html": {
+"address": "Lyrik-Bibliothek Amalienstr. 83a, 80799 München",
+"cost": "12 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Lyrik Kabinett: 35 Jahre „Das Gedicht“ – Festlesung mit Anton G. Leitner",
+"ts": 1795066134,
+"venue": null
+},
 "https://www.lmu.de/de/newsroom/veranstaltungskalender/veranstaltung/masslos-wie-die-welt-ins-theater-passt-c78b12eb.html": {
 "address": "Seestraße 13, 80802 München",
 "cost": null,
@@ -16306,6 +16792,15 @@
 "ts": 1793715518,
 "venue": "Café Le Hygge"
 },
+"https://www.meetup.com/themunichconnection/events/317045407/": {
+"address": "Ehrengutstraße 6, München, München",
+"cost": "10 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Every Thursday After-Work Socializing | Meet New People, Make New Connections, Thu, Nov 19, 2026, 7:00 PM",
+"ts": 1795066136,
+"venue": "Café Le Hygge"
+},
 "https://www.meetup.com/themunichconnection/events/317045409/": {
 "address": "Ehrengutstraße 6, München, München",
 "cost": "10 €",
@@ -16992,7 +17487,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Danton - Programm - Kammerspiele",
-"ts": 1793806619,
+"ts": 1795066135,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/51507-danton?activity=52299": {
@@ -17035,7 +17530,8 @@
 "cost": "ab 35 €",
 "lat": null,
 "lng": null,
-"ts": 1793548431,
+"pagetitle": "Indien - Programm - Kammerspiele",
+"ts": 1795066135,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/51633-indien?activity=51634": {
@@ -17238,7 +17734,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Anarchie in Bayern - Programm - Kammerspiele",
-"ts": 1793806619,
+"ts": 1795066135,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/51872-heaven-will-come": {
@@ -18113,7 +18609,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Offene Wunde",
-"ts": 1793806619,
+"ts": 1795066149,
 "venue": "20:00 Uhr Bühne 2"
 },
 "https://www.muenchner-volkstheater.de/programm/schauspiel/philophobia": {
@@ -20261,7 +20757,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Social Business Meetup München",
-"ts": 1793806618,
+"ts": 1795066132,
 "venue": "Vorhoelzer Forum der TUM"
 },
 "https://www.munich-startup.de/events/start-up-dialog-ausbildung": {
@@ -20298,6 +20794,24 @@
 "lng": null,
 "pagetitle": "The Art of Assertive Negotiation for Female Founders",
 "ts": 1794808216,
+"venue": "Online"
+},
+"https://www.munich-startup.de/events/tutorial-absicherung-startup-geschaeftsfuehrer-teil-1-0327": {
+"address": "Atelierstraße 24, 81671 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Tutorial: Welche Möglichkeiten der Absicherung gibt es für Startup-Geschäftsführer? – Teil 1",
+"ts": 1795066132,
+"venue": "Online"
+},
+"https://www.munich-startup.de/events/tutorial-absicherung-startups-geschaeftsfuehrer-teil-2-0527": {
+"address": "Atelierstraße 24, 81671 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Tutorial: Welche Möglichkeiten der Absicherung von Cyber-, Elektronik- und IT-Risiken gibt es für Startups-Geschäftsführer? – Teil 2",
+"ts": 1795066132,
 "venue": "Online"
 },
 "https://www.munich-startup.de/events/tutorial-auslaendische-beschaeftigte-im-startup-was-muss-ich-als-gruender-beachten": {
@@ -20856,7 +21370,8 @@
 "cost": null,
 "lat": null,
 "lng": null,
-"ts": 1793548377,
+"pagetitle": "Gastveranstaltung: Go! Live Bavaria – eine bayerische Jugendkultur-Initiative - PresseClub-München",
+"ts": 1795066134,
 "venue": null
 },
 "https://www.presseclub-muenchen.de/veranstaltung-detail/gastveranstaltung-go-live-bavaria-eine-bayerische-jugendkultur-initiative.html": {
@@ -20875,6 +21390,15 @@
 "lng": null,
 "pagetitle": "Gastveranstaltung: Pressefrühstück: Glasfaser für München, Bayern und Deutschland – wie schnell geht der Ausbau voran? - PresseClub-München",
 "ts": 1794287693,
+"venue": null
+},
+"https://www.presseclub-muenchen.de/veranstaltung-detail/gastveranstaltung-unter-bruecken-wege-aus-der-unsicherheit-fuer-frauen-ohne-obdach.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Gastveranstaltung: Unter Brücken. Wege aus der Unsicherheit für Frauen ohne Obdach - PresseClub-München",
+"ts": 1795066134,
 "venue": null
 },
 "https://www.residenztheater.de/stuecke/detail/bernarda-albas-haus": {
@@ -21401,6 +21925,15 @@
 "ts": 1793548599,
 "venue": "Kleine Olympiahalle"
 },
+"https://www.songkick.com/concerts/42822741-berq-at-zenith-die-kulturhalle?utm_medium=organic&utm_source=microformat": {
+"address": "Lilienthalallee 29, 80939 Munich",
+"cost": "59.40 €",
+"lat": 48.19464,
+"lng": 11.60865,
+"pagetitle": "Berq at Zenith, die Kulturhalle (24 Nov 2026)",
+"ts": 1795066135,
+"venue": "Zenith, die Kulturhalle"
+},
 "https://www.songkick.com/concerts/42822899-branford-marsalis-at-isarphilharmonie-im-gasteig-hp8?utm_medium=organic&utm_source=microformat": {
 "address": "Hans-Preißinger-Strasse 8, 81379 Munich",
 "cost": "115.19 €",
@@ -21654,6 +22187,15 @@
 "ts": 1794114753,
 "venue": "Strom"
 },
+"https://www.songkick.com/concerts/43040503-red-hot-chilli-pipers-at-technikum?utm_medium=organic&utm_source=microformat": {
+"address": "Speicherstraße 26, 81671 Munich",
+"cost": "46.45 €",
+"lat": 48.12346,
+"lng": 11.60661,
+"pagetitle": "The Red Hot Chilli Pipers at Technikum (24 Nov 2026)",
+"ts": 1795066135,
+"venue": "Technikum"
+},
 "https://www.songkick.com/concerts/43040539-nachtmahr-at-halle-backstage?utm_medium=organic&utm_source=microformat": {
 "address": "Reitknechtstrasse 6, 80639 Munich",
 "cost": "39.55 €",
@@ -21759,6 +22301,15 @@
 "ts": 1793596990,
 "venue": "Backstage"
 },
+"https://www.songkick.com/concerts/43078438-colby-at-club-backstage?utm_medium=organic&utm_source=microformat": {
+"address": "Reitknechtstrasse 6, 80639 Munich",
+"cost": "32.50 €",
+"lat": 48.14498,
+"lng": 11.52191,
+"pagetitle": "Colby and nothhingspecial at Club, Backstage (24 Nov 2026)",
+"ts": 1795066135,
+"venue": "Club, Backstage"
+},
 "https://www.songkick.com/concerts/43080522-cassandra-complex-at-backstage?utm_medium=organic&utm_source=microformat": {
 "address": "Reitknechtstrasse 6, 80639 Munich",
 "cost": "31.30 €",
@@ -21846,6 +22397,15 @@
 "pagetitle": "Moon Walker at Halle, Backstage (17 Nov 2026)",
 "ts": 1794460959,
 "venue": "Halle, Backstage"
+},
+"https://www.songkick.com/concerts/43101960-chinchilla-at-strom?utm_medium=organic&utm_source=microformat": {
+"address": "Lindwurmstraße 88, 80337 Munich",
+"cost": "33.70 €",
+"lat": 48.12496,
+"lng": 11.54866,
+"pagetitle": "Chinchilla at Strom (24 Nov 2026)",
+"ts": 1795066135,
+"venue": "Strom"
 },
 "https://www.songkick.com/concerts/43105714-afrob-at-muffathalle?utm_medium=organic&utm_source=microformat": {
 "address": "Zellstr. 4, 81667 Munich",
@@ -21974,6 +22534,15 @@
 "ts": 1793548600,
 "venue": "Technikum"
 },
+"https://www.songkick.com/concerts/43160199-widowspeak-at-milla-club?utm_medium=organic&utm_source=microformat": {
+"address": "Holzstrasse 28, 80469 Munich",
+"cost": "26.00 €",
+"lat": 48.12896,
+"lng": 11.56791,
+"pagetitle": "Widowspeak at Milla Club (24 Nov 2026)",
+"ts": 1795066135,
+"venue": "Milla Club"
+},
 "https://www.songkick.com/concerts/43161211-julia-meladin-at-werk-backstage?utm_medium=organic&utm_source=microformat": {
 "address": "Reitknechtstrasse 6, 80639 Munich",
 "cost": "44.10 – 48.60 €",
@@ -22078,6 +22647,15 @@
 "pagetitle": "RIN at Olympiahalle München (20 Nov 2026)",
 "ts": 1794719736,
 "venue": "Olympiahalle München"
+},
+"https://www.songkick.com/concerts/43216307-tayc-at-muffathalle?utm_medium=organic&utm_source=microformat": {
+"address": "Zellstr. 4, 81667 Munich",
+"cost": "69.90 – 86.40 €",
+"lat": 48.13321,
+"lng": 11.58971,
+"pagetitle": "Tayc at Muffathalle (24 Nov 2026)",
+"ts": 1795066135,
+"venue": "Muffathalle"
 },
 "https://www.songkick.com/concerts/43219512-guacayo-at-kult-9?utm_medium=organic&utm_source=microformat": {
 "address": "Blutenburgstr. 71, 80636 Munich",
@@ -22367,6 +22945,15 @@
 "ts": 1793548594,
 "venue": "Rote Sonne"
 },
+"https://www.songkick.com/concerts/43278943-east-forest-at-ampere?utm_medium=organic&utm_source=microformat": {
+"address": "Zellstraße 4, 81667 Munich",
+"cost": "38.20 – 42.75 €",
+"lat": 48.13321,
+"lng": 11.58971,
+"pagetitle": "East Forest at Ampere (24 Nov 2026)",
+"ts": 1795066135,
+"venue": "Ampere"
+},
 "https://www.songkick.com/concerts/43280682-boo-seeka-at-kult-9?utm_medium=organic&utm_source=microformat": {
 "address": "Blutenburgstr. 71, 80636 Munich",
 "cost": "28.20 €",
@@ -22645,6 +23232,15 @@
 "lng": 11.56791,
 "ts": 1793548593,
 "venue": "Milla Club"
+},
+"https://www.songkick.com/concerts/43457340-darts-us-at-xbar?utm_medium=organic&utm_source=microformat": {
+"address": "Sternstraße 20, 80538 Munich",
+"cost": null,
+"lat": 48.1396,
+"lng": 11.5911,
+"pagetitle": "The Darts - US at X-Bar (24 Nov 2026)",
+"ts": 1795066135,
+"venue": "X-Bar"
 },
 "https://www.songkick.com/concerts/43460628-marialy-pacheco-at-bergson-kunstkraftwerk?utm_medium=organic&utm_source=microformat": {
 "address": "Am Bergson Kunstkraftwerk 2, 81245 Munich",
@@ -23511,6 +24107,15 @@
 "ts": 1793942395,
 "venue": "Bürgerhaus Garching"
 },
+"https://www.tum.de/aktuelles/veranstaltungen/details/kinderuni-wie-veraendert-kuenstliche-intelligenz-die-welt-der-bilder-und-videos?utm_source=newsletter&utm_medium=email&utm_term=2026-11-17&utm_campaign=Join+us+for+upcoming+events+before+the+year+ends+": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "KinderUni München an der TUM: Wie verändert Künstliche Intelligenz die Welt der Bilder und Videos?",
+"ts": 1795066134,
+"venue": "München"
+},
 "https://www.tum.de/aktuelles/veranstaltungen/details/lebensmittel-selbst-fermentieren": {
 "address": "Karlstraße 32, 80333 München",
 "cost": null,
@@ -23941,6 +24546,15 @@
 "lng": null,
 "pagetitle": "Unterfahrt Carolina Bubbico Programminfo",
 "ts": 1794979404,
+"venue": null
+},
+"https://www.unterfahrt.de/programm-detail.php?dateID=11709": {
+"address": null,
+"cost": "30 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Unterfahrt Wolfgang Schmid & Friends Programminfo",
+"ts": 1795066135,
 "venue": null
 },
 "https://www.unterfahrt.de/programm-detail.php?dateID=14382": {
@@ -24385,6 +24999,15 @@
 "ts": 1794845766,
 "venue": "hbw"
 },
+"https://www.vbw-bayern.de/vbw/Themen-und-Services/Innovation/Marketing-zum-Anfassen-Wie-man-mit-VR-AR-und-3D-Scanning-Kunden-begeistert.jsp": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Marketing zum Anfassen: mit VR, AR & 3D-Scanning Kunden begeistern",
+"ts": 1795066132,
+"venue": null
+},
 "https://www.vbw-bayern.de/vbw/Themen-und-Services/Innovation/XR-im-Bereich-Recruiting-Employer-Branding-Onboarding-und-Training-–-erleben-verstehen-einsetzen.jsp": {
 "address": null,
 "cost": null,
@@ -24408,7 +25031,8 @@
 "cost": "kostenlos",
 "lat": null,
 "lng": null,
-"ts": 1793548337,
+"pagetitle": "vbw Stiftung Lebensgrundlagen Bayern – Förderpreisverleihung 2026",
+"ts": 1795066132,
 "venue": "hbw"
 },
 "https://www.vbw-bayern.de/vbw/Themen-und-Services/Politik-Gesellschaft/Agenda-EinfachStaat-–-Neustart-für-Verwaltung-und-Industrie.jsp": {
@@ -24825,6 +25449,15 @@
 "ts": 1794028176,
 "venue": null
 },
+"https://www.vdma.eu/kalender/-/event/view/135485": {
+"address": "Slash Net Business GmbH Riesenfeldstraße 75, 80809 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Veranstaltungen & Messen - vdma.org - VDMA",
+"ts": 1795066134,
+"venue": "double"
+},
 "https://www.vdma.eu/kalender/-/event/view/136101": {
 "address": null,
 "cost": null,
@@ -24999,7 +25632,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "| Wirtschaftsjunioren München",
-"ts": 1793855924,
+"ts": 1795066134,
 "venue": null
 },
 "https://www.wj-muenchen.de/?veranstaltung=129889": {
