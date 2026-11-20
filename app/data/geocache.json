@@ -25,6 +25,7 @@
 "lng": 11.6396
 },
 "19.00–21.00 uhr, münchen": null,
+"2030 || concept store, münchen": null,
 "33 erika-mann-straße, münchen, münchen": {
 "address": "Google, 33, Erika-Mann-Straße, Arnulfpark, Marsfeld, Maxvorstadt, München, Bayern, 80636, Deutschland",
 "lat": 48.14293,
@@ -90,6 +91,11 @@
 "address": "Alte Pinakothek, 27, Barer Straße, Kunstareal, Maxvorstadt, München, Bayern, 80333, Deutschland",
 "lat": 48.14828,
 "lng": 11.56998
+},
+"alte rotation, münchen": {
+"address": "Alte Rotation, 2-4, Paul-Heyse-Straße, Klinikviertel, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80336, Deutschland",
+"lat": 48.13858,
+"lng": 11.55563
 },
 "alte utting": {
 "address": "Alte Utting, 15, Lagerhausstraße, Sendlinger Feld, Sendling, München, Bayern, 81371, Deutschland",
@@ -178,6 +184,7 @@
 "ampere —di 13.04. 19:30, münchen": null,
 "ampere —fr 11.12. 21:30, münchen": null,
 "ampere —fr 16.04. 19:30, münchen": null,
+"ampere —fr 19.02. 19:30, münchen": null,
 "ampere —fr 20.11. 19:30, münchen": null,
 "ampere —mi 02.12., münchen": null,
 "ampere —sa 13.02. 19:30, münchen": null,
@@ -346,6 +353,11 @@
 "lat": 48.16114,
 "lng": 11.58904
 },
+"bar valentin, münchen": {
+"address": "Valentin, 9, Pfisterstraße, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
+"lat": 48.13836,
+"lng": 11.58003
+},
 "barbastelle, münchen": null,
 "barer straße 40, 80333 münchen": {
 "address": "Pinakothek der Moderne, 40, Barer Straße, Kunstareal, Maxvorstadt, München, Bayern, 80333, Deutschland",
@@ -465,6 +477,11 @@
 "address": "The Boilerman Bar, 1, Bahnhofplatz, Klinikviertel, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80335, Deutschland",
 "lat": 48.13983,
 "lng": 11.56146
+},
+"boltzmannstr. 17, 85748 garching": {
+"address": "Exzellenzzentrum Garching, 17, Boltzmannstraße, Hochschul- und Forschungszentrum, Garching bei München, Landkreis München, Bayern, 85748, Deutschland",
+"lat": 48.26645,
+"lng": 11.67104
 },
 "bothestr. 11, münchen, al, münchen": null,
 "brainlab ag, münchen": null,
@@ -622,6 +639,7 @@
 "lat": 48.13383,
 "lng": 11.56507
 },
+"cowboy-club münchen e.v.": null,
 "craftefacts studio, münchen": null,
 "crash, münchen": {
 "address": "Discothek Crash, 10, Ainmillerstraße, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80801, Deutschland",
@@ -645,6 +663,11 @@
 "lng": 11.56719
 },
 "cuvilliéstheater, münchen": null,
+"dachau": {
+"address": "Dachau, Landkreis Dachau, Bayern, 85221, Deutschland",
+"lat": 48.25951,
+"lng": 11.43467
+},
 "dachauer straße 114a, 80636 münchen": {
 "address": "114a, Dachauer Straße, Kasernenviertel, Ebenau, Neuhausen-Nymphenburg, München, Bayern, 80636, Deutschland",
 "lat": 48.15935,
@@ -770,6 +793,11 @@
 "address": "Einstein Kultur, 42, Einsteinstraße, Haidhausen-Nord, Haidhausen, Au-Haidhausen, München, Bayern, 81675, Deutschland",
 "lat": 48.13545,
 "lng": 11.60065
+},
+"einsteinstraße 28, 81675 münchen": {
+"address": "28, Einsteinstraße, Haidhausen-Nord, Haidhausen, Au-Haidhausen, München, Bayern, 81675, Deutschland",
+"lat": 48.13527,
+"lng": 11.59981
 },
 "elektra tonquartier, münchen": null,
 "element boulders münchen": {
@@ -1139,6 +1167,11 @@
 "lat": 48.1301,
 "lng": 11.53256
 },
+"hansastraße 39, 81373 münchen": {
+"address": "Kranhalle, 39, Hansastraße, Hansapark, Sendling-Westpark, München, Bayern, 81373, Deutschland",
+"lat": 48.1295,
+"lng": 11.53344
+},
 "hansastraße 41, 81373 münchen": {
 "address": "Dschungelpalast, 41, Hansastraße, Hansapark, Sendling-Westpark, München, Bayern, 81373, Deutschland",
 "lat": 48.1284,
@@ -1189,6 +1222,11 @@
 "lng": 11.5785
 },
 "herspace, münchen": null,
+"herz jesu, münchen": {
+"address": "Herz-Jesu-Kirche, Romanstraße, Villenkolonie Neuwittelsbach, Gern, Neuhausen-Nymphenburg, München, Bayern, 80639, Deutschland",
+"lat": 48.15637,
+"lng": 11.52875
+},
 "herzog, münchen": {
 "address": "Herzog, 4, Maxburgstraße, Kreuzviertel, Altstadt-Lehel, München, Bayern, 80333, Deutschland",
 "lat": 48.14031,
@@ -1353,6 +1391,11 @@
 "lng": 11.58538
 },
 "jugendkirche \"zum guten hirten\", münchen": null,
+"jugendkirche haidhausen": {
+"address": "Jugend- und Campuskirche Vom guten Hirten, 85, Preysingstraße, Haidhausen-Nord, Haidhausen, Au-Haidhausen, München, Bayern, 81667, Deutschland",
+"lat": 48.13241,
+"lng": 11.60215
+},
 "jugendtreff am biederstein, münchen": {
 "address": "Jugendtreff am Biederstein, 6, Gohrenstraße, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80802, Deutschland",
 "lat": 48.16311,
@@ -1373,6 +1416,7 @@
 "lat": 48.12179,
 "lng": 11.54569
 },
+"kamishovka ceramics studio, münchen": null,
 "kammerkonzert „vortreffliche harmonie-musik“, münchen": null,
 "kanalstraße 15, 80538 münchen": {
 "address": "Kuckuck Kinderbuchhandlung, 15, Kanalstraße, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80538, Deutschland",
@@ -1441,6 +1485,7 @@
 "lat": 48.08078,
 "lng": 11.52633
 },
+"kirchliches zentrum preysingstraße 105, 81667 münchen": null,
 "kitchenhub von über den tellerrand münchen e.v.": null,
 "klangbüro, münchen": null,
 "kleine olympiahalle, münchen": {
@@ -1547,6 +1592,11 @@
 },
 "kulturzentrum ubo9, münchen": null,
 "kunstareal - luisenstraße 33, 80333 münchen": null,
+"kunstforum arabellapark, münchen": {
+"address": "Kunstforum Arabellapark, Rosenkavalierplatz, Arabellapark, Priel, Bogenhausen, München, Bayern, 81925, Deutschland",
+"lat": 48.15166,
+"lng": 11.61976
+},
 "kunsthalle münchen": {
 "address": "KUNSTHALLE MÜNCHEN, 8, Theatinerstraße, Kreuzviertel, Altstadt-Lehel, München, Bayern, 80333, Deutschland",
 "lat": 48.14023,
@@ -1594,6 +1644,11 @@
 "lng": 11.56679
 },
 "lach- und schießgesellschaft im tams, münchen": null,
+"lachnerstraße 8, 80639 münchen": {
+"address": "8, Lachnerstraße, Villenkolonie Neuwittelsbach, Gern, Neuhausen-Nymphenburg, München, Bayern, 80639, Deutschland",
+"lat": 48.15617,
+"lng": 11.52888
+},
 "laikey teehaus munich social circle": null,
 "laim_up, münchen": null,
 "landsberger straße 212, 80687 münchen": {
@@ -1736,6 +1791,11 @@
 "address": "LUDWIG BECK Kurzwaren & Wolle, 7, Burgstraße, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
 "lat": 48.13773,
 "lng": 11.57761
+},
+"ludwig-thoma-straße 16, 85221 dachau": {
+"address": "16, Ludwig-Thoma-Straße, Obermoosschwaige, Webling, Dachau, Landkreis Dachau, Bayern, 85221, Deutschland",
+"lat": 48.25815,
+"lng": 11.43621
 },
 "ludwigstr. 10, 80539 münchen": {
 "address": "10, Ludwigstraße, Schönfeldvorstadt, Maxvorstadt, München, Bayern, 80539, Deutschland",
@@ -2217,6 +2277,7 @@
 "navinasphere, münchen": null,
 "neue akropolis münchen": null,
 "neue ziegelei - zentrum für soziales und kultur, münchen": null,
+"neuhauser treff, münchen": null,
 "neuhauserstraße 15, 80331 münchen": {
 "address": "15, Neuhauser Straße, Hackenviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
 "lat": 48.13822,
@@ -2330,6 +2391,11 @@
 "lng": 11.57427
 },
 "opernstudio, münchen": null,
+"optimal records, münchen": {
+"address": "Optimal Records, 6, Kolosseumstraße, Glockenbach, Isarvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80469, Deutschland",
+"lat": 48.13043,
+"lng": 11.57144
+},
 "orange house, münchen": null,
 "orangehouse, münchen": {
 "address": "Orangehouse, 41, Hansastraße, Hansapark, Sendling-Westpark, München, Bayern, 81373, Deutschland",
@@ -2497,6 +2563,11 @@
 "prinzregententheaterführung, münchen": null,
 "prinzregententheatergartensaal, münchen": null,
 "prinzregententheatergroßes haus, münchen": null,
+"projektraum nautilus, münchen": {
+"address": "Projektraum Nautilus, 110c, Dachauer Straße, Kasernenviertel, Ebenau, Neuhausen-Nymphenburg, München, Bayern, 80636, Deutschland",
+"lat": 48.15832,
+"lng": 11.55067
+},
 "projektraum quellenbunker, münchen": null,
 "psv e.v. – moosach": null,
 "quartierswerkstatt - kreativgarage, münchen": null,
@@ -2569,6 +2640,7 @@
 "lat": 48.15727,
 "lng": 11.52905
 },
+"riviera76, münchen": null,
 "roody tanzcafé giesing": {
 "address": "ROODY // Tanzcafe Giesing, 9, Candidplatz, Untergiesing-Harlaching, Giesing, München, Bayern, 81543, Deutschland",
 "lat": 48.11132,
@@ -2580,6 +2652,11 @@
 "address": "Rosengarten, Moosach, München, Bayern, Deutschland",
 "lat": 48.16994,
 "lng": 11.53483
+},
+"rosenkavalierplatz 16, 81925 münchen": {
+"address": "16, Rosenkavalierplatz, Arabellapark, Priel, Bogenhausen, München, Bayern, 81925, Deutschland",
+"lat": 48.15179,
+"lng": 11.61963
 },
 "rosenstraße 9, 80331 münchen": {
 "address": "9, Rosenstraße, Kreuzviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
@@ -2984,6 +3061,7 @@
 "lat": 48.1334,
 "lng": 11.58177
 },
+"terra e mano keramikwerkstatt, münchen": null,
 "terra, münchen": {
 "address": "Terra, 1, Baaderstraße, Gärtnerplatz, Altstadt-Lehel, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80469, Deutschland",
 "lat": 48.1334,
@@ -3030,6 +3108,11 @@
 "address": "The Wunder Munich - Act II, Radio Wunder, 189, Lindwurmstraße, Sendlinger Berg, Untersendling, Sendling, München, Bayern, 80337, Deutschland",
 "lat": 48.12264,
 "lng": 11.54581
+},
+"theater drehleier münchen": {
+"address": "Drehleier, 123, Rosenheimer Straße, Haidhausen-Süd, Haidhausen, Au-Haidhausen, München, Bayern, 81669, Deutschland",
+"lat": 48.12605,
+"lng": 11.59846
 },
 "theater drehleier, münchen": {
 "address": "Drehleier, 123, Rosenheimer Straße, Haidhausen-Süd, Haidhausen, Au-Haidhausen, München, Bayern, 81669, Deutschland",
@@ -3088,6 +3171,7 @@
 "lng": 11.602
 },
 "treffpunkt social night out münchen – brunnenbuberl": null,
+"treffpunkt theaterpforte falckenbergstr. 2, 80539 münchen": null,
 "trudering-riem, aula gymnasium trudering, friedenspromenade 64, 81827 münchen": null,
 "trägerkreis einewelthaus münchen e.v.": {
 "address": "Trägerkreis EineWeltHaus München e.V., 80, Schwanthalerstraße, Klinikviertel, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80336, Deutschland",
@@ -3118,6 +3202,7 @@
 "lat": 48.15733,
 "lng": 11.41346
 },
+"umadum – das münchner riesenrad, münchen": null,
 "umweltstation heidehaus, münchen": null,
 "unbound studios, münchen": null,
 "unearthed gallery, münchen": {
