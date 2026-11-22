@@ -258,6 +258,11 @@
 "aspekte galerie der mvhs im gasteig hp8, münchen": null,
 "aspekte galerie im einstein 28, münchen": null,
 "assoluto ristorante & vineria, münchen": null,
+"astor film lounge im arri, münchen": {
+"address": "Astor Film Lounge im ARRI, 91, Türkenstraße, Am alten nördlichen Friedhof, Maxvorstadt, München, Bayern, 80799, Deutschland",
+"lat": 48.15327,
+"lng": 11.57775
+},
 "asz lehel, münchen": {
 "address": "Alten- und Service-Zentrum Altstadt, 12, Sebastiansplatz, Angerviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
 "lat": 48.1344,
@@ -396,6 +401,7 @@
 "bayerstraße 3-5, 80335 münchen, germany, münchen, by, münchen": null,
 "baystartup office im mtz münchen obergeschoss, e1, agnes-pockels-bogen 1 80992 münchen": null,
 "baystartup, münchen": null,
+"be community (inside female cycling force clubhouse), münchen": null,
 "beachdome, münchen": {
 "address": "Beachdome, 21, Margarethe-Danzi-Straße, Nymphenburg Süd, Nymphenburg, Neuhausen-Nymphenburg, München, Bayern, 80639, Deutschland",
 "lat": 48.14689,
@@ -525,6 +531,7 @@
 "lat": 48.13648,
 "lng": 11.55449
 },
+"byd munich": null,
 "bäckerstraße 14, 81241 münchen": {
 "address": "Alten- und Service-Zentrum Pasing, 14, Bäckerstraße, Neupasing, Pasing, Pasing-Obermenzing, München, Bayern, 81241, Deutschland",
 "lat": 48.14546,
@@ -1003,6 +1010,11 @@
 "address": "Die Färberei, Untere Weidenstraße, Untergiesing-Harlaching, Giesing, München, Bayern, 81543, Deutschland",
 "lat": 48.11926,
 "lng": 11.57012
+},
+"gabelsbergerstraße 10, 80333 münchen": {
+"address": "Gabelsbergerstraße, Kunstareal, Maxvorstadt, München, Bayern, 80333, Deutschland",
+"lat": 48.14724,
+"lng": 11.5693
 },
 "gabelsbergerstraße 24, 80333 münchen": {
 "address": "Ottonenhaus, 24, Gabelsbergerstraße, Kunstareal, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80333, Deutschland",
@@ -1745,6 +1757,11 @@
 "lat": 48.14119,
 "lng": 11.56714
 },
+"lenbachplatz 6, 80333 münchen": {
+"address": "6, Lenbachplatz, Maxvorstadt, München, Bayern, 80333, Deutschland",
+"lat": 48.14182,
+"lng": 11.56887
+},
 "leonardo royal hotel, münchen": {
 "address": "Leonardo Royal, 90, Moosacher Straße, Am Oberwiesenfeld, Milbertshofen-Am Hart, München, Bayern, 80809, Deutschland",
 "lat": 48.187,
@@ -1873,6 +1890,7 @@
 "lat": 48.15207,
 "lng": 11.58164
 },
+"ludwigsvorstadt-isarvorstadt, 80335 munich, germany, munich, by, munich": null,
 "luise kulturzentrum, münchen": {
 "address": "Kulturzentrum LUISE, 5, Ruppertstraße, Am Schlachthof, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80337, Deutschland",
 "lat": 48.12305,
@@ -2693,6 +2711,7 @@
 "lng": 11.58111
 },
 "referat für arbeit und wirtschaft, münchen": null,
+"reformer loft, münchen": null,
 "reitknechtstr.6, 80639 münchen": {
 "address": "Backstage, 6, Reitknechtstraße, Nymphenburg, Neuhausen-Nymphenburg, München, Bayern, 80639, Deutschland",
 "lat": 48.14498,
@@ -2902,6 +2921,11 @@
 "address": "Deutsches Theater München, 13, Schwanthalerstraße, Klinikviertel, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80336, Deutschland",
 "lat": 48.1369,
 "lng": 11.56204
+},
+"schwanthalerstraße 143, 80339 münchen": {
+"address": "143, Schwanthalerstraße, Parkstraße, Schwanthalerhöhe, München, Bayern, 80339, Deutschland",
+"lat": 48.13767,
+"lng": 11.54259
 },
 "schwanthalerstraße 80, münchen, münchen": {
 "address": "EineWeltHaus, 80, Schwanthalerstraße, Klinikviertel, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80336, Deutschland",
