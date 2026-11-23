@@ -47,6 +47,7 @@
 "acatech forum am karolinenplatz 4!, münchen": null,
 "acatech geschäftsstelle, münchen": null,
 "adams-lehmann-straße 44, 80797 münchen-schwabing-west, germany, münchen, by, münchen": null,
+"agentur prins juric münchen": null,
 "agnes-pockels-bogen 1, 80992 münchen": {
 "address": "1, Agnes-Pockels-Bogen, Moosach, München, Bayern, 80992, Deutschland",
 "lat": 48.17409,
@@ -159,6 +160,7 @@
 "lat": 48.13357,
 "lng": 11.57438
 },
+"am kartoffelgarten 14, 81671 münchen, germany, münchen, by, münchen": null,
 "am klopferspitz 19a, 82152 martinsried": {
 "address": "Innovations- und Gründerzentrum Biotechnologie (IZB), 19a, Am Klopferspitz, Martinsried, Planegg, Landkreis München, Bayern, 82152, Deutschland",
 "lat": 48.10759,
@@ -315,6 +317,11 @@
 "address": "Auferstehungskirche, 55, Gollierstraße, Theresienhöhe, Westend, Schwanthalerhöhe, München, Bayern, 80339, Deutschland",
 "lat": 48.1355,
 "lng": 11.53811
+},
+"augustenstraße 40, 80333 münchen": {
+"address": "40, Augustenstraße, Kunstareal, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80333, Deutschland",
+"lat": 48.1475,
+"lng": 11.56224
 },
 "augustiner ewiges licht, münchen": null,
 "augustinum kindergarten christuskirche, münchen": null,
@@ -660,6 +667,7 @@
 "lat": 48.13383,
 "lng": 11.56507
 },
+"cose deliziose, münchen": null,
 "cowboy-club münchen e.v.": null,
 "craftefacts studio, münchen": null,
 "crash, münchen": {
@@ -810,6 +818,7 @@
 "lat": 48.12121,
 "lng": 11.55854
 },
+"einewelt haus, münchen": null,
 "einewelthaus münchen": {
 "address": "EineWeltHaus, 80, Schwanthalerstraße, Klinikviertel, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80336, Deutschland",
 "lat": 48.13793,
@@ -1400,6 +1409,11 @@
 "lng": 11.59313
 },
 "institut am englischen garten oettingenstraße 67, 80538 münchen": null,
+"institut français münchen": {
+"address": "Institut Français, 13, Kaulbachstraße, Schönfeldvorstadt, Maxvorstadt, München, Bayern, 80539, Deutschland",
+"lat": 48.14724,
+"lng": 11.58294
+},
 "institut français, münchen": {
 "address": "Institut Français, 13, Kaulbachstraße, Schönfeldvorstadt, Maxvorstadt, München, Bayern, 80539, Deutschland",
 "lat": 48.14724,
@@ -1728,6 +1742,11 @@
 "address": "Machwerk AtelierWerkstatt, 212, Landsberger Straße, Neu-Friedenheim, Friedenheim, Laim, München, Bayern, 80687, Deutschland",
 "lat": 48.14198,
 "lng": 11.51592
+},
+"langwied, münchen": {
+"address": "Langwied, Aubing-Lochhausen-Langwied, München, Bayern, 82237, Deutschland",
+"lat": 48.18136,
+"lng": 11.42226
 },
 "lazarettstr. 33, 80636 münchen": {
 "address": "33, Lazarettstraße, Kasernenviertel, Ebenau, Neuhausen-Nymphenburg, München, Bayern, 80636, Deutschland",
@@ -2061,6 +2080,11 @@
 "lat": 48.14359,
 "lng": 11.59891
 },
+"monopol kino, münchen": {
+"address": "Monopol, 127, Schleißheimer Straße, Schwabing-West, Schwabing, München, Bayern, 80797, Deutschland",
+"lat": 48.16243,
+"lng": 11.56361
+},
 "moon bar lehel, münchen": {
 "address": "The Moon Bar Lehel, 5, Thierschplatz, Lehel, Altstadt-Lehel, München, Bayern, 80538, Deutschland",
 "lat": 48.13952,
@@ -2333,6 +2357,11 @@
 "lat": 48.13645,
 "lng": 11.54488
 },
+"münchner theater für kinder, münchen": {
+"address": "Münchner Theater für Kinder, 46, Dachauer Straße, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80335, Deutschland",
+"lat": 48.14614,
+"lng": 11.55945
+},
 "münchner volkstheater, münchen": {
 "address": "Münchner Volkstheater, 29, Tumblingerstraße, Am Schlachthof, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80337, Deutschland",
 "lat": 48.12366,
@@ -2381,6 +2410,11 @@
 },
 "neue akropolis münchen": null,
 "neue ziegelei - zentrum für soziales und kultur, münchen": null,
+"neues maxim, münchen": {
+"address": "Neues Maxim, 33, Landshuter Allee, St. Vinzenz-Viertel, Neuhausen-Nymphenburg, München, Bayern, 80637, Deutschland",
+"lat": 48.14974,
+"lng": 11.53638
+},
 "neuhauser treff, münchen": null,
 "neuhauserstraße 15, 80331 münchen": {
 "address": "15, Neuhauser Straße, Hackenviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
@@ -2847,6 +2881,7 @@
 "lng": 11.53253
 },
 "sce creative hall, münchen": null,
+"schellingstraße 45, 80799 munich, germany, munich, munich": null,
 "schlachthof münchen": {
 "address": "Schlachthof, 10, Zenettistraße, Am Schlachthof, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80337, Deutschland",
 "lat": 48.12434,
@@ -3267,6 +3302,11 @@
 "lat": 48.13095,
 "lng": 11.57278
 },
+"theater im römerhof garching": {
+"address": "Theater im Römerhof, Garching bei München, Landkreis München, Bayern, 85748, Deutschland",
+"lat": 48.25066,
+"lng": 11.65542
+},
 "theater viel lärm um nichts, münchen": {
 "address": "Theater Viel Lärm um Nichts, 1, August-Exter-Straße, Kolonie I, Pipping, Pasing, Pasing-Obermenzing, München, Bayern, 81245, Deutschland",
 "lat": 48.15107,
@@ -3429,6 +3469,12 @@
 },
 "werk3studio, münchen": null,
 "werk7 theater, münchen": null,
+"werk7, münchen": null,
+"werkstattkino, münchen": {
+"address": "Werkstattkino, 9, Fraunhoferstraße, Glockenbach, Isarvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80469, Deutschland",
+"lat": 48.13089,
+"lng": 11.57286
+},
 "werksviertel atelier, münchen": {
 "address": "Wombat’s City Hostel Munich “Werksviertel”, 20, Atelierstraße, Werksviertel München, Berg am Laim, München, Bayern, 81671, Deutschland",
 "lat": 48.12425,
