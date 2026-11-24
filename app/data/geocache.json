@@ -88,6 +88,7 @@
 "lat": 48.13197,
 "lng": 11.54453
 },
+"alte paketposthalle münchen, münchen-neuhausen-nymphenburg": null,
 "alte paketposthalle, münchen": null,
 "alte pinakothek, münchen": {
 "address": "Alte Pinakothek, 27, Barer Straße, Kunstareal, Maxvorstadt, München, Bayern, 80333, Deutschland",
@@ -160,6 +161,11 @@
 "lat": 48.13357,
 "lng": 11.57438
 },
+"am kartoffelgarten 14, 81671 münchen": {
+"address": "14, Am Kartoffelgarten, Werksviertel München, Berg am Laim, München, Bayern, 81671, Deutschland",
+"lat": 48.12341,
+"lng": 11.60749
+},
 "am kartoffelgarten 14, 81671 münchen, germany, münchen, by, münchen": null,
 "am klopferspitz 19a, 82152 martinsried": {
 "address": "Innovations- und Gründerzentrum Biotechnologie (IZB), 19a, Am Klopferspitz, Martinsried, Planegg, Landkreis München, Bayern, 82152, Deutschland",
@@ -197,6 +203,7 @@
 "ampere —sa 27.11. 19:30, münchen": null,
 "ampere —sa 30.01. 19:30, münchen": null,
 "ampere —so 11.04. 19:30, münchen": null,
+"ampere —so 14.02. 20, münchen": null,
 "ampere, münchen": {
 "address": "Ampere im Muffatwerk, 4, Zellstraße, Haidhausen-Süd, Au, Au-Haidhausen, München, Bayern, 81667, Deutschland",
 "lat": 48.13289,
@@ -242,6 +249,11 @@
 "lng": 11.55552
 },
 "arnulfstraße 195-199, 80634 münchen": {
+"address": "Casa Padel Pineapple Park, 195-199, Arnulfstraße, Siedlung Neuhausen, Nymphenburg, Neuhausen-Nymphenburg, München, Bayern, 80634, Deutschland",
+"lat": 48.14695,
+"lng": 11.52335
+},
+"arnulfstraße 195-199, 80634 münchen-neuhausen-nymphenburg": {
 "address": "Casa Padel Pineapple Park, 195-199, Arnulfstraße, Siedlung Neuhausen, Nymphenburg, Neuhausen-Nymphenburg, München, Bayern, 80634, Deutschland",
 "lat": 48.14695,
 "lng": 11.52335
@@ -499,10 +511,20 @@
 "lat": 48.13983,
 "lng": 11.56146
 },
+"boltzmannstr. 1, 85748 garching": {
+"address": "Leibnitz-Rechenzentrum, 1, Boltzmannstraße, Hochschul- und Forschungszentrum, Garching bei München, Landkreis München, Bayern, 85748, Deutschland",
+"lat": 48.26149,
+"lng": 11.66789
+},
 "boltzmannstr. 17, 85748 garching": {
 "address": "Exzellenzzentrum Garching, 17, Boltzmannstraße, Hochschul- und Forschungszentrum, Garching bei München, Landkreis München, Bayern, 85748, Deutschland",
 "lat": 48.26645,
 "lng": 11.67104
+},
+"boltzmannstraße 3, 85748 garching bei münchen": {
+"address": "TUM School of Computation, Information and Technology (CIT), Departments Informatik und Mathematik, 3, Boltzmannstraße, Hochschul- und Forschungszentrum, Garching bei München, Landkreis München, Bayern, 85748, Deutschland",
+"lat": 48.26255,
+"lng": 11.66804
 },
 "bothestr. 11, münchen, al, münchen": null,
 "brainlab ag, münchen": null,
@@ -983,6 +1005,11 @@
 "lng": 11.55177
 },
 "freies musikzentrum e. v. münchen": null,
+"freiham, münchen": {
+"address": "Freiham, Aubing-Lochhausen-Langwied, München, Bayern, 81248, Deutschland",
+"lat": 48.14208,
+"lng": 11.40659
+},
 "freiheitshalle, münchen": {
 "address": "Freiheitshalle, 1, Rainer-Werner-Fassbinder-Platz, Postversuchssiedlung, Neuhausen-Nymphenburg, München, Bayern, 80636, Deutschland",
 "lat": 48.14384,
@@ -1646,6 +1673,11 @@
 "lat": 48.13849,
 "lng": 11.53974
 },
+"kulturladen westend, münchen": {
+"address": "Kulturladen Westend, 44, Ligsalzstraße, Parkstraße, Schwanthalerhöhe, München, Bayern, 80339, Deutschland",
+"lat": 48.13414,
+"lng": 11.54153
+},
 "kulturstrand münchen isar": null,
 "kulturzentrum 2411, münchen": {
 "address": "Stadtteilkultur 2411, 4, Blodigstraße, Hasenbergl-Süd, Hasenbergl, Feldmoching-Hasenbergl, München, Bayern, 80933, Deutschland",
@@ -1742,6 +1774,11 @@
 "address": "Machwerk AtelierWerkstatt, 212, Landsberger Straße, Neu-Friedenheim, Friedenheim, Laim, München, Bayern, 80687, Deutschland",
 "lat": 48.14198,
 "lng": 11.51592
+},
+"landwehrstr. 44, münchen, münchen": {
+"address": "44, Landwehrstraße, Klinikviertel, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80336, Deutschland",
+"lat": 48.13647,
+"lng": 11.55816
 },
 "langwied, münchen": {
 "address": "Langwied, Aubing-Lochhausen-Langwied, München, Bayern, 82237, Deutschland",
@@ -1915,6 +1952,7 @@
 "lat": 48.12305,
 "lng": 11.55323
 },
+"luise-ullrich-straße 14, 80636 münchen, germany, münchen, by, münchen": null,
 "luitpoldblock, münchen": null,
 "lumo studios, münchen": null,
 "lustspielhaus, münchen": {
@@ -2415,6 +2453,11 @@
 "lat": 48.14974,
 "lng": 11.53638
 },
+"neues rottmann, münchen": {
+"address": "Neues Rottmann, 15, Rottmannstraße, Kunstareal, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80333, Deutschland",
+"lat": 48.14854,
+"lng": 11.56022
+},
 "neuhauser treff, münchen": null,
 "neuhauserstraße 15, 80331 münchen": {
 "address": "15, Neuhauser Straße, Hackenviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
@@ -2739,6 +2782,7 @@
 "raum 2u01 leopoldstraße 13, 80802 münchen": null,
 "raum c106 luisenstraße 37, 80333 münchen": null,
 "raum g212 ludwigstraße 27, 80539 münchen": null,
+"raum nymphenburg 3 bayerstraße 12, 80335 münchen": null,
 "raum, münchen": {
 "address": "Der Raum, 34, Herzogstraße, Viktoriaviertel, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80803, Deutschland",
 "lat": 48.16275,
@@ -3055,6 +3099,11 @@
 "slash net business gmbh riesenfeldstraße 75, 80809 münchen": null,
 "sofia luna keramik, münchen": null,
 "sofia.shik, münchen": null,
+"solâ, münchen": {
+"address": "Sola, 2, Lerchenfeldstraße, Lehel, Altstadt-Lehel, München, Bayern, 80538, Deutschland",
+"lat": 48.14437,
+"lng": 11.5914
+},
 "sonnenstraße 12a, 80331 münchen": {
 "address": "12a, Sonnenstraße, Klinikviertel, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80331, Deutschland",
 "lat": 48.13699,
@@ -3075,6 +3124,11 @@
 "address": "Kulturbühne Spagat, 3, Max-Bill-Straße, Domagkpark, Freimann, Schwabing-Freimann, München, Bayern, 80807, Deutschland",
 "lat": 48.18659,
 "lng": 11.59282
+},
+"spin, münchen": {
+"address": "Spin Bar, 1, Theklastraße, Angerviertel, Altstadt-Lehel, München, Bayern, 80469, Deutschland",
+"lat": 48.13259,
+"lng": 11.57297
 },
 "spiridon-louis-ring 21, 80809 münchen": {
 "address": "Olympia-Actionsportzentrum, 21, Spiridon-Louis-Ring, Am Riesenfeld, Milbertshofen-Am Hart, München, Bayern, 80809, Deutschland",
@@ -3159,6 +3213,7 @@
 "lng": 11.55543
 },
 "studio pokój - raum für kreative workshops, münchen": null,
+"studio pokój, münchen": null,
 "studio tela wãve, münchen": null,
 "studio vimø (backsteinhaus / hinterhof), münchen": null,
 "studiobühne twm, münchen": {
@@ -3405,6 +3460,7 @@
 "lng": 11.57114
 },
 "urban comedy club, münchen": null,
+"usha couture, münchen": null,
 "utopia – a happening place, münchen": null,
 "utopiavibez, münchen": null,
 "utzschneiderstraße 8, 80469 münchen": {
@@ -3466,6 +3522,11 @@
 "address": "Werk 7, Bahnbogen, Werksviertel München, Berg am Laim, München, Bayern, 81671, Deutschland",
 "lat": 48.12371,
 "lng": 11.60622
+},
+"werk1 – café, münchen": {
+"address": "Café WERK1, Schlosserpassage, Werksviertel München, Berg am Laim, München, Bayern, 81671, Deutschland",
+"lat": 48.12337,
+"lng": 11.60753
 },
 "werk3studio, münchen": null,
 "werk7 theater, münchen": null,
@@ -3538,6 +3599,11 @@
 "lat": 48.12886,
 "lng": 11.60224
 },
+"x-bar, münchen": {
+"address": "X, 20, Sternstraße, Lehel, Altstadt-Lehel, München, Bayern, 80538, Deutschland",
+"lat": 48.13968,
+"lng": 11.59107
+},
 "xolo bar, münchen": null,
 "yogaraum pasing": null,
 "yogastudio elisabethplatz, münchen": null,
@@ -3547,6 +3613,11 @@
 "address": "z'sam, 63, Theresienstraße, Maßmannbergl, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80333, Deutschland",
 "lat": 48.15116,
 "lng": 11.56374
+},
+"zellstraße 4, 81667 münchen": {
+"address": "Muffathalle, 4, Zellstraße, Haidhausen-Süd, Au, Au-Haidhausen, München, Bayern, 81667, Deutschland",
+"lat": 48.13305,
+"lng": 11.58945
 },
 "zenetti, münchen": {
 "address": "Zenetti, 20, Zenettistraße, Am Schlachthof, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80337, Deutschland",

@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-23T06:39:22+01:00",
- "total": 1802,
+ "generated": "2026-11-24T06:27:19+01:00",
+ "total": 1799,
  "sources": [
   {
    "id": "bachtrack",
@@ -77,10 +77,10 @@
   {
    "id": "dachau",
    "name": "Dachau",
-   "found": 1,
+   "found": 0,
    "events": 0,
    "ok": false,
-   "error": "Termine gefunden, aber keiner passt (Zeitraum/Ort/Kategorie)"
+   "error": "keine Termine erkannt"
   },
   {
    "id": "debattierclub",
@@ -125,7 +125,7 @@
   {
    "id": "fes",
    "name": "Friedrich-Ebert-Stiftung BayernForum",
-   "found": 17,
+   "found": 18,
    "events": 0,
    "ok": false,
    "error": "Termine gefunden, aber keiner passt (Zeitraum/Ort/Kategorie)"
@@ -168,7 +168,7 @@
    "found": 0,
    "events": 0,
    "ok": false,
-   "error": "Error: Page.content: Unable to retrieve content because the page is navigating and changing the content."
+   "error": "keine Termine erkannt"
   },
   {
    "id": "hm",
@@ -177,14 +177,6 @@
    "events": 0,
    "ok": false,
    "error": "keine Termine erkannt"
-  },
-  {
-   "id": "hss",
-   "name": "Hanns-Seidel-Stiftung",
-   "found": 10,
-   "events": 0,
-   "ok": false,
-   "error": "Termine gefunden, aber keiner passt (Zeitraum/Ort/Kategorie)"
   },
   {
    "id": "ifo",
@@ -253,10 +245,10 @@
   {
    "id": "pinakotheken",
    "name": "Pinakotheken",
-   "found": 1,
+   "found": 0,
    "events": 0,
    "ok": false,
-   "error": "Termine gefunden, aber keiner passt (Zeitraum/Ort/Kategorie)"
+   "error": "keine Termine erkannt"
   },
   {
    "id": "staatsoper",
@@ -309,7 +301,7 @@
   {
    "id": "amerikahaus",
    "name": "Amerikahaus",
-   "found": 12,
+   "found": 13,
    "events": 6,
    "ok": true,
    "error": null
@@ -326,7 +318,7 @@
    "id": "backstage",
    "name": "Backstage",
    "found": 57,
-   "events": 49,
+   "events": 46,
    "ok": true,
    "error": null
   },
@@ -341,7 +333,7 @@
   {
    "id": "bayern-innovativ",
    "name": "Bayern Innovativ",
-   "found": 95,
+   "found": 96,
    "events": 3,
    "ok": true,
    "error": null
@@ -349,7 +341,7 @@
   {
    "id": "baymevbm",
    "name": "bayme vbm",
-   "found": 315,
+   "found": 317,
    "events": 60,
    "ok": true,
    "error": null
@@ -357,7 +349,7 @@
   {
    "id": "bergson",
    "name": "Bergson Kunstkraftwerk",
-   "found": 219,
+   "found": 241,
    "events": 150,
    "ok": true,
    "error": null
@@ -413,8 +405,8 @@
   {
    "id": "ev-akademie-tutzing",
    "name": "Evangelische Akademie Tutzing",
-   "found": 16,
-   "events": 12,
+   "found": 14,
+   "events": 11,
    "ok": true,
    "error": null
   },
@@ -437,8 +429,8 @@
   {
    "id": "gasteig",
    "name": "Gasteig HP8 / Isarphilharmonie",
-   "found": 10,
-   "events": 9,
+   "found": 8,
+   "events": 7,
    "ok": true,
    "error": null
   },
@@ -461,8 +453,8 @@
   {
    "id": "hfp-tum",
    "name": "Hochschule für Politik (TUM)",
-   "found": 9,
-   "events": 3,
+   "found": 10,
+   "events": 4,
    "ok": true,
    "error": null
   },
@@ -483,6 +475,14 @@
    "error": null
   },
   {
+   "id": "hss",
+   "name": "Hanns-Seidel-Stiftung",
+   "found": 10,
+   "events": 1,
+   "ok": true,
+   "error": null
+  },
+  {
    "id": "hwk",
    "name": "Handwerkskammer für München und Oberbayern",
    "found": 5,
@@ -493,16 +493,16 @@
   {
    "id": "in-muenchen",
    "name": "in-muenchen.de",
-   "found": 5,
-   "events": 1,
+   "found": 6,
+   "events": 2,
    "ok": true,
    "error": null
   },
   {
    "id": "kammerspiele",
    "name": "Münchner Kammerspiele",
-   "found": 109,
-   "events": 96,
+   "found": 108,
+   "events": 95,
    "ok": true,
    "error": null
   },
@@ -541,8 +541,8 @@
   {
    "id": "literaturhaus",
    "name": "Literaturhaus München",
-   "found": 60,
-   "events": 59,
+   "found": 66,
+   "events": 65,
    "ok": true,
    "error": null
   },
@@ -558,7 +558,7 @@
    "id": "meetup",
    "name": "Meetup München",
    "found": 12,
-   "events": 7,
+   "events": 9,
    "ok": true,
    "error": null
   },
@@ -598,7 +598,7 @@
    "id": "mphil",
    "name": "Münchner Philharmoniker",
    "found": 30,
-   "events": 26,
+   "events": 28,
    "ok": true,
    "error": null
   },
@@ -621,16 +621,16 @@
   {
    "id": "muffatwerk",
    "name": "Muffatwerk",
-   "found": 215,
-   "events": 24,
+   "found": 214,
+   "events": 26,
    "ok": true,
    "error": null
   },
   {
    "id": "munich-startup",
    "name": "Munich Startup",
-   "found": 81,
-   "events": 60,
+   "found": 83,
+   "events": 62,
    "ok": true,
    "error": null
   },
@@ -685,7 +685,7 @@
   {
    "id": "prinzregententheater",
    "name": "Theaterakademie August Everding / Prinzregententheater",
-   "found": 714,
+   "found": 711,
    "events": 29,
    "ok": true,
    "error": null
@@ -693,24 +693,24 @@
   {
    "id": "rausgegangen",
    "name": "Rausgegangen München",
-   "found": 523,
-   "events": 126,
+   "found": 524,
+   "events": 117,
    "ok": true,
    "error": null
   },
   {
    "id": "residenztheater",
    "name": "Residenztheater",
-   "found": 20,
-   "events": 20,
+   "found": 17,
+   "events": 17,
    "ok": true,
    "error": null
   },
   {
    "id": "schauburg",
    "name": "Schauburg – Theater für junges Publikum",
-   "found": 119,
-   "events": 105,
+   "found": 117,
+   "events": 103,
    "ok": true,
    "error": null
   },
@@ -718,7 +718,7 @@
    "id": "songkick",
    "name": "Songkick München",
    "found": 50,
-   "events": 49,
+   "events": 48,
    "ok": true,
    "error": null
   },
@@ -726,7 +726,7 @@
    "id": "stadt-muenchen",
    "name": "Stadt München, Bürgerversammlungen",
    "found": 30,
-   "events": 2,
+   "events": 1,
    "ok": true,
    "error": null
   },
@@ -741,7 +741,7 @@
   {
    "id": "stmwi",
    "name": "Bayerisches Wirtschaftsministerium",
-   "found": 22,
+   "found": 21,
    "events": 2,
    "ok": true,
    "error": null
@@ -757,7 +757,7 @@
   {
    "id": "theater-fraunhofer",
    "name": "Theater im Fraunhofer",
-   "found": 63,
+   "found": 62,
    "events": 55,
    "ok": true,
    "error": null
@@ -765,8 +765,8 @@
   {
    "id": "tum",
    "name": "TU München",
-   "found": 17,
-   "events": 10,
+   "found": 18,
+   "events": 14,
    "ok": true,
    "error": null
   },
@@ -790,15 +790,15 @@
    "id": "unternehmertum",
    "name": "UnternehmerTUM",
    "found": 18,
-   "events": 7,
+   "events": 6,
    "ok": true,
    "error": null
   },
   {
    "id": "vbw",
    "name": "vbw – Vereinigung der Bayerischen Wirtschaft",
-   "found": 36,
-   "events": 28,
+   "found": 35,
+   "events": 27,
    "ok": true,
    "error": null
   },
@@ -814,7 +814,7 @@
    "id": "vdma",
    "name": "VDMA Bayern",
    "found": 11,
-   "events": 1,
+   "events": 2,
    "ok": true,
    "error": null
   },
@@ -829,8 +829,8 @@
   {
    "id": "volkstheater",
    "name": "Münchner Volkstheater",
-   "found": 80,
-   "events": 74,
+   "found": 79,
+   "events": 73,
    "ok": true,
    "error": null
   },
