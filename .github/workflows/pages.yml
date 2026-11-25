@@ -25,7 +25,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url || steps.deployment2.outputs.page_url }}
     steps:
       - uses: actions/checkout@v7
         with:
@@ -34,5 +34,15 @@ jobs:
       - uses: actions/upload-pages-artifact@v5
         with:
           path: app
+      # GitHub findet das gerade hochgeladene Paket manchmal erst mit
+      # Verzögerung ("No artifacts named github-pages"). Darum kurz warten
+      # und bei einem Fehlschlag nach einer Minute noch einmal versuchen.
+      - run: sleep 20
       - id: deployment
+        uses: actions/deploy-pages@v5
+        continue-on-error: true
+      - if: steps.deployment.outcome == 'failure'
+        run: sleep 60
+      - id: deployment2
+        if: steps.deployment.outcome == 'failure'
         uses: actions/deploy-pages@v5
