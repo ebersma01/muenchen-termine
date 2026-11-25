@@ -263,6 +263,35 @@ def fetch_tribe(base, pages=3):
     return out
 
 
+def fetch_doo(f, pages=4):
+    """Veranstaltungen aus dem Buchungssystem doo.net (z. B. IHK). f: organizer, tag (optional)."""
+    out = []
+    base = ("https://api.doo.net/v1/events?page_size=50&organizer_id=" + str(f["organizer"]) +
+            "&fields_selector=id,title,start_date,end_date,venue_name,venue_address,short_description,"
+            "is_virtual,custom_website_urls&attribute_names=Freigegeben&locale=de-de")
+    if f.get("tag"):
+        base += "&organization_tag=" + f["tag"]
+    for page in range(1, pages + 1):
+        data = json.loads(fetch(base + "&page=" + str(page)))
+        for ev in (data.get("_embedded") or {}).get("events", []):
+            urls = [u.get("url") for u in ev.get("custom_website_urls") or [] if u.get("locale") == "de-de"]
+            virtual = bool(ev.get("is_virtual"))
+            addr = re.sub(r",\s*Deutschland$", "", ev.get("venue_address") or "")
+            s = (ev.get("start_date") or "")[:16]
+            e = (ev.get("end_date") or "")[:16]
+            out.append({
+                "title": clean(ev.get("title")), "start": s, "end": e if e and e != s else None, "allDay": False,
+                "venue": {"name": None if virtual else (clean(ev.get("venue_name")) or None),
+                          "address": None if virtual else (addr or None), "lat": None, "lng": None},
+                "online": virtual,
+                "description": clean(ev.get("short_description"))[:400],
+                "url": urls[0] if urls else None,
+            })
+        if page >= int(data.get("page_count") or 1):
+            break
+    return out
+
+
 # --------------------------------------------------------------------------- allgemeine HTML-Karten
 _STOP_TITLES = re.compile(
     r"^(mehr|mehr infos?|mehr erfahren|details|tickets?|info|infos|weiterlesen|read more|learn more|"
@@ -410,6 +439,10 @@ def _card_to_event(card, base_url, cfg, year):
         dd = card.get("data-day") or re.sub(r"\D", "", dsrc)[:2]
         dsrc = dd + ". " + card["data-month"]
     ds = find_dates(dsrc, year=year)
+    if not ds and cfg.get("date") and " | " in dsrc:
+        # Datum ueber mehrere Elemente verteilt ("Mittwoch | 9. | Dez. 2026 | 10.00 Uhr")
+        dsrc = dsrc.replace(" | ", " ")
+        ds = find_dates(dsrc, year=year)
     if not ds:
         return None
     start, end, _, ds_s, ds_e = ds[0]
@@ -546,6 +579,32 @@ def _card_to_event(card, base_url, cfg, year):
 
 
 # --------------------------------------------------------------------------- eingebettete Daten (z. B. Next.js-Seiten)
+def parse_jsonlist(text, base_url, cfg):
+    """JSON-Liste von Terminen (z. B. Pinakotheken-API). Jedes Objekt wird zu einer kleinen
+    HTML-Karte (Titel, uebrige Texte, Link) und dann wie eine normale Seite gelesen.
+    cfg: titleKey (Standard title), textKeys (Liste), linkKey ("link.url")."""
+    data = json.loads(text)
+    if isinstance(data, dict):
+        data = data.get(cfg.get("listKey", "items")) or []
+
+    def get(o, path):
+        for k in path.split("."):
+            o = o.get(k) if isinstance(o, dict) else None
+        return o
+    parts = []
+    for o in data:
+        if not isinstance(o, dict):
+            continue
+        title = get(o, cfg.get("titleKey", "title")) or ""
+        texts = [str(get(o, k) or "") for k in cfg.get("textKeys", [])]
+        link = get(o, cfg.get("linkKey", "url")) or ""
+        parts.append('<div class="jcard"><h3 class="jt"><a href="%s">%s</a></h3>%s</div>' % (
+            htmllib.escape(str(link)), htmllib.escape(str(title)),
+            "".join("<p>%s</p>" % t for t in texts)))
+    c = dict(cfg, card="div.jcard", title=".jt", link=".jt a")
+    return parse_cards("<html><body><main>%s</main></body></html>" % "".join(parts), base_url, c)
+
+
 def parse_embedded(html_text, base_url, cfg):
     """Termine, die als JSON-Objekte im Seitenquelltext stehen (z. B. {"slug":..,"title":..,"startDay":..}).
     cfg: urlTemplate ("https://…/events/{slug}"), Feldnamen optional."""

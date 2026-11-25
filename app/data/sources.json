@@ -70,7 +70,9 @@
   "active": true,
   "builtin": true,
   "fetch": {
-   "render": true
+   "type": "doo",
+   "organizer": 16739,
+   "tag": "IHK"
   }
  },
  {
@@ -231,6 +233,7 @@
   "active": true,
   "builtin": true,
   "fetch": {
+   "url": "https://www.econ.lmu.de/de/aktuelles/veranstaltungsuebersicht/",
    "urlInclude": "/veranstaltung/"
   }
  },
@@ -414,6 +417,17 @@
   "active": true,
   "builtin": true,
   "fetch": {
+   "urls": [
+    "https://www.bayern.landtag.de/aktuelles/veranstaltungen/kino-im-landtag/",
+    "https://www.bayern.landtag.de/aktuelles/veranstaltungen/landtag-im-gespraech/",
+    "https://www.bayern.landtag.de/aktuelles/veranstaltungen/akademiegespraeche/",
+    "https://www.bayern.landtag.de/aktuelles/veranstaltungen/junge-reihe/",
+    "https://www.bayern.landtag.de/aktuelles/veranstaltungen/big-buergermeisterinnen-und-buergermeister-im-gespraech/",
+    "https://www.bayern.landtag.de/aktuelles/veranstaltungen/fip-frauen-in-parlamente/",
+    "https://www.bayern.landtag.de/aktuelles/veranstaltungen/jup/",
+    "https://www.bayern.landtag.de/aktuelles/veranstaltungen/gaeste-und-begegnungen/"
+   ],
+   "exclude": "^(Programm|Einlass)",
    "venue": {
     "name": "Bayerischer Landtag (Maximilianeum)",
     "address": "Max-Planck-Str. 1, 81675 München",
@@ -648,7 +662,10 @@
   ],
   "region": "München",
   "active": true,
-  "builtin": true
+  "builtin": true,
+  "fetch": {
+   "url": "https://www.cap-lmu.de/aktuell/events/"
+  }
  },
  {
   "id": "presseclub",
@@ -964,8 +981,15 @@
   "active": true,
   "builtin": true,
   "fetch": {
-   "exclude": "Öffnungszeiten",
-   "longOk": true
+   "type": "jsonlist",
+   "url": "https://www.pinakothek.de/de/pager_api?type=exhibition&listType=default&page=1&perPage=40",
+   "textKeys": [
+    "subtitle",
+    "previewText"
+   ],
+   "linkKey": "link.url",
+   "longOk": true,
+   "locationRegex": "(Alte Pinakothek|Neue Pinakothek|Pinakothek der Moderne|Museum Brandhorst|Sammlung Schack)"
   }
  },
  {
@@ -1098,7 +1122,7 @@
  {
   "id": "gaertnerplatz",
   "name": "Staatstheater am Gärtnerplatz",
-  "url": "https://www.gaertnerplatztheater.de/spielplan/index.html",
+  "url": "https://www.gaertnerplatztheater.de/de/spielplan/index.html",
   "categories": [
    "musik-klassisch",
    "theater"
@@ -1107,14 +1131,28 @@
   "active": true,
   "builtin": true,
   "fetch": {
+   "urls": [
+    "https://www.gaertnerplatztheater.de/de/spielplan/index.html?ajax=1&offset=0&letzterTermin=0",
+    "https://www.gaertnerplatztheater.de/de/spielplan/index.html?ajax=1&offset=1&letzterTermin=0",
+    "https://www.gaertnerplatztheater.de/de/spielplan/index.html?ajax=1&offset=2&letzterTermin=0",
+    "https://www.gaertnerplatztheater.de/de/spielplan/index.html?ajax=1&offset=3&letzterTermin=0",
+    "https://www.gaertnerplatztheater.de/de/spielplan/index.html?ajax=1&offset=4&letzterTermin=0",
+    "https://www.gaertnerplatztheater.de/de/spielplan/index.html?ajax=1&offset=5&letzterTermin=0"
+   ],
+   "card": "div.vorstellung.performance",
+   "title": ".fs-3 a",
+   "link": ".fs-3 a",
+   "date": ".col-xl-3",
+   "exclude": "Theaterferien|Theaterführung",
+   "broad": true,
    "venue": {
     "name": "Staatstheater am Gärtnerplatz",
     "address": "Gärtnerplatz 3, 80469 München",
     "lat": 48.1316,
     "lng": 11.5762
    },
-   "render": true,
-   "broad": true
+   "time": ".col-xl-3 .fw-bold",
+   "maxEvents": 200
   }
  },
  {
@@ -1340,7 +1378,7 @@
  {
   "id": "brso",
   "name": "BR-Symphonieorchester",
-  "url": "https://www.brso.de/konzertkalender/",
+  "url": "https://www.brso.de/konzerte-tickets/konzertkalender/",
   "categories": [
    "musik-klassisch"
   ],
@@ -1348,7 +1386,19 @@
   "active": true,
   "builtin": true,
   "fetch": {
-   "render": true
+   "render": true,
+   "card": "div.items > div.item",
+   "title": ".title a",
+   "date": ".date-inner",
+   "time": ".start-time",
+   "location": ".location",
+   "link": ".title a",
+   "scope": "filter",
+   "exclude": "Schulvorstellung|Schulveranstaltung|Moderierte Probe für Schüler",
+   "venue": {
+    "name": "Herkulessaal der Residenz",
+    "address": "Residenzstraße 1, 80333 München"
+   }
   }
  },
  {

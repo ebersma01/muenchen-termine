@@ -47,7 +47,7 @@ Jede Quelle ist ein Eintrag in `app/data/sources.json`:
 
 | Feld | Bedeutung |
 |---|---|
-| `type` | `cards` (Standard, normale Webseite), `jsonld` (Seite mit schema.org-Daten), `ics` (iCal-Kalender), `tribe` (WordPress-Kalender), `auto` |
+| `type` | `cards` (Standard, normale Webseite), `jsonld` (Seite mit schema.org-Daten), `ics` (iCal-Kalender), `tribe` (WordPress-Kalender), `doo`, `jsonlist`, `auto` |
 | `render` | `true`, wenn die Seite ihre Termine erst per JavaScript lädt (dann wird ein unsichtbarer Browser benutzt) |
 | `scope` | `local` (Standard: Quelle ist in München, nur klar auswärtige Orte fallen raus) oder `filter` (bundesweite Quelle: nur Termine, bei denen ein Ort im MVV-Gebiet genannt ist) |
 | `venue` | Standard-Ort, wenn die Seite keinen Ort nennt (Name, Adresse, lat, lng) |
@@ -67,6 +67,8 @@ Jede Quelle ist ein Eintrag in `app/data/sources.json`:
 | `titleFirstLine` | vom Titel-Element nur die erste Textzeile nehmen |
 | `drop` | Selektor für Teile der Karte, die vorher entfernt werden (z. B. Untertitel, Raumname) |
 | `titleFromDetail` | Titel von der Detailseite übernehmen (wenn die Übersicht nur Bilder zeigt); Kategorie wird danach neu bestimmt |
+| `type: doo` mit `organizer`, `tag` | Termine aus dem Buchungssystem doo.net (z. B. IHK: organizer 16739, tag IHK) |
+| `type: jsonlist` mit `titleKey`, `textKeys`, `linkKey` | Seite liefert eine JSON-Liste (z. B. Pinakotheken); jeder Eintrag wird wie eine Termin-Karte gelesen |
 
 Nach dem Einsammeln öffnet der Sammler für jeden Termin ohne Ort, Adresse oder Preis automatisch
 die verlinkte Detailseite und übernimmt dort genannte Angaben (`collector/detail.py`).
