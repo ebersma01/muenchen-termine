@@ -875,6 +875,11 @@
 "lat": 48.15652,
 "lng": 11.57495
 },
+"englischer garten 3, 80538 münchen": {
+"address": "Biergarten am Chinesischen Turm, 3, Englischer Garten, Kleinhesselohe, Alt-Schwabing, Altstadt-Lehel, Schwabing-Freimann, München, Bayern, 80538, Deutschland",
+"lat": 48.15244,
+"lng": 11.59236
+},
 "englischer garten 3, 80634 münchen": {
 "address": "Biergarten am Chinesischen Turm, 3, Englischer Garten, Kleinhesselohe, Alt-Schwabing, Altstadt-Lehel, Schwabing-Freimann, München, Bayern, 80538, Deutschland",
 "lat": 48.15244,
@@ -1150,6 +1155,11 @@
 "lat": 48.11033,
 "lng": 11.59623
 },
+"gleichmannstraße 10, 81241 münchen": {
+"address": "10, Gleichmannstraße, Pipping, Pasing, Pasing-Obermenzing, München, Bayern, 81241, Deutschland",
+"lat": 48.14749,
+"lng": 11.46046
+},
 "globetrotter münchen": {
 "address": "Globetrotter, 38, Frauenstraße, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
 "lat": 48.13455,
@@ -1187,6 +1197,7 @@
 "lat": 48.13478,
 "lng": 11.6105
 },
+"grillviertel - die grillschule im werksviertel, münchen": null,
 "gspusi & klara, münchen": {
 "address": "Gspusi und Klara, 19, Elvirastraße, St. Vinzenz-Viertel, Neuhausen-Nymphenburg, München, Bayern, 80636, Deutschland",
 "lat": 48.14832,

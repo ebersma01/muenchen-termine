@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-25T06:30:16+01:00",
- "total": 1811,
+ "generated": "2026-11-25T09:34:42+01:00",
+ "total": 1805,
  "sources": [
   {
    "id": "bachtrack",
@@ -21,7 +21,7 @@
   {
    "id": "bitkom",
    "name": "Bitkom",
-   "found": 18,
+   "found": 19,
    "events": 0,
    "ok": false,
    "error": "Termine gefunden, aber keiner passt (Zeitraum/Ort/Kategorie)"
@@ -163,6 +163,14 @@
    "error": "keine Termine erkannt"
   },
   {
+   "id": "ifo",
+   "name": "ifo Institut",
+   "found": 0,
+   "events": 0,
+   "ok": false,
+   "error": "keine Termine erkannt"
+  },
+  {
    "id": "ihk",
    "name": "IHK für München und Oberbayern",
    "found": 0,
@@ -195,6 +203,14 @@
    "error": "keine Termine erkannt"
   },
   {
+   "id": "lenbachhaus",
+   "name": "Lenbachhaus",
+   "found": 0,
+   "events": 0,
+   "ok": false,
+   "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  {
    "id": "lmu-econ",
    "name": "LMU Volkswirtschaft",
    "found": 3,
@@ -221,6 +237,30 @@
   {
    "id": "pinakotheken",
    "name": "Pinakotheken",
+   "found": 0,
+   "events": 0,
+   "ok": false,
+   "error": "keine Termine erkannt"
+  },
+  {
+   "id": "sdi-muenchen",
+   "name": "SDI München (China-Termine)",
+   "found": 0,
+   "events": 0,
+   "ok": false,
+   "error": "keine Termine erkannt"
+  },
+  {
+   "id": "sinologie-lmu",
+   "name": "LMU Institut für Sinologie",
+   "found": 1,
+   "events": 0,
+   "ok": false,
+   "error": "Termine gefunden, aber keiner passt (Zeitraum/Ort/Kategorie)"
+  },
+  {
+   "id": "staatsoper",
+   "name": "Bayerische Staatsoper",
    "found": 0,
    "events": 0,
    "ok": false,
@@ -270,7 +310,7 @@
    "id": "amerikahaus",
    "name": "Amerikahaus",
    "found": 13,
-   "events": 6,
+   "events": 7,
    "ok": true,
    "error": null
   },
@@ -286,7 +326,7 @@
    "id": "backstage",
    "name": "Backstage",
    "found": 58,
-   "events": 48,
+   "events": 50,
    "ok": true,
    "error": null
   },
@@ -301,7 +341,7 @@
   {
    "id": "bayern-innovativ",
    "name": "Bayern Innovativ",
-   "found": 96,
+   "found": 97,
    "events": 3,
    "ok": true,
    "error": null
@@ -334,6 +374,22 @@
    "id": "bvmid",
    "name": "BVMID",
    "found": 1,
+   "events": 1,
+   "ok": true,
+   "error": null
+  },
+  {
+   "id": "chinaforum-bayern",
+   "name": "ChinaForum Bayern e.V.",
+   "found": 7,
+   "events": 5,
+   "ok": true,
+   "error": null
+  },
+  {
+   "id": "dcw",
+   "name": "Deutsch-Chinesische Wirtschaftsvereinigung (DCW)",
+   "found": 12,
    "events": 1,
    "ok": true,
    "error": null
@@ -475,14 +531,6 @@
    "error": null
   },
   {
-   "id": "ifo",
-   "name": "ifo Institut",
-   "found": 10,
-   "events": 2,
-   "ok": true,
-   "error": null
-  },
-  {
    "id": "in-muenchen",
    "name": "in-muenchen.de",
    "found": 6,
@@ -515,17 +563,17 @@
    "error": null
   },
   {
-   "id": "kunstverein",
-   "name": "Kunstverein München",
-   "found": 6,
-   "events": 5,
+   "id": "konfuzius",
+   "name": "Konfuzius-Institut München",
+   "found": 8,
+   "events": 1,
    "ok": true,
    "error": null
   },
   {
-   "id": "lenbachhaus",
-   "name": "Lenbachhaus",
-   "found": 8,
+   "id": "kunstverein",
+   "name": "Kunstverein München",
+   "found": 6,
    "events": 5,
    "ok": true,
    "error": null
@@ -550,7 +598,7 @@
    "id": "meetup",
    "name": "Meetup München",
    "found": 12,
-   "events": 8,
+   "events": 10,
    "ok": true,
    "error": null
   },
@@ -686,7 +734,7 @@
    "id": "rausgegangen",
    "name": "Rausgegangen München",
    "found": 522,
-   "events": 115,
+   "events": 116,
    "ok": true,
    "error": null
   },
@@ -711,14 +759,6 @@
    "name": "Songkick München",
    "found": 50,
    "events": 48,
-   "ok": true,
-   "error": null
-  },
-  {
-   "id": "staatsoper",
-   "name": "Bayerische Staatsoper",
-   "found": 14,
-   "events": 12,
    "ok": true,
    "error": null
   },

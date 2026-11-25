@@ -6541,6 +6541,15 @@
 "ts": 1795152194,
 "venue": "Kunstforum Arabellapark"
 },
+"https://rausgegangen.de/events/weihnachtsmarkt-am-chinesischen-turm-4/": {
+"address": "Englischer Garten 3, 80538 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Weihnachtsmarkt am Chinesischen Turm am 25.11.2026 in München",
+"ts": 1795595681,
+"venue": "Chinesischer Turm"
+},
 "https://rausgegangen.de/events/werde-wie-du-bist-autorenlesung-uber-authentizitat-charisma--0/": {
 "address": "Pelkovenstraße 145, 80992 München",
 "cost": "49.00 €",
@@ -7895,6 +7904,15 @@
 "ts": 1795584603,
 "venue": null
 },
+"https://www.amerikahaus.de/ausstellungen-und-veranstaltungen/2026-12-14-page-turners-book-club-december-meeting": {
+"address": "Karolinenplatz 3, 80333 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Page Turners' Book Club: \"The Inheritance Games\" by Jennifer Lynn Barnes",
+"ts": 1795595681,
+"venue": null
+},
 "https://www.amerikahaus.de/ausstellungen-und-veranstaltungen/ausstellung-johnny-miller-unequal-scenes-salt-works": {
 "address": null,
 "cost": null,
@@ -8929,6 +8947,15 @@
 "ts": 1795066135,
 "venue": null
 },
+"https://www.backstage.eu/event/805d73d5-d1df-4414-9010-d34e320dc355": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Website",
+"ts": 1795595681,
+"venue": null
+},
 "https://www.backstage.eu/event/90d39d6b-4890-4eab-9783-90e2092ea305": {
 "address": null,
 "cost": "ab 49.99 €",
@@ -9095,6 +9122,15 @@
 "lng": null,
 "pagetitle": "Website",
 "ts": 1795324726,
+"venue": null
+},
+"https://www.backstage.eu/event/e93d55df-7ea2-44e0-9446-a2becf2110a5": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Website",
+"ts": 1795595681,
 "venue": null
 },
 "https://www.backstage.eu/event/efbd31bb-ea2a-4c85-bd20-97333d913aa5": {
@@ -11911,6 +11947,42 @@
 "pagetitle": "Home –  Cell Press Symposia: Decoding Cellular Complexity: Single Cell Biology in the Era of AI",
 "ts": 1794808243,
 "venue": null
+},
+"https://www.chinaforumbayern.de/veranstaltung/aussenwirtschaftsportal-bayern-die-zerreissprobe-der-automobilindustrie-zwischen-china-klimazielen-und-konkurrenzdruck/": {
+"address": null,
+"cost": null,
+"lat": 51.165691,
+"lng": 10.451526,
+"pagetitle": "Außenwirtschaftsportal Bayern: Die Zerreißprobe der Automobilindustrie- Zwischen China, Klimazielen und Konkurrenzdruck - Chinaforum Bayern",
+"ts": 1795595681,
+"venue": "Online"
+},
+"https://www.chinaforumbayern.de/veranstaltung/ccc2026muc/": {
+"address": null,
+"cost": "35 – 55 USD",
+"lat": 48.1432411,
+"lng": 11.5698685,
+"pagetitle": "Chinaforum Christmas Club München „China 2026 – ein Jahresrückblick“ - Chinaforum Bayern",
+"ts": 1795595681,
+"venue": "Haus der Bayerischen Wirtschaft, ExecutiveArea, Max-Joseph-Straße 5, 80333 München"
+},
+"https://www.chinaforumbayern.de/veranstaltung/cms-china-employee-sick-leave-pay-in-china-latest-updates-from-shanghai-and-key-issues-for-employers/": {
+"address": null,
+"cost": null,
+"lat": 51.165691,
+"lng": 10.451526,
+"pagetitle": "CMS China: Employee Sick Leave Pay in China: Latest Updates from Shanghai and Key Issues for Employers - Chinaforum Bayern",
+"ts": 1795595681,
+"venue": "Online"
+},
+"https://www.chinaforumbayern.de/veranstaltung/ti-communication-china-interkulturelles-business-training-fuer-fach-und-fuehrungskraefte/": {
+"address": null,
+"cost": null,
+"lat": 51.165691,
+"lng": 10.451526,
+"pagetitle": "ti communication: China – Interkulturelles Business-Training für Fach- und Führungskräfte - Chinaforum Bayern",
+"ts": 1795595681,
+"venue": "Online"
 },
 "https://www.deutsches-museum.de/museumsinsel/besuch": {
 "address": null,
@@ -16453,6 +16525,15 @@
 "ts": 1794979458,
 "venue": null
 },
+"https://www.konfuzius-muenchen.de/kunstkultur/veranstaltungen/details-veranstaltungen?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bday%5D=11&tx_news_pi1%5Bmonth%5D=12&tx_news_pi1%5Bnews%5D=935&tx_news_pi1%5Byear%5D=2026&cHash=aede1fcf60d99368c5d5e0d97ba05d2e": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "227. Jour Fixe der Stiftung ex oriente",
+"ts": 1795595681,
+"venue": null
+},
 "https://www.kunsthalle-muc.de/barcelona/": {
 "address": null,
 "cost": "39 €",
@@ -18913,6 +18994,15 @@
 "ts": 1793715518,
 "venue": "Koos Hotel & Apartments"
 },
+"https://www.meetup.com/friending-around-munich/events/316316764/": {
+"address": "Sonnenstraße 18b ,, München, München",
+"cost": "150.00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Speed Friending Night: Meet Locals & Expats in Munich , Sat, Nov 28, 2026, 7:00 PM",
+"ts": 1795595681,
+"venue": "Koos Hotel & Apartments"
+},
 "https://www.meetup.com/friending-around-munich/events/317119878/": {
 "address": "TBD, München, München",
 "cost": "9.99 €",
@@ -19034,6 +19124,15 @@
 "lng": null,
 "pagetitle": "Language Club international, Wed, Nov 11, 2026, 7:00 PM",
 "ts": 1794374512,
+"venue": "Scholars Lounge"
+},
+"https://www.meetup.com/language-club-socialising-international/events/317412054/": {
+"address": "Hochbrüchenstrasse. 3, Munich, Munich",
+"cost": "2 - 4 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Language Club international, Wed, Nov 25, 2026, 7:00 PM",
+"ts": 1795595681,
 "venue": "Scholars Lounge"
 },
 "https://www.meetup.com/leaddev-meetup-munich/events/316948862/": {
