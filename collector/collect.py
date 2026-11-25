@@ -149,13 +149,13 @@ VENUE_CATS = [
 # China-Bezug geht vor Ort- und Standardkategorie (Wunsch Matthias, 25.11.2026)
 _CHINA = re.compile(
     r"(?<![A-Za-zÄÖÜäöüß])(China|Chines|Peking|Beijing|Shanghai|Hong ?Kong|Taiwan|Mandarin(?!e|\s+Oriental)|Konfuzius|Confucius"
-    r"|Sinolog|Kalligra(?:f|ph)|Calligraph|Lunar New Year|Mondneujahr|Guzheng|Mahjong|Kung ?Fu|Tai ?Chi|Qi ?Gong)", re.I)
+    r"|Sinolog|Kalligra(?:f|ph)|Calligraph|Lunar New Year|Mondneujahr|Guzheng|Mahjong)", re.I)
 _CHINA_FALSE = re.compile(r"China-?(Restaurant|Imbiss|Porzellan)|Porzellan|Chinarinde|Indochina|Chinesische[nr]? Turm", re.I)
 
 
 def china_hit(title, desc):
     for t in (title, desc):
-        if t and _CHINA.search(t) and not _CHINA_FALSE.search(t):
+        if t and _CHINA.search(_CHINA_FALSE.sub(" ", t)):
             return True
     return False
 
