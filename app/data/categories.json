@@ -273,5 +273,30 @@
    "Networking"
   ],
   "builtin": true
+ },
+ {
+  "id": "china",
+  "name": "China",
+  "color": "#c8102e",
+  "keywords": [
+   "China",
+   "chinesisch",
+   "Chinese",
+   "Peking",
+   "Beijing",
+   "Shanghai",
+   "Hongkong",
+   "Hong Kong",
+   "Taiwan",
+   "taiwanesisch",
+   "Mandarin",
+   "Konfuzius",
+   "Sinologie",
+   "Kalligrafie",
+   "Lunar New Year",
+   "Chinesisches Neujahr",
+   "Frühlingsfest"
+  ],
+  "builtin": true
  }
 ]

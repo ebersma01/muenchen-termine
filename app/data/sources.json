@@ -1867,5 +1867,86 @@
    },
    "tags": ".hashtag"
   }
+ },
+ {
+  "id": "konfuzius",
+  "name": "Konfuzius-Institut München",
+  "url": "https://www.konfuzius-muenchen.de/kunstkultur/veranstaltungen",
+  "categories": [
+   "china"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "exclude": "^Veranstaltungen$",
+   "venue": {
+    "name": "Konfuzius-Institut München",
+    "address": "Gleichmannstraße 10, 81241 München"
+   }
+  }
+ },
+ {
+  "id": "sinologie-lmu",
+  "name": "LMU Institut für Sinologie",
+  "url": "https://www.sinologie.uni-muenchen.de/veranstaltungen/",
+  "categories": [
+   "china"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "titleRegex": "“\\s*([^”]+?)\\s*”",
+   "exclude": "Movement and Infrastructure"
+  }
+ },
+ {
+  "id": "chinaforum-bayern",
+  "name": "ChinaForum Bayern e.V.",
+  "url": "https://www.chinaforumbayern.de/veranstaltungen/",
+  "categories": [
+   "china"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "type": "tribe",
+   "url": "https://www.chinaforumbayern.de",
+   "scope": "filter",
+   "keepOnline": true
+  }
+ },
+ {
+  "id": "dcw",
+  "name": "Deutsch-Chinesische Wirtschaftsvereinigung (DCW)",
+  "url": "https://www.dcw-ev.de/de/veranstaltungen/veranstaltungsuebersicht.html",
+  "categories": [
+   "china"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "scope": "filter",
+   "keepOnline": true,
+   "exclude": "^(online anmelden|zu Google Calendar|Online-Seminar-Paket)"
+  }
+ },
+ {
+  "id": "sdi-muenchen",
+  "name": "SDI München (China-Termine)",
+  "url": "https://www.tickettailor.com/events/sdimuenchen",
+  "categories": [
+   "china"
+  ],
+  "region": "München",
+  "active": true,
+  "builtin": true,
+  "fetch": {
+   "type": "auto",
+   "include": "China|Chines|Peking|Beijing|Shanghai|Hong ?Kong|Taiwan|Mandarin|Konfuzius"
+  }
  }
 ]

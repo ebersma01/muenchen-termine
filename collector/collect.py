@@ -146,6 +146,20 @@ VENUE_CATS = [
 ]
 
 
+# China-Bezug geht vor Ort- und Standardkategorie (Wunsch Matthias, 25.11.2026)
+_CHINA = re.compile(
+    r"(?<![A-Za-zÄÖÜäöüß])(China|Chines|Peking|Beijing|Shanghai|Hong ?Kong|Taiwan|Mandarin(?!e|\s+Oriental)|Konfuzius|Confucius"
+    r"|Sinolog|Kalligra(?:f|ph)|Calligraph|Lunar New Year|Mondneujahr|Guzheng|Mahjong|Kung ?Fu|Tai ?Chi|Qi ?Gong)", re.I)
+_CHINA_FALSE = re.compile(r"China-?(Restaurant|Imbiss|Porzellan)|Porzellan|Chinarinde|Indochina|Chinesische[nr]? Turm", re.I)
+
+
+def china_hit(title, desc):
+    for t in (title, desc):
+        if t and _CHINA.search(t) and not _CHINA_FALSE.search(t):
+            return True
+    return False
+
+
 def venue_category(text):
     for rx, cs in VENUE_CATS:
         if text.strip() and re.search(rx, text, re.I):
@@ -283,6 +297,8 @@ def finish(ev, src, cats, geocoder, today):
     if v.get("name") and _GENERIC_VENUE.match(v["name"]):
         if re.match(r"online", v["name"], re.I):
             ev["online"] = True
+            if not v.get("address"):
+                v["lat"] = v["lng"] = None  # Online-Termine haben oft nur die Mitte Deutschlands als Position
         v["name"] = None
     if not v.get("name") and dv:
         for k in ("name", "address", "lat", "lng"):
@@ -308,6 +324,10 @@ def finish(ev, src, cats, geocoder, today):
                 break
     if v.get("name"):
         v["name"] = re.sub(r"(,\s*(München|Munich))+$", "", v["name"]).strip(" ,") or v["name"]
+    if re.match(r"^(online|virtuell|webinar|digital)\W*$", v.get("name") or "", re.I) and not v.get("address"):
+        ev["online"] = True  # "Online" als Ort: keine Koordinaten (oft Mitte Deutschlands)
+        v["name"] = None
+        v["lat"] = v["lng"] = None
     loc_text = " ".join(x for x in [v.get("name"), v.get("address")] if x)
     scope = f.get("scope", "local")
     online = bool(ev.get("online")) and not loc_text
@@ -342,7 +362,9 @@ def finish(ev, src, cats, geocoder, today):
     if vname:  # Ortsnamen zaehlen nicht als Stichwort ("Technikum" ist kein Technik-Termin)
         desc = desc.replace(vname, " ")
     vcat = None if f.get("venue") else venue_category(vname + " " + (v.get("address") or ""))
-    if vcat:  # reine Konzertorte: Ort gibt die Standardkategorie vor
+    if any(c["id"] == "china" for c in cats) and (src.get("categories") == ["china"] or china_hit(title, desc)):
+        one = "china"
+    elif vcat:  # reine Konzertorte: Ort gibt die Standardkategorie vor
         one = best_category(title, desc, cats, vcat)
     elif vcat == []:  # gemischter Ort: nur nach Stichwort, sonst Standard der Quelle
         one = best_category(title, desc, cats, [], keywords_only=True,
