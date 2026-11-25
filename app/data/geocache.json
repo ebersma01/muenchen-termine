@@ -288,6 +288,7 @@
 "atelier kevo, münchen": null,
 "atelier mark + mieze, münchen": null,
 "atelier tonga, münchen": null,
+"atelierhaus baumstrasse, münchen": null,
 "atelierhaus baumstraße, münchen": null,
 "atelierloft machwerk ev, münchen": null,
 "atelierstraße 12, 81671 münchen": {
@@ -540,6 +541,11 @@
 "lat": 48.14297,
 "lng": 11.57476
 },
+"brienner straße 45, 80333 münchen": {
+"address": "Cima Beratung + Management GmbH, 45, Brienner Straße, Kunstareal, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80333, Deutschland",
+"lat": 48.14657,
+"lng": 11.5619
+},
 "bucher straße 6, 84174 eching": {
 "address": "Landgasthof & Landhotel Wild, 6, Bucher Straße, Ebenau, Haunwang, Eching, Landkreis Landshut, Bayern, 84174, Deutschland",
 "lat": 48.47442,
@@ -560,6 +566,7 @@
 "lat": 48.13648,
 "lng": 11.55449
 },
+"by sara becker, münchen": null,
 "byd munich": null,
 "bäckerstraße 14, 81241 münchen": {
 "address": "Alten- und Service-Zentrum Pasing, 14, Bäckerstraße, Neupasing, Pasing, Pasing-Obermenzing, München, Bayern, 81241, Deutschland",
@@ -1042,6 +1049,11 @@
 "lat": 48.16294,
 "lng": 11.56576
 },
+"friedrichstraße 22, 80801 münchen": {
+"address": "22, Friedrichstraße, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80801, Deutschland",
+"lat": 48.15928,
+"lng": 11.58031
+},
 "färberei, münchen": {
 "address": "Die Färberei, Untere Weidenstraße, Untergiesing-Harlaching, Giesing, München, Bayern, 81543, Deutschland",
 "lat": 48.11926,
@@ -1291,6 +1303,7 @@
 "lat": 48.12873,
 "lng": 11.60198
 },
+"haus der kommunikation, münchen": null,
 "haus der kunst, münchen": {
 "address": "Haus der Kunst, Prinzregentenstraße, Lehel, Altstadt-Lehel, München, Bayern, 80538, Deutschland",
 "lat": 48.14412,
@@ -1314,6 +1327,7 @@
 "lat": 48.16122,
 "lng": 11.5888
 },
+"herkulessaal der residenz münchen": null,
 "herrschaftszeiten, münchen": {
 "address": "Herrschaftszeiten - Das Paulaner im Tal, 12, Tal, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
 "lat": 48.13597,
@@ -1352,6 +1366,7 @@
 },
 "hidden backroom of prygoshin, münchen": null,
 "hirmer tagesbar, münchen": null,
+"historisches kolleg kaulbachstraße 15, 80539 münchen": null,
 "hochbrüchenstrasse. 3, munich, munich": null,
 "hochschule münchen, hörsaal 1.046 (roter würfel)": null,
 "hochstr. 77, 81541 münchen": {
@@ -1802,6 +1817,7 @@
 },
 "le schlürf, münchen": null,
 "legal club, münchen": null,
+"leibe & seele, münchen": null,
 "lenbachhaus und kunstbau münchen luisenstraße 33, 80333 münchen": null,
 "lenbachhaus und kunstbau, münchen": {
 "address": "Garten der Städtischen Galerie im Lenbachhaus und Kunstbau, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80333, Deutschland",
@@ -1993,6 +2009,7 @@
 "lng": 11.57536
 },
 "mariensäule am marienplatz, münchen": null,
+"marriott hotel city west, münchen": null,
 "marsstraße 43, 80335 münchen": {
 "address": "Circus Krone, 43, Marsstraße, Marsfeld, Maxvorstadt, München, Bayern, 80335, Deutschland",
 "lat": 48.14509,
@@ -2067,6 +2084,12 @@
 "lat": 48.18037,
 "lng": 11.48367
 },
+"messe münchen": {
+"address": "Messe München, Am Messesee, Messestadt Riem, Trudering-Riem, München, Bayern, 81829, Deutschland",
+"lat": 48.13642,
+"lng": 11.69762
+},
+"mh5 roof, münchen": null,
 "mia - raum für begegnung, münchen": null,
 "miesbacher straße 3, 81547 münchen": {
 "address": "3, Miesbacher Straße, Neuharlaching, Untergiesing-Harlaching, Fasangarten, München, Bayern, 81547, Deutschland",
@@ -2405,6 +2428,11 @@
 "lat": 48.12366,
 "lng": 11.5559
 },
+"münchner zukunftssalon goethestr. 28, 80336 münchen": {
+"address": "oekom e.V. - Münchner Zukunftssalon, 28, Goethestraße, Klinikviertel, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80336, Deutschland",
+"lat": 48.13603,
+"lng": 11.55846
+},
 "nachbarschaftstreff alte heimat, münchen": null,
 "nachbarschaftstreff giesing": {
 "address": "NachbarschaftsTreff Giesing, 12, Neuschwansteinplatz, Stadelheim, Fasangarten, Obergiesing-Fasangarten, München, Bayern, 81549, Deutschland",
@@ -2537,6 +2565,11 @@
 "address": "11, Oertelplatz, Allach, Allach-Untermenzing, München, Bayern, 80999, Deutschland",
 "lat": 48.18935,
 "lng": 11.46772
+},
+"oettingenstraße 36, 80538 münchen": {
+"address": "36, Oettingenstraße, Lehel, Altstadt-Lehel, München, Bayern, 80538, Deutschland",
+"lat": 48.14568,
+"lng": 11.59359
 },
 "oettingenstraße 67, 80538 münchen": {
 "address": "Fachbibliothek Englischer Garten, 67, Oettingenstraße, Lehel, Altstadt-Lehel, München, Bayern, 80538, Deutschland",
@@ -2801,6 +2834,11 @@
 "lng": 11.52197
 },
 "residenz, allerheiligen-hofkirche, münchen": null,
+"residenzstr. 1, 80333 münchen": {
+"address": "1, Residenzstraße, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80333, Deutschland",
+"lat": 48.14217,
+"lng": 11.57787
+},
 "residenzstraße 1, 80333 münchen": {
 "address": "Hofapotheke in der Residenz, 1, Residenzstraße, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80333, Deutschland",
 "lat": 48.14152,
@@ -3058,6 +3096,7 @@
 "lat": 48.13346,
 "lng": 11.56686
 },
+"sendlinger-tor-platz 11, 80336 münchen-altstadt-lehel, germany, münchen, by, münchen": null,
 "senefelderstraße 5, 80336 münchen-ludwigsvorstadt-isarvorstadt, germany, münchen, by, münchen": null,
 "servetstraße 1, 80999 münchen": {
 "address": "Gaststätte zur Allacher Schießstätte, 1, Servetstraße, Allach, Allach-Untermenzing, München, Bayern, 80999, Deutschland",
@@ -3260,6 +3299,11 @@
 "address": "Tam Tam Treppenbar, Hildegardstraße, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80539, Deutschland",
 "lat": 48.13768,
 "lng": 11.58178
+},
+"tams theater, münchen": {
+"address": "TamS - Theater am Sozialamt, 15, Haimhauserstraße, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80802, Deutschland",
+"lat": 48.16221,
+"lng": 11.59049
 },
 "tante aenne, münchen": {
 "address": "Tante Aenne, 11, Watzmannstraße, Feldmüllersiedlung, Obergiesing, Obergiesing-Fasangarten, München, Bayern, 81541, Deutschland",
@@ -3498,6 +3542,7 @@
 "lng": 11.50221
 },
 "vorhoelzer forum der tum, münchen": null,
+"vorplatz sankt michael, münchen": null,
 "walmdachhaus münchen schwabing nord": null,
 "walter storms galerie, münchen": {
 "address": "Walter Storms Galerie S48, 48, Schellingstraße, Kunstareal, Maxvorstadt, München, Bayern, 80799, Deutschland",
