@@ -267,6 +267,7 @@ function srcStatus(s) {
   if (!s.builtin) return el("div", { class: "muted small" }, "wird beim nächsten Lauf geprüft");
   if (s.fetch === false) return el("div", { class: "muted small" }, "wird nicht automatisch gelesen");
   if (!st) return null;
+  if (!st.ok && /keine kommenden Termine/.test(st.error || "")) return el("div", { class: "muted small" }, "derzeit keine Termine angekündigt");
   if (!st.ok) return el("div", { class: "small warn" }, "⚠︎ zuletzt nicht lesbar");
   return el("div", { class: "muted small" }, `${st.events} Termine`);
 }

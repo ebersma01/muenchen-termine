@@ -1,5 +1,5 @@
 // Offline-Cache: App-Dateien aus dem Cache (im Hintergrund aktualisiert), Termine immer zuerst aus dem Netz.
-const CACHE = "termine-v2";
+const CACHE = "termine-v3";
 const SHELL = ["./", "index.html", "styles.css", "app.js", "manifest.webmanifest", "icon.svg",
   "vendor/leaflet/leaflet.js", "vendor/leaflet/leaflet.css"];
 self.addEventListener("install", (e) => e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting())));

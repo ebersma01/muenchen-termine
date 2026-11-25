@@ -72,9 +72,14 @@ def raw_events(src, allow_render=True):
         if kind == "tribe":
             out += extract.fetch_tribe(url)
             continue
+        if kind == "doo":
+            out += extract.fetch_doo(f)
+            continue
         text = extract.fetch(url, render=render)
         if kind == "ics":
             out += extract.parse_ics(text)
+        elif kind == "jsonlist":
+            out += extract.parse_jsonlist(text, url, f)
         elif kind == "embedded":
             out += extract.parse_embedded(text, url, f)
         elif kind == "jsonld":
@@ -322,6 +327,7 @@ def finish(ev, src, cats, geocoder, today):
                     if 3 <= len(cand) <= 60 and not find_dates(cand):
                         v["name"] = cand
                 break
+    raw_name = v.get("name") or ""  # vor dem Kuerzen merken: ", München" zaehlt fuer den Ortsfilter
     if v.get("name"):
         v["name"] = re.sub(r"(,\s*(München|Munich))+$", "", v["name"]).strip(" ,") or v["name"]
     if re.match(r"^(online|virtuell|webinar|digital)\W*$", v.get("name") or "", re.I) and not v.get("address"):
@@ -329,6 +335,8 @@ def finish(ev, src, cats, geocoder, today):
         v["name"] = None
         v["lat"] = v["lng"] = None
     loc_text = " ".join(x for x in [v.get("name"), v.get("address")] if x)
+    if loc_text and raw_name and raw_name not in loc_text and v.get("name"):
+        loc_text = raw_name + " " + loc_text
     scope = f.get("scope", "local")
     online = bool(ev.get("online")) and not loc_text
     if scope == "filter" and online and f.get("keepOnline"):
@@ -478,6 +486,8 @@ def main():
             st["error"] = f"{type(err).__name__}: {str(err)[:160]}"
         elif not evs:
             st["error"] = "keine Termine erkannt"
+        elif not kept and all((e.get("end") or e.get("start") or "9999")[:10] < today.isoformat() for e in evs):
+            st["error"] = "zurzeit keine kommenden Termine angekündigt"
         elif not kept:
             st["error"] = "Termine gefunden, aber keiner passt (Zeitraum/Ort/Kategorie)"
         status.append(st)
