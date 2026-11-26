@@ -257,7 +257,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Haben wir versagt? Ein Rückblick auf die deutsche Erinnerungskultur am Beispiel der KZ-Gedenkstätte Flossenbürg - Freundeskreis Evangelische Akademie Tutzing",
-"ts": 1794460954,
+"ts": 1795671319,
 "venue": "Martin-Schalling-Haus Hans-Sachs-Str. 19 92637 Weiden Routenplanung"
 },
 "https://freundeskreis.eatutzing.de/veranstaltung/juedische-isarvorstadt-spaziergang-mit-besichtigung-der-synagoge-reichenbachstrasse/": {
@@ -277,6 +277,15 @@
 "pagetitle": "\"... Kirche brauch ich nicht und religiös?- naja\" - Freundeskreis Evangelische Akademie Tutzing",
 "ts": 1794547317,
 "venue": "Gemeindesaal St. Goergen Hinter der Kirche 1b 95448 Bayreuth Routenplanung"
+},
+"https://freundeskreis.eatutzing.de/veranstaltung/leidenschaft-in-der-sache-und-konstruktiv-im-miteinander-kann-das-in-der-politik-funktionieren/": {
+"address": "Evangelischen Klosters Schwanberg Schwanberg 3, 97348 Rödelsee",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Leidenschaft in der Sache und konstruktiv im Miteinander – kann das in der Politik funktionieren? - Freundeskreis Evangelische Akademie Tutzing",
+"ts": 1795671319,
+"venue": "Festsaal des"
 },
 "https://freundeskreis.eatutzing.de/veranstaltung/meister-des-lichts-claude-monet-und-der-impressionismus-in-frankreich/": {
 "address": "VHS Hofer Land Ludwigstraße 7, 95028 Hof",
@@ -358,13 +367,13 @@
 "venue": "Katholische Akademie in Bayern"
 },
 "https://kath-akademie-bayern.de/veranstaltung/kriminalitaet/": {
-"address": null,
+"address": "Mandlstraße 23, 80802 München",
 "cost": "kostenlos",
-"lat": null,
-"lng": null,
+"lat": 48.1599958,
+"lng": 11.5912871,
 "pagetitle": "Kriminalität - Katholische Akademie in Bayern",
-"ts": 1794460957,
-"venue": null
+"ts": 1795671322,
+"venue": "Katholische Akademie in Bayern"
 },
 "https://kath-akademie-bayern.de/veranstaltung/kuenstliche-intelligenz-governance-transparenz-und-verantwortung/": {
 "address": "Mandlstraße 23, 80802 München",
@@ -376,13 +385,13 @@
 "venue": "Katholische Akademie in Bayern"
 },
 "https://kath-akademie-bayern.de/veranstaltung/literatur-im-gespraech-winkels/": {
-"address": null,
+"address": "Mandlstraße 23, 80802 München",
 "cost": "kostenlos",
-"lat": null,
-"lng": null,
-"pagetitle": "Literatur im Gespräch - Winkels - Katholische Akademie in Bayern",
-"ts": 1794460957,
-"venue": null
+"lat": 48.1599958,
+"lng": 11.5912871,
+"pagetitle": "Literatur im Gespräch - Katholische Akademie in Bayern",
+"ts": 1795671322,
+"venue": "Katholische Akademie in Bayern"
 },
 "https://kath-akademie-bayern.de/veranstaltung/nicht-vom-himmel-gefallen-wie-das-alte-testament-entstand-teil-i/": {
 "address": "Mandlstraße 23, 80802 München",
@@ -428,13 +437,13 @@
 "venue": null
 },
 "https://kath-akademie-bayern.de/veranstaltung/suesse-versuchung/": {
-"address": null,
+"address": "Mandlstraße 23, 80802 München",
 "cost": "kostenlos",
-"lat": null,
-"lng": null,
+"lat": 48.1599958,
+"lng": 11.5912871,
 "pagetitle": "Süße Versuchung - Katholische Akademie in Bayern",
-"ts": 1794460957,
-"venue": null
+"ts": 1795671322,
+"venue": "Katholische Akademie in Bayern"
 },
 "https://kath-akademie-bayern.de/veranstaltung/von-der-sixtinischen-decke-bis-zur-kuppel-von-sankt-peter-in-augsburg/": {
 "address": "Mandlstraße 23, 80802 München",
@@ -513,6 +522,24 @@
 "lat": null,
 "lng": null,
 "ts": 1793548347,
+"venue": null
+},
+"https://messe-muenchen.de/de/veranstaltungen/food-life/": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "FOOD & LIFE 2026",
+"ts": 1795671318,
+"venue": null
+},
+"https://messe-muenchen.de/de/veranstaltungen/heim-handwerk/": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Heim+Handwerk 2026",
+"ts": 1795671318,
 "venue": null
 },
 "https://messe-muenchen.de/de/veranstaltungen/semicon-europa-2026.html": {
@@ -1408,6 +1435,15 @@
 "ts": 1795584606,
 "venue": "MVHS in Allach-Untermenzing"
 },
+"https://rausgegangen.de/events/ausstellung-rebellinnen-frauen-verandern-die-welt-10-novembe-12/": {
+"address": "Oertelplatz 11, 80999 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Ausstellung: Rebellinnen – Frauen verändern die Welt 10. November 2026 bis 31. Januar 2027 am 26.11.2026 in München",
+"ts": 1795671330,
+"venue": "MVHS in Allach-Untermenzing"
+},
 "https://rausgegangen.de/events/ausstellung-rebellinnen-frauen-verandern-die-welt-10-novembe-2/": {
 "address": "Oertelplatz 11, 80999 München",
 "cost": "kostenlos",
@@ -1756,6 +1792,15 @@
 "ts": 1795584607,
 "venue": "Marstallmuseum und Museum \"Nymphenburger Porzellan\" in Schloss Nymphenburg"
 },
+"https://rausgegangen.de/events/besichtigung-marstallmuseum-mit-museum-nymphenburger-porzell-855/": {
+"address": "Schloß Nymphenburg 208, 80638 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Besichtigung Marstallmuseum mit Museum \"Nymphenburger Porzellan\" am 26.11.2026 in München",
+"ts": 1795671333,
+"venue": "Marstallmuseum und Museum \"Nymphenburger Porzellan\" in Schloss Nymphenburg"
+},
 "https://rausgegangen.de/events/billie-bird-soledad-tour-2026-2/": {
 "address": "Holzstraße 28, 80469 München",
 "cost": "24.00 €",
@@ -1843,6 +1888,15 @@
 "lng": null,
 "pagetitle": "Brauereiführung im Giesinger Bräu Werk 2 am 21.11.2026 in München",
 "ts": 1795238226,
+"venue": "Brauerei Giesinger Bräu Werk 2"
+},
+"https://rausgegangen.de/events/brauereifuhrung-im-giesinger-brau-werk-2-121/": {
+"address": "Detmoldstraße 40, 80935 München",
+"cost": "35.00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Brauereiführung im Giesinger Bräu Werk 2 am 26.11.2026 in München",
+"ts": 1795671333,
 "venue": "Brauerei Giesinger Bräu Werk 2"
 },
 "https://rausgegangen.de/events/brave-as-poetry-0/ ": {
@@ -2222,6 +2276,15 @@
 "ts": 1794374519,
 "venue": "Dubliner Irish Pub"
 },
+"https://rausgegangen.de/events/cosmic-comedy-english-comedy-show-40/": {
+"address": "Platzl 2, 80331 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Cosmic Comedy: English Comedy Show am 26.11.2026 in München",
+"ts": 1795671333,
+"venue": "Dubliner Irish Pub"
+},
 "https://rausgegangen.de/events/crafty-club-20-project-c-x-ludwig-beck-0/": {
 "address": "Burgstraße 7, 80331 München",
 "cost": "18.62 €",
@@ -2352,6 +2415,15 @@
 "lng": null,
 "ts": 1793549152,
 "venue": "Frida - Mexikanisches Restaurant"
+},
+"https://rausgegangen.de/events/die-durchsage-live-0/": {
+"address": "Dachauer Str. 110d, 80636 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Die Durchsage – LIVE am 28.01.2027 in München",
+"ts": 1795671336,
+"venue": "PATHOS theater"
 },
 "https://rausgegangen.de/events/die-gegenwart-der-geschichte-10-jahre-historisches-quartett-0/": {
 "address": "Salvatorplatz 1, 80333 München",
@@ -2522,6 +2594,15 @@
 "ts": 1795412355,
 "venue": "Haus der Eigenarbeit (HEI)"
 },
+"https://rausgegangen.de/events/english-comedy-mixed-show-gorod-neuhausen-1/": {
+"address": "ARNULFSTRASSE 197, 80634 München",
+"cost": "17.90 €",
+"lat": null,
+"lng": null,
+"pagetitle": "English Comedy Mixed Show @Gorod (Neuhausen) am 26.11.2026 in München",
+"ts": 1795671333,
+"venue": "Kulturzentrum GOROD"
+},
 "https://rausgegangen.de/events/english-comedy-mixed-show-imal-sendling-2/": {
 "address": "Hans-Preißinger-Straße 8, 81379 München",
 "cost": "17.90 €",
@@ -2592,6 +2673,15 @@
 "lng": null,
 "pagetitle": "Escape the City München: Die vermisste Opernsängerin mit echtem Spielpaket am 26.11.2026 in München",
 "ts": 1795584610,
+"venue": null
+},
+"https://rausgegangen.de/events/escape-the-city-munchen-die-vermisste-opernsangerin-mit-echt-107/": {
+"address": "Max-Joseph-Platz, 80539 München",
+"cost": "79.90 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Escape the City München: Die vermisste Opernsängerin mit echtem Spielpaket am 27.11.2026 in München",
+"ts": 1795671336,
 "venue": null
 },
 "https://rausgegangen.de/events/escape-the-city-munchen-die-vermisste-opernsangerin-mit-echt-82/": {
@@ -2796,6 +2886,15 @@
 "pagetitle": "Fast Fashion Pop Up Tanztheater am 22.11.2026 in München",
 "ts": 1795152194,
 "venue": "Bürgerhaus Glockenbachwerkstatt"
+},
+"https://rausgegangen.de/events/fast-fashion-pop-up-tanztheater-performance-und-kleidertausc-0/": {
+"address": "Einsteinstraße 28, 81675 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Fast Fashion Pop Up Tanztheater - Performance und Kleidertausch am 27.11.2026 in München",
+"ts": 1795671330,
+"venue": "MVHS im Einstein 28"
 },
 "https://rausgegangen.de/events/feierwerk-sessions-nr-29-mit-kiiwi-diego-and-the-moon-und-te-0/": {
 "address": "Hansastraße 39-41, 81373 München",
@@ -3446,6 +3545,15 @@
 "ts": 1795584607,
 "venue": "Odeonsplatz"
 },
+"https://rausgegangen.de/events/geschichte-live-erleben-mit-historischer-stadtfuhrung-munche-208/": {
+"address": "Odeonsplatz 1, 80539 München",
+"cost": "25.00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Geschichte live erleben mit historischer Stadtführung München am 26.11.2026 in München",
+"ts": 1795671336,
+"venue": "Odeonsplatz"
+},
 "https://rausgegangen.de/events/ginas-christmas-comedy-show-live-3/": {
 "address": "Schwanthalerstraße 13, 80336 München",
 "cost": "42.00 €",
@@ -3844,6 +3952,15 @@
 "ts": 1795584610,
 "venue": "München, Schleißheimer Straße"
 },
+"https://rausgegangen.de/events/hippes-historisches-munchen-schwabing-stadtfuhrung-mit-deine-1044/": {
+"address": "Schleißheimer Straße 144, 80797 München",
+"cost": "15.00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Hippes & historisches München Schwabing - Stadtführung mit deinem Smartphone am 27.11.2026 in München",
+"ts": 1795671336,
+"venue": "München, Schleißheimer Straße"
+},
 "https://rausgegangen.de/events/historischer-rundgang-im-ehemaligen-zwangsarbeiterinnenlager-2/": {
 "address": "Ehrenbürgstraße 9, 81249 München",
 "cost": "kostenlos",
@@ -4211,6 +4328,15 @@
 "ts": 1795066138,
 "venue": "The Jungle Comedy Club"
 },
+"https://rausgegangen.de/events/jungle-jam-english-premium-stand-up-open-mic-5/": {
+"address": "Arnulfstraße 195-199, 80634 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Jungle Jam: English Premium Stand-up Open Mic am 30.11.2026 in München",
+"ts": 1795671330,
+"venue": "The Jungle Comedy Club"
+},
 "https://rausgegangen.de/events/jungle-jar-problem-solving-comedy-therapy-but-funny-1/": {
 "address": "Arnulfstraße 195-199, 80634 München",
 "cost": "kostenlos",
@@ -4332,6 +4458,15 @@
 "lng": null,
 "pagetitle": "Kindertheater in München - Kleines Theater im Pförtnerhaus am 22.11.2026 in München",
 "ts": 1795066148,
+"venue": "Kleines Theater im Pförtnerhaus"
+},
+"https://rausgegangen.de/events/kindertheater-in-munchen-kleines-theater-im-pfortnerhaus-509/": {
+"address": "Oberföhringer Straße 156, 81925 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Kindertheater in München - Kleines Theater im Pförtnerhaus am 29.11.2026 in München",
+"ts": 1795671336,
 "venue": "Kleines Theater im Pförtnerhaus"
 },
 "https://rausgegangen.de/events/kinky-party-kinky-karneval-festival-edition-20112026-liebers-0/": {
@@ -4659,6 +4794,15 @@
 "ts": 1795584607,
 "venue": "Krimi-Trail München Maxvorstadt"
 },
+"https://rausgegangen.de/events/krimi-trail-munchen-maxvorstadt-spektakularer-kunstraub-241/": {
+"address": "Königsplatz, 80333 München",
+"cost": "7.80 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Krimi-Trail München Maxvorstadt: Spektakulärer Kunstraub am 26.11.2026 in München",
+"ts": 1795671333,
+"venue": "Krimi-Trail München Maxvorstadt"
+},
 "https://rausgegangen.de/events/kuku-schrapnell-liest-gender-punks-0/": {
 "address": "Hans-Preißinger-Straße 8, 81379 München",
 "cost": "6.00 €",
@@ -4890,6 +5034,15 @@
 "ts": 1795584607,
 "venue": "Altstadt München"
 },
+"https://rausgegangen.de/events/kulinarische-stadtfuhrung-kultur-kulinarik-neu-entdecken-171/": {
+"address": "Konigsplatz 1, 80333 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Kulinarische Stadtführung - Kultur & Kulinarik neu entdecken am 26.11.2026 in München",
+"ts": 1795671336,
+"venue": "Altstadt München"
+},
 "https://rausgegangen.de/events/kunstharz-jesmonite-basic-workshop-in-munchen-4/": {
 "address": "Miesbacher Straße 3, 81547 München",
 "cost": "49.00 €",
@@ -5030,6 +5183,15 @@
 "pagetitle": "Literatur für alle - Odyssee in vier Lesungen am 15.11.2026 in München",
 "ts": 1794547317,
 "venue": "MVHS im Gasteig HP8"
+},
+"https://rausgegangen.de/events/live-jazz-erich-lutz-trio-0/": {
+"address": "Herzog-Heinrich-Straße 38, 80336 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Live Jazz Erich Lutz Trio am 26.11.2026 in München",
+"ts": 1795671330,
+"venue": "Mister Bs"
 },
 "https://rausgegangen.de/events/live-rnb-pop-covers-salon-pitzelberger-gartnerplatz-0/": {
 "address": "Gärtnerplatz 3, 80469 München",
@@ -5396,6 +5558,15 @@
 "ts": 1795412355,
 "venue": "Zenith"
 },
+"https://rausgegangen.de/events/paris-paloma-5/": {
+"address": "Reitknechtstraße 6, 80639 München",
+"cost": "32.00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Paris Paloma am 03.12.2026 in München",
+"ts": 1795671330,
+"venue": "BACKSTAGE Kultur- und Veranstaltungszentrum"
+},
 "https://rausgegangen.de/events/pink-pony-party-2016-nostalgia-edition-0/": {
 "address": "Reitknechtstr.6, 80639 München",
 "cost": "kostenlos",
@@ -5492,6 +5663,15 @@
 "lng": null,
 "ts": 1793549154,
 "venue": "Rio Kino"
+},
+"https://rausgegangen.de/events/punchlines-18-0/": {
+"address": "Schwindstraße 5, 80798 München",
+"cost": "22.00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "PUNCHLINES Comedy 18 am 28.11.2026 in München",
+"ts": 1795671330,
+"venue": "BOXWERK"
 },
 "https://rausgegangen.de/events/punknfriends-vol-ix-0/": {
 "address": "Westendstraße 76, 80339 München",
@@ -5980,6 +6160,15 @@
 "lng": null,
 "ts": 1794547317,
 "venue": null
+},
+"https://rausgegangen.de/events/tanz-im-bambusgarten-2/": {
+"address": "Landwehrstraße 75, 80336 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Tanz im Bambusgarten am 27.11.2026 in München",
+"ts": 1795671330,
+"venue": "Bambule! Bar"
 },
 "https://rausgegangen.de/events/tanz-inklusive-17/": {
 "address": "Ruppertstraße 5, 80337 München",
@@ -6550,6 +6739,15 @@
 "ts": 1795595681,
 "venue": "Chinesischer Turm"
 },
+"https://rausgegangen.de/events/weihnachtsmarkt-am-chinesischen-turm-5/": {
+"address": "Englischer Garten 3, 80538 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Weihnachtsmarkt am Chinesischen Turm am 26.11.2026 in München",
+"ts": 1795671330,
+"venue": "Chinesischer Turm"
+},
 "https://rausgegangen.de/events/werde-wie-du-bist-autorenlesung-uber-authentizitat-charisma--0/": {
 "address": "Pelkovenstraße 145, 80992 München",
 "cost": "49.00 €",
@@ -7071,7 +7269,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "kein Tanz kein Fest Ticketshop",
-"ts": 1794460965,
+"ts": 1795671336,
 "venue": null
 },
 "https://t.rausgegangen.de/tickets/shop/p-ludwig-20-ceo-von-gottes-gnaden": {
@@ -7441,6 +7639,15 @@
 "pagetitle": "Führung – 125 Jahre Prinzregententheater",
 "ts": 1794808279,
 "venue": "am Haupteingang des Prinzregententheaters"
+},
+"https://theaterakademie.de/de/theater/programm/geister-sind-auch-nur-menschen": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "geister sind auch nur menschen",
+"ts": 1795671330,
+"venue": null
 },
 "https://theaterakademie.de/de/theater/programm/il-trionfo-inventar-eines-lebens": {
 "address": null,
@@ -7904,6 +8111,15 @@
 "ts": 1795584603,
 "venue": null
 },
+"https://www.amerikahaus.de/ausstellungen-und-veranstaltungen/2026-12-11-munich-meets-america-das-us-musikfestival-im-amerikahaus": {
+"address": null,
+"cost": null,
+"failed": true,
+"lat": null,
+"lng": null,
+"ts": 1795671319,
+"venue": null
+},
 "https://www.amerikahaus.de/ausstellungen-und-veranstaltungen/2026-12-14-page-turners-book-club-december-meeting": {
 "address": "Karolinenplatz 3, 80333 München",
 "cost": "kostenlos",
@@ -8198,13 +8414,13 @@
 "venue": null
 },
 "https://www.apb-tutzing.de/programm/tagung/19-2-27": {
-"address": null,
+"address": "Buchensee 1, 82327 Tutzing",
 "cost": null,
-"lat": null,
-"lng": null,
+"lat": 47.917473,
+"lng": 11.286791,
 "pagetitle": "Nachmittagsforum Schule - Theorie und Praxis für Lehrkräfte",
-"ts": 1794460954,
-"venue": null
+"ts": 1795671319,
+"venue": "Akademie für Politische Bildung Tutzing"
 },
 "https://www.apb-tutzing.de/programm/tagung/19-3-27": {
 "address": "Buchensee 1, 82327 Tutzing",
@@ -9238,6 +9454,15 @@
 "ts": 1793548344,
 "venue": null
 },
+"https://www.baymevbm.de/baymevbm/ServiceCenter/Arbeitsorganisation/Ergonomie/Ergonomische-Arbeitssysteme-digital-1-2027.jsp": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "bayme vbm Training: Ergonomische Arbeitssysteme 1/2027",
+"ts": 1795671318,
+"venue": null
+},
 "https://www.baymevbm.de/baymevbm/ServiceCenter/Arbeitsorganisation/Ergonomie/Ergonomische-Arbeitssysteme-digital-2-2026.jsp": {
 "address": null,
 "cost": null,
@@ -9299,6 +9524,15 @@
 "ts": 1795238218,
 "venue": null
 },
+"https://www.baymevbm.de/baymevbm/ServiceCenter/Ausbildung-PE/Personalentwicklung/Personalentwicklung/Industriemeistertage-2027-5.jsp": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Kooperation Industriemeistertag 2027 - Jetzt anmelden",
+"ts": 1795671318,
+"venue": null
+},
 "https://www.baymevbm.de/baymevbm/ServiceCenter/Ausbildung-PE/Personalentwicklung/Personalentwicklung/Interkulturelle-Kompetenz-als-Erfolgsfaktor-in-der-Zusammenarbeit.jsp": {
 "address": null,
 "cost": null,
@@ -9349,7 +9583,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Trainingsreihe - Weiterbildung systematisch gestalten 2027",
-"ts": 1794460953,
+"ts": 1795671318,
 "venue": null
 },
 "https://www.baymevbm.de/baymevbm/ServiceCenter/International/Export-Zoll/Aussenwirtschaftspruefung-–-Was-exportkontroll-und-zollrechtlich-zu-beachten-ist.jsp": {
@@ -9571,7 +9805,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "bayme vbm Training: Leistungsbeurteilung nach dem ERA-TV",
-"ts": 1794460953,
+"ts": 1795671318,
 "venue": null
 },
 "https://www.baymevbm.de/baymevbm/ServiceCenter/Personal/Entgelt-Leistungen/Entgelt/Mit-Tarifbindung/Leistungsbeurteilung-nach-dem-ERA-TV-digital-4-2026.jsp": {
@@ -9607,7 +9841,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Online-Format zur Vernetzung von Unternehmen für Personaltransfer",
-"ts": 1794460953,
+"ts": 1795671318,
 "venue": null
 },
 "https://www.baymevbm.de/baymevbm/ServiceCenter/Personal/HR-organisieren/Arbeitsrecht-in-der-M-E-Industrie-3-2026-10.jsp": {
@@ -10609,6 +10843,15 @@
 "ts": 1795324732,
 "venue": "Bergson Kunstkraftwerk"
 },
+"https://www.bergson.com/event/champagne-and-dine-05-februar-2027": {
+"address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Champagner und Kulinarik mit Taittinger erleben  -  Bergson",
+"ts": 1795671336,
+"venue": "Bergson Kunstkraftwerk"
+},
 "https://www.bergson.com/event/champagne-and-dine-19-februar-2027": {
 "address": "Am Bergson Kunstkraftwerk 2, 81245 München",
 "cost": null,
@@ -10750,7 +10993,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Harald Lesch & Axel Kleidon: Klima und Energie in der Bergson Akademie  -  Bergson",
-"ts": 1794460965,
+"ts": 1795671336,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/die-usa-nach-den-midterms": {
@@ -11398,7 +11641,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Meister Bumeder: Kabarett und Stand-Up Comedy  -  Bergson",
-"ts": 1794460965,
+"ts": 1795671336,
 "venue": "Bergson Kunstkraftwerk"
 },
 "https://www.bergson.com/event/melanie-raabe-daisy-und-all-deine-geheimnisse-werden-mir-gehoeren-14-januar-2027": {
@@ -11869,6 +12112,15 @@
 "ts": 1793806622,
 "venue": "Bergson Kunstkraftwerk"
 },
+"https://www.blz.bayern.de/digitalpolitik-forum_v_514.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Veranstaltungen Detailseite",
+"ts": 1795671319,
+"venue": "Evangelische Akademie Tutzing"
+},
 "https://www.blz.bayern.de/europa-checker_v_525.html": {
 "address": null,
 "cost": null,
@@ -11909,8 +12161,8 @@
 "lat": null,
 "lng": null,
 "pagetitle": "",
-"ts": 1794374507,
-"venue": "Aschheim"
+"ts": 1795671318,
+"venue": "Frankfurt am Main"
 },
 "https://www.bundesbank.de/de/presse/pressetermine/1014410!ical": {
 "address": null,
@@ -12011,6 +12263,15 @@
 "ts": 1794460957,
 "venue": "Hauptpforte"
 },
+"https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/datong": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Datong",
+"ts": 1795671322,
+"venue": "Zum Jubiläum der Schenkung von zehn chinesischen Instrumenten vor 100 Jahren an das Deutsche Museum,"
+},
 "https://www.deutsches-museum.de/museumsinsel/programm/veranstaltung/freie-maschinen": {
 "address": null,
 "cost": null,
@@ -12077,7 +12338,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "089 Kult Faschingsparty",
-"ts": 1794460965,
+"ts": 1795671336,
 "venue": "Ballsaal"
 },
 "https://www.deutsches-theater.de/alexander-klaws-a-very-special-musical-christmas/": {
@@ -12250,6 +12511,33 @@
 "pagetitle": "Das NEINhorn",
 "ts": 1795238226,
 "venue": "Theatersaal"
+},
+"https://www.deutsches-theater.de/das-ratschkartell-07-05-2027/": {
+"address": null,
+"cost": "27,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Das Ratschkartell",
+"ts": 1795671336,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/das-ratschkartell-23-02-2027/": {
+"address": null,
+"cost": "27,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Das Ratschkartell",
+"ts": 1795671336,
+"venue": "Silbersaal"
+},
+"https://www.deutsches-theater.de/das-ratschkartell-26-11-2026/": {
+"address": null,
+"cost": "27,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Das Ratschkartell",
+"ts": 1795671336,
+"venue": "Silbersaal"
 },
 "https://www.deutsches-theater.de/del-plata-tango/": {
 "address": null,
@@ -12518,7 +12806,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Kinderfasching",
-"ts": 1794460965,
+"ts": 1795671336,
 "venue": "Ballsaal"
 },
 "https://www.deutsches-theater.de/konzertante-aneignung-eine-musikalische-frechheit/": {
@@ -12788,7 +13076,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Sebastian Fitzeks Die Einladung",
-"ts": 1794460965,
+"ts": 1795671336,
 "venue": "Theatersaal"
 },
 "https://www.deutsches-theater.de/sisters-in-crime/": {
@@ -12799,6 +13087,15 @@
 "pagetitle": "Sisters in Crime",
 "ts": 1794979452,
 "venue": "Theatersaal"
+},
+"https://www.deutsches-theater.de/sky-du-mont/": {
+"address": null,
+"cost": "ab 55,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Sky du Mont – Best of",
+"ts": 1795671336,
+"venue": "Silbersaal"
 },
 "https://www.deutsches-theater.de/solaire/": {
 "address": null,
@@ -12960,6 +13257,15 @@
 "lng": null,
 "pagetitle": "virtuelles DSW Anlegerforum",
 "ts": 1794845766,
+"venue": "Online"
+},
+"https://www.dsw-info.de/dsw-events/anlegerforen/detail/virtuelles-dsw-anlegerforum-kopie-1": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "virtuelles DSW Anlegerforum",
+"ts": 1795671319,
 "venue": "Online"
 },
 "https://www.eatutzing.de/veranstaltung/1-kammerkonzert-des-symphonieorchesters-des-br-10/": {
@@ -13327,6 +13633,15 @@
 "ts": 1793548588,
 "venue": "Tickets Sa."
 },
+"https://www.feierwerk.de/konzert-kulturprogramm/detail/14-12-2026_the-tubs": {
+"address": null,
+"cost": "28 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Mo 14.12.2026 - The Tubs @ Feierwerk München",
+"ts": 1795671328,
+"venue": "Tickets Mo."
+},
 "https://www.feierwerk.de/konzert-kulturprogramm/detail/30-11-2026_cabal-employed-to-serve-cold-culture": {
 "address": null,
 "cost": "25 €",
@@ -13629,7 +13944,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Spielplan Theater im Fraunhofer",
-"ts": 1794460965,
+"ts": 1795671336,
 "venue": null
 },
 "https://www.fraunhofertheater.de/spielplan/cpevent/5964134a-a217-4855-9b67-a7b768201c34": {
@@ -13648,6 +13963,15 @@
 "lng": null,
 "pagetitle": "Spielplan Theater im Fraunhofer",
 "ts": 1794979463,
+"venue": null
+},
+"https://www.fraunhofertheater.de/spielplan/cpevent/5b8815b5-7ed7-4ec9-ac8e-27651922bb3c": {
+"address": "Fraunhoferstr. 9, 80469 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Spielplan Theater im Fraunhofer",
+"ts": 1795671336,
 "venue": null
 },
 "https://www.fraunhofertheater.de/spielplan/cpevent/60242558-fa3c-47d1-b4aa-ec110d5206b3": {
@@ -14088,7 +14412,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Spielplan Theater im Fraunhofer",
-"ts": 1794460965,
+"ts": 1795671336,
 "venue": null
 },
 "https://www.fraunhofertheater.de/spielplan/cpevent/e0e56d6a-9b77-4b8c-bae5-39519eabd670": {
@@ -14133,7 +14457,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Spielplan Theater im Fraunhofer",
-"ts": 1794460965,
+"ts": 1795671336,
 "venue": null
 },
 "https://www.fraunhofertheater.de/spielplan/cpevent/e77fe2ad-d660-42e6-af11-4997fe0e2798": {
@@ -14631,7 +14955,8 @@
 "cost": null,
 "lat": null,
 "lng": null,
-"ts": 1793548414,
+"pagetitle": "Heim+Handwerk: Die Messe für Interior & Lifestyle",
+"ts": 1795671322,
 "venue": null
 },
 "https://www.hfp.tum.de/en/theory/news/": {
@@ -14999,6 +15324,15 @@
 "lng": null,
 "ts": 1793548333,
 "venue": "Handwerkskammer für München und Oberbayern"
+},
+"https://www.hwk-muenchen.de/termine/einstiegsseminar-fuer-existenzgruender-im-handwerk-in-muenchen-74,0,evedetail.html?eve=5160": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Einstiegsseminar für Existenzgründer im Handwerk in München",
+"ts": 1795671318,
+"venue": "Online"
 },
 "https://www.hwk-muenchen.de/termine/handwerk-trifft-forschung-universitaet-der-bundeswehr-74,0,evedetail.html?eve=5208": {
 "address": "Werner-Heisenberg-Weg 39, 85577 Neubiberg",
@@ -16696,6 +17030,15 @@
 "ts": 1795152190,
 "venue": "Lenbachhaus München"
 },
+"https://www.lenbachhaus.de/besuchen/kalender/termin/fuehrung-durch-die-ausstellung-19084": {
+"address": "Luisenstrasse 33, 80333 München",
+"cost": "5 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Öffentliche Führung",
+"ts": 1795671322,
+"venue": "Lenbachhaus München"
+},
 "https://www.lenbachhaus.de/besuchen/kalender/termin/fuehrung-durch-die-ausstellung-19089": {
 "address": "Luisenstrasse 33, 80333 München",
 "cost": "5 €",
@@ -16783,6 +17126,15 @@
 "lng": null,
 "pagetitle": "Öffentliche Führung",
 "ts": 1795238220,
+"venue": "Lenbachhaus München"
+},
+"https://www.lenbachhaus.de/besuchen/kalender/termin/fuehrung-durch-die-ausstellung-19105": {
+"address": "Luisenstrasse 33, 80333 München",
+"cost": "5 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Öffentliche Führung",
+"ts": 1795671322,
 "venue": "Lenbachhaus München"
 },
 "https://www.lenbachhaus.de/besuchen/kalender/termin/im-dazwischen-19145": {
@@ -17763,6 +18115,15 @@
 "ts": 1795152190,
 "venue": null
 },
+"https://www.lmu.de/de/newsroom/veranstaltungskalender/veranstaltung/career-service-die-macht-der-fragen-68f5f154.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Career Service: Die Macht der Fragen",
+"ts": 1795671322,
+"venue": "Online"
+},
 "https://www.lmu.de/de/newsroom/veranstaltungskalender/veranstaltung/career-service-international-career-event-working-here-abroad-99731cdb.html": {
 "address": "Kardinal Wendel Haus Mandlstraße 23, 80802 München",
 "cost": null,
@@ -17770,6 +18131,15 @@
 "lng": null,
 "pagetitle": "Career Service: International Career Event „Working here & abroad“",
 "ts": 1794460957,
+"venue": null
+},
+"https://www.lmu.de/de/newsroom/veranstaltungskalender/veranstaltung/career-service-ki-case-workshop-mit-audi-lmu-270cc08c.html": {
+"address": "Raum G212 Ludwigstraße 27, 80539 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Career Service: KI Case Workshop mit AUDI/ LMU",
+"ts": 1795671322,
 "venue": null
 },
 "https://www.lmu.de/de/newsroom/veranstaltungskalender/veranstaltung/career-service-ki-case-workshop-mit-gema-b8162b34.html": {
@@ -18292,6 +18662,15 @@
 "ts": 1795238220,
 "venue": "Lyrik Kabinett Amalienstr. 83a 80799, München"
 },
+"https://www.lmu.de/de/newsroom/veranstaltungskalender/veranstaltung/lyrik-kabinett-und-ich-werde-dein-redewender-7f6fb15f.html": {
+"address": "Lyrik-Bibliothek Amalienstraße 83a, 80799 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Lyrik Kabinett: „Und ich werde dein Redewender“",
+"ts": 1795671322,
+"venue": null
+},
 "https://www.lmu.de/de/newsroom/veranstaltungskalender/veranstaltung/masslos-wie-die-welt-ins-theater-passt-c78b12eb.html": {
 "address": "Seestraße 13, 80802 München",
 "cost": null,
@@ -18681,6 +19060,15 @@
 "ts": 1793548407,
 "venue": null
 },
+"https://www.lmu.de/de/newsroom/veranstaltungskalender/veranstaltung/universitaetsgottesdienst-was-ist-gottesdienst-beten-58f2a535.html": {
+"address": "Evangelische Universitätskirche St. Markus Gabelsbergerstraße 6, 80333 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Universitätsgottesdienst: Was ist Gottesdienst? – „Beten“",
+"ts": 1795671322,
+"venue": null
+},
 "https://www.lmu.de/de/newsroom/veranstaltungskalender/veranstaltung/universitaetsgottesdienst-was-ist-gottesdienst-singen-8bd54897.html": {
 "address": "Evangelische Universitätskirche St. Markus Gabelsbergerstr. 6, 80333 München",
 "cost": null,
@@ -18757,6 +19145,15 @@
 "lng": null,
 "ts": 1793548407,
 "venue": "Raum M 010 Geschwister-Scholl-Platz 1 80539 München"
+},
+"https://www.lmu.de/de/newsroom/veranstaltungskalender/veranstaltung/wie-geht-gerechter-frieden-96dc290d.html": {
+"address": null,
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Wie geht gerechter Frieden?",
+"ts": 1795671322,
+"venue": "Hörsaal M 118 Geschwister-Scholl-Platz 1 80539 München"
 },
 "https://www.lmu.de/de/newsroom/veranstaltungskalender/veranstaltung/wie-politisch-darf-die-universitaet-sein-bca18350.html": {
 "address": null,
@@ -18879,6 +19276,15 @@
 "ts": 1794845770,
 "venue": null
 },
+"https://www.m-k-o.eu/event-detail/3666/PdM%20Tabakova%2026---27/": {
+"address": null,
+"cost": "35 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Event-Detailseite - MKO",
+"ts": 1795671328,
+"venue": null
+},
 "https://www.m-k-o.eu/event-detail/3681/Olten+Zürich 26---27": {
 "address": null,
 "cost": null,
@@ -18886,6 +19292,15 @@
 "lng": null,
 "pagetitle": "Event-Detailseite - MKO",
 "ts": 1795584606,
+"venue": null
+},
+"https://www.m-k-o.eu/event-detail/3715/Olten+Zürich 26---27": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Event-Detailseite - MKO",
+"ts": 1795671330,
 "venue": null
 },
 "https://www.m-k-o.eu/event-detail/4404/PdM Tabakova 26---27": {
@@ -18966,6 +19381,15 @@
 "pagetitle": "Anmeldung für Japanisch-Lernende: Sprachtandem-Café, Sat, Nov 21, 2026, 10:00 AM",
 "ts": 1795238221,
 "venue": "Neuhauser"
+},
+"https://www.meetup.com/deutsch-japanischer-stammtisch/events/317443191/": {
+"address": "Tegernseer Landstraße 96, 81539 München, Germany, München, BY, München",
+"cost": "150.00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Japan-Stammtisch im November – diesmal am Donnerstag, Thu, Nov 26, 2026, 6:30 PM",
+"ts": 1795671330,
+"venue": "Bamboleo"
 },
 "https://www.meetup.com/friending-around-munich/events/316316761/": {
 "address": "Sonnenstraße 18b ,, München, München",
@@ -19319,6 +19743,15 @@
 "lng": null,
 "pagetitle": "Every Thursday After-Work Socializing | Meet New People, Make New Connections, Thu, Nov 12, 2026, 7:00 PM",
 "ts": 1794202093,
+"venue": "Café Le Hygge"
+},
+"https://www.meetup.com/themunichconnection/events/317296495/": {
+"address": "Ehrengutstraße 6, München, München",
+"cost": "10 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Every Thursday After-Work Socializing | Meet New People, Make New Connections, Thu, Nov 26, 2026, 7:00 PM",
+"ts": 1795671330,
 "venue": "Café Le Hygge"
 },
 "https://www.meetup.com/x-comedy-english-stand-up-comedy-shows/events/317102571/": {
@@ -19785,7 +20218,8 @@
 "cost": "Ab 18 €",
 "lat": null,
 "lng": null,
-"ts": 1793548432,
+"pagetitle": "Sauhund - Programm - Kammerspiele",
+"ts": 1795671322,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/32924-sauhund?activity=53675": {
@@ -19919,6 +20353,15 @@
 "ts": 1794892635,
 "venue": null
 },
+"https://www.muenchner-kammerspiele.de/de/programm/42857-anna-mascha-und-julia": {
+"address": null,
+"cost": "30 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Anna, Mascha und Julia - Programm - Kammerspiele",
+"ts": 1795671322,
+"venue": null
+},
 "https://www.muenchner-kammerspiele.de/de/programm/42857-anna-mascha-und-julia?activity=53626": {
 "address": null,
 "cost": "30 €",
@@ -19979,6 +20422,24 @@
 "ts": 1794892633,
 "venue": null
 },
+"https://www.muenchner-kammerspiele.de/de/programm/42864-fraulein-else": {
+"address": null,
+"cost": "Ab 18 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Fräulein Else - Programm - Kammerspiele",
+"ts": 1795671322,
+"venue": null
+},
+"https://www.muenchner-kammerspiele.de/de/programm/42866-enjoy-schatz": {
+"address": null,
+"cost": "30 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Enjoy Schatz - Programm - Kammerspiele",
+"ts": 1795671322,
+"venue": null
+},
 "https://www.muenchner-kammerspiele.de/de/programm/42871-mein-kleines-prachttier": {
 "address": null,
 "cost": "Ab 18 €",
@@ -20022,6 +20483,15 @@
 "ts": 1794892634,
 "venue": null
 },
+"https://www.muenchner-kammerspiele.de/de/programm/43226-2x241-titel-doppelt-so-gut-wie-martin-kippenberger": {
+"address": null,
+"cost": "10 €",
+"lat": null,
+"lng": null,
+"pagetitle": "2x241 Titel doppelt so gut wie Martin Kippenberger - Programm - Kammerspiele",
+"ts": 1795671322,
+"venue": null
+},
 "https://www.muenchner-kammerspiele.de/de/programm/48737-alfons-jetzt-noch-deutscherer?activity=48741": {
 "address": null,
 "cost": null,
@@ -20035,7 +20505,8 @@
 "cost": "12 €",
 "lat": null,
 "lng": null,
-"ts": 1793548436,
+"pagetitle": "Das Ereignis - Programm - Kammerspiele",
+"ts": 1795671322,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/50067-das-ereignis?activity=53836": {
@@ -20127,6 +20598,15 @@
 "ts": 1794808249,
 "venue": null
 },
+"https://www.muenchner-kammerspiele.de/de/programm/51761-munchner-verkehr": {
+"address": null,
+"cost": "36 €",
+"lat": null,
+"lng": null,
+"pagetitle": "(Münchner) Verkehr - Programm - Kammerspiele",
+"ts": 1795671322,
+"venue": null
+},
 "https://www.muenchner-kammerspiele.de/de/programm/51771-jugend-ohne-gott": {
 "address": null,
 "cost": "15 €",
@@ -20196,6 +20676,15 @@
 "lng": null,
 "pagetitle": "Jugend ohne Gott - Programm - Kammerspiele",
 "ts": 1794892634,
+"venue": null
+},
+"https://www.muenchner-kammerspiele.de/de/programm/51812-schubert-in-paradise": {
+"address": null,
+"cost": "15 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Schubert in Paradise - Programm - Kammerspiele",
+"ts": 1795671322,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/51812-schubert-in-paradise?activity=53907": {
@@ -20518,7 +21007,8 @@
 "cost": "Ab 18 €",
 "lat": null,
 "lng": null,
-"ts": 1793548435,
+"pagetitle": "Jeeps - Programm - Kammerspiele",
+"ts": 1795671322,
 "venue": null
 },
 "https://www.muenchner-kammerspiele.de/de/programm/55-jeeps?activity=53676": {
@@ -20690,6 +21180,33 @@
 "lng": null,
 "pagetitle": "Michel Friedman spricht mit Christian Berkel - Programm - Kammerspiele",
 "ts": 1795152190,
+"venue": null
+},
+"https://www.muenchner-kammerspiele.de/de/programm/55762-werkstatt-gesang-heidi-heimweh": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "WERKstatt Gesang: Heidi.Heimweh - Programm - Kammerspiele",
+"ts": 1795671322,
+"venue": null
+},
+"https://www.muenchner-kammerspiele.de/de/programm/55791-werkstatt-schauspiel-klassik": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "WERKstatt Schauspiel: Klassik - Programm - Kammerspiele",
+"ts": 1795671322,
+"venue": null
+},
+"https://www.muenchner-kammerspiele.de/de/programm/55813-voodoo-jurgens-die-ansa-panier": {
+"address": null,
+"cost": "38 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Voodoo Jürgens & Die Ansa Panier - Programm - Kammerspiele",
+"ts": 1795671322,
 "venue": null
 },
 "https://www.muenchner-kreis.de/veranstaltung/praxiswerkstatt-2026-mit-ki-erfolgreich-arbeiten-mitarbeitende-befaehigen-und-akzeptanz-schaffen-teil-3/": {
@@ -21241,6 +21758,150 @@
 "ts": 1794979418,
 "venue": "19:30 Uhr Bühne 1"
 },
+"https://www.muffatwerk.de/de/events/16-horsepower-2027-04-20": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "49,55 €",
+"lat": null,
+"lng": null,
+"pagetitle": "16 Horsepower · 20.04.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671326,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/1986zig-2027-04-28": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "54,05 €",
+"lat": null,
+"lng": null,
+"pagetitle": "1986zig · 28.04.2027 · Muffathalle (verlegt aus der Tonhalle) – Muffatwerk",
+"ts": 1795671326,
+"venue": "Muffathalle (verlegt aus der Tonhalle)"
+},
+"https://www.muffatwerk.de/de/events/alexandra-kay-2027-04-01": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "30,60 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Alexandra Kay · 01.04.2027 · Ampere – Muffatwerk",
+"ts": 1795671325,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/alless-2027-04-18": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "36,95 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Alless. · 18.04.2027 · Ampere – Muffatwerk",
+"ts": 1795671326,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/altin-guen-2027-04-26": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "37,18 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Altin Gün · 26.04.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671326,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/amble-2027-02-13": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "35 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Amble · 13.02.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671324,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/ami-warning-2027-05-01": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "41,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Ami Warning · 01.05.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671327,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/anais-2027-01-15": {
+"address": "München",
+"cost": "37,55 €",
+"lat": null,
+"lng": null,
+"pagetitle": "anaïs · 15.01.2027 · Technikum (verlegt aus dem Strom) – Muffatwerk",
+"ts": 1795671323,
+"venue": "Technikum (verlegt aus dem Strom)"
+},
+"https://www.muffatwerk.de/de/events/anda-morts-2027-03-04": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "39,90 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Anda Morts · 04.03.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671325,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/bac-2027-02-12": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "39,90 €",
+"lat": null,
+"lng": null,
+"pagetitle": "bac · 12.02.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671324,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/basement-2027-02-05": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "32,50 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Basement · 05.02.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671324,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/belle-sebastian-2026-12-01": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "45 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Belle & Sebastian · 01.12.2026 · Muffathalle – Muffatwerk",
+"ts": 1795671322,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/betterov-2027-03-07": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "39,05 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Betterov · 07.03.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671325,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/blackout-problems-2026-12-19": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "39,20 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Blackout Problems · 19.12.2026 · Muffathalle – Muffatwerk",
+"ts": 1795671323,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/blanco-white-2027-03-05": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "45,80 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Blanco White · 05.03.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671325,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/briada-schwestern-2026-12-15": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "28,20 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Briada & Schwestern · 15.12.2026 · Ampere – Muffatwerk",
+"ts": 1795671323,
+"venue": "Ampere"
+},
 "https://www.muffatwerk.de/de/events/bulgarian-cartrader-2026-11-20": {
 "address": null,
 "cost": "30 €",
@@ -21250,6 +21911,42 @@
 "ts": 1794845769,
 "venue": "Ampere"
 },
+"https://www.muffatwerk.de/de/events/buntspecht-2027-04-08": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "43,65 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Buntspecht · 08.04.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671326,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/cardinal-black-2027-05-05": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "35 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Cardinal Black · 05.05.2027 · Ampere – Muffatwerk",
+"ts": 1795671327,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/carla-ahad-2027-04-02": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "30,30 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Carla Ahad · 02.04.2027 · Ampere – Muffatwerk",
+"ts": 1795671325,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/carlo5-2027-04-15": {
+"address": "München",
+"cost": "39,80 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Carlo5 · 15.04.2027 · Technikum – Muffatwerk",
+"ts": 1795671326,
+"venue": "Technikum"
+},
 "https://www.muffatwerk.de/de/events/caro-fux-2027-11-27": {
 "address": null,
 "cost": "34,90 €",
@@ -21257,6 +21954,24 @@
 "lng": null,
 "pagetitle": "Caro Fux – Muffatwerk",
 "ts": 1794845769,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/cascada-2027-01-23": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "56,35 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Cascada · 23.01.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671323,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/catt-2027-01-28": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "39,75 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Catt · 28.01.2027 · Ampere – Muffatwerk",
+"ts": 1795671324,
 "venue": "Ampere"
 },
 "https://www.muffatwerk.de/de/events/chapo102-2026-11-27": {
@@ -21268,6 +21983,15 @@
 "ts": 1794845769,
 "venue": "Tonhalle (verlegt aus dem Backstage Werk)"
 },
+"https://www.muffatwerk.de/de/events/clara-louise-2027-04-07": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "45,25 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Clara Louise · 07.04.2027 · Ampere – Muffatwerk",
+"ts": 1795671326,
+"venue": "Ampere"
+},
 "https://www.muffatwerk.de/de/events/culcha-candela-2027-03-19": {
 "address": null,
 "cost": "58,75 €",
@@ -21277,6 +22001,42 @@
 "ts": 1794845769,
 "venue": "Zenith"
 },
+"https://www.muffatwerk.de/de/events/decade-of-rnb-2026-11-28": {
+"address": "Zellstraße 4, 81667 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Decade Of RnB · 28.11.2026 · Muffatcafé – Muffatwerk",
+"ts": 1795671322,
+"venue": "Muffatcafé"
+},
+"https://www.muffatwerk.de/de/events/delta-goodrem-2027-03-12": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "35 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Delta Goodrem · 12.03.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671325,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/deutsche-box-poetry-slam-meisterschaft-2027-2027-01-29": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "18 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Deutsche Box-Poetry Slam-Meisterschaft 2027 · 29.01.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671324,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/dominik-hartz-2027-03-07": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "43,50 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Dominik Hartz · 07.03.2027 · Hansa 39 (verlegt aus der Muffathalle) – Muffatwerk",
+"ts": 1795671325,
+"venue": "Hansa 39 (verlegt aus der Muffathalle)"
+},
 "https://www.muffatwerk.de/de/events/doubtboy-goldy-mp3-2026-12-19": {
 "address": null,
 "cost": "30 €",
@@ -21284,6 +22044,105 @@
 "lng": null,
 "pagetitle": "doubtboy & goldy.mp3 – Muffatwerk",
 "ts": 1794845769,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/editors-2027-02-07": {
+"address": "München",
+"cost": "53 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Editors · 07.02.2027 · Zenith – Muffatwerk",
+"ts": 1795671324,
+"venue": "Zenith"
+},
+"https://www.muffatwerk.de/de/events/egofm-fest-2027-2027-04-03": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "ab 47 €",
+"lat": null,
+"lng": null,
+"pagetitle": "egoFM Fest 2027 · 03.04.2027 · Muffatwerk",
+"ts": 1795671325,
+"venue": "Muffatwerk"
+},
+"https://www.muffatwerk.de/de/events/electric-light-orchestra-experience-feat-phil-bates-cutting-crew-2027-05-06": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "ab 48 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Electric Light Orchestra Experience feat. Phil Bates & Cutting Crew · 06.05.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671327,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/ella-stern-2026-11-29": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "30,30 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Ella Stern · 29.11.2026 · Ampere – Muffatwerk",
+"ts": 1795671322,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/ellice-2027-04-27": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "41,75 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Ellice · 27.04.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671326,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/florian-kuenstler-2027-04-19": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "43 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Florian Künstler · 19.04.2027 · Muffathalle (verlegt aus der Tonhalle) – Muffatwerk",
+"ts": 1795671326,
+"venue": "Muffathalle (verlegt aus der Tonhalle)"
+},
+"https://www.muffatwerk.de/de/events/fortuna-ehrenfeld-2027-03-19": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "40,50 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Fortuna Ehrenfeld · 19.03.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671325,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/get-well-soon-2027-02-02": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "47 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Get Well Soon · 02.02.2027 · Ampere – Muffatwerk",
+"ts": 1795671324,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/gotts-street-park-2026-12-07": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "32 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Gotts Street Park · 07.12.2026 · Ampere – Muffatwerk",
+"ts": 1795671322,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/graveyard-blues-pills-2027-03-13": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "45 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Graveyard & Blues Pills · 13.03.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671325,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/gringo-mayer-und-die-kegelband-2027-02-24": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "34,70 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Gringo Mayer und die Kegelband · 24.02.2027 · Ampere – Muffatwerk",
+"ts": 1795671324,
 "venue": "Ampere"
 },
 "https://www.muffatwerk.de/de/events/haus-f-2027-03-12": {
@@ -21295,6 +22154,33 @@
 "ts": 1794845769,
 "venue": "Strom"
 },
+"https://www.muffatwerk.de/de/events/heather-nova-2027-02-26": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "45 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Heather Nova · 26.02.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671324,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/henge-2027-02-16": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "35,20 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Henge · 16.02.2027 · Ampere – Muffatwerk",
+"ts": 1795671324,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/herbst-2027-03-24": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "ab 33,90 €",
+"lat": null,
+"lng": null,
+"pagetitle": "herbst · 24.03.2027 · Ampere – Muffatwerk",
+"ts": 1795671325,
+"venue": "Ampere"
+},
 "https://www.muffatwerk.de/de/events/ider-2027-04-16": {
 "address": null,
 "cost": "30 €",
@@ -21303,6 +22189,60 @@
 "pagetitle": "Ider – Muffatwerk",
 "ts": 1794845769,
 "venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/isar-slam-2026-12-14": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "13 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Isar Slam · 14.12.2026 · Ampere – Muffatwerk",
+"ts": 1795671322,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/isar-slam-2027-01-18": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "13 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Isar Slam · 18.01.2027 · Ampere – Muffatwerk",
+"ts": 1795671323,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/jake-vaadeland-and-the-sturgeon-river-boys-2027-03-03": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "29,50 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Jake Vaadeland and the Sturgeon River Boys · 03.03.2027 · Ampere – Muffatwerk",
+"ts": 1795671325,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/jas-2026-11-26": {
+"address": "München",
+"cost": "39,95 €",
+"lat": null,
+"lng": null,
+"pagetitle": "JAS · 26.11.2026 · Technikum – Muffatwerk",
+"ts": 1795671322,
+"venue": "Technikum"
+},
+"https://www.muffatwerk.de/de/events/jazzanova-live-feat-wayne-snow-2026-12-06": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "39,78 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Jazzanova Live feat. Wayne Snow · 06.12.2026 · Ampere – Muffatwerk",
+"ts": 1795671322,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/jazzkantine-2027-04-22": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "39 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Jazzkantine · 22.04.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671326,
+"venue": "Muffathalle"
 },
 "https://www.muffatwerk.de/de/events/josh-2027-04-24": {
 "address": null,
@@ -21322,6 +22262,24 @@
 "ts": 1794845769,
 "venue": "Ampere"
 },
+"https://www.muffatwerk.de/de/events/julia-engelmann-2027-03-02": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "29,30 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Julia Engelmann · 02.03.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671324,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/juse-ju-2027-02-05": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "36,20 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Juse Ju · 05.02.2027 · Ampere – Muffatwerk",
+"ts": 1795671324,
+"venue": "Ampere"
+},
 "https://www.muffatwerk.de/de/events/kahraman-deniz-2027-02-14": {
 "address": "Zellstraße 4, 81667 München",
 "cost": "48,35 €",
@@ -21329,6 +22287,15 @@
 "lng": null,
 "pagetitle": "Kahraman Deniz · 14.02.2027 · Ampere – Muffatwerk",
 "ts": 1795498022,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/kahraman-deniz-2027-03-14-2": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "48,35 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Kahraman Deniz · 14.03.2027 · Ampere – Muffatwerk",
+"ts": 1795671325,
 "venue": "Ampere"
 },
 "https://www.muffatwerk.de/de/events/kalle-nio-fernando-melo-2027-01-26": {
@@ -21340,6 +22307,15 @@
 "ts": 1794845769,
 "venue": "Muffathalle"
 },
+"https://www.muffatwerk.de/de/events/karate-andi-2027-02-12": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "37,99 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Karate Andi · 12.02.2027 · Ampere – Muffatwerk",
+"ts": 1795671324,
+"venue": "Ampere"
+},
 "https://www.muffatwerk.de/de/events/kaset-munich-2026-12-11": {
 "address": null,
 "cost": "9,50 €",
@@ -21348,6 +22324,15 @@
 "pagetitle": "Kaset Munich – Muffatwerk",
 "ts": 1794845769,
 "venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/kat-frankie-b-o-d-i-e-s-2027-02-14": {
+"address": "München",
+"cost": "58,29 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Kat Frankie - B O D I E S · 14.02.2027 · Isarphilharmonie – Muffatwerk",
+"ts": 1795671324,
+"venue": "Isarphilharmonie"
 },
 "https://www.muffatwerk.de/de/events/katzenclub-x-greyscale-2027-02-19": {
 "address": null,
@@ -21367,6 +22352,150 @@
 "ts": 1794845769,
 "venue": "Ampere"
 },
+"https://www.muffatwerk.de/de/events/kodaline-2026-12-08": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "42,50 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Kodaline · 08.12.2026 · Muffathalle – Muffatwerk",
+"ts": 1795671322,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/kokonelle-ropa-mary-jane-truemendous-2027-02-04": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "20 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Kokonelle & ROPA.,  MARY JANE, TrueMendous · 04.02.2027 · Ampere – Muffatwerk",
+"ts": 1795671324,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/lauren-sanderson-2027-02-17": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "25 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Lauren Sanderson · 17.02.2027 · Ampere – Muffatwerk",
+"ts": 1795671324,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/laurenz-nikolaus-2027-04-21": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "39,90 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Laurenz Nikolaus · 21.04.2027 · Muffathalle (verlegt aus dem Ampere) – Muffatwerk",
+"ts": 1795671326,
+"venue": "Muffathalle (verlegt aus dem Ampere)"
+},
+"https://www.muffatwerk.de/de/events/leila-2027-03-03": {
+"address": "München",
+"cost": "29,95 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Leila · 03.03.2027 · Kranhalle – Muffatwerk",
+"ts": 1795671324,
+"venue": "Kranhalle"
+},
+"https://www.muffatwerk.de/de/events/lena-linus-2027-02-25": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "35,90 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Lena&Linus · 25.02.2027 · Ampere – Muffatwerk",
+"ts": 1795671324,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/leo-middea-2027-04-09": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "35 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Leo Middea · 09.04.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671326,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/leoniden-2027-03-31": {
+"address": "München",
+"cost": "51,55 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Leoniden · 31.03.2027 · Tonhalle – Muffatwerk",
+"ts": 1795671325,
+"venue": "Tonhalle"
+},
+"https://www.muffatwerk.de/de/events/leony-2027-04-06": {
+"address": "München",
+"cost": "56 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Leony · 06.04.2027 · Tonhalle – Muffatwerk",
+"ts": 1795671326,
+"venue": "Tonhalle"
+},
+"https://www.muffatwerk.de/de/events/leslie-mandoki-2027-05-02": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "46,90 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Leslie Mandoki · 02.05.2027 · Ampere – Muffatwerk",
+"ts": 1795671327,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/levin-liam-2027-01-20": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "36,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Levin Liam · 20.01.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671323,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/levka-2027-02-23": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "36,10 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Levka · 23.02.2027 · Ampere – Muffatwerk",
+"ts": 1795671324,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/liaze-2027-02-22": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "36,90 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Liaze · 22.02.2027 · Ampere – Muffatwerk",
+"ts": 1795671324,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/lilli-2027-04-11": {
+"address": "München",
+"cost": "32,50 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Lilli · 11.04.2027 · Milla – Muffatwerk",
+"ts": 1795671326,
+"venue": "Milla"
+},
+"https://www.muffatwerk.de/de/events/lovesick-x-goats-2027-01-30": {
+"address": "Zellstraße 4, 81667 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Lovesick x GOATS · 30.01.2027 · Ampere – Muffatwerk",
+"ts": 1795671324,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/luca-vasta-2027-03-07": {
+"address": "München",
+"cost": "36,90 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Luca Vasta · 07.03.2027 · Technikum – Muffatwerk",
+"ts": 1795671325,
+"venue": "Technikum"
+},
 "https://www.muffatwerk.de/de/events/luna-simao-2027-04-11": {
 "address": null,
 "cost": "25 €",
@@ -21375,6 +22504,24 @@
 "pagetitle": "Luna Simao – Muffatwerk",
 "ts": 1794845769,
 "venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/madeline-juno-2027-03-01": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "47,20 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Madeline Juno · 01.03.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671324,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/manfred-mann-s-earth-band-2027-01-14": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "53,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Manfred Mann's Earth Band · 14.01.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671323,
+"venue": "Muffathalle"
 },
 "https://www.muffatwerk.de/de/events/matt-simons-2027-05-15": {
 "address": null,
@@ -21394,6 +22541,24 @@
 "ts": 1794845769,
 "venue": "Ampere"
 },
+"https://www.muffatwerk.de/de/events/max-von-milland-die-brennenden-herzen-2027-03-04": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "30 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Max von Milland & Die Brennenden Herzen · 04.03.2027 · Ampere – Muffatwerk",
+"ts": 1795671325,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/mc-windhund-2027-02-11": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "33 €",
+"lat": null,
+"lng": null,
+"pagetitle": "MC Windhund · 11.02.2027 · Ampere – Muffatwerk",
+"ts": 1795671324,
+"venue": "Ampere"
+},
 "https://www.muffatwerk.de/de/events/mcnd-devil-youth-club-2026-12-02": {
 "address": null,
 "cost": null,
@@ -21403,6 +22568,87 @@
 "ts": 1794845769,
 "venue": "Ampere"
 },
+"https://www.muffatwerk.de/de/events/michael-schulte-2027-02-15": {
+"address": "Zellstraße 4, 81667 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Michael Schulte · 15.02.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671324,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/midge-ure-band-electronica-2027-03-08": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "57,65 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Midge Ure & Band Electronica · 08.03.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671325,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/mighty-oaks-2026-12-07": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "35 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Mighty Oaks · 07.12.2026 · Muffathalle – Muffatwerk",
+"ts": 1795671322,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/mika-noe-2026-12-15": {
+"address": "München",
+"cost": "36,90 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Mika Noé · 15.12.2026 · Technikum – Muffatwerk",
+"ts": 1795671323,
+"venue": "Technikum"
+},
+"https://www.muffatwerk.de/de/events/mola-2026-12-20": {
+"address": "Zellstraße 4, 81667 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Mola · 20.12.2026 · Muffathalle – Muffatwerk",
+"ts": 1795671323,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/monet192-2027-04-22": {
+"address": "München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Monet192 · 22.04.2027 · Tonhalle – Muffatwerk",
+"ts": 1795671326,
+"venue": "Tonhalle"
+},
+"https://www.muffatwerk.de/de/events/monika-roscher-bigband-2027-04-09": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "35,70 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Monika Roscher Bigband · 09.04.2027 · Ampere – Muffatwerk",
+"ts": 1795671326,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/mor-ve-oetesi-2026-12-13": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "59 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Mor ve Ötesi · 13.12.2026 · Muffathalle – Muffatwerk",
+"ts": 1795671322,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/mor-ve-oetesi-2026-12-14": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "59 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Mor ve Ötesi · 14.12.2026 · Muffathalle – Muffatwerk",
+"ts": 1795671322,
+"venue": "Muffathalle"
+},
 "https://www.muffatwerk.de/de/events/moritz-ostruschnjak-2027-01-12": {
 "address": null,
 "cost": "25 €",
@@ -21410,6 +22656,15 @@
 "lng": null,
 "pagetitle": "Moritz Ostruschnjak – Muffatwerk",
 "ts": 1794845769,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/mother-s-finest-2026-11-30": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "59,30 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Mother's Finest · 30.11.2026 · Muffathalle – Muffatwerk",
+"ts": 1795671322,
 "venue": "Muffathalle"
 },
 "https://www.muffatwerk.de/de/events/muffat-winterfest-2027-01-05": {
@@ -21421,6 +22676,78 @@
 "ts": 1794845769,
 "venue": "Muffatwerk"
 },
+"https://www.muffatwerk.de/de/events/munich-rocks-fun-for-free-2027-01-21": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "kostenlos",
+"lat": null,
+"lng": null,
+"pagetitle": "Munich Rocks! - Fun For Free · 21.01.2027 · Ampere – Muffatwerk",
+"ts": 1795671323,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/naft-2027-03-30": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "29,20 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Naft · 30.03.2027 · Ampere – Muffatwerk",
+"ts": 1795671325,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/nahko-2027-03-21": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "33,70 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Nahko · 21.03.2027 · Ampere – Muffatwerk",
+"ts": 1795671325,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/ness-2027-03-11": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "44,90 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Ness · 11.03.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671325,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/nouvelle-vague-2027-04-11": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "46,95 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Nouvelle Vague · 11.04.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671326,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/old-but-gold-2026-12-12": {
+"address": "Zellstraße 4, 81667 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Old but Gold · 12.12.2026 · Muffatwerk All-Area",
+"ts": 1795671322,
+"venue": "Muffatwerk All-Area"
+},
+"https://www.muffatwerk.de/de/events/palace-2027-03-14": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "37,50 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Palace · 14.03.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671325,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/queenz-of-piano-2027-01-15": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "50 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Queenz Of Piano · 15.01.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671323,
+"venue": "Muffathalle"
+},
 "https://www.muffatwerk.de/de/events/radio-gong-ue30-party-2026-12-05": {
 "address": null,
 "cost": null,
@@ -21429,6 +22756,42 @@
 "pagetitle": "Radio Gong Ü30 Party – Muffatwerk",
 "ts": 1794845769,
 "venue": "Muffatwerk All-Area"
+},
+"https://www.muffatwerk.de/de/events/raf-2027-05-04": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "51,65 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Raf · 04.05.2027 · Ampere – Muffatwerk",
+"ts": 1795671327,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/rapk-2027-04-15": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "39,90 €",
+"lat": null,
+"lng": null,
+"pagetitle": "RapK · 15.04.2027 · Ampere (verlegt aus dem Technikum) – Muffatwerk",
+"ts": 1795671326,
+"venue": "Ampere (verlegt aus dem Technikum)"
+},
+"https://www.muffatwerk.de/de/events/razz-2027-03-20": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "33,50 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Razz · 20.03.2027 · Ampere – Muffatwerk",
+"ts": 1795671325,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/riku-rajamaa-2027-04-14": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "37,70 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Riku Rajamaa · 14.04.2027 · Ampere – Muffatwerk",
+"ts": 1795671326,
+"venue": "Ampere"
 },
 "https://www.muffatwerk.de/de/events/rin-2026-11-20": {
 "address": null,
@@ -21439,6 +22802,78 @@
 "ts": 1794845769,
 "venue": "Olympiahalle"
 },
+"https://www.muffatwerk.de/de/events/robert-finley-2027-03-09": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "35,20 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Robert Finley · 09.03.2027 · Ampere – Muffatwerk",
+"ts": 1795671325,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/rodrigo-y-gabriela-2027-04-25": {
+"address": "München",
+"cost": "54,20 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Rodrigo y Gabriela · 25.04.2027 · Technikum – Muffatwerk",
+"ts": 1795671326,
+"venue": "Technikum"
+},
+"https://www.muffatwerk.de/de/events/royal-blood-2027-03-03": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "50 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Royal Blood · 03.03.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671325,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/russ-ballard-band-2027-04-29": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "51,38 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Russ Ballard & Band · 29.04.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671326,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/sammy-rae-the-friends-2027-04-17": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "35 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Sammy Rae & The Friends · 17.04.2027 · Ampere – Muffatwerk",
+"ts": 1795671326,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/samy-deluxe-x-dj-desue-2027-05-03": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "52,85 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Samy Deluxe x DJ Desue · 03.05.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671327,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/saustoimusi-2026-12-20": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "30,80 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Saustoimusi · 20.12.2026 · Ampere – Muffatwerk",
+"ts": 1795671323,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/scala-kolacny-brothers-2027-02-28": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "56,60 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Scala & Kolacny Brothers · 28.02.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671324,
+"venue": "Muffathalle"
+},
 "https://www.muffatwerk.de/de/events/schandmaul-2027-03-20": {
 "address": null,
 "cost": "38 €",
@@ -21447,6 +22882,15 @@
 "pagetitle": "Schandmaul – Muffatwerk",
 "ts": 1794845769,
 "venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/silvesterparty-2026-12-31": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "24,90 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Silvesterparty · 31.12.2026 · Muffatwerk All-Area",
+"ts": 1795671323,
+"venue": "Muffatwerk All-Area"
 },
 "https://www.muffatwerk.de/de/events/so-soon-2027-01-30": {
 "address": null,
@@ -21464,6 +22908,168 @@
 "lng": null,
 "pagetitle": "So Soon – Muffatwerk",
 "ts": 1794845769,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/sophie-hunger-2027-04-05": {
+"address": "München",
+"cost": "59,64 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Sophie Hunger · 05.04.2027 · Isarphilharmonie – Muffatwerk",
+"ts": 1795671325,
+"venue": "Isarphilharmonie"
+},
+"https://www.muffatwerk.de/de/events/soul-kitchen-band-2027-02-26": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "40 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Soul Kitchen Band · 26.02.2027 · Ampere – Muffatwerk",
+"ts": 1795671324,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/staubkind-2027-01-23": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "46,00 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Staubkind · 23.01.2027 · Ampere – Muffatwerk",
+"ts": 1795671323,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/the-coronas-2027-05-03": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "36,20 €",
+"lat": null,
+"lng": null,
+"pagetitle": "The Coronas · 03.05.2027 · Ampere – Muffatwerk",
+"ts": 1795671327,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/the-pineapple-thief-2027-04-14": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "40 €",
+"lat": null,
+"lng": null,
+"pagetitle": "The Pineapple Thief · 14.04.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671326,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/the-revival-tour-2026-12-02": {
+"address": "Zellstraße 4, 81667 München",
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "The Revival Tour · 02.12.2026 · Muffathalle – Muffatwerk",
+"ts": 1795671322,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/the-slow-show-2027-04-08": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "35,70 €",
+"lat": null,
+"lng": null,
+"pagetitle": "The Slow Show · 08.04.2027 · Ampere – Muffatwerk",
+"ts": 1795671326,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/the-tallest-man-on-earth-2027-02-18": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "37 €",
+"lat": null,
+"lng": null,
+"pagetitle": "The Tallest Man On Earth · 18.02.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671324,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/the-tiger-lillies-2027-04-26": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "32 €",
+"lat": null,
+"lng": null,
+"pagetitle": "The Tiger Lillies · 26.04.2027 · Ampere – Muffatwerk",
+"ts": 1795671326,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/thorsteinn-einarsson-2027-04-25": {
+"address": "München",
+"cost": "37,70 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Thorsteinn Einarsson · 25.04.2027 · Strom – Muffatwerk",
+"ts": 1795671326,
+"venue": "Strom"
+},
+"https://www.muffatwerk.de/de/events/thylacine-2027-03-17": {
+"address": "München",
+"cost": "37,20 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Thylacine · 17.03.2027 · Technikum – Muffatwerk",
+"ts": 1795671325,
+"venue": "Technikum"
+},
+"https://www.muffatwerk.de/de/events/tindersticks-2027-04-16": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "58,75 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Tindersticks · 16.04.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671326,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/tonic-walter-2026-12-06": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "39,20 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Tonic Walter · 06.12.2026 · Muffathalle – Muffatwerk",
+"ts": 1795671322,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/traenen-2027-03-07": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "34,50 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Tränen · 07.03.2027 · Ampere – Muffatwerk",
+"ts": 1795671325,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/trettmann-2027-04-02": {
+"address": "München",
+"cost": "59,90 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Trettmann · 02.04.2027 · Zenith – Muffatwerk",
+"ts": 1795671325,
+"venue": "Zenith"
+},
+"https://www.muffatwerk.de/de/events/tricky-2027-01-30": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "47,25 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Tricky · 30.01.2027 · Muffathalle – Muffatwerk",
+"ts": 1795671324,
+"venue": "Muffathalle"
+},
+"https://www.muffatwerk.de/de/events/tulpe-2027-05-01": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "33,95 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Tulpe · 01.05.2027 · Ampere – Muffatwerk",
+"ts": 1795671327,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/venjent-2026-11-30": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "39,90 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Venjent · 30.11.2026 · Ampere – Muffatwerk",
+"ts": 1795671322,
 "venue": "Ampere"
 },
 "https://www.muffatwerk.de/de/events/view/7587/dreiviertelblut": {
@@ -23056,6 +24662,51 @@
 "ts": 1794633198,
 "venue": "Ampere"
 },
+"https://www.muffatwerk.de/de/events/viko-penglord-2026-12-13": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "30 €",
+"lat": null,
+"lng": null,
+"pagetitle": "viko & penglord · 13.12.2026 · Ampere – Muffatwerk",
+"ts": 1795671322,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/wishbone-ash-2027-01-25": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "46,90 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Wishbone Ash · 25.01.2027 · Ampere – Muffatwerk",
+"ts": 1795671323,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/xavi-2027-04-20": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "31,15 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Xavi · 20.04.2027 · Ampere – Muffatwerk",
+"ts": 1795671326,
+"venue": "Ampere"
+},
+"https://www.muffatwerk.de/de/events/yosho-2027-03-19": {
+"address": "München",
+"cost": "29,50 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Yosho · 19.03.2027 · Strom (verlegt vom Ampere) – Muffatwerk",
+"ts": 1795671325,
+"venue": "Strom (verlegt vom Ampere)"
+},
+"https://www.muffatwerk.de/de/events/zeck-2026-12-01": {
+"address": "Zellstraße 4, 81667 München",
+"cost": "31,90 €",
+"lat": null,
+"lng": null,
+"pagetitle": "zeck · 01.12.2026 · Ampere – Muffatwerk",
+"ts": 1795671322,
+"venue": "Ampere"
+},
 "https://www.munich-startup.de/events/4-city-demo-day-kreislaufwirtschaft": {
 "address": "Freddie-Mercury Straße 5, 80797 München",
 "cost": null,
@@ -23203,7 +24854,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Fundraising Masterclass",
-"ts": 1794460952,
+"ts": 1795671318,
 "venue": "Lumo Studios"
 },
 "https://www.munich-startup.de/events/gate-network-female-founders-breakfast": {
@@ -23221,7 +24872,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Healthcare Happy Hour – HHH",
-"ts": 1794460952,
+"ts": 1795671318,
 "venue": "M1 Munich Medical Alliance"
 },
 "https://www.munich-startup.de/events/how-to-boost-your-startups-value-with-patents": {
@@ -23387,7 +25038,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Plötzlich Geschäftsleitung? 1-Tages-Workshop",
-"ts": 1794460952,
+"ts": 1795671318,
 "venue": "ENSIDER:BASE – CoWorking. Event. Workshops."
 },
 "https://www.munich-startup.de/events/shestartup-frauen-gruenden-1126": {
@@ -23413,7 +25064,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Start-up Dialog Ausbildung",
-"ts": 1794460952,
+"ts": 1795671318,
 "venue": "Referat für Arbeit und Wirtschaft"
 },
 "https://www.munich-startup.de/events/startup-demo-night-1026": {
@@ -23596,12 +25247,12 @@
 "venue": "Online"
 },
 "https://www.munich-startup.de/events/tutorial-mitarbeiter-einstellen-arbeitsverhaeltnisse-gestalten": {
-"address": "Atelierstraße 24, 81671 München",
+"address": null,
 "cost": null,
 "lat": null,
 "lng": null,
 "pagetitle": "Tutorial: Mitarbeiter einstellen, Arbeitsverhältnisse gestalten",
-"ts": 1794460952,
+"ts": 1795671318,
 "venue": "Online"
 },
 "https://www.munich-startup.de/events/tutorial-patentstrategien-fuer-startups": {
@@ -23822,7 +25473,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Webinar: Erfolgreich gründen",
-"ts": 1794460952,
+"ts": 1795671318,
 "venue": "Online"
 },
 "https://www.munich-startup.de/events/webinar-erfolgreich-gruenden-6": {
@@ -24074,6 +25725,15 @@
 "pagetitle": "Eigenveranstaltung: Kirche in Zeiten der Herausforderung und des Umbruchs – Jahresendgespräch mit Kardinal Reinhard Marx - PresseClub-München",
 "ts": 1794287693,
 "venue": null
+},
+"https://www.presseclub-muenchen.de/veranstaltung-detail/eigenveranstaltung-medizin-2040-wie-veraendert-ki-genetik-und-praezisionsmedizin-unsere-gesundheitsversorgung-ein-gespraech-mit-lmu-praesident-prof-dr-matthias-h-tschoep.html": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Eigenveranstaltung: Medizin 2040 – Wie verändert KI, Genetik und Präzisionsmedizin unsere Gesundheitsversorgung? Ein Gespräch mit LMU-Präsident Prof. Dr. Matthias H. Tschöp - PresseClub-München",
+"ts": 1795671322,
+"venue": "PresseClub München"
 },
 "https://www.presseclub-muenchen.de/veranstaltung-detail/fuehrung-durch-die-villa-stuck.html": {
 "address": null,
@@ -24847,6 +26507,15 @@
 "ts": 1795412347,
 "venue": "Prinzregententheater"
 },
+"https://www.songkick.com/concerts/42895084-sheepdogs-at-technikum?utm_medium=organic&utm_source=microformat": {
+"address": "Speicherstraße 26, 81671 Munich",
+"cost": "33.70 €",
+"lat": 48.12346,
+"lng": 11.60661,
+"pagetitle": "The Sheepdogs at Technikum (01 Dec 2026)",
+"ts": 1795671328,
+"venue": "Technikum"
+},
 "https://www.songkick.com/concerts/42906153-amon-amarth-at-zenith-die-kulturhalle?utm_medium=organic&utm_source=microformat": {
 "address": "Lilienthalallee 29, 80939 Munich",
 "cost": "87.90 €",
@@ -24962,6 +26631,15 @@
 "ts": 1794287695,
 "venue": "Wolf-ferrari-haus"
 },
+"https://www.songkick.com/concerts/42959677-glueboys-at-werk-backstage?utm_medium=organic&utm_source=microformat": {
+"address": "Reitknechtstrasse 6, 80639 Munich",
+"cost": "40.40 €",
+"lat": 48.14491,
+"lng": 11.52166,
+"pagetitle": "Glueboys at Werk, Backstage (01 Dec 2026)",
+"ts": 1795671328,
+"venue": "Werk, Backstage"
+},
 "https://www.songkick.com/concerts/42959977-niklas-dee-at-halle-backstage?utm_medium=organic&utm_source=microformat": {
 "address": "Reitknechtstrasse 6, 80639 Munich",
 "cost": "29.99 €",
@@ -25005,6 +26683,15 @@
 "lng": 11.60865,
 "ts": 1793548595,
 "venue": "Zenith, die Kulturhalle"
+},
+"https://www.songkick.com/concerts/43012925-sarah-brightman-at-olympiahalle-munchen?utm_medium=organic&utm_source=microformat": {
+"address": "Spiridon-Louis-Ring 21, 80809 Munich",
+"cost": "82.80 – 503.50 €",
+"lat": 48.17504,
+"lng": 11.55619,
+"pagetitle": "Sarah Brightman at Olympiahalle München (01 Dec 2026)",
+"ts": 1795671328,
+"venue": "Olympiahalle München"
 },
 "https://www.songkick.com/concerts/43015649-chapo102-at-tonhalle-munchen?utm_medium=organic&utm_source=microformat": {
 "address": "Atelierstraße 24, 81671 Munich",
@@ -25400,6 +27087,15 @@
 "ts": 1794287695,
 "venue": "Halle, Backstage"
 },
+"https://www.songkick.com/concerts/43128216-kid-kapichi-at-strom?utm_medium=organic&utm_source=microformat": {
+"address": "Lindwurmstraße 88, 80337 Munich",
+"cost": "29.45 €",
+"lat": 48.12496,
+"lng": 11.54866,
+"pagetitle": "Kid Kapichi at Strom (01 Dec 2026)",
+"ts": 1795671328,
+"venue": "Strom"
+},
 "https://www.songkick.com/concerts/43149610-bleachers-at-tonhalle-kultfabrik?utm_medium=organic&utm_source=microformat": {
 "address": "Grafinger Strasse 6, 81671 Munich",
 "cost": "66.74 €",
@@ -25601,6 +27297,15 @@
 "ts": 1795584604,
 "venue": "Isarphilharmonie im Gasteig HP8"
 },
+"https://www.songkick.com/concerts/43201776-zeck-at-ampere-muffatwerk?utm_medium=organic&utm_source=microformat": {
+"address": "Zellstr. 4, 81667 Munich",
+"cost": "31.90 €",
+"lat": 48.13279,
+"lng": 11.58904,
+"pagetitle": "Zeck at Ampere / Muffatwerk (01 Dec 2026)",
+"ts": 1795671328,
+"venue": "Ampere / Muffatwerk"
+},
 "https://www.songkick.com/concerts/43202202-santiago-cruz-at-technikum?utm_medium=organic&utm_source=microformat": {
 "address": "Speicherstraße 26, 81671 Munich",
 "cost": "49.90 – 51.40 €",
@@ -25618,6 +27323,15 @@
 "pagetitle": "Santiago Cruz at Zz_technikum (11 Nov 2026)",
 "ts": 1794114753,
 "venue": "Zz_technikum"
+},
+"https://www.songkick.com/concerts/43204976-tarmo-peltokoski-at-herkulessaal-der-residenz?utm_medium=organic&utm_source=microformat": {
+"address": "80539 Munich",
+"cost": null,
+"lat": 48.1447,
+"lng": 11.58216,
+"pagetitle": "Tarmo Peltokoski, Martin Helmchen, and Hong Kong Philharmonic Orchestra at Herkulessaal Der Residenz (30 Nov 2026)",
+"ts": 1795671328,
+"venue": "Herkulessaal Der Residenz"
 },
 "https://www.songkick.com/concerts/43205095-little-barrie-at-rote-sonne?utm_medium=organic&utm_source=microformat": {
 "address": "Maximiliansplatz 5, 80333 Munich",
@@ -25989,6 +27703,15 @@
 "lng": 11.60661,
 "ts": 1793548596,
 "venue": "Technikum (im Werksviertel Mitte)"
+},
+"https://www.songkick.com/concerts/43274793-belle-and-sebastian-at-muffathalle?utm_medium=organic&utm_source=microformat": {
+"address": "Zellstr. 4, 81667 Munich",
+"cost": "57.50 €",
+"lat": 48.13321,
+"lng": 11.58971,
+"pagetitle": "Belle and Sebastian at Muffathalle (01 Dec 2026)",
+"ts": 1795671328,
+"venue": "Muffathalle"
 },
 "https://www.songkick.com/concerts/43276026-lang-lang-at-isarphilharmonie-im-gasteig-hp8?utm_medium=organic&utm_source=microformat": {
 "address": "Hans-Preißinger-Strasse 8, 81379 Munich",
@@ -26367,6 +28090,15 @@
 "ts": 1794287695,
 "venue": "Allianz Arena"
 },
+"https://www.songkick.com/concerts/43423517-mothers-finest-at-muffathalle?utm_medium=organic&utm_source=microformat": {
+"address": "Zellstr. 4, 81667 Munich",
+"cost": "56.30 – 59.30 €",
+"lat": 48.13321,
+"lng": 11.58971,
+"pagetitle": "Mother's Finest at Muffathalle (30 Nov 2026)",
+"ts": 1795671328,
+"venue": "Muffathalle"
+},
 "https://www.songkick.com/concerts/43428269-shelter-boy-at-milla-club?utm_medium=organic&utm_source=microformat": {
 "address": "Holzstrasse 28, 80469 Munich",
 "cost": null,
@@ -26383,6 +28115,15 @@
 "pagetitle": "Lisa Harres at Zirka Space - Centre for Interdisciplinary Spatial and Cultural Work (25 Nov 2026)",
 "ts": 1795238220,
 "venue": "Zirka Space - Centre for Interdisciplinary Spatial and Cultural Work"
+},
+"https://www.songkick.com/concerts/43442294-moe-ger-at-kranhalle-feierwerk?utm_medium=organic&utm_source=microformat": {
+"address": "Hansastr. 39, 81373 Munich",
+"cost": "37.40 €",
+"lat": 48.12875,
+"lng": 11.53441,
+"pagetitle": "moé (GER) at Kranhalle, Feierwerk (30 Nov 2026)",
+"ts": 1795671328,
+"venue": "Kranhalle, Feierwerk"
 },
 "https://www.songkick.com/concerts/43444206-filow-at-werk-backstage?utm_medium=organic&utm_source=microformat": {
 "address": "Reitknechtstrasse 6, 80639 Munich",
@@ -27193,6 +28934,15 @@
 "ts": 1793548403,
 "venue": "Campus Garching / Online"
 },
+"https://www.tum.de/aktuelles/veranstaltungen/details/alumni-homecoming-50-60-und-70-jahre-abschlussjubilaeum": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "Alumni Homecoming - 50, 60, 70 Jahre Abschlussjubiläum",
+"ts": 1795671322,
+"venue": "Hofbräukeller, München"
+},
 "https://www.tum.de/aktuelles/veranstaltungen/details/anmeldefrist-euroteq-bip-collider-eindhoven": {
 "address": null,
 "cost": null,
@@ -27505,6 +29255,15 @@
 "lng": null,
 "ts": 1793548396,
 "venue": "Akademie der Bildenden Künste München"
+},
+"https://www.tum.de/aktuelles/veranstaltungen/details/tum-adventskonzerte-2026": {
+"address": null,
+"cost": null,
+"lat": null,
+"lng": null,
+"pagetitle": "TUM Adventskonzerte",
+"ts": 1795671322,
+"venue": "Isarphilharmonie HP8, München"
 },
 "https://www.tum.de/aktuelles/veranstaltungen/details/tum-goes-volkstheater-echtzeitalter": {
 "address": "Tumblingerstraße 29, 80337 München",
@@ -27960,6 +29719,15 @@
 "ts": 1795584604,
 "venue": null
 },
+"https://www.unterfahrt.de/programm-detail.php?dateID=11715": {
+"address": null,
+"cost": "30 €",
+"lat": null,
+"lng": null,
+"pagetitle": "Unterfahrt Mia Knop Jacobsen Programminfo",
+"ts": 1795671328,
+"venue": null
+},
 "https://www.unterfahrt.de/programm-detail.php?dateID=14382": {
 "address": null,
 "cost": "36 €",
@@ -28047,12 +29815,12 @@
 "venue": null
 },
 "https://www.unternehmertum.de/events/industrial-edge-workshops-for-startups-and-smes-2/": {
-"address": null,
+"address": "Freddie-Mercury-Straße 5, 80797 München",
 "cost": null,
 "lat": null,
 "lng": null,
 "pagetitle": "Industrial Edge Workshop for Startups and SMEs",
-"ts": 1794460953,
+"ts": 1795671318,
 "venue": "MakerSpace"
 },
 "https://www.unternehmertum.de/events/inspiration-talk-olympia": {
@@ -28069,7 +29837,7 @@
 "lat": null,
 "lng": null,
 "pagetitle": "Opportunity Hunters Talks",
-"ts": 1794460953,
+"ts": 1795671318,
 "venue": null
 },
 "https://www.unternehmertum.de/events/opportunity-hunters-talks-4": {

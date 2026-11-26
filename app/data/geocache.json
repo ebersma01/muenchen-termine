@@ -189,21 +189,86 @@
 "lat": 48.14246,
 "lng": 11.5752
 },
+"ampere (verlegt aus dem technikum) —do 15.04., münchen": null,
 "ampere (verlegt aus dem technikum), münchen": null,
+"ampere —di 01.12., münchen": null,
+"ampere —di 02.02., münchen": null,
+"ampere —di 04.05., münchen": null,
+"ampere —di 09.03., münchen": null,
+"ampere —di 11.05., münchen": null,
 "ampere —di 13.04. 19:30, münchen": null,
+"ampere —di 13.04., münchen": null,
+"ampere —di 15.12., münchen": null,
+"ampere —di 16.02., münchen": null,
+"ampere —di 20.04., münchen": null,
+"ampere —di 23.02., münchen": null,
+"ampere —di 30.03., münchen": null,
+"ampere —do 01.04., münchen": null,
+"ampere —do 04.02., münchen": null,
+"ampere —do 04.03., münchen": null,
+"ampere —do 08.04., münchen": null,
+"ampere —do 11.02., münchen": null,
+"ampere —do 21.01., münchen": null,
+"ampere —do 25.02., münchen": null,
+"ampere —do 28.01., münchen": null,
+"ampere —fr 02.04., münchen": null,
+"ampere —fr 05.02., münchen": null,
+"ampere —fr 09.04., münchen": null,
 "ampere —fr 11.12. 21:30, münchen": null,
+"ampere —fr 11.12., münchen": null,
+"ampere —fr 12.02., münchen": null,
 "ampere —fr 16.04. 19:30, münchen": null,
+"ampere —fr 16.04., münchen": null,
 "ampere —fr 19.02. 19:30, münchen": null,
+"ampere —fr 19.02., münchen": null,
 "ampere —fr 20.11. 19:30, münchen": null,
+"ampere —fr 26.02., münchen": null,
 "ampere —mi 02.12., münchen": null,
+"ampere —mi 03.03., münchen": null,
+"ampere —mi 05.05., münchen": null,
+"ampere —mi 07.04., münchen": null,
+"ampere —mi 14.04., münchen": null,
+"ampere —mi 17.02., münchen": null,
+"ampere —mi 24.02., münchen": null,
+"ampere —mi 24.03., münchen": null,
+"ampere —mo 03.05., münchen": null,
+"ampere —mo 07.12., münchen": null,
+"ampere —mo 14.12., münchen": null,
+"ampere —mo 18.01., münchen": null,
+"ampere —mo 22.02., münchen": null,
+"ampere —mo 24.05., münchen": null,
+"ampere —mo 25.01., münchen": null,
+"ampere —mo 26.04., münchen": null,
+"ampere —mo 30.11., münchen": null,
+"ampere —sa 01.05., münchen": null,
 "ampere —sa 13.02. 19:30, münchen": null,
+"ampere —sa 13.02., münchen": null,
+"ampere —sa 17.04., münchen": null,
 "ampere —sa 19.12. 19:30, münchen": null,
+"ampere —sa 19.12., münchen": null,
+"ampere —sa 20.03., münchen": null,
 "ampere —sa 21.11. 19:30, münchen": null,
+"ampere —sa 23.01., münchen": null,
 "ampere —sa 27.02. 19:30, münchen": null,
+"ampere —sa 27.02., münchen": null,
 "ampere —sa 27.11. 19:30, münchen": null,
+"ampere —sa 27.11., münchen": null,
 "ampere —sa 30.01. 19:30, münchen": null,
+"ampere —sa 30.01., münchen": null,
+"ampere —so 02.05., münchen": null,
+"ampere —so 06.12., münchen": null,
+"ampere —so 07.03., münchen": null,
+"ampere —so 09.05., münchen": null,
 "ampere —so 11.04. 19:30, münchen": null,
+"ampere —so 11.04., münchen": null,
+"ampere —so 13.12., münchen": null,
 "ampere —so 14.02. 20, münchen": null,
+"ampere —so 14.02., münchen": null,
+"ampere —so 14.03., münchen": null,
+"ampere —so 18.04., münchen": null,
+"ampere —so 20.12., münchen": null,
+"ampere —so 21.03., münchen": null,
+"ampere —so 29.11., münchen": null,
 "ampere, münchen": {
 "address": "Ampere im Muffatwerk, 4, Zellstraße, Haidhausen-Süd, Au, Au-Haidhausen, München, Bayern, 81667, Deutschland",
 "lat": 48.13289,
@@ -370,6 +435,7 @@
 "lng": 11.56807
 },
 "bambi bar, münchen": null,
+"bambule! bar, münchen": null,
 "bar 360 cocktail lounge clup, münchen": null,
 "bar gabriele, münchen": {
 "address": "Bar Gabriele, 7, Hirschbergstraße, Postversuchssiedlung, Nymphenburg, Neuhausen-Nymphenburg, München, Bayern, 80634, Deutschland",
@@ -528,6 +594,12 @@
 "lng": 11.66804
 },
 "bothestr. 11, münchen, al, münchen": null,
+"boulderwelt münchen west": {
+"address": "Boulderwelt München West, 19, Bertha-Kipfmüller-Straße, Freiham, Aubing-Lochhausen-Langwied, München, Bayern, 81249, Deutschland",
+"lat": 48.13652,
+"lng": 11.42041
+},
+"boxwerk, münchen": null,
 "brainlab ag, münchen": null,
 "brasserie »oskarmaria«, münchen": {
 "address": "Brasserie OskarMaria, 1, Salvatorplatz, Kreuzviertel, Altstadt-Lehel, München, Bayern, 80333, Deutschland",
@@ -602,6 +674,11 @@
 "lat": 48.15831,
 "lng": 11.58527
 },
+"café gans am wasser, münchen": {
+"address": "Café Gans am Wasser, Siegenburger Straße, Hansapark, Sendling-Westpark, München, Bayern, 81373, Deutschland",
+"lat": 48.12493,
+"lng": 11.53052
+},
 "café geqo, münchen": {
 "address": "Café GeQo, 6, Maria-Nindl-Platz, Prinz-Eugen-Park, Priel, Oberföhring, Bogenhausen, München, Bayern, 81927, Deutschland",
 "lat": 48.1629,
@@ -657,6 +734,7 @@
 "lat": 48.15255,
 "lng": 11.5921
 },
+"chirpfood, münchen": null,
 "cinema filmtheater, münchen": {
 "address": "CINEMA Filmtheater, 31, Nymphenburger Straße, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80335, Deutschland",
 "lat": 48.14827,
@@ -667,6 +745,7 @@
 "lat": 48.14509,
 "lng": 11.55007
 },
+"circus krone —fr 07.05., münchen": null,
 "circus krone, münchen": {
 "address": "Circus Krone, Marsfeld, Maxvorstadt, München, Bayern, Deutschland",
 "lat": 48.14509,
@@ -853,6 +932,7 @@
 "lat": 48.13793,
 "lng": 11.55293
 },
+"einewelthaus u9 weltraum, münchen": null,
 "einfach geniessen - das studio, münchen": null,
 "einstein kultur, münchen": {
 "address": "Einstein Kultur, 42, Einsteinstraße, Haidhausen-Nord, Haidhausen, Au-Haidhausen, München, Bayern, 81675, Deutschland",
@@ -928,6 +1008,7 @@
 "evang.-luth. passionskirche münchen": null,
 "evangelische st. markus kirche, gabelsbergerstraße 6, 80333 münchen": null,
 "evangelische universitätskirche st. markus gabelsbergerstr. 6, 80333 münchen": null,
+"evangelische universitätskirche st. markus gabelsbergerstraße 6, 80333 münchen": null,
 "event center messe münchen lilienthalallee 40, 80939 münchen": null,
 "exklusive eventlocation - schlosspalais no. 1, südliches schloßrondell, münchen, deutschland": null,
 "face & body urban spa, münchen": null,
@@ -1241,6 +1322,11 @@
 "lat": 48.16234,
 "lng": 11.59054
 },
+"halle 6, münchen": {
+"address": "Halle 6, 112d, Dachauer Straße, Kasernenviertel, Ebenau, Neuhausen-Nymphenburg, München, Bayern, 80636, Deutschland",
+"lat": 48.1588,
+"lng": 11.54974
+},
 "halle e, münchen": {
 "address": "Halle E, Schäftlarnstraße, Sendlinger Feld, Sendling, München, Bayern, 81371, Deutschland",
 "lat": 48.11175,
@@ -1267,6 +1353,7 @@
 "lng": 11.55402
 },
 "hans-preißinger-straße 8, 81379 münchen, germany, gasteig hp8 +49 89 480980 https://goo.gl/maps/j2ogrgz2wbrnfd9e6, münchen, münchen": null,
+"hansa 39 (verlegt aus der muffathalle) —so 07.03., münchen": null,
 "hansa 39 (verlegt aus der muffathalle), münchen": null,
 "hansa 39, münchen": {
 "address": "Fachstelle Pop, 39, Hansastraße, Hansapark, Sendling-Westpark, München, Bayern, 81373, Deutschland",
@@ -1490,6 +1577,8 @@
 "lat": 48.1739,
 "lng": 11.62273
 },
+"isarphilharmonie —mo 05.04., münchen": null,
+"isarphilharmonie —so 14.02., münchen": null,
 "isarphilharmonie, münchen": {
 "address": "Isarphilharmonie, 8, Hans-Preißinger-Straße, Sendlinger Feld, Sendling, München, Bayern, 81379, Deutschland",
 "lat": 48.11144,
@@ -1655,6 +1744,7 @@
 "lat": 48.12508,
 "lng": 11.56563
 },
+"kranhalle —mi 03.03., münchen": null,
 "kranhalle, münchen": {
 "address": "Kranhalle, Hansastraße, Hansapark, Sendling-Westpark, München, Bayern, 81373, Deutschland",
 "lat": 48.12948,
@@ -1672,6 +1762,11 @@
 "lng": 11.513
 },
 "kuckuck kinderbuchladen, münchen": null,
+"kult 9, münchen": {
+"address": "Rad.Kult.Tour, 39, Landshuter Allee, St. Vinzenz-Viertel, Neuhausen-Nymphenburg, München, Bayern, 80637, Deutschland",
+"lat": 48.15109,
+"lng": 11.53647
+},
 "kult9, münchen": null,
 "kultur im schlachthof, münchen": null,
 "kultur im trafo, münchen": {
@@ -1714,6 +1809,11 @@
 "address": "Kulturzentrum Giesinger Bahnhof, 1, Giesinger Bahnhofplatz, Obergiesing, Obergiesing-Fasangarten, München, Bayern, 81539, Deutschland",
 "lat": 48.11033,
 "lng": 11.59623
+},
+"kulturzentrum gorod, münchen": {
+"address": "Kulturzentrum GOROD, 197, Arnulfstraße, Siedlung Neuhausen, Nymphenburg, Neuhausen-Nymphenburg, München, Bayern, 80634, Deutschland",
+"lat": 48.1491,
+"lng": 11.52321
 },
 "kulturzentrum luise, münchen": {
 "address": "Kulturzentrum LUISE, 5, Ruppertstraße, Am Schlachthof, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80337, Deutschland",
@@ -1805,6 +1905,11 @@
 "address": "44, Landwehrstraße, Klinikviertel, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80336, Deutschland",
 "lat": 48.13647,
 "lng": 11.55816
+},
+"landwehrstraße 75, 80336 münchen": {
+"address": "Schwan Locke, 75, Landwehrstraße, Klinikviertel, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80336, Deutschland",
+"lat": 48.13629,
+"lng": 11.55486
 },
 "langwied, münchen": {
 "address": "Langwied, Aubing-Lochhausen-Langwied, München, Bayern, 82237, Deutschland",
@@ -1997,6 +2102,11 @@
 "lat": 48.15137,
 "lng": 11.57845
 },
+"lyrik-bibliothek amalienstraße 83a, 80799 münchen": {
+"address": "Stiftung Lyrik Kabinett, 83a, Amalienstraße, Schönfeldvorstadt, Maxvorstadt, München, Bayern, 80799, Deutschland",
+"lat": 48.15137,
+"lng": 11.57845
+},
 "löwenbräukeller, münchen": {
 "address": "Löwenbräukeller, 2, Nymphenburger Straße, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80335, Deutschland",
 "lat": 48.14811,
@@ -2112,6 +2222,7 @@
 "lat": 48.12893,
 "lng": 11.56794
 },
+"milla —so 11.04., münchen": null,
 "milla, münchen": {
 "address": "Milla Club, 28, Holzstraße, Am Alten Südlichen Friedhof, Glockenbach, Isarvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80469, Deutschland",
 "lat": 48.12893,
@@ -2185,18 +2296,80 @@
 "lat": 48.12982,
 "lng": 11.57043
 },
+"muffatcafé —fr 07.05., münchen": null,
+"muffatcafé —sa 28.11., münchen": null,
 "muffatcafé, münchen": {
 "address": "Muffatcafe, 4, Zellstraße, Haidhausen-Süd, Au, Au-Haidhausen, München, Bayern, 81667, Deutschland",
 "lat": 48.1332,
 "lng": 11.58973
 },
+"muffathalle (verlegt aus dem ampere) —mi 21.04., münchen": null,
 "muffathalle (verlegt aus dem ampere), münchen": null,
 "muffathalle (verlegt aus dem werk 7), münchen": null,
+"muffathalle (verlegt aus der tonhalle) —mi 28.04., münchen": null,
+"muffathalle (verlegt aus der tonhalle) —mo 19.04., münchen": null,
 "muffathalle (verlegt aus der tonhalle), münchen": null,
 "muffathalle —12.01.27 & 13.01.27, münchen": null,
 "muffathalle —26.01.27 & 27.01.27, münchen": null,
+"muffathalle —di 01.12., münchen": null,
+"muffathalle —di 02.03., münchen": null,
+"muffathalle —di 08.12., münchen": null,
+"muffathalle —di 20.04., münchen": null,
+"muffathalle —di 27.04., münchen": null,
+"muffathalle —do 04.03., münchen": null,
+"muffathalle —do 06.05., münchen": null,
+"muffathalle —do 08.04., münchen": null,
+"muffathalle —do 11.03., münchen": null,
+"muffathalle —do 14.01., münchen": null,
+"muffathalle —do 18.02., münchen": null,
+"muffathalle —do 20.01., münchen": null,
+"muffathalle —do 20.05., münchen": null,
+"muffathalle —do 22.04., münchen": null,
+"muffathalle —do 29.04., münchen": null,
+"muffathalle —fr 05.02., münchen": null,
+"muffathalle —fr 05.03., münchen": null,
+"muffathalle —fr 07.05., münchen": null,
+"muffathalle —fr 09.04., münchen": null,
+"muffathalle —fr 12.02., münchen": null,
+"muffathalle —fr 12.03., münchen": null,
+"muffathalle —fr 14.05., münchen": null,
+"muffathalle —fr 15.01., münchen": null,
+"muffathalle —fr 16.04., münchen": null,
+"muffathalle —fr 19.03., münchen": null,
+"muffathalle —fr 21.01., münchen": null,
+"muffathalle —fr 26.02., münchen": null,
+"muffathalle —fr 29.01., münchen": null,
+"muffathalle —mi 02.12., münchen": null,
+"muffathalle —mi 03.03., münchen": null,
+"muffathalle —mi 14.04., münchen": null,
+"muffathalle —mi 20.01., münchen": null,
+"muffathalle —mo 01.03., münchen": null,
+"muffathalle —mo 03.05., münchen": null,
+"muffathalle —mo 07.12., münchen": null,
+"muffathalle —mo 08.03., münchen": null,
+"muffathalle —mo 14.12., münchen": null,
+"muffathalle —mo 15.02., münchen": null,
+"muffathalle —mo 17.05., münchen": null,
+"muffathalle —mo 26.04., münchen": null,
+"muffathalle —mo 30.11., münchen": null,
+"muffathalle —sa 01.05., münchen": null,
+"muffathalle —sa 13.02., münchen": null,
+"muffathalle —sa 13.03., münchen": null,
 "muffathalle —sa 15.05. 19:30, münchen": null,
+"muffathalle —sa 15.05., münchen": null,
+"muffathalle —sa 19.12., münchen": null,
 "muffathalle —sa 20.03. 19:45, münchen": null,
+"muffathalle —sa 20.03., münchen": null,
+"muffathalle —sa 23.01., münchen": null,
+"muffathalle —sa 30.01., münchen": null,
+"muffathalle —so 06.12., münchen": null,
+"muffathalle —so 07.03., münchen": null,
+"muffathalle —so 11.04., münchen": null,
+"muffathalle —so 13.12., münchen": null,
+"muffathalle —so 14.03., münchen": null,
+"muffathalle —so 20.12., münchen": null,
+"muffathalle —so 28.02., münchen": null,
+"muffathalle —so 28.11., münchen": null,
 "muffathalle, münchen": {
 "address": "Muffathalle, 4, Zellstraße, Haidhausen-Süd, Au, Au-Haidhausen, München, Bayern, 81667, Deutschland",
 "lat": 48.13305,
@@ -2536,6 +2709,11 @@
 "address": "St. Vinzenz-Haus, 5, Nußbaumstraße, Am Alten Südlichen Friedhof, Klinikviertel, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80336, Deutschland",
 "lat": 48.13202,
 "lng": 11.56043
+},
+"ny. club, münchen": {
+"address": "NY.Club, 3, Elisenstraße, Maxvorstadt, München, Bayern, 80335, Deutschland",
+"lat": 48.14143,
+"lng": 11.56276
 },
 "nymphenburger straße 171 b, 80634 münchen": {
 "address": "Münchner Stadtbibliothek Neuhausen, 171b, Nymphenburger Straße, Gern, Neuhausen-Nymphenburg, München, Bayern, 80634, Deutschland",
@@ -3066,6 +3244,11 @@
 "lng": 11.55195
 },
 "schwere reiter – tanz theater musik, münchen": null,
+"schwindstraße 5, 80798 münchen": {
+"address": "5, Schwindstraße, Maßmannbergl, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80798, Deutschland",
+"lat": 48.15231,
+"lng": 11.5626
+},
 "seestraße 13, 80802 münchen": {
 "address": "Center for Advanced Studies LMU, 13, Seestraße, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80802, Deutschland",
 "lat": 48.15879,
@@ -3246,8 +3429,13 @@
 "lat": 48.15393,
 "lng": 11.55772
 },
+"strom (verlegt vom ampere) —fr 19.03., münchen": null,
 "strom (verlegt vom ampere), münchen": null,
 "strom —fr 12.03. 19:45, münchen": null,
+"strom —fr 12.03., münchen": null,
+"strom —mo 24.05., münchen": null,
+"strom —so 09.05., münchen": null,
+"strom —so 25.04., münchen": null,
 "strom, münchen": {
 "address": "STROM, 88, Lindwurmstraße, Am Schlachthof, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80337, Deutschland",
 "lat": 48.12492,
@@ -3338,12 +3526,21 @@
 "lat": 48.1351,
 "lng": 11.68955
 },
+"technikum (verlegt aus dem strom) —fr 15.01., münchen": null,
 "technikum (verlegt aus dem strom), münchen": null,
+"technikum —di 15.12., münchen": null,
+"technikum —do 15.04., münchen": null,
+"technikum —do 26.11., münchen": null,
+"technikum —mi 17.03., münchen": null,
+"technikum —so 07.03., münchen": null,
+"technikum —so 19.12., münchen": null,
+"technikum —so 25.04., münchen": null,
 "technikum, münchen": {
 "address": "Technikum, 26, Speicherstraße, Werksviertel München, Berg am Laim, München, Bayern, 81671, Deutschland",
 "lat": 48.12351,
 "lng": 11.60661
 },
+"tegernseer landstraße 96, 81539 münchen, germany, münchen, by, münchen": null,
 "terra bar, münchen": {
 "address": "Terra, 1, Baaderstraße, Gärtnerplatz, Altstadt-Lehel, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80469, Deutschland",
 "lat": 48.1334,
@@ -3435,13 +3632,18 @@
 },
 "tollwood winterfestival münchen": null,
 "tonhalle (verlegt aus dem backstage werk) —fr 27.11. 19:30, münchen": null,
+"tonhalle (verlegt aus dem backstage werk) —fr 27.11., münchen": null,
 "tonhalle (verlegt aus dem backstage werk), münchen": null,
 "tonhalle münchen": {
 "address": "TonHalle, 24, Atelierstraße, Werksviertel München, Berg am Laim, München, Bayern, 81671, Deutschland",
 "lat": 48.12391,
 "lng": 11.60691
 },
+"tonhalle —di 06.04., münchen": null,
+"tonhalle —do 22.04., münchen": null,
+"tonhalle —mi 31.03., münchen": null,
 "tonhalle —sa 24.04. 19:30, münchen": null,
+"tonhalle —sa 24.04., münchen": null,
 "tonhalle, münchen": {
 "address": "TonHalle, 24, Atelierstraße, Werksviertel München, Berg am Laim, München, Bayern, 81671, Deutschland",
 "lat": 48.12391,
@@ -3478,6 +3680,11 @@
 "lng": 11.55575
 },
 "tutu kitchen - die kleinste bühne münchens, münchen": null,
+"tutzing": {
+"address": "Tutzing, Landkreis Starnberg, Bayern, 82327, Deutschland",
+"lat": 47.90864,
+"lng": 11.27982
+},
 "tölzer str. 1, munich, munich": {
 "address": "1, Tölzer Straße, Thalkirchen, Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln, München, Bayern, 81379, Deutschland",
 "lat": 48.10277,
@@ -3685,8 +3892,12 @@
 "lat": 48.12302,
 "lng": 11.55935
 },
+"zenith (verlegt aus der olympiahalle) —do 13.05., münchen": null,
 "zenith (verlegt aus der olympiahalle), münchen": null,
+"zenith —fr 02.04., münchen": null,
 "zenith —fr 19.03. 19:30, münchen": null,
+"zenith —fr 19.03., münchen": null,
+"zenith —so 07.02., münchen": null,
 "zenith, münchen": {
 "address": "Zenith Kulturhalle, 29, Lilienthalallee, Alt-Freimann, Freimann, Schwabing-Freimann, München, Bayern, 80939, Deutschland",
 "lat": 48.19469,
