@@ -38,6 +38,11 @@
 "lat": 48.1452,
 "lng": 11.56873
 },
+"81735 münchen": {
+"address": "81735, Ramersdorf-Perlach, München, Bayern, Deutschland",
+"lat": 48.10992,
+"lng": 11.64062
+},
 "aahhh, münchen": null,
 "aberlestraße 9, 81371 münchen": {
 "address": "9, Aberlestraße, Sendlinger Berg, Untersendling, Sendling, München, Bayern, 81371, Deutschland",
@@ -150,6 +155,11 @@
 "address": "Altstadt-Lehel, München, Bayern, Deutschland",
 "lat": 48.13783,
 "lng": 11.57458
+},
+"am bavariapark 5, 80339 münchen": {
+"address": "Deutsches Museum Verkehrszentrum, 5, Am Bavariapark, Theresienhöhe, Schwanthalerhöhe, München, Bayern, 80339, Deutschland",
+"lat": 48.13275,
+"lng": 11.54207
 },
 "am bergson kunstkraftwerk 2, 81245 münchen": {
 "address": "Bergson Kunstkraftwerk, 2, Am Bergson Kunstkraftwerk, Aubing, Aubing-Lochhausen-Langwied, München, Bayern, 81245, Deutschland",
@@ -593,6 +603,7 @@
 "lat": 48.26255,
 "lng": 11.66804
 },
+"botanista café club, münchen": null,
 "bothestr. 11, münchen, al, münchen": null,
 "boulderwelt münchen west": {
 "address": "Boulderwelt München West, 19, Bertha-Kipfmüller-Straße, Freiham, Aubing-Lochhausen-Langwied, München, Bayern, 81249, Deutschland",
@@ -669,6 +680,11 @@
 "lng": 11.75478
 },
 "cafe wildwuchs im werkhaus, münchen": null,
+"café berta, münchen": {
+"address": "Café Berta, 11, Haimhauserstraße, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80802, Deutschland",
+"lat": 48.16244,
+"lng": 11.58941
+},
 "café bou, münchen": {
 "address": "BOU, 52a, Leopoldstraße, Alt-Schwabing, Schwabing, Schwabing-Freimann, München, Bayern, 80802, Deutschland",
 "lat": 48.15831,
@@ -889,6 +905,7 @@
 "lng": 11.62444
 },
 "die nachtkantine, münchen": null,
+"die pförtner*in, münchen": null,
 "die weinleserin - weinhandlung & events, münchen": null,
 "dienerstraße 12, 80331 münchen": {
 "address": "MVZ Med 360 Grad, 12, Dienerstraße, Graggenauerviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
@@ -934,6 +951,7 @@
 },
 "einewelthaus u9 weltraum, münchen": null,
 "einfach geniessen - das studio, münchen": null,
+"einfach genießen - weinseminare, münchen": null,
 "einstein kultur, münchen": {
 "address": "Einstein Kultur, 42, Einsteinstraße, Haidhausen-Nord, Haidhausen, Au-Haidhausen, München, Bayern, 81675, Deutschland",
 "lat": 48.13545,
@@ -1225,6 +1243,11 @@
 "lng": 11.57144
 },
 "geschlossene schulvorstellung, münchen": null,
+"geschwister-scholl-platz, münchen": {
+"address": "Geschwister-Scholl-Platz, Schönfeldvorstadt, Maxvorstadt, München, Bayern, 80539, Deutschland",
+"lat": 48.1508,
+"lng": 11.58062
+},
 "gewerkschaftshaus, münchen": null,
 "giesinger bahnhof, münchen": {
 "address": "Giesing, Giesinger Bahnhofplatz, Obergiesing, Obergiesing-Fasangarten, München, Bayern, 81539, Deutschland",
@@ -1517,11 +1540,13 @@
 "ibz internationales begegnungszentrum amalienstraße 38, 80539 münchen": null,
 "icm – international congress center messe münchen": null,
 "ihk für münchen und oberbayern": null,
+"im dazwischen, münchen": null,
 "im haus, münchen": {
 "address": "Caritas Don Bosco Schulen im Salesianum Haus 10, 19, Auerfeldstraße, Haidhausen-Süd, Au, Au-Haidhausen, München, Bayern, 81541, Deutschland",
 "lat": 48.12433,
 "lng": 11.59511
 },
+"im innenhof, pfisterstraße 9+11, 80331 münchen, germany, münchen, by, münchen": null,
 "impact hub munich": {
 "address": "Impact Hub, 8, Gotzinger Straße, Sendlinger Feld, Sendling, München, Bayern, 81371, Deutschland",
 "lat": 48.12118,
@@ -1843,6 +1868,7 @@
 "lng": 11.55859
 },
 "kunstpavillon im alten botanischen garten, münchen": null,
+"kymata modern, münchen": null,
 "kölner platz 1, 80804 münchen": {
 "address": "München Klinik Schwabing, 1, Kölner Platz, Schwabing-West, Schwabing, München, Bayern, 80804, Deutschland",
 "lat": 48.17195,
@@ -2048,6 +2074,11 @@
 "lat": 48.15428,
 "lng": 11.5567
 },
+"lothstraße 21, munich, munich": {
+"address": "W, 21, Lothstraße, Schwabing-West, St. Benno-Viertel, München, Bayern, 80797, Deutschland",
+"lat": 48.15638,
+"lng": 11.55666
+},
 "lothstraße 64, 80335 münchen": {
 "address": "Gebäude R, 64, Lothstraße, Maßmannbergl, St. Benno-Viertel, Maxvorstadt, München, Bayern, 80335, Deutschland",
 "lat": 48.15428,
@@ -2118,6 +2149,11 @@
 "address": "Mahatma-Gandhi-Platz, Freiham-Nord, Freiham, Aubing-Lochhausen-Langwied, München, Bayern, 81248, Deutschland",
 "lat": 48.14119,
 "lng": 11.40894
+},
+"margarethe-danzi-straße 25, 80639 münchen": {
+"address": "Kymata, 25, Margarethe-Danzi-Straße, Nymphenburg Süd, Nymphenburg, Neuhausen-Nymphenburg, München, Bayern, 80639, Deutschland",
+"lat": 48.14687,
+"lng": 11.49727
 },
 "marienplatz 22, 80331 münchen": {
 "address": "22, Marienplatz, Kreuzviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
@@ -2278,6 +2314,11 @@
 "lat": 48.18148,
 "lng": 11.51712
 },
+"motorworld münchen": {
+"address": "Motorworld München, 8, Am Ausbesserungswerk, Neufreimann, Freimann, Schwabing-Freimann, München, Bayern, 80939, Deutschland",
+"lat": 48.19647,
+"lng": 11.60681
+},
 "movimento, münchen": {
 "address": "Movimento, Medien-Passage, Hackenviertel, Altstadt-Lehel, München, Bayern, 80331, Deutschland",
 "lat": 48.13822,
@@ -2364,6 +2405,7 @@
 "muffathalle —sa 30.01., münchen": null,
 "muffathalle —so 06.12., münchen": null,
 "muffathalle —so 07.03., münchen": null,
+"muffathalle —so 09.05., münchen": null,
 "muffathalle —so 11.04., münchen": null,
 "muffathalle —so 13.12., münchen": null,
 "muffathalle —so 14.03., münchen": null,
@@ -2905,6 +2947,11 @@
 "lat": 48.13114,
 "lng": 11.56719
 },
+"pestalozzistraße 20, 80469 münchen": {
+"address": "20, Pestalozzistraße, Am Alten Südlichen Friedhof, Glockenbach, Isarvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80469, Deutschland",
+"lat": 48.13058,
+"lng": 11.56712
+},
 "pfarrsaal sankt wolfgang, münchen": null,
 "pfarrzentrum johannes evangelist, münchen": null,
 "pinakothek der moderne, münchen": {
@@ -3100,6 +3147,11 @@
 "lat": 48.14218,
 "lng": 11.57014
 },
+"royal filmpalast, münchen": {
+"address": "Royal Filmpalast, 2, Goetheplatz, Am Alten Südlichen Friedhof, Klinikviertel, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80337, Deutschland",
+"lat": 48.13014,
+"lng": 11.55795
+},
 "ruby lilly hotel & bar, münchen": null,
 "ruby rosi hotel & bar, münchen": {
 "address": "Ruby Rosi, 21, Bayerstraße, Klinikviertel, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80335, Deutschland",
@@ -3112,6 +3164,7 @@
 "lat": 48.16434,
 "lng": 11.63086
 },
+"ryzon store, münchen": null,
 "saal & stream, münchen": null,
 "saal x im gasteig hp8, münchen": null,
 "saal x, münchen": {
@@ -3469,12 +3522,22 @@
 "lat": 48.1415,
 "lng": 11.44726
 },
+"städtisches stadion an der grünwalder straße, münchen": {
+"address": "Städtisches Stadion an der Grünwalder Straße, Candidtunnel, Untergiesing-Harlaching, Giesing, München, Bayern, 81539, Deutschland",
+"lat": 48.111,
+"lng": 11.57442
+},
 "städtisches thomas-mann-gymnasium münchen": null,
 "sub e.v. - schwul in münchen": null,
 "substanz, münchen": {
 "address": "Substanz, 28, Ruppertstraße, Am Schlachthof, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80337, Deutschland",
 "lat": 48.12474,
 "lng": 11.55067
+},
+"sudetendeutsches haus, münchen": {
+"address": "Sudetendeutsches Haus, 8, Hochstraße, Motorama Ladenstadt, Obere Au, Au, Au-Haidhausen, München, Bayern, 81669, Deutschland",
+"lat": 48.13063,
+"lng": 11.58908
 },
 "suedstadt, münchen": {
 "address": "Südstadt, 29, Thalkirchner Straße, Dreimühlen, Ludwigsvorstadt, Ludwigsvorstadt-Isarvorstadt, München, Bayern, 80337, Deutschland",
@@ -3641,6 +3704,7 @@
 },
 "tonhalle —di 06.04., münchen": null,
 "tonhalle —do 22.04., münchen": null,
+"tonhalle —mi 26.05., münchen": null,
 "tonhalle —mi 31.03., münchen": null,
 "tonhalle —sa 24.04. 19:30, münchen": null,
 "tonhalle —sa 24.04., münchen": null,
@@ -3761,6 +3825,7 @@
 },
 "vorhoelzer forum der tum, münchen": null,
 "vorplatz sankt michael, münchen": null,
+"wagniswest casino, münchen": null,
 "walmdachhaus münchen schwabing nord": null,
 "walter storms galerie, münchen": {
 "address": "Walter Storms Galerie S48, 48, Schellingstraße, Kunstareal, Maxvorstadt, München, Bayern, 80799, Deutschland",
@@ -3852,6 +3917,11 @@
 "lng": 11.58054
 },
 "www office, münchen": null,
+"wälsungenstraße 1, 80634 münchen": {
+"address": "1, Wälsungenstraße, Siedlung Neuhausen, Nymphenburg, Neuhausen-Nymphenburg, München, Bayern, 80634, Deutschland",
+"lat": 48.15023,
+"lng": 11.52246
+},
 "wörthstraße 22, 81667 münchen au-haidhausen": {
 "address": "22, Wörthstraße, Haidhausen-Süd, Haidhausen, Au-Haidhausen, München, Bayern, 81667, Deutschland",
 "lat": 48.13015,
